@@ -20,5 +20,11 @@ module.exports = () => {
     config.baseUrl = process.env.GITHUB_URL
   }
 
+  if (process.env.BASE_URL) {
+    config.baseUrl = process.env.BASE_URL
+  }
+
+  console.log(process.env)
+
   return config
 }
