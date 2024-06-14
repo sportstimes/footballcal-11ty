@@ -2,9 +2,6 @@ require('dotenv').config()
 
 const { EleventyHtmlBasePlugin } = require('@11ty/eleventy')
 
-const postcss = require('postcss')
-const postcssImport = require('postcss-import')
-
 const dateFormat = require('./src/_filters/date')
 const timeFormat = require('./src/_filters/time')
 const absoluteUrl = require('./src/_filters/absoluteUrl')
