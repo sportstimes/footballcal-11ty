@@ -4,7 +4,7 @@ layout: base.njk
 <h1>{{ title }}</h1>
 
 <p class="subscribe">
-    <a href="webcal://{{ page.fileSlug + '.ics' | url | absoluteUrl(config.baseUrl) }}">
+    <a href="webcal://{{ (page.fileSlug + '.ics') | url | absoluteUrl(config.baseUrl) }}">
         <span role="img">🗓</span>
         <span>Add {{ title }} to your calendar</span>
         <small>in iOS, MacOS and Office</small>
@@ -41,4 +41,4 @@ layout: base.njk
 </table>
 
 <h2>Want more?</h2>
-<p><a href="{{ "/" | url | absoluteUrl(config.baseUrl) }}">All games</a></p>
+<p><a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}">All games</a></p>

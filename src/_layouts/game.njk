@@ -13,7 +13,7 @@ layout: base.njk
     </div>
 
     <p class="subscribe">
-        <a href="webcal://{{ path.slice(0, -1) + '.ics' | url | absoluteUrl(config.baseUrl) }}">
+        <a href="webcal://{{ (path.slice(0, -1) + '.ics') | url | absoluteUrl(config.baseUrl) }}">
             <span role="img">🗓</span>
             <span>Add this game to your calendar</span>
             <small>in iOS, MacOS and Office</small>
@@ -42,8 +42,8 @@ layout: base.njk
     <h2>Want more?</h2>
     <ul class="inline">
         {% for tag in tags | validTags %}
-        <li><a href="{{ '/' + (tag | slugify | url | absoluteUrl(config.baseUrl)) + '/' }}">{{ tag }} games</a></li>
+        <li><a href="{{ (('/' + (tag | slugify) + '/') | url | absoluteUrl(config.baseUrl)) }}">{{ tag }} games</a></li>
         {% endfor %}
-        <a href="{{ "/" | url | absoluteUrl(config.baseUrl) }}">All games</a>
+        <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}">All games</a>
     </ul>
 </div>
