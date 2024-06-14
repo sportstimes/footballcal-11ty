@@ -38,4 +38,12 @@ layout: base.njk
     <div class="blog-post-content">
         {{ content | safe }}
     </div>
+
+    <h2>Want more?</h2>
+    <ul class="inline">
+        {% for tag in tags | validTags %}
+        <li><a href="{{ '/' + (tag | slugify | url | absoluteUrl(config.baseUrl)) + '/' }}">{{ tag }} games</a></li>
+        {% endfor %}
+        <a href="{{ "/" | url | absoluteUrl(config.baseUrl) }}">All games</a>
+    </ul>
 </div>

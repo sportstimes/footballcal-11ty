@@ -4,6 +4,8 @@ const { EleventyHtmlBasePlugin } = require('@11ty/eleventy')
 
 const moment = require('./src/_filters/moment')
 const absoluteUrl = require('./src/_filters/absoluteUrl')
+const validTags = require('./src/_filters/validTags')
+
 const showDate = require('./src/_methods/showDate')
 
 module.exports = config => {
@@ -11,6 +13,7 @@ module.exports = config => {
 
   config.addFilter('moment', moment)
   config.addFilter('absoluteUrl', absoluteUrl)
+  config.addFilter('validTags', validTags)
 
   config.addNunjucksGlobal('showDate', showDate)
 
