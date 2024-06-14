@@ -4,12 +4,15 @@ const { EleventyHtmlBasePlugin } = require('@11ty/eleventy')
 
 const moment = require('./src/_filters/moment')
 const absoluteUrl = require('./src/_filters/absoluteUrl')
+const showDate = require('./src/_methods/showDate')
 
 module.exports = config => {
   config.addPlugin(EleventyHtmlBasePlugin)
 
   config.addFilter('moment', moment)
   config.addFilter('absoluteUrl', absoluteUrl)
+
+  config.addNunjucksGlobal('showDate', showDate)
 
   config.addCollection('euro2024', function (collectionApi) {
     return collectionApi.getFilteredByTags('euro', '2024')

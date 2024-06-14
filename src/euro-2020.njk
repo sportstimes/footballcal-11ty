@@ -23,7 +23,7 @@ title: EURO 2020 Games
         {% for game in collections.euro2020 %}
         <tr id="" class="vevent">
             <td class="datetime">
-                {% if true %}
+                {% if showDate(game.data.date, loop.index0, collections.euro2020) %}
                   <span class="day">{{ game.data.date | moment('ddd DD MMM') }}</span>
                 {% endif %}
                 <time class="dtstart">{{ game.data.date | moment('YYYY-MM-DDTHH:mm:ssZ') }}</time>
