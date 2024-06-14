@@ -1,0 +1,33 @@
+---
+layout: base.njk
+---
+<div class="event-post">
+    <h1>{{ title }}</h1>
+
+    <div class="datetime">
+        <p class="date">{{ date | dateFormat }}</p>
+        <p class="time">
+            <span class="starttime">{{ date | timeFormat }}</span>
+            <span class="endtime">–{{ endDate | timeFormat }}</span>
+        </p>
+    </div>
+
+    <table id="EventDetails">
+        <tr>
+            <th>Venue</th>
+            <th>TV</th>
+        </tr>
+        <tr>
+            <td>{{ locationName }}</td>
+            <td class="tv-channels">
+                {% for on in tv %}
+                <span>{{ on }}</span>
+                {% endfor %}
+            </td>
+        </tr>
+    </table>
+
+    <div class="blog-post-content">
+        {{ content | safe }}
+    </div>
+</div>

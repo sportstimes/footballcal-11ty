@@ -1,0 +1,27 @@
+<h1>Football times in your calendar</h1>
+
+<p class="hero">
+  Never miss another football game by subscribing to our
+  calendars in your favourite app. <a href="{{ "/about" | url | absoluteUrl(config.baseUrl) }}">Find out more</a>
+</p>
+
+<p class="subscribe">
+  <a href="#"> <!-- webcal://footballcal.com/events.ics -->
+    <span role="img">🗓</span>
+    <span>Add all games to your calendar</span>
+    <small>in iOS, MacOS and Office</small>
+  </a>
+</p>
+
+<h2>Available Competitions</h2>
+
+<ul class="inline competitions">
+  {% for competition in competitions %}
+  <li>
+    <a href="{{ competition.path | url | absoluteUrl(config.baseUrl) }}">
+      <h2>{{ competition.title }}</h2>
+      <p>{{ competition.start | dateFormat }} – {{ competition.end | dateFormat }}</p>
+    </a>
+  </li>
+  {% endfor %}
+</ul>

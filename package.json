@@ -1,0 +1,37 @@
+{
+  "name": "footballcal",
+  "version": "0.0.1",
+  "description": "Football Cal – Providing football game details in calendars.",
+  "homepage": "https://footballcal.com",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sportstimes/footballcal-11ty"
+  },
+  "authors": [
+    {
+      "name": "Trevor Morris",
+      "email": "code@trovster.com",
+      "url": "https://www.trovster.com"
+    }
+  ],
+  "keywords": [
+    "11ty",
+    "eleventy",
+    "football",
+    "calendar"
+  ],
+  "license": "ISC",
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve --quiet",
+    "build": "npx @11ty/eleventy",
+    "test": "echo \"Warning: No tests\" && exit 0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "dotenv": "^16.3.1"
+  }
+}

@@ -1,0 +1,16 @@
+header {
+    max-width: 960px;
+    padding: 0 1rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header h1 {
+    padding: 2rem 0;
+    margin-bottom: 0;
+    font-size: medium;
+    text-transform: uppercase;
+}
+header a {
+    border: none;
+}

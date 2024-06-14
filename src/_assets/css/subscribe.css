@@ -1,0 +1,25 @@
+.subscribe {
+    text-align: center;
+    margin: 3rem 0;
+}
+.subscribe a {
+    display: block;
+    padding: 1rem;
+    background-color: rgba(255,255,255,0.9);
+    border-bottom: none;
+    border-radius: 1rem;
+    font-weight: bold;
+    transition: all ease 0.5s;
+}
+.subscribe span,
+.subscribe small {
+    display: block;
+}
+.subscribe small {
+    font-weight: normal;
+    font-style: italic;
+}
+.subscribe a:focus,
+.subscribe a:hover {
+    background-color: rgba(255,255,255,1);
+}

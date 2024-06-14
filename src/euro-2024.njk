@@ -1,0 +1,7 @@
+<h1>EURO 2024 Games</h1>
+
+<ul>
+{% for game in collections['euro-2024'] %}
+  <li><a href="{{ game.data.path | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a></li>
+{% endfor %}
+</ul>
