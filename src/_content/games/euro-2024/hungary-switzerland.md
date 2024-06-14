@@ -6,7 +6,7 @@ locationName: Cologne
 path: /euro-2024/hungary-switzerland/
 tags:
   ["Hungary", "Switzerland", "Cologne", "Group A", "Group stages", "EURO 2024"]
-tv: []
+tv: ["ITV1"]
 ---
 
 The second game of the EURO 2024 competition between Group A competitors, Hungary and Switzerland.

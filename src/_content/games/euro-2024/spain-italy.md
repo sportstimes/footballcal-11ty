@@ -6,7 +6,7 @@ locationName: Gelsenkirchen
 path: /euro-2024/spain-italy/
 tags:
   ["Spain", "Italy", "Gelsenkirchen", "Group B", "Group stages", "EURO 2024"]
-tv: []
+tv: ["ITV1"]
 ---
 
 The eighteenth game of the EURO 2024 competition between Group B competitors, Spain and Italy.

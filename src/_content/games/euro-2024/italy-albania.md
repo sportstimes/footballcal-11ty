@@ -5,7 +5,7 @@ endDate: 2024-06-15T20:50Z
 locationName: Dortmund
 path: /euro-2024/italy-albania/
 tags: ["Italy", "Albania", "Dortmund", "Group B", "Group stages", "EURO 2024"]
-tv: []
+tv: ["BBC1"]
 ---
 
 The fourth game of the EURO 2024 competition between Group A competitors, Italy v Albania.

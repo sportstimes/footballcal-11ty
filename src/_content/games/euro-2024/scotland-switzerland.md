@@ -6,7 +6,7 @@ locationName: Cologne
 path: /euro-2024/scotland-switzerland/
 tags:
   ["Scotland", "Switzerland", "Cologne", "Group A", "Group stages", "EURO 2024"]
-tv: []
+tv: ["BBC"]
 ---
 
 The fifteenth game of the EURO 2024 competition between Group A competitors, Scotland and Switerland.
