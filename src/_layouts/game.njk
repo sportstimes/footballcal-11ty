@@ -7,8 +7,8 @@ layout: base.njk
     <div class="datetime">
         <p class="date">{{ date | moment('ddd DD MMM') }}</p>
         <p class="time">
-            <span class="starttime">{{ date | moment("H:mma") }}</span>
-            <span class="endtime">–{{ endDate | moment("H:mma") }}</span>
+            <span class="starttime">{{ date | moment("h:mma") }}</span>
+            <span class="endtime">–{{ endDate | moment("h:mma") }}</span>
         </p>
     </div>
 
