@@ -20,11 +20,9 @@ module.exports = () => {
     config.baseUrl = process.env.GITHUB_URL
   }
 
-  if (process.env.BASE_URL) {
-    config.baseUrl = process.env.BASE_URL
+  if (process.env.GITHUB_REPOSITORY_OWNER) {
+    config.baseUrl = `https://${process.env.GITHUB_REPOSITORY_OWNER}.github.io`
   }
-
-  console.log(process.env)
 
   return config
 }
