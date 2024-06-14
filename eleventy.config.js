@@ -15,6 +15,10 @@ module.exports = config => {
   config.addFilter('stringify', stringify)
   config.addFilter('formattedNumber', number)
 
+  config.addPassthroughCopy({
+    'src/_assets/img': 'img'
+  })
+
   return {
     dir: {
       input: 'src',

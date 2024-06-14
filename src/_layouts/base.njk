@@ -6,11 +6,13 @@
 
         <meta property="og:title" content="{{ site.title }}"/>
         <meta property="og:description" name="description" content="{{ meta.description }}"/>
-        <meta property="og:image" content="{{ "/icon.png" | url | absoluteUrl(config.baseUrl) }}"/>
-        <meta name="twitter:card" content="summary"/>
+        <meta property="og:image" content="{{ "/img/footballcal-opengraph.png" | url | absoluteUrl(config.baseUrl) }}"/>
+
         <meta name="keywords" content="{{ meta.keywords }}"/>
         <meta name="apple-mobile-web-app-title" content="{{ site.title }}"/>
         <meta name="application-name" content="{{ site.title }}"/>
+
+        <link rel="icon" href="{{ "/img/footballcal-32.png" | url | absoluteUrl(config.baseUrl) }}"/>
 
         <title>{{ site.title }} — {{ site.summary }}</title>
 
