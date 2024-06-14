@@ -2,6 +2,6 @@
 
 <ul>
 {% for game in collections['euro-2024'] %}
-  <li><a href="{{ game.data.path | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a></li>
+  <li><a href="{{ game.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a></li>
 {% endfor %}
 </ul>
