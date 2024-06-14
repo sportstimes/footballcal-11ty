@@ -20,7 +20,7 @@
   <li>
     <a href="{{ competition.path | url | absoluteUrl(config.baseUrl) }}">
       <h2>{{ competition.title }}</h2>
-      <p>{{ competition.start | moment("ddd DD MMM") }} – {{ competition.end | moment("ddd DD MMM") }}</p>
+      <p>{{ competition.start | moment("DD MMM") }}–{{ competition.end | moment("DD MMM YYYY") }}</p>
     </a>
   </li>
   {% endfor %}
