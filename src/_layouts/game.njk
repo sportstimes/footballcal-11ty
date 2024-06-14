@@ -13,7 +13,7 @@ layout: base.njk
     </div>
 
     <p class="subscribe">
-        <a href="webcal://{{ (path.slice(0, -1) + '.ics') | url | absoluteUrl(config.baseUrl) }}">
+        <a href="{{ (path.slice(0, -1)) | url | absoluteUrl(config.baseUrl) | webcal }}">
             <span role="img">🗓</span>
             <span>Add this game to your calendar</span>
             <small>in iOS, MacOS and Office</small>
