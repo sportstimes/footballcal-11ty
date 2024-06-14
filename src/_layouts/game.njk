@@ -5,10 +5,10 @@ layout: base.njk
     <h1>{{ title }}</h1>
 
     <div class="datetime">
-        <p class="date">{{ date | moment('ddd DD MMM') }}</p>
+        <p class="date">{{ date | date('ddd DD MMM') }}</p>
         <p class="time">
-            <span class="starttime">{{ date | moment("h:mma") }}</span>
-            <span class="endtime">–{{ endDate | moment("h:mma") }}</span>
+            <span class="starttime">{{ date | date("h:mma") }}</span>
+            <span class="endtime">–{{ endDate | date("h:mma") }}</span>
         </p>
     </div>
 

@@ -2,7 +2,7 @@ require('dotenv').config()
 
 const { EleventyHtmlBasePlugin } = require('@11ty/eleventy')
 
-const moment = require('./src/_filters/moment')
+const date = require('./src/_filters/date')
 const absoluteUrl = require('./src/_filters/absoluteUrl')
 const validTags = require('./src/_filters/validTags')
 
@@ -11,7 +11,7 @@ const showDate = require('./src/_methods/showDate')
 module.exports = config => {
   config.addPlugin(EleventyHtmlBasePlugin)
 
-  config.addFilter('moment', moment)
+  config.addFilter('date', date)
   config.addFilter('absoluteUrl', absoluteUrl)
   config.addFilter('validTags', validTags)
 

@@ -23,7 +23,7 @@ title: Football times in your calendar
   <li>
       <a href="{{ competition.path | url | absoluteUrl(config.baseUrl) }}">
           <h2>{{ competition.title }}</h2>
-          <p>{{ competition.start | moment("DD MMM") }}–{{ competition.end | moment("DD MMM YYYY") }}</p>
+          <p>{{ competition.start | date("DD MMM") }}–{{ competition.end | date("DD MMM YYYY") }}</p>
       </a>
   </li>
   {% endfor %}
