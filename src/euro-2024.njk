@@ -11,8 +11,31 @@ title: EURO 2024 Games
     </a>
 </p>
 
-<ul>
-{% for game in collections['euro-2024'] %}
-  <li><a href="{{ game.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a></li>
-{% endfor %}
-</ul>
+<table>
+    <thead>
+        <tr>
+            <th>Day</th>
+            <th>Time</th>
+            <th>Summary</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for game in collections.euro2024 %}
+        <tr id="" class="vevent">
+            <td class="datetime">
+                {% if true %}
+                  <span class="day">{{ game.data.date | moment('ddd DD MMM') }}</span>
+                {% endif %}
+                <time class="dtstart">{{ game.data.date | moment('YYYY-MM-DDTHH:mm:ssZ') }}</time>
+                <time class="dtend">{{ game.data.endDate | moment('YYYY-MM-DDTHH:mm:ssZ') }}</time>
+            </td>
+            <td class="time">
+                <span>{{ game.data.date | moment('H:mm') }}</span>
+            </td>
+            <td class="summary">
+                <a class="url" href="{{ game.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

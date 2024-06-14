@@ -15,6 +15,16 @@ module.exports = config => {
   config.addFilter('stringify', stringify)
   config.addFilter('formattedNumber', number)
 
+  config.addCollection('euro2024', function (collectionApi) {
+    return collectionApi.getFilteredByTags('euro', '2024')
+  })
+
+  config.addCollection('euro2020', function (collectionApi) {
+    return collectionApi.getFilteredByTags('euro', '2020')
+  })
+
+  config.addShortcode('year', () => new Date().getFullYear())
+
   config.addPassthroughCopy({
     'src/_assets/img': 'img'
   })
