@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:P0voltkW-5iq6bD6aGs-N
+UID:c13Px_yHY5ovBQWAJE_3K
 SUMMARY:Italy v Albania
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240615T190000Z
 DTEND:20240615T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fourth game of the EURO 2024 competiti
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Italy,Albania,Dortmund,Group B,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:RwygkvBOZtf18B-_gqilc
+UID:TNQ1gyX3YznI3a7PXmN7S
 SUMMARY:Turkey v Georgia
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240618T160000Z
 DTEND:20240618T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe eleventh game of the EURO 2024 competi
@@ -31,5 +31,33 @@ LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Georgia,Dortmund,Group F,Group stages,EURO 20
 	24
+END:VEVENT
+BEGIN:VEVENT
+UID:5J6Tnx7-QVQskUPhCcd1q
+SUMMARY:Turkey v Portugal
+DTSTAMP:20240616T194831Z
+DTSTART:20240622T160000Z
+DTEND:20240622T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twenty-third game of the EURO 2024 com
+	petition between Group F competitors\, Turkey and Portugal.
+URL:https://trovster.github.io/euro-2024/turkey-portugal/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Portugal,Dortmund,Group F,Group stages,EURO 2
+	024
+END:VEVENT
+BEGIN:VEVENT
+UID:-yIrJHDfwAkATAGbdrFXi
+SUMMARY:France v Poland
+DTSTAMP:20240616T194831Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirtieth game of the EURO 2024 competi
+	tion between Group D competitors\, France and Poland.
+URL:https://trovster.github.io/euro-2024/france-poland/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Poland,Dortmund,Group D,Group stages,EURO 202
+	4
 END:VEVENT
 END:VCALENDAR

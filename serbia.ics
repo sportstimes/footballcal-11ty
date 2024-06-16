@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:sPcqkMeL1MVa-gcQirfOS
+UID:NWqFNz4GRSs2pFZ3-0aES
 SUMMARY:Serbia v England
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240616T190000Z
 DTEND:20240616T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe seventh game of the EURO 2024 competit
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Serbia,England,Gelsenkirchen,Group C,Group stages,EU
 	RO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:Y_vWICdnSdy-j-EQCY8_o
+UID:zCjtH1Ugc5cWYsOkUUWVr
 SUMMARY:Slovenia v Serbia
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240620T130000Z
 DTEND:20240620T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe sixteenth game of the EURO 2024 compet
@@ -31,5 +31,18 @@ LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovenia,Serbia,Munich,Group C,Group stages,EURO 202
 	4
+END:VEVENT
+BEGIN:VEVENT
+UID:iiKtgawIWG1Npt18wJbqZ
+SUMMARY:Denmark v Serbia
+DTSTAMP:20240616T194831Z
+DTSTART:20240625T190000Z
+DTEND:20240625T205000Z
+DESCRIPTION:TV Channels: ITV4\n\nThe thirty-second game of the EURO 2024 co
+	mpetition between Group C competitors\, Denmark and Serbia.
+URL:https://trovster.github.io/euro-2024/denmark-serbia/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Serbia,Munich,Group C,Group stages,EURO 2024
 END:VEVENT
 END:VCALENDAR

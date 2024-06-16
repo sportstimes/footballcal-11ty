@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:qhzYE1ONVfzcsGVdoMA9G
+UID:MliPcs6wTHde5we5IPN-I
 SUMMARY:Austria v France
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240617T190000Z
 DTEND:20240617T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:OeCYx_gMf3pZO0zuRFVY4
+UID:ujOoXUTkBovAlZXArES91
 SUMMARY:Slovakia v Ukraine
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240621T130000Z
 DTEND:20240621T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe ninteenth game of the EURO 2024 compet
@@ -31,5 +31,19 @@ LOCATION:Dusseldorf
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Ukraine,Dusseldorf,Group E,Group stages,EUR
 	O 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:w7hrgV7XSI0_k72cEABY4
+SUMMARY:Albania v Spain
+DTSTAMP:20240616T194831Z
+DTSTART:20240624T190000Z
+DTEND:20240624T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-seventh game of the EURO 2024 co
+	mpetition between Group B competitors\, Albania and Spain.
+URL:https://trovster.github.io/euro-2024/albania-spain/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Albania,Spain,Dusseldorf,Group B,Group stages,EURO 2
+	024
 END:VEVENT
 END:VCALENDAR

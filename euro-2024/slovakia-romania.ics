@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:_23uc7q7ajigYgzyKXaVS
+SUMMARY:Slovakia v Romania
+DTSTAMP:20240616T194831Z
+DTSTART:20240626T160000Z
+DTEND:20240626T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirty-third game of the EURO 2024 comp
+	etition between Group E competitors\, Slovakia and Romania.
+URL:https://trovster.github.io/euro-2024/slovakia-romania/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovakia,Romania,Frankfurt am Main,Group E,Group sta
+	ges,EURO 2024
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Var2gFS52rUk6XzFOvzWz
+SUMMARY:Belgium v Romania
+DTSTAMP:20240616T194831Z
+DTSTART:20240622T190000Z
+DTEND:20240622T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twenty-fourth game of the EURO 2024 co
+	mpetition between Group E competitors\, Belgium and Romania.
+URL:https://trovster.github.io/euro-2024/belgium-romania/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Romania,Cologne,Group E,Group stages,EURO 20
+	24
+END:VEVENT
+END:VCALENDAR

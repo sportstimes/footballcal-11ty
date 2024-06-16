@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:F08ftopgQfCeFpE6AK9VQ
+UID:gOmD10euO1z1TGW8FpPId
 SUMMARY:Serbia v England
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240616T190000Z
 DTEND:20240616T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe seventh game of the EURO 2024 competit
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Serbia,England,Gelsenkirchen,Group C,Group stages,EU
 	RO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:EPuYebjVbuP7vX2uSM4hl
+UID:HSjActPHPlAP82oKfanjs
 SUMMARY:Spain v Italy
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240620T190000Z
 DTEND:20240620T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe eighteenth game of the EURO 2024 compe
@@ -31,5 +31,19 @@ LOCATION:Gelsenkirchen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Italy,Gelsenkirchen,Group B,Group stages,EURO 
 	2024
+END:VEVENT
+BEGIN:VEVENT
+UID:1nCbL8CQlgGYwxDDWJVli
+SUMMARY:Georgia v Portugal
+DTSTAMP:20240616T194831Z
+DTSTART:20240626T190000Z
+DTEND:20240626T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe thirty-fifth game of the EURO 2024 comp
+	etition between Group F competitors\, Georgia and Portugal.
+URL:https://trovster.github.io/euro-2024/georgia-portugal/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Georgia,Portugal,Gelsenkirchen,Group F,Group stages,
+	EURO 2024
 END:VEVENT
 END:VCALENDAR

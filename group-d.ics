@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ha7vh1o8A1YrZU1opklK0
+UID:fEgm0ks4kvPgN_AaFpZ_S
 SUMMARY:England v Croatia
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210613T130000Z
 DTEND:20210613T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe fifth game of the (delayed) EURO 2020 c
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,England,Croatia,London,Group D,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:FCCcZNAPW0W5UBnncn1fu
+UID:oQ0BidKPRQPg-SpLP5OYQ
 SUMMARY:Scotland v Czech Republic
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210614T130000Z
 DTEND:20210614T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe eighth game of the (delayed) EURO 2020 
@@ -33,9 +33,9 @@ CATEGORIES:webcal-game,Scotland,Czech Republic,Glasgow,Group D,Group stages
 	,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:Y-uGQ1oY5RZa1nu8J0tjO
+UID:71SH4L-CTQfPHWSqAPVpF
 SUMMARY:Croatia v Czech Republic
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210618T160000Z
 DTEND:20210618T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twentieth game of the (delayed) EURO 20
@@ -47,9 +47,9 @@ CATEGORIES:webcal-game,Croatia,Czech Republic,Glasgow,Group D,Group stages,
 	EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:mhr5VyAe2EGN7mghlWIMq
+UID:DRLEABdtkMaJoyh_-P0sq
 SUMMARY:England v Scotland
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210618T190000Z
 DTEND:20210618T205000Z
 DESCRIPTION:TV Channels: ITV\, STV\n\nThe 21st game of the (delayed) EURO 2
@@ -61,9 +61,9 @@ CATEGORIES:webcal-game,England,Scotland,London,Group D,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:fSyG39liXlHtflq-YVi4K
+UID:RnLJPtlleP4IWp6xMLahv
 SUMMARY:Croatia v Scotland
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210622T190000Z
 DTEND:20210622T205000Z
 DESCRIPTION:TV Channels: ITV\, STV\n\nThe 32nd game of the (delayed) EURO 2
@@ -75,9 +75,9 @@ CATEGORIES:webcal-game,Croatia,Scotland,Glasgow,Group D,Group stages,EURO 2
 	020
 END:VEVENT
 BEGIN:VEVENT
-UID:s30rPOBtrVP51z3pvQyoq
+UID:_mARt1yvhsib5-LHdo_UH
 SUMMARY:Czech Republic v England
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210622T190000Z
 DTEND:20210622T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 31st game of the (delayed) EURO 2020 co
@@ -89,9 +89,9 @@ CATEGORIES:webcal-game,Czech Republic,England,London,Group D,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:1_rbhXffjgWrxjye1g-0t
+UID:WRYfegJbq628PK2HZ9sHW
 SUMMARY:Netherlands v Czech Republic
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210627T160000Z
 DTEND:20210627T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 39th game of the (delayed) EURO 2020 co
@@ -104,9 +104,9 @@ CATEGORIES:webcal-game,Netherlands,Czech Republic,Budapest,Group C,Group D,
 	Group E,Group F,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:ltzQecrCXIf2-4XogxEW_
+UID:saWXokMg02ygC0YJVSdpZ
 SUMMARY:Belgium v Portugal
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210627T190000Z
 DTEND:20210627T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
@@ -119,9 +119,9 @@ CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
 	up E,Group F,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:F7-bE4hmBFkueQsfUDiFH
+UID:ItRztntS6DLTZIPHzXh58
 SUMMARY:Croatia v Spain
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210628T160000Z
 DTEND:20210628T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 41st game of the (delayed) EURO 2020 co
@@ -133,9 +133,9 @@ CATEGORIES:webcal-game,Croatia,Spain,Copenhagen,Group D,Group E,Knockout,Gr
 	oup of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:9iNBpChxPt54sUge3bsrc
+UID:1gVZKlOBAsxgNkMjUYnwO
 SUMMARY:England v Germany
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210629T160000Z
 DTEND:20210629T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
@@ -147,9 +147,9 @@ CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou
 	p of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:M3zB7Q-RyIgFQDWxYaLmL
+UID:8jvuSdKMz2fX0ZI2_ecoG
 SUMMARY:Sweden v Ukraine
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210629T190000Z
 DTEND:20210629T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
@@ -161,9 +161,9 @@ CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group
 	D,Group E,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:rLmPh2_9598RZx94nZdWG
+UID:x7gdhf4pDEa5GOkBabPdg
 SUMMARY:Poland v Netherlands
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240616T130000Z
 DTEND:20240616T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
@@ -175,9 +175,9 @@ CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:qXV7lzIZawDHv1G7c5IOl
+UID:6h6oGk3pmXnqcuQVQgSKP
 SUMMARY:Austria v France
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240617T190000Z
 DTEND:20240617T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
@@ -189,9 +189,9 @@ CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:LxNec5nGmbnJ_-hQdZXMZ
+UID:lKwy5-miSnzSSwRqsRN2i
 SUMMARY:Poland v Austria
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240621T160000Z
 DTEND:20240621T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe twentieth game of the EURO 2024 compet
@@ -200,5 +200,47 @@ URL:https://trovster.github.io/euro-2024/poland-austria/
 LOCATION:Berlin
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Austria,Berlin,Group D,Group stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:gaH5w6aQ5uWCd9401YAte
+SUMMARY:Netherlands v France
+DTSTAMP:20240616T194831Z
+DTSTART:20240621T190000Z
+DTEND:20240621T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-first game of the EURO 2024 com
+	petition between Group D competitors\, Netherlands and France.
+URL:https://trovster.github.io/euro-2024/netherlands-france/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,France,Leipzig,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:zuBwU5vvypZ-C-G4TpOPE
+SUMMARY:France v Poland
+DTSTAMP:20240616T194831Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirtieth game of the EURO 2024 competi
+	tion between Group D competitors\, France and Poland.
+URL:https://trovster.github.io/euro-2024/france-poland/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Poland,Dortmund,Group D,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:dpmttBqthvfpEb9BgxY5m
+SUMMARY:Netherlands v Austria
+DTSTAMP:20240616T194831Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-ninth game of the EURO 2024 comp
+	etition between Group D competitors\, Netherlands and Austria.
+URL:https://trovster.github.io/euro-2024/netherlands-austria/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Austria,Berlin,Group D,Group stages,EURO
+	 2024
 END:VEVENT
 END:VCALENDAR

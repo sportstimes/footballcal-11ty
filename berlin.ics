@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:6oql934pg4BqOLk-dBKiZ
+UID:JaoCbpZ8du_RiVkjNq5pV
 SUMMARY:Spain v Croatia
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240615T160000Z
 DTEND:20240615T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe third game of the EURO 2024 competitio
@@ -18,9 +18,9 @@ STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Croatia,Berlin,Group B,Group stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:H5edQEp7M52pcxHqsYrkv
+UID:VYgWouDuZGSstb0fJKNcs
 SUMMARY:Poland v Austria
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240621T160000Z
 DTEND:20240621T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe twentieth game of the EURO 2024 compet
@@ -29,5 +29,19 @@ URL:https://trovster.github.io/euro-2024/poland-austria/
 LOCATION:Berlin
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Austria,Berlin,Group D,Group stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:3ufUIFFLYh6LXL0afiknn
+SUMMARY:Netherlands v Austria
+DTSTAMP:20240616T194831Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-ninth game of the EURO 2024 comp
+	etition between Group D competitors\, Netherlands and Austria.
+URL:https://trovster.github.io/euro-2024/netherlands-austria/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Austria,Berlin,Group D,Group stages,EURO
+	 2024
 END:VEVENT
 END:VCALENDAR

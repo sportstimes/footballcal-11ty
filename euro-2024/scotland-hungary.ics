@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:yMkt3_J_25FUmGnT2Ez-i
+SUMMARY:Scotland v Hungary
+DTSTAMP:20240616T194831Z
+DTSTART:20240623T190000Z
+DTEND:20240623T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-sixth game of the EURO 2024 com
+	petition between Group A competitors\, Scotland and Hungary.
+URL:https://trovster.github.io/euro-2024/scotland-hungary/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Hungary,Stuttgart,Group A,Group stages,EURO
+	 2024
+END:VEVENT
+END:VCALENDAR

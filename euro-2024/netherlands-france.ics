@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:loIhuHEMeiOfUBC5cgF6v
+SUMMARY:Netherlands v France
+DTSTAMP:20240616T194831Z
+DTSTART:20240621T190000Z
+DTEND:20240621T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-first game of the EURO 2024 com
+	petition between Group D competitors\, Netherlands and France.
+URL:https://trovster.github.io/euro-2024/netherlands-france/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,France,Leipzig,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+END:VCALENDAR

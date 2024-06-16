@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:g3c3O2pYhzSAyCrRZJ0qZ
+SUMMARY:Georgia v Czechia
+DTSTAMP:20240616T194831Z
+DTSTART:20240622T130000Z
+DTEND:20240622T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-second game of the EURO 2024 co
+	mpetition between Group F competitors\, Georgia and Czechia.
+URL:https://trovster.github.io/euro-2024/georgia-czechia/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Georgia,Czechia,Hamburg,Group F,Group stages,EURO 20
+	24
+END:VEVENT
+END:VCALENDAR

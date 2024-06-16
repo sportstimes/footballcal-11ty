@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:YUiItqFrPLmo0eEes-cbK
+SUMMARY:France v Poland
+DTSTAMP:20240616T194831Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirtieth game of the EURO 2024 competi
+	tion between Group D competitors\, France and Poland.
+URL:https://trovster.github.io/euro-2024/france-poland/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Poland,Dortmund,Group D,Group stages,EURO 202
+	4
+END:VEVENT
+END:VCALENDAR

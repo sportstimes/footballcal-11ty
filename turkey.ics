@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:FfTWxaUKTtxk1znKbi30w
+UID:Y3gWXdfyyPMdoPFzxBcgb
 SUMMARY:Turkey v Italy
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210611T190000Z
 DTEND:20210611T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe first game of the (delayed) EURO 2020 c
@@ -18,9 +18,9 @@ STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Italy,Rome,Group A,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:MVI84ok_-cImzSGVmOw63
+UID:gtccTLxno5ioeUKfW75gY
 SUMMARY:Turkey v Wales
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210616T160000Z
 DTEND:20210616T175000Z
 DESCRIPTION:TV Channels: BBC\, S4C\n\nThe fourteenth game of the (delayed) 
@@ -31,9 +31,9 @@ STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Wales,Baku,Group A,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:98rYdbeeLLDMxloOU13ua
+UID:2ESrRGFz4FWH4aZUw5tu1
 SUMMARY:Switzerland v Turkey
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20210620T160000Z
 DTEND:20210620T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 26th game of the (delayed) EURO 2020 co
@@ -45,9 +45,9 @@ CATEGORIES:webcal-game,Switzerland,Turkey,Baku,Group A,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:90QTwJBziG7qNvCrQeLoA
+UID:hEnHwr5-EmchtOy_ecrWO
 SUMMARY:Turkey v Georgia
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240618T160000Z
 DTEND:20240618T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe eleventh game of the EURO 2024 competi
@@ -57,5 +57,33 @@ LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Georgia,Dortmund,Group F,Group stages,EURO 20
 	24
+END:VEVENT
+BEGIN:VEVENT
+UID:s2KvddGaa0ubklWxSXfsv
+SUMMARY:Turkey v Portugal
+DTSTAMP:20240616T194831Z
+DTSTART:20240622T160000Z
+DTEND:20240622T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twenty-third game of the EURO 2024 com
+	petition between Group F competitors\, Turkey and Portugal.
+URL:https://trovster.github.io/euro-2024/turkey-portugal/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Portugal,Dortmund,Group F,Group stages,EURO 2
+	024
+END:VEVENT
+BEGIN:VEVENT
+UID:UbpTD2cKIuu9mrTKS86uG
+SUMMARY:Czechia v Turkey
+DTSTAMP:20240616T194831Z
+DTSTART:20240626T190000Z
+DTEND:20240626T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe thirty-sixth game of the EURO 2024 comp
+	etition between Group F competitors\, Czechia and Turkey.
+URL:https://trovster.github.io/euro-2024/czechia-turkey/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Czechia,Turkey,Hamburg,Group F,Group stages,EURO 202
+	4
 END:VEVENT
 END:VCALENDAR

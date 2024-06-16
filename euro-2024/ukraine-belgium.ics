@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Zo15chqgqtYOx4gMvn34X
+SUMMARY:Ukraine v Belgium
+DTSTAMP:20240616T194831Z
+DTSTART:20240626T160000Z
+DTEND:20240626T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirty-fourth game of the EURO 2024 com
+	petition between Group E competitors\, Ukraine and Belgium.
+URL:https://trovster.github.io/euro-2024/ukraine-belgium/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ukraine,Belgium,Stuttgart,Group E,Group stages,EURO 
+	2024
+END:VEVENT
+END:VCALENDAR

@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:iPwymlDRg4QRjjE1iIh0s
+UID:VSMp2qLX5jyYB5maWqwbk
 SUMMARY:Belgium v Slovakia
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240617T160000Z
 DTEND:20240617T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe ninth game of the EURO 2024 competitio
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Belgium,Slovakia,Frankfurt am Main,Group E,Group sta
 	ges,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:Zq0jV6TM84nxsNTLzo_lr
+UID:nnpjjE9jMpSIu1OAN2VlF
 SUMMARY:Denmark v England
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240620T160000Z
 DTEND:20240620T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe seventeenth game of the EURO 2024 comp
@@ -31,5 +31,33 @@ LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Denmark,England,Frankfurt am Main,Group C,Group stag
 	es,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:kqBws8uT6B8ltZ2e-R9tR
+SUMMARY:Switzerland v Germany
+DTSTAMP:20240616T194831Z
+DTSTART:20240623T190000Z
+DTEND:20240623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-fifth game of the EURO 2024 comp
+	etition between Group A competitors\, Switzerland and Germany.
+URL:https://trovster.github.io/euro-2024/switzerland-germany/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Germany,Frankfurt am Main,Group A,Group 
+	stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:s0jcN8zDYz01SmbtFkuAd
+SUMMARY:Slovakia v Romania
+DTSTAMP:20240616T194831Z
+DTSTART:20240626T160000Z
+DTEND:20240626T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirty-third game of the EURO 2024 comp
+	etition between Group E competitors\, Slovakia and Romania.
+URL:https://trovster.github.io/euro-2024/slovakia-romania/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovakia,Romania,Frankfurt am Main,Group E,Group sta
+	ges,EURO 2024
 END:VEVENT
 END:VCALENDAR

@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:WVWHZVfkg4bxIglDummIc
+UID:immIP_HfHsEml1i1alnbJ
 SUMMARY:Italy v Albania
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240615T190000Z
 DTEND:20240615T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fourth game of the EURO 2024 competiti
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Italy,Albania,Dortmund,Group B,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:BDQiLLPFcPnybKpSw902k
+UID:Unjz6NOpJDvfWNvfhD-dy
 SUMMARY:Croatia v Albania
-DTSTAMP:20240616T153936Z
+DTSTAMP:20240616T194831Z
 DTSTART:20240619T130000Z
 DTEND:20240619T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirteenth game of the EURO 2024 compe
@@ -31,5 +31,19 @@ LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Albania,Hamburg,Group B,Group stages,EURO 20
 	24
+END:VEVENT
+BEGIN:VEVENT
+UID:r8q14QabQ8m2v8lT7Ub9x
+SUMMARY:Albania v Spain
+DTSTAMP:20240616T194831Z
+DTSTART:20240624T190000Z
+DTEND:20240624T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-seventh game of the EURO 2024 co
+	mpetition between Group B competitors\, Albania and Spain.
+URL:https://trovster.github.io/euro-2024/albania-spain/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Albania,Spain,Dusseldorf,Group B,Group stages,EURO 2
+	024
 END:VEVENT
 END:VCALENDAR
