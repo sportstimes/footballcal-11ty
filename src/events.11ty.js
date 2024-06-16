@@ -10,7 +10,7 @@ module.exports = class FeedTemplate {
   }
 
   render({ config, collections }) {
-    collections.euro2024.forEach(function (game) {
+    return collections['EURO 2024'].map(function (game) {
       const event = {
         start: game.data.date,
         title: game.data.title,
@@ -27,15 +27,13 @@ module.exports = class FeedTemplate {
         event.duration = { hours: 1, minutes: 45 }
       }
 
-      ics.createEvent(event, (error, value) => {
+      return ics.createEvent(event, (error, value) => {
         if (error) {
-          return
+          return ''
         }
 
         return value
       })
     })
-
-    return 'events.ics'
   }
 }

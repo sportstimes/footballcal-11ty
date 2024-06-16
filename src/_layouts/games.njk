@@ -1,12 +1,12 @@
 ---
 layout: base.njk
 ---
-<h1>{{ title }}</h1>
+<h1>{{ tag }} Games</h1>
 
 <p class="subscribe">
-    <a href="{{ (page.fileSlug) | url | absoluteUrl(config.baseUrl) | webcal }}">
+    <a href="{{ (tag | slugify) | url | absoluteUrl(config.baseUrl) | webcal }}">
         <span role="img">🗓</span>
-        <span>Add {{ title }} to your calendar</span>
+        <span>Add {{ tag }} games to your calendar</span>
         <small>in iOS, MacOS and Office</small>
     </a>
 </p>
@@ -20,10 +20,10 @@ layout: base.njk
         </tr>
     </thead>
     <tbody>
-        {% for game in collections[collection] %}
+        {% for game in collections[tag] %}
         <tr class="vevent">
             <td class="datetime">
-                {% if showDate(game.data.date, loop.index0, collections[collection]) %}
+                {% if showDate(game.data.date, loop.index0, collections[tag]) %}
                   <span class="day">{{ game.data.date | date('ddd DD MMM') }}</span>
                 {% endif %}
                 <time class="dtstart">{{ game.data.date | date('YYYY-MM-DDTHH:mm:ssZ') }}</time>
