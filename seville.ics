@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:5EG5-c7FbDT-_xWtYBwWN
+SUMMARY:Spain v Sweden
+DTSTAMP:20240616T152911Z
+DTSTART:20210614T190000Z
+DTEND:20210614T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe tenth game of the (delayed) EURO 2020 c
+	ompetition between Group E rivals\, Spain and Sweden.
+URL:https://trovster.github.io/euro-2020/spain-sweden/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Sweden,Seville,Group E,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:XbLgB60Mvb3kbkg-RuO5H
+SUMMARY:Spain v Poland
+DTSTAMP:20240616T152911Z
+DTSTART:20210619T190000Z
+DTEND:20210619T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 24th game of the (delayed) EURO 2020 co
+	mpetition between Group E rivals\, Spain and Poland.
+URL:https://trovster.github.io/euro-2020/spain-poland/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Poland,Seville,Group E,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:yjsWZ0jkTr6r0qkT9CL69
+SUMMARY:Slovakia v Spain
+DTSTAMP:20240616T152911Z
+DTSTART:20210623T160000Z
+DTEND:20210623T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 33rd game of the (delayed) EURO 2020 co
+	mpetition between Group E rivals\, Slovakia and Spain.
+URL:https://trovster.github.io/euro-2020/slovakia-spain/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovakia,Spain,Seville,Group E,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:HBfso8N-dIqWXLPCQJxKB
+SUMMARY:Belgium v Portugal
+DTSTAMP:20240616T152911Z
+DTSTART:20210627T190000Z
+DTEND:20210627T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
+	mpetition between Group B winners Belgium and Group F third place Portugal
+	.
+URL:https://trovster.github.io/euro-2020/knockout-4/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
+	up E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+END:VCALENDAR

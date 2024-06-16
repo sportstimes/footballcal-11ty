@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ad_IrUIcE0mZ_O8CdWx1b
+SUMMARY:Denmark v Finland
+DTSTAMP:20240616T152911Z
+DTSTART:20210612T160000Z
+DTEND:20210612T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe third game of the (delayed) EURO 2020 c
+	ompetition between Group B rivals\, Denmark and Finland.
+URL:https://trovster.github.io/euro-2020/denmark-finland/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Finland,Copenhagen,Group B,Group stages,EURO
+	 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:b1iJUXXRrldWJj_aHjKva
+SUMMARY:Denmark v Belgium
+DTSTAMP:20240616T152911Z
+DTSTART:20210617T160000Z
+DTEND:20210617T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe seventeenth game of the (delayed) EURO 
+	2020 competition between Group B rivals\, Denmark and Belgium.
+URL:https://trovster.github.io/euro-2020/denmark-belgium/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Belgium,Copenhagen,Group B,Group stages,EURO
+	 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:054wkyfx7xMYdMnQN71bf
+SUMMARY:Russia v Denmark
+DTSTAMP:20240616T152911Z
+DTSTART:20210621T190000Z
+DTEND:20210621T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 29th game of the (delayed) EURO 2020 co
+	mpetition between Group B rivals\, Russia and Denmark.
+URL:https://trovster.github.io/euro-2020/russia-denmark/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Russia,Denmark,Copenhagen,Group B,Group stages,EURO 
+	2020
+END:VEVENT
+BEGIN:VEVENT
+UID:wDSJ5_vdMiHSn30lzOvJA
+SUMMARY:Wales v Denmark
+DTSTAMP:20240616T152911Z
+DTSTART:20210626T160000Z
+DTEND:20210626T175000Z
+DESCRIPTION:The 37th game of the (delayed) EURO 2020 competition between Gr
+	oup A runners-up Wales and Group B runners-up Denmark.
+URL:https://trovster.github.io/euro-2020/knockout-1/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Denmark,Amsterdam,Group A,Group B,Knockout,Gro
+	up of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:BfDAUhXVxI43hX0IWZqUA
+SUMMARY:Czech Republic v Denmark
+DTSTAMP:20240616T152911Z
+DTSTART:20210703T160000Z
+DTEND:20210703T175000Z
+DESCRIPTION:The 47th game of the (delayed) EURO 2020 competition between Kn
+	ockout 3 winners\, Czech Republic and Knockout 1 winners\, Denmark.
+URL:https://trovster.github.io/euro-2020/quarter-final-3/
+LOCATION:Baku
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Czech Republic,Denmark,Baku,Knockout,Quarter Final,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:P-FF7QjovPv0VAadb3o4J
+SUMMARY:England v Denmark
+DTSTAMP:20240616T152911Z
+DTSTART:20210707T190000Z
+DTEND:20210707T205000Z
+DESCRIPTION:The 50th game of the (delayed) EURO 2020 competition between Qu
+	arter Final 4 winners\, England and Quarter Final 3 winners\, Denmark.
+URL:https://trovster.github.io/euro-2020/semi-final-2/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Denmark,London,Knockout,Semi Final,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:LAiPSeRczfMSkKCeo_46O
+SUMMARY:Slovenia v Denmark
+DTSTAMP:20240616T152911Z
+DTSTART:20240616T160000Z
+DTEND:20240616T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe sixth game of the EURO 2024 competitio
+	n between Group C competitors\, Slovenia and Denmark.
+URL:https://trovster.github.io/euro-2024/slovenia-denmark/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovenia,Denmark,Stuttgart,Group C,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:Op117g-XU9fIIEZWQ4OuF
+SUMMARY:Denmark v England
+DTSTAMP:20240616T152911Z
+DTSTART:20240620T160000Z
+DTEND:20240620T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe seventeenth game of the EURO 2024 comp
+	etition between Group C competitors\, Denmark and England.
+URL:https://trovster.github.io/euro-2024/denmark-england/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,England,Frankfurt am Main,Group C,Group stag
+	es,EURO 2024
+END:VEVENT
+END:VCALENDAR

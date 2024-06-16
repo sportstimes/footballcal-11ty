@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:zrtVN7E_P_IaeE5W7fibU
+SUMMARY:Wales v Denmark
+DTSTAMP:20240616T152911Z
+DTSTART:20210626T160000Z
+DTEND:20210626T175000Z
+DESCRIPTION:The 37th game of the (delayed) EURO 2020 competition between Gr
+	oup A runners-up Wales and Group B runners-up Denmark.
+URL:https://trovster.github.io/euro-2020/knockout-1/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Denmark,Amsterdam,Group A,Group B,Knockout,Gro
+	up of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:ZdlSn0veBXczGqiUwcMrE
+SUMMARY:Italy v Austria
+DTSTAMP:20240616T152911Z
+DTSTART:20210626T190000Z
+DTEND:20210626T205000Z
+DESCRIPTION:The 38th game of the (delayed) EURO 2020 competition between Gr
+	oup A winners Italy and Group C runners-up Austria.
+URL:https://trovster.github.io/euro-2020/knockout-2/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Austria,London,Group A,Group C,Knockout,Group 
+	of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:72QEvcCYDsQPsfrZukJkZ
+SUMMARY:Netherlands v Czech Republic
+DTSTAMP:20240616T152911Z
+DTSTART:20210627T160000Z
+DTEND:20210627T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 39th game of the (delayed) EURO 2020 co
+	mpetition between Group C winners Netherlands and Group D third place Czec
+	h Republic.
+URL:https://trovster.github.io/euro-2020/knockout-3/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Czech Republic,Budapest,Group C,Group D,
+	Group E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:FUKswKBsJe1YOmi7o2pWo
+SUMMARY:Belgium v Portugal
+DTSTAMP:20240616T152911Z
+DTSTART:20210627T190000Z
+DTEND:20210627T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
+	mpetition between Group B winners Belgium and Group F third place Portugal
+	.
+URL:https://trovster.github.io/euro-2020/knockout-4/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
+	up E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:i9QYnrVPnusnBmN8YthqS
+SUMMARY:Croatia v Spain
+DTSTAMP:20240616T152911Z
+DTSTART:20210628T160000Z
+DTEND:20210628T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 41st game of the (delayed) EURO 2020 co
+	mpetition between Group D runners-up Croatia and Group E runners-up Spain.
+URL:https://trovster.github.io/euro-2020/knockout-5/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Spain,Copenhagen,Group D,Group E,Knockout,Gr
+	oup of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:cRurZHL4aTd-F7Zpi8Xv7
+SUMMARY:France v Switzerland
+DTSTAMP:20240616T152911Z
+DTSTART:20210628T190000Z
+DTEND:20210628T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
+	mpetition between Group F winners France and Group A third place Switzerla
+	nd.
+URL:https://trovster.github.io/euro-2020/knockout-6/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
+	,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:SHxQsqnw1fCypxIfovCJt
+SUMMARY:England v Germany
+DTSTAMP:20240616T152911Z
+DTSTART:20210629T160000Z
+DTEND:20210629T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
+	mpetition between Group D winners England and Group F runners-up Germany.
+URL:https://trovster.github.io/euro-2020/knockout-7/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou
+	p of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:1ive88p0B2G_hmHdcH_mQ
+SUMMARY:Sweden v Ukraine
+DTSTAMP:20240616T152911Z
+DTSTART:20210629T190000Z
+DTEND:20210629T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
+	mpetition between Group E winners Sweden and Group C third place Ukraine.
+URL:https://trovster.github.io/euro-2020/knockout-8/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group 
+	D,Group E,Knockout,Group of 16,EURO 2020
+END:VEVENT
+END:VCALENDAR

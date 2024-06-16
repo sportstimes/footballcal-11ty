@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:CQOrD25ll17xyfLhOpE72
+SUMMARY:Germany v Scotland
+DTSTAMP:20240616T152910Z
+DTSTART:20240614T190000Z
+DTEND:20240614T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe first game of the EURO 2024 competitio
+	n between Group A competitors\, Germany and Scotland.
+URL:https://trovster.github.io/euro-2024/germany-scotland/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Scotland,Munich,Group A,Group stages,EURO 20
+	24
+END:VEVENT
+END:VCALENDAR

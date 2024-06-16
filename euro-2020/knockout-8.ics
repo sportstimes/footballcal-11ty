@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:53lw5lM3lTaLszhQKvrpA
+SUMMARY:Sweden v Ukraine
+DTSTAMP:20240616T152910Z
+DTSTART:20210629T190000Z
+DTEND:20210629T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
+	mpetition between Group E winners Sweden and Group C third place Ukraine.
+URL:https://trovster.github.io/euro-2020/knockout-8/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group 
+	D,Group E,Knockout,Group of 16,EURO 2020
+END:VEVENT
+END:VCALENDAR

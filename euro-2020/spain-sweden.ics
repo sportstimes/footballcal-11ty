@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:1IR4N80OtKRQNoTrF9yCs
+SUMMARY:Spain v Sweden
+DTSTAMP:20240616T152910Z
+DTSTART:20210614T190000Z
+DTEND:20210614T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe tenth game of the (delayed) EURO 2020 c
+	ompetition between Group E rivals\, Spain and Sweden.
+URL:https://trovster.github.io/euro-2020/spain-sweden/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Sweden,Seville,Group E,Group stages,EURO 2020
+END:VEVENT
+END:VCALENDAR

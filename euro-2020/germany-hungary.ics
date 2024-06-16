@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:QYToDN8nfd8v2D-Ol4e0V
+SUMMARY:Germany v Hungary
+DTSTAMP:20240616T152910Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 35th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Germany and Hungary.
+URL:https://trovster.github.io/euro-2020/germany-hungary/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Hungary,Munich,Group F,Group stages,EURO 202
+	0
+END:VEVENT
+END:VCALENDAR

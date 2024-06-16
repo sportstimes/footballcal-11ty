@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:38FL4pluFEnYsaQcmLWNI
+SUMMARY:Belgium v Russia
+DTSTAMP:20240616T152910Z
+DTSTART:20210612T190000Z
+DTEND:20210612T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe fourth game of the (delayed) EURO 2020 
+	competition between Group B rivals\, Beligum and Russia.
+URL:https://trovster.github.io/euro-2020/belgium-russia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Russia,St Petersburg,Group B,Group stages,EU
+	RO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:hNlWx7-KcVdtWUoNUv_P5
+SUMMARY:Poland v Slovakia
+DTSTAMP:20240616T152910Z
+DTSTART:20210614T160000Z
+DTEND:20210614T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe ninth game of the (delayed) EURO 2020 c
+	ompetition between Group E rivals\, Poland and Slovakia.
+URL:https://trovster.github.io/euro-2020/poland-slovakia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Slovakia,St Petersburg,Group E,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:nlxu3HCVZSelbwRUImKrK
+SUMMARY:Finland v Russia
+DTSTAMP:20240616T152910Z
+DTSTART:20210616T130000Z
+DTEND:20210616T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirteenth game of the (delayed) EURO 2
+	020 competition between Group B rivals\, Finland and Russia.
+URL:https://trovster.github.io/euro-2020/finland-russia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Finland,Russia,St Petersburg,Group B,Group stages,EU
+	RO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:FeX308kBI1GdABfzURILy
+SUMMARY:Sweden v Slovakia
+DTSTAMP:20240616T152910Z
+DTSTART:20210618T130000Z
+DTEND:20210618T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe ninteenth game of the (delayed) EURO 20
+	20 competition between Group E rivals\, Sweden and Slovakia.
+URL:https://trovster.github.io/euro-2020/sweden-slovakia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Slovakia,St Petersburg,Group E,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:nsVU9MQZ6BySL40pxFFon
+SUMMARY:Finland v Belgium
+DTSTAMP:20240616T152910Z
+DTSTART:20210621T190000Z
+DTEND:20210621T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 30th game of the (delayed) EURO 2020 co
+	mpetition between Group B rivals\, Finland and Belgium.
+URL:https://trovster.github.io/euro-2020/finland-belgium/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Finland,Belgium,St Petersburg,Group B,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:bLWQQTS-o-aEqiKFmS87l
+SUMMARY:Sweden v Poland
+DTSTAMP:20240616T152910Z
+DTSTART:20210623T160000Z
+DTEND:20210623T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 34th game of the (delayed) EURO 2020 co
+	mpetition between Group E rivals\, Sweden and Poland.
+URL:https://trovster.github.io/euro-2020/sweden-poland/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Poland,St Petersburg,Group E,Group stages,EUR
+	O 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:wWXfpAveIkFHh_LdSY57_
+SUMMARY:Switzerland v Spain
+DTSTAMP:20240616T152910Z
+DTSTART:20210702T160000Z
+DTEND:20210702T175000Z
+DESCRIPTION:The 45th game of the (delayed) EURO 2020 competition between Kn
+	ockout 6 winners\, Switzerland and Knockout 5 winners\, Spain.
+URL:https://trovster.github.io/euro-2020/quarter-final-1/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Spain,St Petersburg,Knockout,Quarter Fin
+	al,EURO 2020
+END:VEVENT
+END:VCALENDAR

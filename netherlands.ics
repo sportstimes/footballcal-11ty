@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:VC9sQsN0RrhvYiNYNObLP
+SUMMARY:Netherlands v Ukraine
+DTSTAMP:20240616T152911Z
+DTSTART:20210613T190000Z
+DTEND:20210613T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe seventh game of the (delayed) EURO 2020
+	 competition between Group C rivals\, Netherlands and Ukraine.
+URL:https://trovster.github.io/euro-2020/netherlands-ukraine/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Ukraine,Amsterdam,Group C,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:OqBKR7AzQT_R8rK4WAUVC
+SUMMARY:Netherlands v Austria
+DTSTAMP:20240616T152911Z
+DTSTART:20210617T190000Z
+DTEND:20210617T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe eighteenth game of the (delayed) EURO 2
+	020 competition between Group C rivals\, Netherlands and Austria.
+URL:https://trovster.github.io/euro-2020/netherlands-austria/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Austria,Amsterdam,Group C,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:S_w9Ux79peS2jIVJ1CEt_
+SUMMARY:North Macedonia v Netherlands
+DTSTAMP:20240616T152911Z
+DTSTART:20210621T160000Z
+DTEND:20210621T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 27th game of the (delayed) EURO 2020 co
+	mpetition between Group C rivals\, North Macedonia and Netherlands.
+URL:https://trovster.github.io/euro-2020/north-macedonia-netherlands/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,North Macedonia,Netherlands,Amsterdam,Group C,Group 
+	stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:lxS0IXncdRW2tRQHXVYIw
+SUMMARY:Netherlands v Czech Republic
+DTSTAMP:20240616T152911Z
+DTSTART:20210627T160000Z
+DTEND:20210627T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 39th game of the (delayed) EURO 2020 co
+	mpetition between Group C winners Netherlands and Group D third place Czec
+	h Republic.
+URL:https://trovster.github.io/euro-2020/knockout-3/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Czech Republic,Budapest,Group C,Group D,
+	Group E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:A-BROaYiQHUY6JDNyLXfT
+SUMMARY:Poland v Netherlands
+DTSTAMP:20240616T152911Z
+DTSTART:20240616T130000Z
+DTEND:20240616T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
+	n between Group D competitors\, Poland and Netherlands.
+URL:https://trovster.github.io/euro-2024/poland-netherlands/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+END:VCALENDAR

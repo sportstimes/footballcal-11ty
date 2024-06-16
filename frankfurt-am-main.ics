@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:k2v8XU9HCxP4p4hzfXRuu
+SUMMARY:Belgium v Slovakia
+DTSTAMP:20240616T152911Z
+DTSTART:20240617T160000Z
+DTEND:20240617T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe ninth game of the EURO 2024 competitio
+	n between Group E competitors\, Belgium and Slovakia.
+URL:https://trovster.github.io/euro-2024/belgium-slovakia/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Slovakia,Frankfurt am Main,Group E,Group sta
+	ges,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:nu3YLviUZwcme9EYAKjBn
+SUMMARY:Denmark v England
+DTSTAMP:20240616T152911Z
+DTSTART:20240620T160000Z
+DTEND:20240620T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe seventeenth game of the EURO 2024 comp
+	etition between Group C competitors\, Denmark and England.
+URL:https://trovster.github.io/euro-2024/denmark-england/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,England,Frankfurt am Main,Group C,Group stag
+	es,EURO 2024
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:WEinM5DMOURfru_p0sP5d
+SUMMARY:Hungary v Switzerland
+DTSTAMP:20240616T152910Z
+DTSTART:20240615T130000Z
+DTEND:20240615T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe second game of the EURO 2024 competiti
+	on between Group A competitors\, Hungary and Switzerland.
+URL:https://trovster.github.io/euro-2024/hungary-switzerland/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,Switzerland,Cologne,Group A,Group stages,EUR
+	O 2024
+END:VEVENT
+END:VCALENDAR

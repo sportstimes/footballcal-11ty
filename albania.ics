@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:4FrYg1D8ln51TDK5INaWG
+SUMMARY:Italy v Albania
+DTSTAMP:20240616T152911Z
+DTSTART:20240615T190000Z
+DTEND:20240615T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fourth game of the EURO 2024 competiti
+	on between Group A competitors\, Italy v Albania.
+URL:https://trovster.github.io/euro-2024/italy-albania/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Albania,Dortmund,Group B,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:gjEmiYBkPNOPMWNK1YXrf
+SUMMARY:Croatia v Albania
+DTSTAMP:20240616T152911Z
+DTSTART:20240619T130000Z
+DTEND:20240619T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe thirteenth game of the EURO 2024 compe
+	tition between Group B competitors\, Croatia and Albania.
+URL:https://trovster.github.io/euro-2024/croatia-albania/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Albania,Hamburg,Group B,Group stages,EURO 20
+	24
+END:VEVENT
+END:VCALENDAR

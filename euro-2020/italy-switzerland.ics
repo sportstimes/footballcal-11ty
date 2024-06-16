@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:v9I6lYPDYEfJEsmjCVtNv
+SUMMARY:Italy v Switzerland
+DTSTAMP:20240616T152910Z
+DTSTART:20210616T190000Z
+DTEND:20210616T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe fifteenth game of the (delayed) EURO 20
+	20 competition between Group A rivals\, Italy and Switzerland.
+URL:https://trovster.github.io/euro-2020/italy-switzerland/
+LOCATION:Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Switzerland,Rome,Group A,Group stages,EURO 202
+	0
+END:VEVENT
+END:VCALENDAR

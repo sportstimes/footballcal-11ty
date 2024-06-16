@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ynNI4Cw_NqCDGPW4VQP5k
+SUMMARY:Sweden v Poland
+DTSTAMP:20240616T152910Z
+DTSTART:20210623T160000Z
+DTEND:20210623T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 34th game of the (delayed) EURO 2020 co
+	mpetition between Group E rivals\, Sweden and Poland.
+URL:https://trovster.github.io/euro-2020/sweden-poland/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Poland,St Petersburg,Group E,Group stages,EUR
+	O 2020
+END:VEVENT
+END:VCALENDAR

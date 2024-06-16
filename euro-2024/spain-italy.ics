@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:sX9c2p_xeDTDENzQcZUta
+SUMMARY:Spain v Italy
+DTSTAMP:20240616T152910Z
+DTSTART:20240620T190000Z
+DTEND:20240620T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe eighteenth game of the EURO 2024 compe
+	tition between Group B competitors\, Spain and Italy.
+URL:https://trovster.github.io/euro-2024/spain-italy/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Italy,Gelsenkirchen,Group B,Group stages,EURO 
+	2024
+END:VEVENT
+END:VCALENDAR

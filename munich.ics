@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:rqNsLiCFW7Kll3HB8eYir
+SUMMARY:France v Germany
+DTSTAMP:20240616T152911Z
+DTSTART:20210615T190000Z
+DTEND:20210615T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe twelfth game of the (delayed) EURO 2020
+	 competition between Group F rivals\, France and Germany.
+URL:https://trovster.github.io/euro-2020/france-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Munich,Group F,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:iVV86X7a-qQFi66dhIIBM
+SUMMARY:Portugal v Germany
+DTSTAMP:20240616T152911Z
+DTSTART:20210619T160000Z
+DTEND:20210619T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 23rd game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Portugal and Germany.
+URL:https://trovster.github.io/euro-2020/portugal-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Germany,Munich,Group F,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:-Dt7Hex2kGbDcJ_ROsh1t
+SUMMARY:Germany v Hungary
+DTSTAMP:20240616T152911Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 35th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Germany and Hungary.
+URL:https://trovster.github.io/euro-2020/germany-hungary/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Hungary,Munich,Group F,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:qdc7eEnR95mypuN3otXkH
+SUMMARY:Belgium v Italy
+DTSTAMP:20240616T152911Z
+DTSTART:20210702T190000Z
+DTEND:20210702T205000Z
+DESCRIPTION:The 46th game of the (delayed) EURO 2020 competition between Kn
+	ockout 4 winners\, Belgium and [Knockout 2 winners]((/euro-2020/knockout-2
+	)\, Italy.
+URL:https://trovster.github.io/euro-2020/quarter-final-2/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Italy,Munich,Knockout,Quarter Final,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:TTJj2VsE2GsVMO1-uUI2T
+SUMMARY:Germany v Scotland
+DTSTAMP:20240616T152911Z
+DTSTART:20240614T190000Z
+DTEND:20240614T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe first game of the EURO 2024 competitio
+	n between Group A competitors\, Germany and Scotland.
+URL:https://trovster.github.io/euro-2024/germany-scotland/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Scotland,Munich,Group A,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:OBXQxyYjSvG6vdjvB0J1z
+SUMMARY:Romania v Ukraine
+DTSTAMP:20240616T152911Z
+DTSTART:20240617T130000Z
+DTEND:20240617T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe eighth game of the EURO 2024 competiti
+	on between Group E competitors\, Romania and Ukraine.
+URL:https://trovster.github.io/euro-2024/romania-ukraine/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Romania,Ukraine,Munich,Group E,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:_HfGVS8ZLvo-tetIs93e0
+SUMMARY:Slovenia v Serbia
+DTSTAMP:20240616T152911Z
+DTSTART:20240620T130000Z
+DTEND:20240620T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe sixteenth game of the EURO 2024 compet
+	ition between Group C competitors\, Slovenia and Serbia.
+URL:https://trovster.github.io/euro-2024/slovenia-serbia/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovenia,Serbia,Munich,Group C,Group stages,EURO 202
+	4
+END:VEVENT
+END:VCALENDAR

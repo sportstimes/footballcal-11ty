@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:6c0LFw4DoEPHYKfVightB
+SUMMARY:Turkey v Georgia
+DTSTAMP:20240616T152911Z
+DTSTART:20240618T160000Z
+DTEND:20240618T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe eleventh game of the EURO 2024 competi
+	tion between Group F competitors\, Turkey and Georgia.
+URL:https://trovster.github.io/euro-2024/turkey-georgia/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Georgia,Dortmund,Group F,Group stages,EURO 20
+	24
+END:VEVENT
+END:VCALENDAR

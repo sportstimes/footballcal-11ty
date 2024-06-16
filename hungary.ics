@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:hx6OSmATWg5FMjA8KkXay
+SUMMARY:Hungary v Portugal
+DTSTAMP:20240616T152911Z
+DTSTART:20210615T160000Z
+DTEND:20210615T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe eleventh game of the (delayed) EURO 202
+	0 competition between Group F rivals\, Hungary and Portugal.
+URL:https://trovster.github.io/euro-2020/hungary-portugal/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,Portugal,Budapest,Group F,Group stages,EURO 
+	2020
+END:VEVENT
+BEGIN:VEVENT
+UID:VcoB4CwjKnrMcsjexms4Y
+SUMMARY:Hungary v France
+DTSTAMP:20240616T152911Z
+DTSTART:20210619T130000Z
+DTEND:20210619T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 22nd game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Hungary and France.
+URL:https://trovster.github.io/euro-2020/hungary-france/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,France,Budapest,Group F,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:RlORaQY2KHBZAkA8IoJfs
+SUMMARY:Germany v Hungary
+DTSTAMP:20240616T152911Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 35th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Germany and Hungary.
+URL:https://trovster.github.io/euro-2020/germany-hungary/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Hungary,Munich,Group F,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:kHR_60gnwdqxqZAOH9JAa
+SUMMARY:Hungary v Switzerland
+DTSTAMP:20240616T152911Z
+DTSTART:20240615T130000Z
+DTEND:20240615T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe second game of the EURO 2024 competiti
+	on between Group A competitors\, Hungary and Switzerland.
+URL:https://trovster.github.io/euro-2024/hungary-switzerland/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,Switzerland,Cologne,Group A,Group stages,EUR
+	O 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:n3J5CdoPL1ARG5oPhWp-a
+SUMMARY:Germany v Hungary
+DTSTAMP:20240616T152911Z
+DTSTART:20240619T160000Z
+DTEND:20240619T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fourteenth game of the EURO 2024 compe
+	tition between Group A competitors\, Germany and Hungary.
+URL:https://trovster.github.io/euro-2024/germany-hungary/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Hungary,Stuttgart,Group A,Group stages,EURO 
+	2024
+END:VEVENT
+END:VCALENDAR

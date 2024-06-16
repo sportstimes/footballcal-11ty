@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:_TdQRLZ97al-Fb-zu1137
+SUMMARY:Poland v Slovakia
+DTSTAMP:20240616T152911Z
+DTSTART:20210614T160000Z
+DTEND:20210614T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe ninth game of the (delayed) EURO 2020 c
+	ompetition between Group E rivals\, Poland and Slovakia.
+URL:https://trovster.github.io/euro-2020/poland-slovakia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Slovakia,St Petersburg,Group E,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:8GACOV2tok3VSdvZyWrwL
+SUMMARY:Sweden v Slovakia
+DTSTAMP:20240616T152911Z
+DTSTART:20210618T130000Z
+DTEND:20210618T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe ninteenth game of the (delayed) EURO 20
+	20 competition between Group E rivals\, Sweden and Slovakia.
+URL:https://trovster.github.io/euro-2020/sweden-slovakia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Slovakia,St Petersburg,Group E,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:aWD3v-GRFA5saubD6sbwx
+SUMMARY:Slovakia v Spain
+DTSTAMP:20240616T152911Z
+DTSTART:20210623T160000Z
+DTEND:20210623T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 33rd game of the (delayed) EURO 2020 co
+	mpetition between Group E rivals\, Slovakia and Spain.
+URL:https://trovster.github.io/euro-2020/slovakia-spain/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovakia,Spain,Seville,Group E,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:_W6Oy-txjG_pQn1dI-BRv
+SUMMARY:Belgium v Slovakia
+DTSTAMP:20240616T152911Z
+DTSTART:20240617T160000Z
+DTEND:20240617T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe ninth game of the EURO 2024 competitio
+	n between Group E competitors\, Belgium and Slovakia.
+URL:https://trovster.github.io/euro-2024/belgium-slovakia/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Slovakia,Frankfurt am Main,Group E,Group sta
+	ges,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:1JiE-lnnLagh-2qMT8uun
+SUMMARY:Slovakia v Ukraine
+DTSTAMP:20240616T152911Z
+DTSTART:20240621T130000Z
+DTEND:20240621T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe ninteenth game of the EURO 2024 compet
+	ition between Group E competitors\, Slovakia and Ukraine.
+URL:https://trovster.github.io/euro-2024/slovakia-ukraine/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovakia,Ukraine,Dusseldorf,Group E,Group stages,EUR
+	O 2024
+END:VEVENT
+END:VCALENDAR

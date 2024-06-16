@@ -1,0 +1,177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:bVLSw4bg_x3vyD-385q4s
+SUMMARY:Hungary v Portugal
+DTSTAMP:20240616T152911Z
+DTSTART:20210615T160000Z
+DTEND:20210615T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe eleventh game of the (delayed) EURO 202
+	0 competition between Group F rivals\, Hungary and Portugal.
+URL:https://trovster.github.io/euro-2020/hungary-portugal/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,Portugal,Budapest,Group F,Group stages,EURO 
+	2020
+END:VEVENT
+BEGIN:VEVENT
+UID:YhTqNyinXgRFOc_alLy_H
+SUMMARY:France v Germany
+DTSTAMP:20240616T152911Z
+DTSTART:20210615T190000Z
+DTEND:20210615T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe twelfth game of the (delayed) EURO 2020
+	 competition between Group F rivals\, France and Germany.
+URL:https://trovster.github.io/euro-2020/france-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Munich,Group F,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:VjbYUBEJ2YR14G6v1ld97
+SUMMARY:Hungary v France
+DTSTAMP:20240616T152911Z
+DTSTART:20210619T130000Z
+DTEND:20210619T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 22nd game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Hungary and France.
+URL:https://trovster.github.io/euro-2020/hungary-france/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,France,Budapest,Group F,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:CyKJSojWn1GedAmxjNPDa
+SUMMARY:Portugal v Germany
+DTSTAMP:20240616T152911Z
+DTSTART:20210619T160000Z
+DTEND:20210619T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 23rd game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Portugal and Germany.
+URL:https://trovster.github.io/euro-2020/portugal-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Germany,Munich,Group F,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:8oi8qPlICbLnJulh5lEOd
+SUMMARY:Germany v Hungary
+DTSTAMP:20240616T152911Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 35th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Germany and Hungary.
+URL:https://trovster.github.io/euro-2020/germany-hungary/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Hungary,Munich,Group F,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:unzIcUHxabNQe_Qpl9XQ9
+SUMMARY:Portugal v France
+DTSTAMP:20240616T152911Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 36th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Portugal and France.
+URL:https://trovster.github.io/euro-2020/portugal-france/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,France,Budapest,Group F,Group stages,EURO 2
+	020
+END:VEVENT
+BEGIN:VEVENT
+UID:x-sfD6NsNUZrfDa5TTbAM
+SUMMARY:Netherlands v Czech Republic
+DTSTAMP:20240616T152911Z
+DTSTART:20210627T160000Z
+DTEND:20210627T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 39th game of the (delayed) EURO 2020 co
+	mpetition between Group C winners Netherlands and Group D third place Czec
+	h Republic.
+URL:https://trovster.github.io/euro-2020/knockout-3/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Czech Republic,Budapest,Group C,Group D,
+	Group E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:B2PkjdvU-7TY09rvGirlt
+SUMMARY:Belgium v Portugal
+DTSTAMP:20240616T152911Z
+DTSTART:20210627T190000Z
+DTEND:20210627T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
+	mpetition between Group B winners Belgium and Group F third place Portugal
+	.
+URL:https://trovster.github.io/euro-2020/knockout-4/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
+	up E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:AbEGIcyOHdVEesq4_2UhI
+SUMMARY:France v Switzerland
+DTSTAMP:20240616T152911Z
+DTSTART:20210628T190000Z
+DTEND:20210628T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
+	mpetition between Group F winners France and Group A third place Switzerla
+	nd.
+URL:https://trovster.github.io/euro-2020/knockout-6/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
+	,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:6H004czwAseKTSdfpBcM2
+SUMMARY:England v Germany
+DTSTAMP:20240616T152911Z
+DTSTART:20210629T160000Z
+DTEND:20210629T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
+	mpetition between Group D winners England and Group F runners-up Germany.
+URL:https://trovster.github.io/euro-2020/knockout-7/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou
+	p of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:d_Wtl6d0P3Ts0ZN4H1Lbk
+SUMMARY:Turkey v Georgia
+DTSTAMP:20240616T152911Z
+DTSTART:20240618T160000Z
+DTEND:20240618T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe eleventh game of the EURO 2024 competi
+	tion between Group F competitors\, Turkey and Georgia.
+URL:https://trovster.github.io/euro-2024/turkey-georgia/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Georgia,Dortmund,Group F,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:zbGimEe_kNOTh7ipnXRKn
+SUMMARY:Portugal v Czechia
+DTSTAMP:20240616T152911Z
+DTSTART:20240618T190000Z
+DTEND:20240618T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twelfth game of the EURO 2024 competit
+	ion between Group F competitors\, Portugal and Czechia.
+URL:https://trovster.github.io/euro-2024/portugal-czechia/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Czechia,Leipzig,Group F,Group stages,EURO 2
+	024
+END:VEVENT
+END:VCALENDAR

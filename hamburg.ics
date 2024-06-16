@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:7XsimielUbGd8_bUr4bq4
+SUMMARY:Poland v Netherlands
+DTSTAMP:20240616T152911Z
+DTSTART:20240616T130000Z
+DTEND:20240616T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
+	n between Group D competitors\, Poland and Netherlands.
+URL:https://trovster.github.io/euro-2024/poland-netherlands/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:DwCsWp9kX-BqqtUqihUgT
+SUMMARY:Croatia v Albania
+DTSTAMP:20240616T152911Z
+DTSTART:20240619T130000Z
+DTEND:20240619T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe thirteenth game of the EURO 2024 compe
+	tition between Group B competitors\, Croatia and Albania.
+URL:https://trovster.github.io/euro-2024/croatia-albania/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Albania,Hamburg,Group B,Group stages,EURO 20
+	24
+END:VEVENT
+END:VCALENDAR

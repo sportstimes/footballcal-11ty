@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Kw9Uu_Psh-YstAe2syfvg
+SUMMARY:Netherlands v Ukraine
+DTSTAMP:20240616T152911Z
+DTSTART:20210613T190000Z
+DTEND:20210613T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe seventh game of the (delayed) EURO 2020
+	 competition between Group C rivals\, Netherlands and Ukraine.
+URL:https://trovster.github.io/euro-2020/netherlands-ukraine/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Ukraine,Amsterdam,Group C,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:mZBPLCAg_AUJPV9F0BRgG
+SUMMARY:Ukraine v North Macedonia
+DTSTAMP:20240616T152911Z
+DTSTART:20210617T130000Z
+DTEND:20210617T145000Z
+DESCRIPTION:TV Channels: ITV\n\nThe sixteenth game of the (delayed) EURO 20
+	20 competition between Group C rivals\, Ukraine and North Macedonia.
+URL:https://trovster.github.io/euro-2020/ukraine-north-macedonia/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ukraine,North Macedonia,Bucharest,Group C,Group stag
+	es,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:IALuT-82UdRNrBhz1GHKT
+SUMMARY:Ukraine v Austria
+DTSTAMP:20240616T152911Z
+DTSTART:20210621T160000Z
+DTEND:20210621T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 28th game of the (delayed) EURO 2020 co
+	mpetition between Group C rivals\, Ukraine and Austria.
+URL:https://trovster.github.io/euro-2020/ukraine-austria/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ukraine,Austria,Bucharest,Group C,Group stages,EURO 
+	2020
+END:VEVENT
+BEGIN:VEVENT
+UID:MX_LI-rmpBzE8B99CZauJ
+SUMMARY:Sweden v Ukraine
+DTSTAMP:20240616T152911Z
+DTSTART:20210629T190000Z
+DTEND:20210629T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
+	mpetition between Group E winners Sweden and Group C third place Ukraine.
+URL:https://trovster.github.io/euro-2020/knockout-8/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group 
+	D,Group E,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:EC4lgBheOTDO1CMNA1Wor
+SUMMARY:Ukraine v England
+DTSTAMP:20240616T152911Z
+DTSTART:20210703T190000Z
+DTEND:20210703T205000Z
+DESCRIPTION:The 48th game of the (delayed) EURO 2020 competition between Kn
+	ockout 8 winners\, Ukraine and Knockout 7 winners\, England.
+URL:https://trovster.github.io/euro-2020/quarter-final-4/
+LOCATION:Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ukraine,England,Rome,Knockout,Quarter Final,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:G4zdrmba9h-hn9jJJ0Li9
+SUMMARY:Romania v Ukraine
+DTSTAMP:20240616T152911Z
+DTSTART:20240617T130000Z
+DTEND:20240617T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe eighth game of the EURO 2024 competiti
+	on between Group E competitors\, Romania and Ukraine.
+URL:https://trovster.github.io/euro-2024/romania-ukraine/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Romania,Ukraine,Munich,Group E,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:LUNBevd_Pq8s3SA3NlF6l
+SUMMARY:Slovakia v Ukraine
+DTSTAMP:20240616T152911Z
+DTSTART:20240621T130000Z
+DTEND:20240621T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe ninteenth game of the EURO 2024 compet
+	ition between Group E competitors\, Slovakia and Ukraine.
+URL:https://trovster.github.io/euro-2024/slovakia-ukraine/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovakia,Ukraine,Dusseldorf,Group E,Group stages,EUR
+	O 2024
+END:VEVENT
+END:VCALENDAR

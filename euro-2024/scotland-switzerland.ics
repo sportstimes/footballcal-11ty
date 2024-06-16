@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:NTe3i_yjuRo1Pcb2icjNF
+SUMMARY:Scotland v Switzerland
+DTSTAMP:20240616T152910Z
+DTSTART:20240619T190000Z
+DTEND:20240619T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe fifteenth game of the EURO 2024 competi
+	tion between Group A competitors\, Scotland and Switerland.
+URL:https://trovster.github.io/euro-2024/scotland-switzerland/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Switzerland,Cologne,Group A,Group stages,EU
+	RO 2024
+END:VEVENT
+END:VCALENDAR

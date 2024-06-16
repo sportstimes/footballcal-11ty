@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:xaaU4msu1P0O32h6U-gyZ
+SUMMARY:Italy v Spain
+DTSTAMP:20240616T152910Z
+DTSTART:20210706T190000Z
+DTEND:20210706T205000Z
+DESCRIPTION:The 49th game of the (delayed) EURO 2020 competition between Qu
+	arter Final 2 winners\, Italy and Quarter Final 1 winners\, Spain.
+URL:https://trovster.github.io/euro-2020/semi-final-1/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Spain,London,Knockout,Semi Final,EURO 2020
+END:VEVENT
+END:VCALENDAR

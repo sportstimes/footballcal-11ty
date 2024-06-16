@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:L9eApIZ-ZN4lZrVPodBhZ
+SUMMARY:Serbia v England
+DTSTAMP:20240616T152911Z
+DTSTART:20240616T190000Z
+DTEND:20240616T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe seventh game of the EURO 2024 competit
+	ion between Group C competitors\, Serbia and England.
+URL:https://trovster.github.io/euro-2024/serbia-england/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Serbia,England,Gelsenkirchen,Group C,Group stages,EU
+	RO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:jqC2aN0j1NOZ3yUSFtuYK
+SUMMARY:Slovenia v Serbia
+DTSTAMP:20240616T152911Z
+DTSTART:20240620T130000Z
+DTEND:20240620T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe sixteenth game of the EURO 2024 compet
+	ition between Group C competitors\, Slovenia and Serbia.
+URL:https://trovster.github.io/euro-2024/slovenia-serbia/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovenia,Serbia,Munich,Group C,Group stages,EURO 202
+	4
+END:VEVENT
+END:VCALENDAR

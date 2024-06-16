@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:8n4tBRhvC2b7eIhXbFiUy
+SUMMARY:Serbia v England
+DTSTAMP:20240616T152911Z
+DTSTART:20240616T190000Z
+DTEND:20240616T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe seventh game of the EURO 2024 competit
+	ion between Group C competitors\, Serbia and England.
+URL:https://trovster.github.io/euro-2024/serbia-england/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Serbia,England,Gelsenkirchen,Group C,Group stages,EU
+	RO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:0_-lnne2PZHHpqfTu3Sp4
+SUMMARY:Spain v Italy
+DTSTAMP:20240616T152911Z
+DTSTART:20240620T190000Z
+DTEND:20240620T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe eighteenth game of the EURO 2024 compe
+	tition between Group B competitors\, Spain and Italy.
+URL:https://trovster.github.io/euro-2024/spain-italy/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Italy,Gelsenkirchen,Group B,Group stages,EURO 
+	2024
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:QOpnaKH6l8Ynucc93o2BZ
+SUMMARY:Ukraine v North Macedonia
+DTSTAMP:20240616T152910Z
+DTSTART:20210617T130000Z
+DTEND:20210617T145000Z
+DESCRIPTION:TV Channels: ITV\n\nThe sixteenth game of the (delayed) EURO 20
+	20 competition between Group C rivals\, Ukraine and North Macedonia.
+URL:https://trovster.github.io/euro-2020/ukraine-north-macedonia/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ukraine,North Macedonia,Bucharest,Group C,Group stag
+	es,EURO 2020
+END:VEVENT
+END:VCALENDAR

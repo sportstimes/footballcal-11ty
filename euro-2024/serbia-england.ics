@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:GhtjnJYqmOSy8zQWXwNOV
+SUMMARY:Serbia v England
+DTSTAMP:20240616T152910Z
+DTSTART:20240616T190000Z
+DTEND:20240616T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe seventh game of the EURO 2024 competit
+	ion between Group C competitors\, Serbia and England.
+URL:https://trovster.github.io/euro-2024/serbia-england/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Serbia,England,Gelsenkirchen,Group C,Group stages,EU
+	RO 2024
+END:VEVENT
+END:VCALENDAR

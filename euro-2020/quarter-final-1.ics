@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:wcNuPQb5kbOjoYuLX3NEF
+SUMMARY:Switzerland v Spain
+DTSTAMP:20240616T152910Z
+DTSTART:20210702T160000Z
+DTEND:20210702T175000Z
+DESCRIPTION:The 45th game of the (delayed) EURO 2020 competition between Kn
+	ockout 6 winners\, Switzerland and Knockout 5 winners\, Spain.
+URL:https://trovster.github.io/euro-2020/quarter-final-1/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Spain,St Petersburg,Knockout,Quarter Fin
+	al,EURO 2020
+END:VEVENT
+END:VCALENDAR

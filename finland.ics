@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:23wcxAQfx8VRJKLXBLiEr
+SUMMARY:Denmark v Finland
+DTSTAMP:20240616T152911Z
+DTSTART:20210612T160000Z
+DTEND:20210612T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe third game of the (delayed) EURO 2020 c
+	ompetition between Group B rivals\, Denmark and Finland.
+URL:https://trovster.github.io/euro-2020/denmark-finland/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Finland,Copenhagen,Group B,Group stages,EURO
+	 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:cBMXl7G30SFyyUpKdEFWH
+SUMMARY:Finland v Russia
+DTSTAMP:20240616T152911Z
+DTSTART:20210616T130000Z
+DTEND:20210616T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirteenth game of the (delayed) EURO 2
+	020 competition between Group B rivals\, Finland and Russia.
+URL:https://trovster.github.io/euro-2020/finland-russia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Finland,Russia,St Petersburg,Group B,Group stages,EU
+	RO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:ClLiArN1KkTRaBwPG6b4m
+SUMMARY:Finland v Belgium
+DTSTAMP:20240616T152911Z
+DTSTART:20210621T190000Z
+DTEND:20210621T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 30th game of the (delayed) EURO 2020 co
+	mpetition between Group B rivals\, Finland and Belgium.
+URL:https://trovster.github.io/euro-2020/finland-belgium/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Finland,Belgium,St Petersburg,Group B,Group stages,E
+	URO 2020
+END:VEVENT
+END:VCALENDAR

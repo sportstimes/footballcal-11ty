@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:TkWVBizTDWdcKY5H-eTGJ
+SUMMARY:Slovenia v Denmark
+DTSTAMP:20240616T152911Z
+DTSTART:20240616T160000Z
+DTEND:20240616T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe sixth game of the EURO 2024 competitio
+	n between Group C competitors\, Slovenia and Denmark.
+URL:https://trovster.github.io/euro-2024/slovenia-denmark/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovenia,Denmark,Stuttgart,Group C,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:nclStc7DwUc8OPsl_fyva
+SUMMARY:Germany v Hungary
+DTSTAMP:20240616T152911Z
+DTSTART:20240619T160000Z
+DTEND:20240619T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fourteenth game of the EURO 2024 compe
+	tition between Group A competitors\, Germany and Hungary.
+URL:https://trovster.github.io/euro-2024/germany-hungary/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Hungary,Stuttgart,Group A,Group stages,EURO 
+	2024
+END:VEVENT
+END:VCALENDAR

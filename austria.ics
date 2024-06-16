@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:sgrgtqXepW5uN7Lguxwdj
+SUMMARY:Austria v North Macedonia
+DTSTAMP:20240616T152910Z
+DTSTART:20210613T160000Z
+DTEND:20210613T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe sixth game of the (delayed) EURO 2020 c
+	ompetition between Group C rivals\, Austria and North Macedonia.
+URL:https://trovster.github.io/euro-2020/austria-north-macedonia/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,North Macedonia,Bucharest,Group C,Group stag
+	es,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:sz1x13pTacDgaBwqEC9Rz
+SUMMARY:Netherlands v Austria
+DTSTAMP:20240616T152910Z
+DTSTART:20210617T190000Z
+DTEND:20210617T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe eighteenth game of the (delayed) EURO 2
+	020 competition between Group C rivals\, Netherlands and Austria.
+URL:https://trovster.github.io/euro-2020/netherlands-austria/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Austria,Amsterdam,Group C,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:WCqjWloxMV_E98L0ZsUxj
+SUMMARY:Ukraine v Austria
+DTSTAMP:20240616T152910Z
+DTSTART:20210621T160000Z
+DTEND:20210621T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 28th game of the (delayed) EURO 2020 co
+	mpetition between Group C rivals\, Ukraine and Austria.
+URL:https://trovster.github.io/euro-2020/ukraine-austria/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ukraine,Austria,Bucharest,Group C,Group stages,EURO 
+	2020
+END:VEVENT
+BEGIN:VEVENT
+UID:Z0j42EOhFaHyA9j-4HV_B
+SUMMARY:Italy v Austria
+DTSTAMP:20240616T152910Z
+DTSTART:20210626T190000Z
+DTEND:20210626T205000Z
+DESCRIPTION:The 38th game of the (delayed) EURO 2020 competition between Gr
+	oup A winners Italy and Group C runners-up Austria.
+URL:https://trovster.github.io/euro-2020/knockout-2/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Austria,London,Group A,Group C,Knockout,Group 
+	of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:92kMB-DcsHHE9zFZDcqXY
+SUMMARY:Austria v France
+DTSTAMP:20240616T152910Z
+DTSTART:20240617T190000Z
+DTEND:20240617T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
+	n between Group D competitors\, Austria and France.
+URL:https://trovster.github.io/euro-2024/austria-france/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO 
+	2024
+END:VEVENT
+BEGIN:VEVENT
+UID:RTjByCORLPTrkFKwW2a0N
+SUMMARY:Poland v Austria
+DTSTAMP:20240616T152910Z
+DTSTART:20240621T160000Z
+DTEND:20240621T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twentieth game of the EURO 2024 compet
+	ition between Group D competitors\, Poland and Austria.
+URL:https://trovster.github.io/euro-2024/poland-austria/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Austria,Berlin,Group D,Group stages,EURO 2024
+END:VEVENT
+END:VCALENDAR

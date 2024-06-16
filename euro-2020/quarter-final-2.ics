@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:-CMxllpy9LFz50CobXPFl
+SUMMARY:Belgium v Italy
+DTSTAMP:20240616T152910Z
+DTSTART:20210702T190000Z
+DTEND:20210702T205000Z
+DESCRIPTION:The 46th game of the (delayed) EURO 2020 competition between Kn
+	ockout 4 winners\, Belgium and [Knockout 2 winners]((/euro-2020/knockout-2
+	)\, Italy.
+URL:https://trovster.github.io/euro-2020/quarter-final-2/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Italy,Munich,Knockout,Quarter Final,EURO 202
+	0
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:dERNW90YOFgw0LupvxJm6
+SUMMARY:Slovakia v Spain
+DTSTAMP:20240616T152910Z
+DTSTART:20210623T160000Z
+DTEND:20210623T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 33rd game of the (delayed) EURO 2020 co
+	mpetition between Group E rivals\, Slovakia and Spain.
+URL:https://trovster.github.io/euro-2020/slovakia-spain/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovakia,Spain,Seville,Group E,Group stages,EURO 202
+	0
+END:VEVENT
+END:VCALENDAR

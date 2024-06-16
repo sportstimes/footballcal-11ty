@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:2mmbfccyGWTCxiLP0bjvP
+SUMMARY:Denmark v Finland
+DTSTAMP:20240616T152910Z
+DTSTART:20210612T160000Z
+DTEND:20210612T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe third game of the (delayed) EURO 2020 c
+	ompetition between Group B rivals\, Denmark and Finland.
+URL:https://trovster.github.io/euro-2020/denmark-finland/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Finland,Copenhagen,Group B,Group stages,EURO
+	 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:P9w-r8OkaWumhfD-ww9eT
+SUMMARY:Belgium v Russia
+DTSTAMP:20240616T152910Z
+DTSTART:20210612T190000Z
+DTEND:20210612T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe fourth game of the (delayed) EURO 2020 
+	competition between Group B rivals\, Beligum and Russia.
+URL:https://trovster.github.io/euro-2020/belgium-russia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Russia,St Petersburg,Group B,Group stages,EU
+	RO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:j54jqY1iVC0869Hzea4l5
+SUMMARY:Finland v Russia
+DTSTAMP:20240616T152910Z
+DTSTART:20210616T130000Z
+DTEND:20210616T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirteenth game of the (delayed) EURO 2
+	020 competition between Group B rivals\, Finland and Russia.
+URL:https://trovster.github.io/euro-2020/finland-russia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Finland,Russia,St Petersburg,Group B,Group stages,EU
+	RO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:0b1041o-vXWeeAb8vkIqO
+SUMMARY:Denmark v Belgium
+DTSTAMP:20240616T152910Z
+DTSTART:20210617T160000Z
+DTEND:20210617T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe seventeenth game of the (delayed) EURO 
+	2020 competition between Group B rivals\, Denmark and Belgium.
+URL:https://trovster.github.io/euro-2020/denmark-belgium/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Belgium,Copenhagen,Group B,Group stages,EURO
+	 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:i2wizXQPp3QZvS310DPwb
+SUMMARY:Finland v Belgium
+DTSTAMP:20240616T152910Z
+DTSTART:20210621T190000Z
+DTEND:20210621T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 30th game of the (delayed) EURO 2020 co
+	mpetition between Group B rivals\, Finland and Belgium.
+URL:https://trovster.github.io/euro-2020/finland-belgium/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Finland,Belgium,St Petersburg,Group B,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:iyUqfjUL-bLRh_uSEVgT8
+SUMMARY:Russia v Denmark
+DTSTAMP:20240616T152910Z
+DTSTART:20210621T190000Z
+DTEND:20210621T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 29th game of the (delayed) EURO 2020 co
+	mpetition between Group B rivals\, Russia and Denmark.
+URL:https://trovster.github.io/euro-2020/russia-denmark/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Russia,Denmark,Copenhagen,Group B,Group stages,EURO 
+	2020
+END:VEVENT
+BEGIN:VEVENT
+UID:oPSxYlHmBcI-wBm4PQvll
+SUMMARY:Wales v Denmark
+DTSTAMP:20240616T152910Z
+DTSTART:20210626T160000Z
+DTEND:20210626T175000Z
+DESCRIPTION:The 37th game of the (delayed) EURO 2020 competition between Gr
+	oup A runners-up Wales and Group B runners-up Denmark.
+URL:https://trovster.github.io/euro-2020/knockout-1/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Denmark,Amsterdam,Group A,Group B,Knockout,Gro
+	up of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:VVYsnzTMhmB7sVrSLW3Pq
+SUMMARY:Belgium v Portugal
+DTSTAMP:20240616T152910Z
+DTSTART:20210627T190000Z
+DTEND:20210627T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
+	mpetition between Group B winners Belgium and Group F third place Portugal
+	.
+URL:https://trovster.github.io/euro-2020/knockout-4/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
+	up E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:sdxQq0ZF7G22WK5XXX3QB
+SUMMARY:France v Switzerland
+DTSTAMP:20240616T152910Z
+DTSTART:20210628T190000Z
+DTEND:20210628T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
+	mpetition between Group F winners France and Group A third place Switzerla
+	nd.
+URL:https://trovster.github.io/euro-2020/knockout-6/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
+	,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:gVpjcJGy_Fuh1jgbxcfpB
+SUMMARY:Sweden v Ukraine
+DTSTAMP:20240616T152910Z
+DTSTART:20210629T190000Z
+DTEND:20210629T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
+	mpetition between Group E winners Sweden and Group C third place Ukraine.
+URL:https://trovster.github.io/euro-2020/knockout-8/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group 
+	D,Group E,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:FzhMU5pHdt8rk3jM8xcMj
+SUMMARY:Spain v Croatia
+DTSTAMP:20240616T152910Z
+DTSTART:20240615T160000Z
+DTEND:20240615T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe third game of the EURO 2024 competitio
+	n between Group A competitors\, Spain and Croatia.
+URL:https://trovster.github.io/euro-2024/spain-croatia/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Croatia,Berlin,Group B,Group stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:V2-2AmdZYGMK8sfH7E-ON
+SUMMARY:Italy v Albania
+DTSTAMP:20240616T152910Z
+DTSTART:20240615T190000Z
+DTEND:20240615T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fourth game of the EURO 2024 competiti
+	on between Group A competitors\, Italy v Albania.
+URL:https://trovster.github.io/euro-2024/italy-albania/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Albania,Dortmund,Group B,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:9FSFKbIYxASWlbLrcruTL
+SUMMARY:Croatia v Albania
+DTSTAMP:20240616T152910Z
+DTSTART:20240619T130000Z
+DTEND:20240619T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe thirteenth game of the EURO 2024 compe
+	tition between Group B competitors\, Croatia and Albania.
+URL:https://trovster.github.io/euro-2024/croatia-albania/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Albania,Hamburg,Group B,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:LXhsJ2QLGF3J49bkQrmfc
+SUMMARY:Spain v Italy
+DTSTAMP:20240616T152910Z
+DTSTART:20240620T190000Z
+DTEND:20240620T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe eighteenth game of the EURO 2024 compe
+	tition between Group B competitors\, Spain and Italy.
+URL:https://trovster.github.io/euro-2024/spain-italy/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Italy,Gelsenkirchen,Group B,Group stages,EURO 
+	2024
+END:VEVENT
+END:VCALENDAR

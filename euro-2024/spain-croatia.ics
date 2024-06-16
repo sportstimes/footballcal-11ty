@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:M8lW-m0peR4Ks_UDPdnLQ
+SUMMARY:Spain v Croatia
+DTSTAMP:20240616T152910Z
+DTSTART:20240615T160000Z
+DTEND:20240615T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe third game of the EURO 2024 competitio
+	n between Group A competitors\, Spain and Croatia.
+URL:https://trovster.github.io/euro-2024/spain-croatia/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Croatia,Berlin,Group B,Group stages,EURO 2024
+END:VEVENT
+END:VCALENDAR

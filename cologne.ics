@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:elcNioYhr-PHx9isFP1j2
+SUMMARY:Hungary v Switzerland
+DTSTAMP:20240616T152911Z
+DTSTART:20240615T130000Z
+DTEND:20240615T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe second game of the EURO 2024 competiti
+	on between Group A competitors\, Hungary and Switzerland.
+URL:https://trovster.github.io/euro-2024/hungary-switzerland/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,Switzerland,Cologne,Group A,Group stages,EUR
+	O 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:TusbXQOid43hy6clEch5t
+SUMMARY:Scotland v Switzerland
+DTSTAMP:20240616T152911Z
+DTSTART:20240619T190000Z
+DTEND:20240619T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe fifteenth game of the EURO 2024 competi
+	tion between Group A competitors\, Scotland and Switerland.
+URL:https://trovster.github.io/euro-2024/scotland-switzerland/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Switzerland,Cologne,Group A,Group stages,EU
+	RO 2024
+END:VEVENT
+END:VCALENDAR

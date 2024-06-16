@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:1avUTkvoNXu3GGR4vV-fJ
+SUMMARY:Wales v Switzerland
+DTSTAMP:20240616T152911Z
+DTSTART:20210612T130000Z
+DTEND:20210612T145000Z
+DESCRIPTION:TV Channels: BBC\, S4C\n\nThe second game of the (delayed) EURO
+	 2020 competition between Group A rivals\, Wales &amp\; Switzerland.
+URL:https://trovster.github.io/euro-2020/wales-switzerland/
+LOCATION:Baku
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Switzerland,Baku,Group A,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:Nk8qWi449DuhF_h99aSUi
+SUMMARY:Turkey v Wales
+DTSTAMP:20240616T152911Z
+DTSTART:20210616T160000Z
+DTEND:20210616T175000Z
+DESCRIPTION:TV Channels: BBC\, S4C\n\nThe fourteenth game of the (delayed) 
+	EURO 2020 competition between Group A rivals\, Turkey and Wales.
+URL:https://trovster.github.io/euro-2020/turkey-wales/
+LOCATION:Baku
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Wales,Baku,Group A,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:mPpMvSb1JGCrFk9saRg_e
+SUMMARY:Italy v Wales
+DTSTAMP:20240616T152911Z
+DTSTART:20210620T160000Z
+DTEND:20210620T175000Z
+DESCRIPTION:TV Channels: ITV\, S4C\n\nThe 25th game of the (delayed) EURO 2
+	020 competition between Group A rivals\, Italy and Wales.
+URL:https://trovster.github.io/euro-2020/italy-wales/
+LOCATION:Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Wales,Rome,Group A,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:mNhjtvPpddcd24bIVdJ2O
+SUMMARY:Wales v Denmark
+DTSTAMP:20240616T152911Z
+DTSTART:20210626T160000Z
+DTEND:20210626T175000Z
+DESCRIPTION:The 37th game of the (delayed) EURO 2020 competition between Gr
+	oup A runners-up Wales and Group B runners-up Denmark.
+URL:https://trovster.github.io/euro-2020/knockout-1/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Denmark,Amsterdam,Group A,Group B,Knockout,Gro
+	up of 16,EURO 2020
+END:VEVENT
+END:VCALENDAR

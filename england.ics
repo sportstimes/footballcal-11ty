@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Na6D3GdsGtnq4o2XbL7N-
+SUMMARY:England v Croatia
+DTSTAMP:20240616T152910Z
+DTSTART:20210613T130000Z
+DTEND:20210613T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe fifth game of the (delayed) EURO 2020 c
+	ompetition between Group D rivals\, England and Croatia.
+URL:https://trovster.github.io/euro-2020/england-croatia/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Croatia,London,Group D,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:nqv90RUn6AjoKo0Yj6v8L
+SUMMARY:England v Scotland
+DTSTAMP:20240616T152910Z
+DTSTART:20210618T190000Z
+DTEND:20210618T205000Z
+DESCRIPTION:TV Channels: ITV\, STV\n\nThe 21st game of the (delayed) EURO 2
+	020 competition between Group D rivals\, England and Scotland.
+URL:https://trovster.github.io/euro-2020/england-scotland/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Scotland,London,Group D,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:85KIYc3mZIHrJSobjPn6T
+SUMMARY:Czech Republic v England
+DTSTAMP:20240616T152910Z
+DTSTART:20210622T190000Z
+DTEND:20210622T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 31st game of the (delayed) EURO 2020 co
+	mpetition between Group D rivals\, Czech Republic and England.
+URL:https://trovster.github.io/euro-2020/czech-republic-england/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Czech Republic,England,London,Group D,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:NOPDph0m8JYseQrTfkncH
+SUMMARY:England v Germany
+DTSTAMP:20240616T152910Z
+DTSTART:20210629T160000Z
+DTEND:20210629T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
+	mpetition between Group D winners England and Group F runners-up Germany.
+URL:https://trovster.github.io/euro-2020/knockout-7/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou
+	p of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:1XK707NDWYasxVl3_VGSU
+SUMMARY:Ukraine v England
+DTSTAMP:20240616T152910Z
+DTSTART:20210703T190000Z
+DTEND:20210703T205000Z
+DESCRIPTION:The 48th game of the (delayed) EURO 2020 competition between Kn
+	ockout 8 winners\, Ukraine and Knockout 7 winners\, England.
+URL:https://trovster.github.io/euro-2020/quarter-final-4/
+LOCATION:Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ukraine,England,Rome,Knockout,Quarter Final,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:c82mn0KNbot5LDPDQYek-
+SUMMARY:England v Denmark
+DTSTAMP:20240616T152910Z
+DTSTART:20210707T190000Z
+DTEND:20210707T205000Z
+DESCRIPTION:The 50th game of the (delayed) EURO 2020 competition between Qu
+	arter Final 4 winners\, England and Quarter Final 3 winners\, Denmark.
+URL:https://trovster.github.io/euro-2020/semi-final-2/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Denmark,London,Knockout,Semi Final,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:gLNhKPOjvI4kH5U49kIdf
+SUMMARY:Italy v England
+DTSTAMP:20240616T152910Z
+DTSTART:20210711T190000Z
+DTEND:20210711T205000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe 51st game of the (delayed) EURO 2
+	020 competition between Semi Final 1 winners\, Italy and Semi Final 2 winn
+	ers\, England.
+URL:https://trovster.github.io/euro-2020/final/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,England,London,Knockout,Final,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:DVlkkywEoY0dGV-rby4N7
+SUMMARY:Serbia v England
+DTSTAMP:20240616T152910Z
+DTSTART:20240616T190000Z
+DTEND:20240616T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe seventh game of the EURO 2024 competit
+	ion between Group C competitors\, Serbia and England.
+URL:https://trovster.github.io/euro-2024/serbia-england/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Serbia,England,Gelsenkirchen,Group C,Group stages,EU
+	RO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:BQDv83bBCXF9_F9oHdfdB
+SUMMARY:Denmark v England
+DTSTAMP:20240616T152910Z
+DTSTART:20240620T160000Z
+DTEND:20240620T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe seventeenth game of the EURO 2024 comp
+	etition between Group C competitors\, Denmark and England.
+URL:https://trovster.github.io/euro-2024/denmark-england/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,England,Frankfurt am Main,Group C,Group stag
+	es,EURO 2024
+END:VEVENT
+END:VCALENDAR

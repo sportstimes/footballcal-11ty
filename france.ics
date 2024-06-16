@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:9gpu0bZvocB8rab6-_hKR
+SUMMARY:France v Germany
+DTSTAMP:20240616T152911Z
+DTSTART:20210615T190000Z
+DTEND:20210615T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe twelfth game of the (delayed) EURO 2020
+	 competition between Group F rivals\, France and Germany.
+URL:https://trovster.github.io/euro-2020/france-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Munich,Group F,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:pk2hi8jSv7JM6vWL6A73d
+SUMMARY:Hungary v France
+DTSTAMP:20240616T152911Z
+DTSTART:20210619T130000Z
+DTEND:20210619T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 22nd game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Hungary and France.
+URL:https://trovster.github.io/euro-2020/hungary-france/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,France,Budapest,Group F,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:Vtzde0t77vr6-GNNAeAYP
+SUMMARY:Portugal v France
+DTSTAMP:20240616T152911Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 36th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Portugal and France.
+URL:https://trovster.github.io/euro-2020/portugal-france/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,France,Budapest,Group F,Group stages,EURO 2
+	020
+END:VEVENT
+BEGIN:VEVENT
+UID:vJmYOh08MN_DB2g0l2qGu
+SUMMARY:France v Switzerland
+DTSTAMP:20240616T152911Z
+DTSTART:20210628T190000Z
+DTEND:20210628T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
+	mpetition between Group F winners France and Group A third place Switzerla
+	nd.
+URL:https://trovster.github.io/euro-2020/knockout-6/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
+	,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:d-CV2kFTy6pNwMo29rJkT
+SUMMARY:Austria v France
+DTSTAMP:20240616T152911Z
+DTSTART:20240617T190000Z
+DTEND:20240617T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
+	n between Group D competitors\, Austria and France.
+URL:https://trovster.github.io/euro-2024/austria-france/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO 
+	2024
+END:VEVENT
+END:VCALENDAR

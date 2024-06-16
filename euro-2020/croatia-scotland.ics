@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:HjnwJ5X0cntUPXjCGO79J
+SUMMARY:Croatia v Scotland
+DTSTAMP:20240616T152910Z
+DTSTART:20210622T190000Z
+DTEND:20210622T205000Z
+DESCRIPTION:TV Channels: ITV\, STV\n\nThe 32nd game of the (delayed) EURO 2
+	020 competition between Group D rivals\, Croatia and Scotland.
+URL:https://trovster.github.io/euro-2020/croatia-scotland/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Scotland,Glasgow,Group D,Group stages,EURO 2
+	020
+END:VEVENT
+END:VCALENDAR

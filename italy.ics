@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:8x8sdna9dNtAD3XMTZH3b
+SUMMARY:Turkey v Italy
+DTSTAMP:20240616T152911Z
+DTSTART:20210611T190000Z
+DTEND:20210611T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe first game of the (delayed) EURO 2020 c
+	ompetition.
+URL:https://trovster.github.io/euro-2020/turkey-italy/
+LOCATION:Olimpico in Rome\, Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Italy,Rome,Group A,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:geKeZhoAHWqOwpiQ3p5Oy
+SUMMARY:Italy v Switzerland
+DTSTAMP:20240616T152911Z
+DTSTART:20210616T190000Z
+DTEND:20210616T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe fifteenth game of the (delayed) EURO 20
+	20 competition between Group A rivals\, Italy and Switzerland.
+URL:https://trovster.github.io/euro-2020/italy-switzerland/
+LOCATION:Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Switzerland,Rome,Group A,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:MJumGtqh4bBzwtPjKoTVi
+SUMMARY:Italy v Wales
+DTSTAMP:20240616T152911Z
+DTSTART:20210620T160000Z
+DTEND:20210620T175000Z
+DESCRIPTION:TV Channels: ITV\, S4C\n\nThe 25th game of the (delayed) EURO 2
+	020 competition between Group A rivals\, Italy and Wales.
+URL:https://trovster.github.io/euro-2020/italy-wales/
+LOCATION:Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Wales,Rome,Group A,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:w2ybiQsAYvGpeuYF9jGhf
+SUMMARY:Italy v Austria
+DTSTAMP:20240616T152911Z
+DTSTART:20210626T190000Z
+DTEND:20210626T205000Z
+DESCRIPTION:The 38th game of the (delayed) EURO 2020 competition between Gr
+	oup A winners Italy and Group C runners-up Austria.
+URL:https://trovster.github.io/euro-2020/knockout-2/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Austria,London,Group A,Group C,Knockout,Group 
+	of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:raqnajbSa1sv9dDPRXTY2
+SUMMARY:Belgium v Italy
+DTSTAMP:20240616T152911Z
+DTSTART:20210702T190000Z
+DTEND:20210702T205000Z
+DESCRIPTION:The 46th game of the (delayed) EURO 2020 competition between Kn
+	ockout 4 winners\, Belgium and [Knockout 2 winners]((/euro-2020/knockout-2
+	)\, Italy.
+URL:https://trovster.github.io/euro-2020/quarter-final-2/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Italy,Munich,Knockout,Quarter Final,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:CHM7etTy0lDybozYyzbHb
+SUMMARY:Italy v Spain
+DTSTAMP:20240616T152911Z
+DTSTART:20210706T190000Z
+DTEND:20210706T205000Z
+DESCRIPTION:The 49th game of the (delayed) EURO 2020 competition between Qu
+	arter Final 2 winners\, Italy and Quarter Final 1 winners\, Spain.
+URL:https://trovster.github.io/euro-2020/semi-final-1/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Spain,London,Knockout,Semi Final,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:7MlHdTwwFkKfRdAoME8tA
+SUMMARY:Italy v England
+DTSTAMP:20240616T152911Z
+DTSTART:20210711T190000Z
+DTEND:20210711T205000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe 51st game of the (delayed) EURO 2
+	020 competition between Semi Final 1 winners\, Italy and Semi Final 2 winn
+	ers\, England.
+URL:https://trovster.github.io/euro-2020/final/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,England,London,Knockout,Final,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:WVebUYopdXCg5u56VIV08
+SUMMARY:Italy v Albania
+DTSTAMP:20240616T152911Z
+DTSTART:20240615T190000Z
+DTEND:20240615T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fourth game of the EURO 2024 competiti
+	on between Group A competitors\, Italy v Albania.
+URL:https://trovster.github.io/euro-2024/italy-albania/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Albania,Dortmund,Group B,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:_NkgM-BjvfHAAZSJSmLoo
+SUMMARY:Spain v Italy
+DTSTAMP:20240616T152911Z
+DTSTART:20240620T190000Z
+DTEND:20240620T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe eighteenth game of the EURO 2024 compe
+	tition between Group B competitors\, Spain and Italy.
+URL:https://trovster.github.io/euro-2024/spain-italy/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Italy,Gelsenkirchen,Group B,Group stages,EURO 
+	2024
+END:VEVENT
+END:VCALENDAR

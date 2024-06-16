@@ -616,6 +616,10 @@ ul.inline li {
   list-style: none;
   margin: 0 1rem 1rem 0;
 }
+ul.inline [rel="tag"],
+ul.inline .all {
+  white-space: no-wrap;
+}
 
 ul.competitions li {
   list-style: none;
@@ -641,7 +645,7 @@ ul.competitions li {
 }
 
 .event-post .competition,
-.event-post .datetime {  
+.event-post .datetime {
   border-top: 8px solid #FFF;
   padding-top: 20px;
   text-align: center;
@@ -652,7 +656,7 @@ ul.competitions li {
 .event-post .competition {
   letter-spacing: 1rem;
 }
-.event-post .datetime {  
+.event-post .datetime {
   display: flex;
   flex-wrap: nowrap;
 }
@@ -663,9 +667,18 @@ ul.competitions li {
 .event-post .datetime p .endtime {
   display: none;
 }
-
 .event-post .blog-post-content {
   margin-bottom: 5rem;
+  text-align: center;
+  font-size: 1.45rem;
+  line-height: 1.25;
+}
+
+.lede {
+  margin-bottom: 5rem;
+  text-align: center;
+  font-size: 1.45rem;
+  line-height: 1.25;
 }
 
 
@@ -699,6 +712,7 @@ ul.competitions li {
   color: rgba(255,255,255,0.5);
   padding: 1rem 0;
 }
+
 header {
     max-width: 960px;
     padding: 0 1rem;

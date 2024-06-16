@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:vcUGTi8quxye_twtvxiZD
+SUMMARY:Denmark v Finland
+DTSTAMP:20240616T152911Z
+DTSTART:20210612T160000Z
+DTEND:20210612T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe third game of the (delayed) EURO 2020 c
+	ompetition between Group B rivals\, Denmark and Finland.
+URL:https://trovster.github.io/euro-2020/denmark-finland/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Finland,Copenhagen,Group B,Group stages,EURO
+	 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:YV6mnDw9z3Nmgx6wf_ZnI
+SUMMARY:Denmark v Belgium
+DTSTAMP:20240616T152911Z
+DTSTART:20210617T160000Z
+DTEND:20210617T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe seventeenth game of the (delayed) EURO 
+	2020 competition between Group B rivals\, Denmark and Belgium.
+URL:https://trovster.github.io/euro-2020/denmark-belgium/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Belgium,Copenhagen,Group B,Group stages,EURO
+	 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:86ue0SMnnWrRZZnpg5uDV
+SUMMARY:Russia v Denmark
+DTSTAMP:20240616T152911Z
+DTSTART:20210621T190000Z
+DTEND:20210621T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 29th game of the (delayed) EURO 2020 co
+	mpetition between Group B rivals\, Russia and Denmark.
+URL:https://trovster.github.io/euro-2020/russia-denmark/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Russia,Denmark,Copenhagen,Group B,Group stages,EURO 
+	2020
+END:VEVENT
+BEGIN:VEVENT
+UID:MPq7JVODNnduYygxHQ2mU
+SUMMARY:Croatia v Spain
+DTSTAMP:20240616T152911Z
+DTSTART:20210628T160000Z
+DTEND:20210628T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 41st game of the (delayed) EURO 2020 co
+	mpetition between Group D runners-up Croatia and Group E runners-up Spain.
+URL:https://trovster.github.io/euro-2020/knockout-5/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Spain,Copenhagen,Group D,Group E,Knockout,Gr
+	oup of 16,EURO 2020
+END:VEVENT
+END:VCALENDAR
