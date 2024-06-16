@@ -15,5 +15,4 @@ tags:
   ]
 tv: ["ITV1"]
 ---
-
 The ninth game of the EURO 2024 competition between Group E competitors, Belgium and Slovakia.

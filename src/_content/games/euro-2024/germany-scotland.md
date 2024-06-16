@@ -7,5 +7,4 @@ path: /euro-2024/germany-scotland/
 tags: ["Germany", "Scotland", "Munich", "Group A", "Group stages", "EURO 2024"]
 tv: ["ITV1"]
 ---
-
 The first game of the EURO 2024 competition between Group A competitors, Germany and Scotland.

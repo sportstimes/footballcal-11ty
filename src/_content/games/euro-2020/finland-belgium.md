@@ -7,5 +7,4 @@ path: /euro-2020/finland-belgium/
 tags: ["Finland", "Belgium", "St Petersburg", "Group B", "Group stages","EURO 2020"]
 tv: ["BBC"]
 ---
-
 The 30th game of the (delayed) EURO 2020 competition between Group B rivals, Finland and Belgium.

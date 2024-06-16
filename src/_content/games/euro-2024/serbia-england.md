@@ -8,5 +8,4 @@ tags:
   ["Serbia", "England", "Gelsenkirchen", "Group C", "Group stages", "EURO 2024"]
 tv: ["BBC1"]
 ---
-
 The seventh game of the EURO 2024 competition between Group C competitors, Serbia and England.

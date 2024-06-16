@@ -7,5 +7,4 @@ path: /euro-2024/romania-ukraine/
 tags: ["Romania", "Ukraine", "Munich", "Group E", "Group stages", "EURO 2024"]
 tv: ["BBC1"]
 ---
-
 The eighth game of the EURO 2024 competition between Group E competitors, Romania and Ukraine.

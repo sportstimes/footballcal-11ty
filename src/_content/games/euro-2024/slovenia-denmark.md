@@ -8,5 +8,4 @@ tags:
   ["Slovenia", "Denmark", "Stuttgart", "Group C", "Group stages", "EURO 2024"]
 tv: ["ITV1"]
 ---
-
 The sixth game of the EURO 2024 competition between Group C competitors, Slovenia and Denmark.

@@ -7,5 +7,4 @@ path: /euro-2020/czech-republic-england/
 tags: ["Czech Republic", "England", "London", "Group D", "Group stages","EURO 2020"]
 tv: ["ITV"]
 ---
-
 The 31st game of the (delayed) EURO 2020 competition between Group D rivals, Czech Republic and England.

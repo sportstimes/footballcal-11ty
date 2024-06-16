@@ -8,5 +8,4 @@ tags:
   ["Hungary", "Switzerland", "Cologne", "Group A", "Group stages", "EURO 2024"]
 tv: ["ITV1"]
 ---
-
 The second game of the EURO 2024 competition between Group A competitors, Hungary and Switzerland.

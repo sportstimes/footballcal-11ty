@@ -7,5 +7,4 @@ path: /euro-2020/knockout-7/
 tags: ["England", "Germany", "London", "Group D", "Group F", "Knockout", "Group of 16", "EURO 2020"]
 tv: ["BBC"]
 ---
-
 The 43rd game of the (delayed) EURO 2020 competition between **Group D winners** [England](/england) and **Group F runners-up** [Germany](/germany).

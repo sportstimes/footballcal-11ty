@@ -8,5 +8,4 @@ tags:
   ["Austria", "France", "Dusseldorf", "Group D", "Group stages", "EURO 2024"]
 tv: ["ITV1"]
 ---
-
 The tenth game of the EURO 2024 competition between Group D competitors, Austria and France.

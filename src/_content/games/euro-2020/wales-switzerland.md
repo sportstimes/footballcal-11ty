@@ -7,5 +7,4 @@ path: /euro-2020/wales-switzerland/
 tags: ["Wales", "Switzerland", "Baku", "Group A", "Group stages","EURO 2020"]
 tv: ["BBC", "S4C"]
 ---
-
 The second game of the (delayed) EURO 2020 competition between Group A rivals, Wales & Switzerland.

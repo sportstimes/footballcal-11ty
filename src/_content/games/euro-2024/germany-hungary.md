@@ -8,5 +8,4 @@ tags:
   ["Germany", "Hungary", "Stuttgart", "Group A", "Group stages", "EURO 2024"]
 tv: ["BBC1"]
 ---
-
 The fourteenth game of the EURO 2024 competition between Group A competitors, Germany and Hungary.

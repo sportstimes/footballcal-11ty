@@ -8,5 +8,4 @@ tags:
   ["Slovakia", "Ukraine", "Dusseldorf", "Group E", "Group stages", "EURO 2024"]
 tv: ["BBC1"]
 ---
-
 The ninteenth game of the EURO 2024 competition between Group E competitors, Slovakia and Ukraine.

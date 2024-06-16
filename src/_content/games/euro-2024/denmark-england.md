@@ -15,5 +15,4 @@ tags:
   ]
 tv: ["BBC1"]
 ---
-
 The seventeenth game of the EURO 2024 competition between Group C competitors, Denmark and England.

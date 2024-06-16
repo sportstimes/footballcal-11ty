@@ -7,5 +7,4 @@ path: /euro-2020/switzerland-turkey/
 tags: ["Switzerland", "Turkey", "Baku", "Group A", "Group stages","EURO 2020"]
 tv: ["ITV"]
 ---
-
 The 26th game of the (delayed) EURO 2020 competition between Group A rivals, Switzerland and Turkey.

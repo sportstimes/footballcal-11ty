@@ -7,5 +7,4 @@ path: /euro-2024/italy-albania/
 tags: ["Italy", "Albania", "Dortmund", "Group B", "Group stages", "EURO 2024"]
 tv: ["BBC1"]
 ---
-
 The fourth game of the EURO 2024 competition between Group A competitors, Italy v Albania.
