@@ -3,7 +3,7 @@ title: Slovakia v Romania
 date: 2024-06-26T16:00Z
 endDate: 2024-06-26T17:50Z
 locationName: Frankfurt am Main
-path: /euro-2024/slovakia-romania
+path: /euro-2024/slovakia-romania/
 tags:
   [
     "Slovakia",
@@ -15,5 +15,4 @@ tags:
   ]
 tv: ["BBC"]
 ---
-
 The thirty-third game of the EURO 2024 competition between Group E competitors, Slovakia and Romania.
