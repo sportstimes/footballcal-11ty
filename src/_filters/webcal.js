@@ -1,1 +1,1 @@
-module.exports = url => `webcal://${url.replace(/https?:\/\//, '')}.ics`
+module.exports = url => `http://${url.replace(/https?:\/\//, '')}.ics`
