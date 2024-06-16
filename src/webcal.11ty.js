@@ -10,7 +10,7 @@ module.exports = class FeedTemplate {
         data: 'collections',
         size: 1,
         alias: 'games',
-        filter: ['all'],
+        filter: ['all', 'webcal-game'],
       },
       permalink: function (data) {
         return `/${this.slugify(data.games)}.ics`
