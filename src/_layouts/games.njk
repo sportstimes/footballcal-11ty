@@ -1,16 +1,15 @@
 ---
 layout: base.njk
 ---
-<h1>{{ tag }} Games</h1>
 
+<h1>{{ tag }} Games</h1>
 <p class="subscribe">
-    <a href="{{ ('/' + (tag | slugify) + '/') | url | absoluteUrl(config.baseUrl) | webcal }}">
+    <a href="{{ ('/' + (tag | slugify) + '/') | url | absoluteUrl(config.baseUrl) | webcal }}" onclick="fathom.trackEvent('calendar games');">
         <span role="img">🗓</span>
         <span>Add {{ tag }} games to your calendar</span>
         <small>in iOS, MacOS and Office</small>
     </a>
 </p>
-
 <table>
     <thead>
         <tr>
@@ -21,24 +20,25 @@ layout: base.njk
     </thead>
     <tbody>
         {% for game in collections[tag] %}
-        <tr class="vevent">
-            <td class="datetime">
-                {% if showDate(game.data.date, loop.index0, collections[tag]) %}
-                  <span class="day">{{ game.data.date | date('ddd DD MMM') }}</span>
-                {% endif %}
-                <time class="dtstart">{{ game.data.date | date('YYYY-MM-DDTHH:mm:ssZ') }}</time>
-                <time class="dtend">{{ game.data.endDate | date('YYYY-MM-DDTHH:mm:ssZ') }}</time>
-            </td>
-            <td class="time">
-                <span>{{ game.data.date | date('H:mm') }}</span>
-            </td>
-            <td class="summary">
-                <a class="url" href="{{ game.page.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
-            </td>
-        </tr>
+            <tr class="vevent">
+                <td class="datetime">
+                    {% if showDate(game.data.date, loop.index0, collections[tag]) %}
+                        <span class="day">{{ game.data.date | date('ddd DD MMM') }}</span>
+                    {% endif %}
+                    <time class="dtstart">{{ game.data.date | date('YYYY-MM-DDTHH:mm:ssZ') }}</time>
+                    <time class="dtend">{{ game.data.endDate | date('YYYY-MM-DDTHH:mm:ssZ') }}</time>
+                </td>
+                <td class="time">
+                    <span>{{ game.data.date | date('H:mm') }}</span>
+                </td>
+                <td class="summary">
+                    <a class="url" href="{{ game.page.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
+                </td>
+            </tr>
         {% endfor %}
     </tbody>
 </table>
-
 <h2>Want more?</h2>
-<p><a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}">All games</a></p>
+<p>
+    <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}">All games</a>
+</p>
