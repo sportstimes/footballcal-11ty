@@ -33,7 +33,7 @@ layout: base.njk
                 <span>{{ game.data.date | date('H:mm') }}</span>
             </td>
             <td class="summary">
-                <a class="url" href="{{ game.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
+                <a class="url" href="{{ game.page.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
             </td>
         </tr>
         {% endfor %}
