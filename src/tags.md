@@ -1,7 +1,5 @@
 ---
 layout: games.njk
-eleventyComputed:
-  title: "{{ tag }} Games"
 pagination:
   data: collections
   size: 1
@@ -9,4 +7,6 @@ pagination:
   filter:
     - all
 permalink: /{{ tag | slugify }}/
+eleventyComputed:
+  title: "{{ tag }} Games"
 ---
