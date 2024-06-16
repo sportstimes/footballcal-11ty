@@ -638,6 +638,13 @@ ul.competitions li {
   line-height: 1.25;
 }
 
+.lede {
+  margin-bottom: 5rem;
+  text-align: center;
+  font-size: 1.45rem;
+  line-height: 1.25;
+}
+
 
 .no-bullets {
   list-style: none;
