@@ -641,6 +641,18 @@ ul.competitions li {
   text-align: center;
 }
 
+.event-post {
+  margin-bottom: 2rem;
+}
+.event-post > h1,
+.event-post > h2 {
+  border-top: 8px solid #FFF;
+  padding-top: 20px;
+  text-align: center;
+}
+.event-post > h2 {
+  font-size: 36px;
+}
 .event-post .competition,
 .event-post .datetime {
   border-top: 8px solid #FFF;
