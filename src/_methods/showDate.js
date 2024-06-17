@@ -1,4 +1,4 @@
-const dateTime = require('moment')
+const { DateTime } = require('luxon')
 
 module.exports = (date, index, collection) => {
   const prevIndex = index - 1
@@ -9,5 +9,5 @@ module.exports = (date, index, collection) => {
 
   const prevDay = collection[prevIndex].data.date
 
-  return dateTime(prevDay).format('ddd DD MMM') !== dateTime(date).format('ddd DD MMM')
+  return DateTime.fromISO(prevDay).toLocaleString(DateTime.DATE_SHORT) !== DateTime.fromISO(date).toLocaleString(DateTime.DATE_SHORT)
 }

@@ -23,10 +23,10 @@ layout: base.njk
             <tr class="vevent {{ 'past' if isPast(game) }}">
                 <td class="datetime">
                     {% if showDate(game.data.date, loop.index0, collections[tag]) %}
-                        <span class="day">{{ game.data.date | date('ddd DD MMM') }}</span>
+                        <span class="day">{{ game.data.date | date('ccc d LLLL') }}</span>
                     {% endif %}
-                    <time class="dtstart">{{ game.data.date | date('YYYY-MM-DDTHH:mm:ssZ') }}</time>
-                    <time class="dtend">{{ game.data.endDate | date('YYYY-MM-DDTHH:mm:ssZ') }}</time>
+                    <time class="dtstart">{{ game.data.date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}</time>
+                    <time class="dtend">{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
                 </td>
                 <td class="time">
                     <span>{{ game.data.date | date('H:mm') }}</span>

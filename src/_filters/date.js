@@ -1,5 +1,5 @@
-const dateTime = require('moment')
+const { DateTime } = require('luxon')
 
 module.exports = (date, format) => {
-  return dateTime(date).format(format)
+  return DateTime.fromISO(date).toFormat(format)
 }

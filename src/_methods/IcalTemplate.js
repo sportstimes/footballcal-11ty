@@ -1,4 +1,4 @@
-const dateTime = require('moment')
+const { DateTime } = require('luxon')
 const absoluteUrl = require('../_filters/absoluteUrl')
 
 module.exports = class
@@ -24,7 +24,7 @@ module.exports = class
   }
 
   date (date) {
-    return dateTime(date).format('YYYY-M-D-H-m').split('-').map(a => parseInt(a, 10))
+    return DateTime.fromISO(date).toFormat('y-LL-d-H-mm').split('-').map(a => parseInt(a, 10))
   }
 
   description (game) {
