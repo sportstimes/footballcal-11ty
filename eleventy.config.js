@@ -6,6 +6,7 @@ const date = require('./src/_filters/date')
 const absoluteUrl = require('./src/_filters/absoluteUrl')
 const validTags = require('./src/_filters/validTags')
 const webcal = require('./src/_filters/webcal')
+const { upcoming, limit, next } = require('./src/_filters/collections')
 
 const showDate = require('./src/_methods/showDate')
 
@@ -16,6 +17,11 @@ module.exports = config => {
   config.addFilter('absoluteUrl', absoluteUrl)
   config.addFilter('validTags', validTags)
   config.addFilter('webcal', webcal)
+
+  // collections…
+  config.addFilter('limit', limit)
+  config.addFilter('upcoming', upcoming)
+  config.addFilter('next', next)
 
   config.addNunjucksGlobal('showDate', showDate)
 
