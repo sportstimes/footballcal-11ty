@@ -1,9 +1,9 @@
 ---
 layout: base.njk
 ---
-
 <div class="event-post">
     <h1>{{ title }}</h1>
+
     <div class="datetime">
         <p class="date">{{ date | date('ccc d LLLL') }}</p>
         <p class="time">
@@ -11,6 +11,7 @@ layout: base.njk
             <span class="endtime">–{{ endDate | date('h:mma') }}</span>
         </p>
     </div>
+
     <p class="subscribe">
         <a href="{{ path | url | absoluteUrl(config.baseUrl) | webcal }}" onclick="fathom.trackEvent('calendar game');">
             <span role="img">🗓</span>
@@ -18,6 +19,7 @@ layout: base.njk
             <small>in iOS, MacOS and Office</small>
         </a>
     </p>
+
     <table id="EventDetails">
         <tr>
             <th>Venue</th>
@@ -32,18 +34,20 @@ layout: base.njk
             </td>
         </tr>
     </table>
+
     <div class="blog-post-content">
         {{ content | safe }}
     </div>
-    <h2>Want more?</h2>
-    <ul class="inline">
-        {% for tag in tags | validTags %}
-            <li>
-                <a href="{{ ('/' + (tag | slugify) + '/') | url | absoluteUrl(config.baseUrl) }}" rel="tag">{{ tag }} games</a>
-            </li>
-        {% endfor %}
-        <li>
-            <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}" class="all">All games</a>
-        </li>
-    </ul>
 </div>
+
+<h2>Want more?</h2>
+<ul class="inline">
+    {% for tag in tags | validTags %}
+        <li>
+            <a href="{{ ('/' + (tag | slugify) + '/') | url | absoluteUrl(config.baseUrl) }}" rel="tag">{{ tag }} games</a>
+        </li>
+    {% endfor %}
+    <li>
+        <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}" class="all">All games</a>
+    </li>
+</ul>

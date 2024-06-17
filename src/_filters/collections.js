@@ -9,5 +9,5 @@ const upcoming = arr => {
 module.exports = {
   limit,
   upcoming,
-  next: arr => limit(upcoming(arr), 1)
+  next: arr => limit(upcoming(arr), 1).pop()
 }
