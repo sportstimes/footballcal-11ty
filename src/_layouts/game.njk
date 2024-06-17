@@ -12,7 +12,7 @@ layout: base.njk
         </p>
     </div>
     <p class="subscribe">
-        <a href="{{ (path.slice(0, -1)) | url | absoluteUrl(config.baseUrl) | webcal }}" onclick="fathom.trackEvent('calendar game');">
+        <a href="{{ path | url | absoluteUrl(config.baseUrl) | webcal }}" onclick="fathom.trackEvent('calendar game');">
             <span role="img">🗓</span>
             <span>Add this game to your calendar</span>
             <small>in iOS, MacOS and Office</small>
