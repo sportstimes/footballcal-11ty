@@ -5,6 +5,10 @@ module.exports = () => {
     config.baseUrl = process.env.ELEVENTY_BASE_URL
   }
 
+  if (process.env.GITHUB_REPOSITORY_OWNER) {
+    config.baseUrl = `https://${process.env.GITHUB_REPOSITORY_OWNER}.github.io`
+  }
+
   // https://docs.netlify.com/configure-builds/environment-variables/#deploy-urls-and-metadata
   if (process.env.URL) {
     config.baseUrl = process.env.URL
@@ -18,10 +22,6 @@ module.exports = () => {
   // https://help.github.com/en/actions/configuring-and-managing-workflows/using-environment-variables
   if (process.env.GITHUB_URL) {
     config.baseUrl = process.env.GITHUB_URL
-  }
-
-  if (process.env.GITHUB_REPOSITORY_OWNER) {
-    config.baseUrl = `https://${process.env.GITHUB_REPOSITORY_OWNER}.github.io`
   }
 
   return config
