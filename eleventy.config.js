@@ -13,6 +13,7 @@ const isPast = require('./src/_methods/isPast')
 
 module.exports = config => {
   config.addPlugin(EleventyHtmlBasePlugin)
+  config.addWatchTarget('./src/_assets/css')
 
   // filters…
   config.addFilter('date', date)

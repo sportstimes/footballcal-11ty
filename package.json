@@ -26,14 +26,23 @@
     "node": ">=14"
   },
   "scripts": {
-    "start": "npx @11ty/eleventy --serve --quiet",
-    "build": "npx @11ty/eleventy",
+    "clean": "rm -rf dist",
+    "11ty": "npx @11ty/eleventy",
+    "css": "npx postcss ./src/_assets/css/site.css -o ./dist/css/site.css",
+    "start": "npm run 11ty -- --serve --quiet & npm run css -- --watch",
+    "prebuild": "npm run clean",
+    "build": "npm run 11ty",
+    "postbuild": "npm run css",
     "test": "echo \"Warning: No tests\" && exit 0"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "autoprefixer": "^10.4.19",
     "dotenv": "^16.3.1",
     "ics": "^3.7.6",
-    "moment": "^2.30.1"
+    "moment": "^2.30.1",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0",
+    "postcss-import": "^16.1.0"
   }
 }
