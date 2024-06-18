@@ -20,19 +20,19 @@ layout: base.njk
     </thead>
     <tbody>
         {% for game in collections[tag] %}
-            <tr class="vevent">
+            <tr class="vevent h-event">
                 <td class="datetime">
                     {% if showDate(game.data.date, loop.index0, collections[tag]) %}
                         <span class="day">{{ game.data.date | date('ccc d LLLL') }}</span>
                     {% endif %}
-                    <time class="dtstart">{{ game.data.date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}</time>
-                    <time class="dtend">{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
                 </td>
                 <td class="time">
                     <span>{{ game.data.date | date('H:mm') }}</span>
+                    <time class="dt-start">{{ game.data.date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}</time>
+                    <time class="dt-end">{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
                 </td>
                 <td class="summary">
-                    <a class="url" href="{{ game.page.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
+                    <a class="p-name u-url" href="{{ game.page.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
                 </td>
             </tr>
         {% endfor %}

@@ -1,8 +1,8 @@
 ---
 layout: base.njk
 ---
-<div class="event-post">
-    <h1>{{ title }}</h1>
+<div class="event-post h-event">
+    <h1 class="p-name">{{ title }}</h1>
 
     <div class="datetime">
         <p class="date">{{ date | date('ccc d LLLL') }}</p>
@@ -10,6 +10,8 @@ layout: base.njk
             <span class="starttime">{{ date | date('h:mma') }}</span>
             <span class="endtime">–{{ endDate | date('h:mma') }}</span>
         </p>
+        <time class="dt-start">{{ date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}</time>
+        <time class="dt-end">{{ endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
     </div>
 
     <p class="subscribe">
@@ -26,7 +28,7 @@ layout: base.njk
             <th>TV</th>
         </tr>
         <tr>
-            <td>{{ locationName }}</td>
+            <td class="p-location">{{ locationName }}</td>
             <td class="tv-channels">
                 {% for on in tv %}
                     <span>{{ on }}</span>
@@ -35,7 +37,7 @@ layout: base.njk
         </tr>
     </table>
 
-    <div class="blog-post-content">
+    <div class="blog-post-content p-summary">
         {{ content | safe }}
     </div>
 </div>

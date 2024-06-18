@@ -37,10 +37,11 @@ td.summary {
 }
 
 
-time.dtstart,
-time.dtend {
+time.dt-start,
+time.dt-end {
     display: none;
 }
+
 .description span {
     display: block;
 }
@@ -56,4 +57,3 @@ time.dtend {
         display: none;
     }
 }
-    
