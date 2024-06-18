@@ -1,8 +1,7 @@
 const { DateTime } = require('luxon')
 const absoluteUrl = require('../_filters/absoluteUrl')
 
-module.exports = class
-{
+module.exports = class {
   constructor (game, config = {}) {
     const event = {
       start: this.date(game.data.date),
