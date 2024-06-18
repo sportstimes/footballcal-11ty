@@ -1,5 +1,14 @@
+.description span {
+    display: block;
+}
+
 thead {
     display: none;
+}
+
+td {
+    position: relative;
+    width: 33%;
 }
 
 td.datetime {
@@ -7,7 +16,7 @@ td.datetime {
 }
 
 td.time {
-    background-image: -webkit-linear-gradient(180deg, transparent 0, transparent 49%, #FFFFFF 49%, #FFFFFF 51%, transparent 51%);
+    background-image: linear-gradient(180deg, transparent 0, transparent 49%, #FFF 49%, #FFF 51%, transparent 51%);
 }
 
 td.time span {
@@ -19,40 +28,35 @@ td.time span {
     padding: 1.33rem 0;
     border-radius: 50%;
 }
+
 tr:first-child td {
     padding-top:2rem;
 }
+
 tr:last-child td {
     padding-bottom:2rem;
 }
+
 tr.past {
     opacity: 0.4;
 }
-td {
-    width: 33%;
-    position: relative;
-}
+
 td.summary {
     text-align: left;
 }
-
 
 time.dt-start,
 time.dt-end {
     display: none;
 }
 
-.description span {
-    display: block;
-}
-
-@media only screen and (max-width : 414px) {
+@media only screen and (width <= 414px) {
     .description {
         display: none;
     }
 }
 
-@media only screen and (max-width : 375px) {
+@media only screen and (width <= 375px) {
     .location {
         display: none;
     }

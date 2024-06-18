@@ -35,6 +35,8 @@
     "postbuild": "npm run css",
     "lint:js": "npx standard",
     "lint:js:fix": "npm run lint:js -- --fix",
+    "lint:css": "npx stylelint 'src/**/*.css'",
+    "lint:css:fix": "npm run lint:css -- --fix",
     "test": "echo \"Warning: No tests\" && exit 0"
   },
   "devDependencies": {
@@ -45,6 +47,8 @@
     "postcss": "^8.4.38",
     "postcss-cli": "^11.0.0",
     "postcss-import": "^16.1.0",
-    "standard": "^17.1.0"
+    "standard": "^17.1.0",
+    "stylelint": "^16.6.1",
+    "stylelint-config-standard": "^36.0.0"
   }
 }
