@@ -20,7 +20,7 @@ layout: base.njk
     </thead>
     <tbody>
         {% for game in collections[tag] %}
-            <tr class="vevent {{ 'past' if isPast(game) }}">
+            <tr class="vevent">
                 <td class="datetime">
                     {% if showDate(game.data.date, loop.index0, collections[tag]) %}
                         <span class="day">{{ game.data.date | date('ccc d LLLL') }}</span>
