@@ -16,23 +16,6 @@ title: Football times in your calendar
     </a>
 </p>
 
-{% set game = collections.all | next %}
-
-{% if game %}
-<h2>Next Game</h2>
-
-<div class="event-post">
-    <h2>{{ game.data.title }}</h2>
-    <div class="datetime">
-        <p class="date">{{ game.data.date | date('ccc d LLLL') }}</p>
-        <p class="time">
-            <span class="starttime">{{ game.data.date | date('h:mma') }}</span>
-            <span class="endtime">–{{ game.data.endDate | date('h:mma') }}</span>
-        </p>
-    </div>
-</div>
-{% endif %}
-
 <h2>Available Competitions</h2>
 
 <ul class="inline competitions">
