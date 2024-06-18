@@ -26,7 +26,10 @@ jobs:
         run: |
           npm install
           npm test
-          npm run build -- --pathprefix=/footballcal-11ty/
+          npm run build
+
+      - name: Copy CNAME
+        run: cp CNAME ./dist/
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v4
