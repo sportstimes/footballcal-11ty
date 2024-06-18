@@ -5,42 +5,42 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:LYr_8Ed44QSEdmRLqIBFo
+UID:4i8p0HoR7cTuS-TLmXhSq
 SUMMARY:Italy v Albania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240615T190000Z
 DTEND:20240615T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fourth game of the EURO 2024 competiti
 	on between Group A competitors\, Italy v Albania.
-URL:https://trovster.github.io/euro-2024/italy-albania/
+URL:https://footballcal.com/euro-2024/italy-albania/
 LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Albania,Dortmund,Group B,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:7HA1uIYxRLlFS0FlEYy7k
+UID:rSnrdUnjdBC5c2-v9jCyt
 SUMMARY:Croatia v Albania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T130000Z
 DTEND:20240619T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirteenth game of the EURO 2024 compe
 	tition between Group B competitors\, Croatia and Albania.
-URL:https://trovster.github.io/euro-2024/croatia-albania/
+URL:https://footballcal.com/euro-2024/croatia-albania/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Albania,Hamburg,Group B,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:s4nKzGERJx0rsDLZ8d2Zk
+UID:NGcPyR9vlloAxcqOveWdl
 SUMMARY:Albania v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-seventh game of the EURO 2024 co
 	mpetition between Group B competitors\, Albania and Spain.
-URL:https://trovster.github.io/euro-2024/albania-spain/
+URL:https://footballcal.com/euro-2024/albania-spain/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Albania,Spain,Dusseldorf,Group B,Group stages,EURO 2

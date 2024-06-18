@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:iIzvxU-QPf-Z_9YlJpJyD
+UID:I9UXTQmgXgOHUyZHcZKL5
 SUMMARY:Spain v Poland
-DTSTAMP:20240618T145301Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210619T190000Z
 DTEND:20210619T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 24th game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Spain and Poland.
-URL:https://trovster.github.io/euro-2020/spain-poland/
+URL:https://footballcal.com/euro-2020/spain-poland/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Poland,Seville,Group E,Group stages,EURO 2020

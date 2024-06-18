@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8v4C-h8daf3c317ua0Osv
+UID:ROH2GgyD2d1FCiXLNQJsk
 SUMMARY:Czech Republic v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210703T160000Z
 DTEND:20210703T175000Z
 DESCRIPTION:The 47th game of the (delayed) EURO 2020 competition between Kn
 	ockout 3 winners\, Czech Republic and Knockout 1 winners\, Denmark.
-URL:https://trovster.github.io/euro-2020/quarter-final-3/
+URL:https://footballcal.com/euro-2020/quarter-final-3/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Czech Republic,Denmark,Baku,Knockout,Quarter Final,E

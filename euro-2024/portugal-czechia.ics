@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:lFAC4FEbYrrA7ViQBZ5qB
+UID:IZUzXFRg25PRoP5QVENC5
 SUMMARY:Portugal v Czechia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240618T190000Z
 DTEND:20240618T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twelfth game of the EURO 2024 competit
 	ion between Group F competitors\, Portugal and Czechia.
-URL:https://trovster.github.io/euro-2024/portugal-czechia/
+URL:https://footballcal.com/euro-2024/portugal-czechia/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Portugal,Czechia,Leipzig,Group F,Group stages,EURO 2

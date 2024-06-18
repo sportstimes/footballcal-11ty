@@ -5,42 +5,42 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:wqZ_mXi8FEQBskEh9hoot
+UID:XvGr_JJ7tVCarhZbM20vA
 SUMMARY:Slovenia v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240616T160000Z
 DTEND:20240616T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe sixth game of the EURO 2024 competitio
 	n between Group C competitors\, Slovenia and Denmark.
-URL:https://trovster.github.io/euro-2024/slovenia-denmark/
+URL:https://footballcal.com/euro-2024/slovenia-denmark/
 LOCATION:Stuttgart
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovenia,Denmark,Stuttgart,Group C,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:bOh3DLwJI6wLgYiHwFMo1
+UID:ecaWt3MYGaKGL9podwXpF
 SUMMARY:Slovenia v Serbia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240620T130000Z
 DTEND:20240620T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe sixteenth game of the EURO 2024 compet
 	ition between Group C competitors\, Slovenia and Serbia.
-URL:https://trovster.github.io/euro-2024/slovenia-serbia/
+URL:https://footballcal.com/euro-2024/slovenia-serbia/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovenia,Serbia,Munich,Group C,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:FiKJgnwFqj7ZDuTe_WR2J
+UID:7KPZ2hT1scTvvD1Ejv5EV
 SUMMARY:England v Slovenia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T190000Z
 DTEND:20240625T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirty-first game of the EURO 2024 com
 	petition between Group C competitors\, England and Slovenia.
-URL:https://trovster.github.io/euro-2024/england-slovenia/
+URL:https://footballcal.com/euro-2024/england-slovenia/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Slovenia,Cologne,Group C,Group stages,EURO 2

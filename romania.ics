@@ -5,42 +5,42 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:w2HWlS5Dct-cNuto-N0Og
+UID:DyZG5gNrnjHnENx6KH_OA
 SUMMARY:Romania v Ukraine
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240617T130000Z
 DTEND:20240617T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe eighth game of the EURO 2024 competiti
 	on between Group E competitors\, Romania and Ukraine.
-URL:https://trovster.github.io/euro-2024/romania-ukraine/
+URL:https://footballcal.com/euro-2024/romania-ukraine/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Romania,Ukraine,Munich,Group E,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:uaCFkCfB6_YRsD-8bYfk4
+UID:jPpkCkYVVq4OrKDHb-fLy
 SUMMARY:Belgium v Romania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240622T190000Z
 DTEND:20240622T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe twenty-fourth game of the EURO 2024 co
 	mpetition between Group E competitors\, Belgium and Romania.
-URL:https://trovster.github.io/euro-2024/belgium-romania/
+URL:https://footballcal.com/euro-2024/belgium-romania/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Romania,Cologne,Group E,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:z899Bg-sPFADGoazeMZS-
+UID:ZEB8JGRDYzLVrds2kaM_X
 SUMMARY:Slovakia v Romania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T160000Z
 DTEND:20240626T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirty-third game of the EURO 2024 comp
 	etition between Group E competitors\, Slovakia and Romania.
-URL:https://trovster.github.io/euro-2024/slovakia-romania/
+URL:https://footballcal.com/euro-2024/slovakia-romania/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Romania,Frankfurt am Main,Group E,Group sta

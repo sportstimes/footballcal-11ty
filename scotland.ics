@@ -5,84 +5,84 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:BD4nSGntFCGVOZCatBLT6
+UID:zcMF6lnKLGrLJiO1xKEPU
 SUMMARY:Scotland v Czech Republic
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T130000Z
 DTEND:20210614T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe eighth game of the (delayed) EURO 2020 
 	competition between Group D rivals\, Scotland and Czech Republic.
-URL:https://trovster.github.io/euro-2020/scotland-czech-republic/
+URL:https://footballcal.com/euro-2020/scotland-czech-republic/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Czech Republic,Glasgow,Group D,Group stages
 	,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:WgfAqwfB34RwWVL-AqHeo
+UID:SfzXPLqT_sC2s8mMTB0mu
 SUMMARY:England v Scotland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210618T190000Z
 DTEND:20210618T205000Z
 DESCRIPTION:TV Channels: ITV\, STV\n\nThe 21st game of the (delayed) EURO 2
 	020 competition between Group D rivals\, England and Scotland.
-URL:https://trovster.github.io/euro-2020/england-scotland/
+URL:https://footballcal.com/euro-2020/england-scotland/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Scotland,London,Group D,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:tSAJ6mpzgRCl4GmFAjR5w
+UID:l-BdrADmwOqSvfOjdEFDY
 SUMMARY:Croatia v Scotland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210622T190000Z
 DTEND:20210622T205000Z
 DESCRIPTION:TV Channels: ITV\, STV\n\nThe 32nd game of the (delayed) EURO 2
 	020 competition between Group D rivals\, Croatia and Scotland.
-URL:https://trovster.github.io/euro-2020/croatia-scotland/
+URL:https://footballcal.com/euro-2020/croatia-scotland/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Scotland,Glasgow,Group D,Group stages,EURO 2
 	020
 END:VEVENT
 BEGIN:VEVENT
-UID:K0yTtEuq5INAsXCt8WtrD
+UID:in98EIWtT3Irc0Q8HR5lK
 SUMMARY:Germany v Scotland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240614T190000Z
 DTEND:20240614T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe first game of the EURO 2024 competitio
 	n between Group A competitors\, Germany and Scotland.
-URL:https://trovster.github.io/euro-2024/germany-scotland/
+URL:https://footballcal.com/euro-2024/germany-scotland/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Germany,Scotland,Munich,Group A,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:WChmLsgmS5aP6TBaxB-8W
+UID:J2auqFjyMednjioRSunI5
 SUMMARY:Scotland v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T190000Z
 DTEND:20240619T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe fifteenth game of the EURO 2024 competi
 	tion between Group A competitors\, Scotland and Switerland.
-URL:https://trovster.github.io/euro-2024/scotland-switzerland/
+URL:https://footballcal.com/euro-2024/scotland-switzerland/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Switzerland,Cologne,Group A,Group stages,EU
 	RO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:u3-2kWdizGnlJR21H1rw5
+UID:OCtkLySPNtd2yDbJl3MgK
 SUMMARY:Scotland v Hungary
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240623T190000Z
 DTEND:20240623T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-sixth game of the EURO 2024 com
 	petition between Group A competitors\, Scotland and Hungary.
-URL:https://trovster.github.io/euro-2024/scotland-hungary/
+URL:https://footballcal.com/euro-2024/scotland-hungary/
 LOCATION:Stuttgart
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Hungary,Stuttgart,Group A,Group stages,EURO

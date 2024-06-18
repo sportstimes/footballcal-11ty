@@ -5,82 +5,82 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fIGtLsgj2bX466UwjSiMr
+UID:M_9XFWygyVeIleGqqzcQj
 SUMMARY:Poland v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T160000Z
 DTEND:20210614T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe ninth game of the (delayed) EURO 2020 c
 	ompetition between Group E rivals\, Poland and Slovakia.
-URL:https://trovster.github.io/euro-2020/poland-slovakia/
+URL:https://footballcal.com/euro-2020/poland-slovakia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Slovakia,St Petersburg,Group E,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:d7zl49adq8DfjTb_eAqle
+UID:s-iYsAgHu7TeReEiC89nc
 SUMMARY:Spain v Poland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210619T190000Z
 DTEND:20210619T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 24th game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Spain and Poland.
-URL:https://trovster.github.io/euro-2020/spain-poland/
+URL:https://footballcal.com/euro-2020/spain-poland/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Poland,Seville,Group E,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:F1f_MvE_GR2j99KwLRP88
+UID:0UibVOcN9STXZ5_BAVa_D
 SUMMARY:Sweden v Poland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T160000Z
 DTEND:20210623T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 34th game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Sweden and Poland.
-URL:https://trovster.github.io/euro-2020/sweden-poland/
+URL:https://footballcal.com/euro-2020/sweden-poland/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Sweden,Poland,St Petersburg,Group E,Group stages,EUR
 	O 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:hY7rQIbo-5HltIwSKTw32
+UID:nsDizE-GVNpjHo1qGNuqg
 SUMMARY:Poland v Netherlands
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240616T130000Z
 DTEND:20240616T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
 	n between Group D competitors\, Poland and Netherlands.
-URL:https://trovster.github.io/euro-2024/poland-netherlands/
+URL:https://footballcal.com/euro-2024/poland-netherlands/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:qj5aKACvDTnoXv_vBVrgC
+UID:vyzYXCAKxlCvUsKOr3pe8
 SUMMARY:Poland v Austria
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240621T160000Z
 DTEND:20240621T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe twentieth game of the EURO 2024 compet
 	ition between Group D competitors\, Poland and Austria.
-URL:https://trovster.github.io/euro-2024/poland-austria/
+URL:https://footballcal.com/euro-2024/poland-austria/
 LOCATION:Berlin
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Austria,Berlin,Group D,Group stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:IylrAgCDf0JMo2MGA60Z7
+UID:WkKYv_vBFS4tkM8Yvez5j
 SUMMARY:France v Poland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T160000Z
 DTEND:20240625T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirtieth game of the EURO 2024 competi
 	tion between Group D competitors\, France and Poland.
-URL:https://trovster.github.io/euro-2024/france-poland/
+URL:https://footballcal.com/euro-2024/france-poland/
 LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,France,Poland,Dortmund,Group D,Group stages,EURO 202

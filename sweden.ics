@@ -5,55 +5,55 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8TK7uvnoSXIUb2hdcEW2i
+UID:wmgD0re7TCf_EdwEpW8iR
 SUMMARY:Spain v Sweden
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T190000Z
 DTEND:20210614T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe tenth game of the (delayed) EURO 2020 c
 	ompetition between Group E rivals\, Spain and Sweden.
-URL:https://trovster.github.io/euro-2020/spain-sweden/
+URL:https://footballcal.com/euro-2020/spain-sweden/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Sweden,Seville,Group E,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:1iKx4qfDsWY7prgJiDmS6
+UID:EQutmO-UYWPbS-v8RylpP
 SUMMARY:Sweden v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210618T130000Z
 DTEND:20210618T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe ninteenth game of the (delayed) EURO 20
 	20 competition between Group E rivals\, Sweden and Slovakia.
-URL:https://trovster.github.io/euro-2020/sweden-slovakia/
+URL:https://footballcal.com/euro-2020/sweden-slovakia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Sweden,Slovakia,St Petersburg,Group E,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:duHiPdf9KIT1ARXv6vRNW
+UID:xi8IO-SDKl_FI-_5DGKpk
 SUMMARY:Sweden v Poland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T160000Z
 DTEND:20210623T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 34th game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Sweden and Poland.
-URL:https://trovster.github.io/euro-2020/sweden-poland/
+URL:https://footballcal.com/euro-2020/sweden-poland/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Sweden,Poland,St Petersburg,Group E,Group stages,EUR
 	O 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:bi9Dadk0hb0Ioyds12nnk
+UID:acbj18KdClX4Om0BbZD2c
 SUMMARY:Sweden v Ukraine
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210629T190000Z
 DTEND:20210629T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
 	mpetition between Group E winners Sweden and Group C third place Ukraine.
-URL:https://trovster.github.io/euro-2020/knockout-8/
+URL:https://footballcal.com/euro-2020/knockout-8/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group 

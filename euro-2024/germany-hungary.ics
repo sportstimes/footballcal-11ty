@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:CjzqX9T9TxhnsJLDISH-M
+UID:xjdhekRJDHsek_MN4-45F
 SUMMARY:Germany v Hungary
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T160000Z
 DTEND:20240619T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fourteenth game of the EURO 2024 compe
 	tition between Group A competitors\, Germany and Hungary.
-URL:https://trovster.github.io/euro-2024/germany-hungary/
+URL:https://footballcal.com/euro-2024/germany-hungary/
 LOCATION:Stuttgart
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Germany,Hungary,Stuttgart,Group A,Group stages,EURO 

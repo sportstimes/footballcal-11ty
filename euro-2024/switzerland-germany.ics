@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:q4bj9FOnzyBmmeEqM2gZj
+UID:BR5mm8KVTe3U7qwAqTgLU
 SUMMARY:Switzerland v Germany
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240623T190000Z
 DTEND:20240623T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-fifth game of the EURO 2024 comp
 	etition between Group A competitors\, Switzerland and Germany.
-URL:https://trovster.github.io/euro-2024/switzerland-germany/
+URL:https://footballcal.com/euro-2024/switzerland-germany/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Germany,Frankfurt am Main,Group A,Group 

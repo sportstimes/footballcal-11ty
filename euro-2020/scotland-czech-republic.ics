@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4oSFkwakPUocbnYOkYrrz
+UID:29AXhGstYDFWagRQQAmeV
 SUMMARY:Scotland v Czech Republic
-DTSTAMP:20240618T145301Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T130000Z
 DTEND:20210614T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe eighth game of the (delayed) EURO 2020 
 	competition between Group D rivals\, Scotland and Czech Republic.
-URL:https://trovster.github.io/euro-2020/scotland-czech-republic/
+URL:https://footballcal.com/euro-2020/scotland-czech-republic/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Czech Republic,Glasgow,Group D,Group stages

@@ -5,84 +5,84 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:i4jyLQSXecS2-zCjcBZzY
+UID:JpeYQabgRske6rlG6M8gF
 SUMMARY:Hungary v Portugal
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210615T160000Z
 DTEND:20210615T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe eleventh game of the (delayed) EURO 202
 	0 competition between Group F rivals\, Hungary and Portugal.
-URL:https://trovster.github.io/euro-2020/hungary-portugal/
+URL:https://footballcal.com/euro-2020/hungary-portugal/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,Portugal,Budapest,Group F,Group stages,EURO 
 	2020
 END:VEVENT
 BEGIN:VEVENT
-UID:uGz7MqYSr0sDP3OnLiro4
+UID:hWoPItox9dGMZTSBxa3Mt
 SUMMARY:Hungary v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210619T130000Z
 DTEND:20210619T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 22nd game of the (delayed) EURO 2020 co
 	mpetition between Group F rivals\, Hungary and France.
-URL:https://trovster.github.io/euro-2020/hungary-france/
+URL:https://footballcal.com/euro-2020/hungary-france/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,France,Budapest,Group F,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:JsOhgNk0c6eXepG1R9Fjb
+UID:dzqzwE8NUoWnFFtq1fWVO
 SUMMARY:Germany v Hungary
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T190000Z
 DTEND:20210623T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 35th game of the (delayed) EURO 2020 co
 	mpetition between Group F rivals\, Germany and Hungary.
-URL:https://trovster.github.io/euro-2020/germany-hungary/
+URL:https://footballcal.com/euro-2020/germany-hungary/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Germany,Hungary,Munich,Group F,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:6yql7SnHT6lNJv3e7_8Di
+UID:2IWi9wRolaJ6FJ_sL9vEO
 SUMMARY:Hungary v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240615T130000Z
 DTEND:20240615T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe second game of the EURO 2024 competiti
 	on between Group A competitors\, Hungary and Switzerland.
-URL:https://trovster.github.io/euro-2024/hungary-switzerland/
+URL:https://footballcal.com/euro-2024/hungary-switzerland/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,Switzerland,Cologne,Group A,Group stages,EUR
 	O 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:Evvm-7Vx9pRz4WAY7Yiqu
+UID:11ujQfVxwEhcGnO-DwvlC
 SUMMARY:Germany v Hungary
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T160000Z
 DTEND:20240619T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fourteenth game of the EURO 2024 compe
 	tition between Group A competitors\, Germany and Hungary.
-URL:https://trovster.github.io/euro-2024/germany-hungary/
+URL:https://footballcal.com/euro-2024/germany-hungary/
 LOCATION:Stuttgart
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Germany,Hungary,Stuttgart,Group A,Group stages,EURO 
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:oiNFTrB4sxiinhk7M247r
+UID:2jQnR77CFnmJHqA8iLFtN
 SUMMARY:Scotland v Hungary
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240623T190000Z
 DTEND:20240623T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-sixth game of the EURO 2024 com
 	petition between Group A competitors\, Scotland and Hungary.
-URL:https://trovster.github.io/euro-2024/scotland-hungary/
+URL:https://footballcal.com/euro-2024/scotland-hungary/
 LOCATION:Stuttgart
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Hungary,Stuttgart,Group A,Group stages,EURO

@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ZtiY53DW4ZxaBNsReq5QT
+UID:DLcocMmZjGAXlTH0I6n0e
 SUMMARY:Romania v Ukraine
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240617T130000Z
 DTEND:20240617T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe eighth game of the EURO 2024 competiti
 	on between Group E competitors\, Romania and Ukraine.
-URL:https://trovster.github.io/euro-2024/romania-ukraine/
+URL:https://footballcal.com/euro-2024/romania-ukraine/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Romania,Ukraine,Munich,Group E,Group stages,EURO 202

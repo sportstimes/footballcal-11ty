@@ -5,42 +5,42 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:n0lDgdtJP2BJbwBD1X7JQ
+UID:kifMBr1hG_7udmvdJBy4O
 SUMMARY:Scotland v Czech Republic
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T130000Z
 DTEND:20210614T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe eighth game of the (delayed) EURO 2020 
 	competition between Group D rivals\, Scotland and Czech Republic.
-URL:https://trovster.github.io/euro-2020/scotland-czech-republic/
+URL:https://footballcal.com/euro-2020/scotland-czech-republic/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Czech Republic,Glasgow,Group D,Group stages
 	,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:BVov3Wm3wiqR98Rm5dBxz
+UID:ZJKRK14Fvtku5-ULzJeYY
 SUMMARY:Croatia v Czech Republic
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210618T160000Z
 DTEND:20210618T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twentieth game of the (delayed) EURO 20
 	20 competition between Group D rivals\, Croatia and Czech Republic.
-URL:https://trovster.github.io/euro-2020/croatia-czech-republic/
+URL:https://footballcal.com/euro-2020/croatia-czech-republic/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Czech Republic,Glasgow,Group D,Group stages,
 	EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:34aL4HvJA6H4U9K2zHBpp
+UID:ptzGK5xZbP3-xHAf1eWO0
 SUMMARY:Croatia v Scotland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210622T190000Z
 DTEND:20210622T205000Z
 DESCRIPTION:TV Channels: ITV\, STV\n\nThe 32nd game of the (delayed) EURO 2
 	020 competition between Group D rivals\, Croatia and Scotland.
-URL:https://trovster.github.io/euro-2020/croatia-scotland/
+URL:https://footballcal.com/euro-2020/croatia-scotland/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Scotland,Glasgow,Group D,Group stages,EURO 2

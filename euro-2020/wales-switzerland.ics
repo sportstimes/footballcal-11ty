@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:X2V8PbJs6zb6sw-JsuOYi
+UID:NJScED3qB3zwLv6UYwNM3
 SUMMARY:Wales v Switzerland
-DTSTAMP:20240618T145301Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210612T130000Z
 DTEND:20210612T145000Z
 DESCRIPTION:TV Channels: BBC\, S4C\n\nThe second game of the (delayed) EURO
 	 2020 competition between Group A rivals\, Wales &amp\; Switzerland.
-URL:https://trovster.github.io/euro-2020/wales-switzerland/
+URL:https://footballcal.com/euro-2020/wales-switzerland/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Wales,Switzerland,Baku,Group A,Group stages,EURO 202

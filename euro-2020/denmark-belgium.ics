@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:PJYW_VM1yXmnFC383BFQM
+UID:qIioQxnQ7nI7MsugOIQmX
 SUMMARY:Denmark v Belgium
-DTSTAMP:20240618T145301Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210617T160000Z
 DTEND:20210617T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe seventeenth game of the (delayed) EURO 
 	2020 competition between Group B rivals\, Denmark and Belgium.
-URL:https://trovster.github.io/euro-2020/denmark-belgium/
+URL:https://footballcal.com/euro-2020/denmark-belgium/
 LOCATION:Copenhagen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Denmark,Belgium,Copenhagen,Group B,Group stages,EURO

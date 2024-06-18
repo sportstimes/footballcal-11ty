@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Pn6vX60zGLdKgmGl5-fxy
+UID:7Xqr-8IVG5G-0jAE4PakW
 SUMMARY:Slovenia v Serbia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240620T130000Z
 DTEND:20240620T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe sixteenth game of the EURO 2024 compet
 	ition between Group C competitors\, Slovenia and Serbia.
-URL:https://trovster.github.io/euro-2024/slovenia-serbia/
+URL:https://footballcal.com/euro-2024/slovenia-serbia/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovenia,Serbia,Munich,Group C,Group stages,EURO 202

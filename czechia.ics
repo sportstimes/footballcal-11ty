@@ -5,42 +5,42 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:TLBr7KRdIwdUee5mbgldj
+UID:WmlVdrPTkEtfLgfyEZvdk
 SUMMARY:Portugal v Czechia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240618T190000Z
 DTEND:20240618T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twelfth game of the EURO 2024 competit
 	ion between Group F competitors\, Portugal and Czechia.
-URL:https://trovster.github.io/euro-2024/portugal-czechia/
+URL:https://footballcal.com/euro-2024/portugal-czechia/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Portugal,Czechia,Leipzig,Group F,Group stages,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:xWBg3TFIbmgeLSWGhVRSJ
+UID:seBNT6PiPjlh6Qs0GZA53
 SUMMARY:Georgia v Czechia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240622T130000Z
 DTEND:20240622T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-second game of the EURO 2024 co
 	mpetition between Group F competitors\, Georgia and Czechia.
-URL:https://trovster.github.io/euro-2024/georgia-czechia/
+URL:https://footballcal.com/euro-2024/georgia-czechia/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Georgia,Czechia,Hamburg,Group F,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:soh0dXy6mGvmRHiEeBTEC
+UID:pfCLHEuXmFi7oXXMJZPhQ
 SUMMARY:Czechia v Turkey
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T190000Z
 DTEND:20240626T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe thirty-sixth game of the EURO 2024 comp
 	etition between Group F competitors\, Czechia and Turkey.
-URL:https://trovster.github.io/euro-2024/czechia-turkey/
+URL:https://footballcal.com/euro-2024/czechia-turkey/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Czechia,Turkey,Hamburg,Group F,Group stages,EURO 202

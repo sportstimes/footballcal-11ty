@@ -5,54 +5,54 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:VGvdlM3X7zj6ihsfouzcX
+UID:6rONEwgJ_61m8UYdMauYb
 SUMMARY:Wales v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210612T130000Z
 DTEND:20210612T145000Z
 DESCRIPTION:TV Channels: BBC\, S4C\n\nThe second game of the (delayed) EURO
 	 2020 competition between Group A rivals\, Wales &amp\; Switzerland.
-URL:https://trovster.github.io/euro-2020/wales-switzerland/
+URL:https://footballcal.com/euro-2020/wales-switzerland/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Wales,Switzerland,Baku,Group A,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:rFCqRnW7R3Dg1pczX6Cmo
+UID:3VD29W-Yvu6kNWdjZ_H0r
 SUMMARY:Turkey v Wales
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210616T160000Z
 DTEND:20210616T175000Z
 DESCRIPTION:TV Channels: BBC\, S4C\n\nThe fourteenth game of the (delayed) 
 	EURO 2020 competition between Group A rivals\, Turkey and Wales.
-URL:https://trovster.github.io/euro-2020/turkey-wales/
+URL:https://footballcal.com/euro-2020/turkey-wales/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Wales,Baku,Group A,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:nveHwNCe55_dViX5yJNmX
+UID:YextXobA-5qYKqw0__9Uj
 SUMMARY:Italy v Wales
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210620T160000Z
 DTEND:20210620T175000Z
 DESCRIPTION:TV Channels: ITV\, S4C\n\nThe 25th game of the (delayed) EURO 2
 	020 competition between Group A rivals\, Italy and Wales.
-URL:https://trovster.github.io/euro-2020/italy-wales/
+URL:https://footballcal.com/euro-2020/italy-wales/
 LOCATION:Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Wales,Rome,Group A,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:zWR1bAPDWlvo4n6r4Tomy
+UID:OALMCLaiq4bjYXDub7hOx
 SUMMARY:Wales v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210626T160000Z
 DTEND:20210626T175000Z
 DESCRIPTION:The 37th game of the (delayed) EURO 2020 competition between Gr
 	oup A runners-up Wales and Group B runners-up Denmark.
-URL:https://trovster.github.io/euro-2020/knockout-1/
+URL:https://footballcal.com/euro-2020/knockout-1/
 LOCATION:Amsterdam
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Wales,Denmark,Amsterdam,Group A,Group B,Knockout,Gro

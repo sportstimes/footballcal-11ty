@@ -5,213 +5,213 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:WjtmSTXG2H5hrU-7vCCiJ
+UID:EKRvawoImfkTyxOztyhm0
 SUMMARY:Wales v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210626T160000Z
 DTEND:20210626T175000Z
 DESCRIPTION:The 37th game of the (delayed) EURO 2020 competition between Gr
 	oup A runners-up Wales and Group B runners-up Denmark.
-URL:https://trovster.github.io/euro-2020/knockout-1/
+URL:https://footballcal.com/euro-2020/knockout-1/
 LOCATION:Amsterdam
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Wales,Denmark,Amsterdam,Group A,Group B,Knockout,Gro
 	up of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:XvO1d9jE-W-jhVyM5Htar
+UID:kjFpKCbs-hHbUPh3kFE6J
 SUMMARY:Italy v Austria
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210626T190000Z
 DTEND:20210626T205000Z
 DESCRIPTION:The 38th game of the (delayed) EURO 2020 competition between Gr
 	oup A winners Italy and Group C runners-up Austria.
-URL:https://trovster.github.io/euro-2020/knockout-2/
+URL:https://footballcal.com/euro-2020/knockout-2/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Austria,London,Group A,Group C,Knockout,Group 
 	of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:1N8Q48QOLZkPwqLWvt-J8
+UID:GFavwlM8HTwI9gGw1O4Er
 SUMMARY:Netherlands v Czech Republic
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210627T160000Z
 DTEND:20210627T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 39th game of the (delayed) EURO 2020 co
 	mpetition between Group C winners Netherlands and Group D third place Czec
 	h Republic.
-URL:https://trovster.github.io/euro-2020/knockout-3/
+URL:https://footballcal.com/euro-2020/knockout-3/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,Czech Republic,Budapest,Group C,Group D,
 	Group E,Group F,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:uH2k3Vy8Tf8naqwaBPFsV
+UID:3fkECxalqFG1-ZRjB_Cmg
 SUMMARY:Belgium v Portugal
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210627T190000Z
 DTEND:20210627T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
 	mpetition between Group B winners Belgium and Group F third place Portugal
 	.
-URL:https://trovster.github.io/euro-2020/knockout-4/
+URL:https://footballcal.com/euro-2020/knockout-4/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
 	up E,Group F,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:avm8e6ocwRgVgLpPm2Ky3
+UID:W1vJP3MaZ0DQdLdPmwKq_
 SUMMARY:Croatia v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210628T160000Z
 DTEND:20210628T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 41st game of the (delayed) EURO 2020 co
 	mpetition between Group D runners-up Croatia and Group E runners-up Spain.
-URL:https://trovster.github.io/euro-2020/knockout-5/
+URL:https://footballcal.com/euro-2020/knockout-5/
 LOCATION:Copenhagen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Spain,Copenhagen,Group D,Group E,Knockout,Gr
 	oup of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:qXPve3CMNoW-OFzJJgFeh
+UID:Ydcj4T-MdV7h3LKosLTjl
 SUMMARY:France v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210628T190000Z
 DTEND:20210628T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
 	mpetition between Group F winners France and Group A third place Switzerla
 	nd.
-URL:https://trovster.github.io/euro-2020/knockout-6/
+URL:https://footballcal.com/euro-2020/knockout-6/
 LOCATION:Bucharest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
 	,Group F,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:DFetDQ09Io_GPz_0v_RBt
+UID:3ALCUBhALgEJAVpa9gP2x
 SUMMARY:England v Germany
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210629T160000Z
 DTEND:20210629T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
 	mpetition between Group D winners England and Group F runners-up Germany.
-URL:https://trovster.github.io/euro-2020/knockout-7/
+URL:https://footballcal.com/euro-2020/knockout-7/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou
 	p of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:oYlKyqboJHZswDLlxq0zo
+UID:-M9UPd0wFlSFypbfQdVkC
 SUMMARY:Sweden v Ukraine
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210629T190000Z
 DTEND:20210629T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
 	mpetition between Group E winners Sweden and Group C third place Ukraine.
-URL:https://trovster.github.io/euro-2020/knockout-8/
+URL:https://footballcal.com/euro-2020/knockout-8/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group 
 	D,Group E,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:IQf5TeVg8zrjRYv2tCfvw
+UID:d0DpF2Kl12EJW-_DIF7Uc
 SUMMARY:Switzerland v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210702T160000Z
 DTEND:20210702T175000Z
 DESCRIPTION:The 45th game of the (delayed) EURO 2020 competition between Kn
 	ockout 6 winners\, Switzerland and Knockout 5 winners\, Spain.
-URL:https://trovster.github.io/euro-2020/quarter-final-1/
+URL:https://footballcal.com/euro-2020/quarter-final-1/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Spain,St Petersburg,Knockout,Quarter Fin
 	al,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:zTqheJiCZVjP9HBhu648p
+UID:hsSI_NBSHabuc_jWJg48C
 SUMMARY:Belgium v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210702T190000Z
 DTEND:20210702T205000Z
 DESCRIPTION:The 46th game of the (delayed) EURO 2020 competition between Kn
 	ockout 4 winners\, Belgium and [Knockout 2 winners]((/euro-2020/knockout-2
 	)\, Italy.
-URL:https://trovster.github.io/euro-2020/quarter-final-2/
+URL:https://footballcal.com/euro-2020/quarter-final-2/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Italy,Munich,Knockout,Quarter Final,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:LoMbu10tnVxaRF1V5nJ1y
+UID:OJCOEO7p8O6w_7UiEWOrC
 SUMMARY:Czech Republic v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210703T160000Z
 DTEND:20210703T175000Z
 DESCRIPTION:The 47th game of the (delayed) EURO 2020 competition between Kn
 	ockout 3 winners\, Czech Republic and Knockout 1 winners\, Denmark.
-URL:https://trovster.github.io/euro-2020/quarter-final-3/
+URL:https://footballcal.com/euro-2020/quarter-final-3/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Czech Republic,Denmark,Baku,Knockout,Quarter Final,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:WlLYXLU4e2ZT4FniOxLOh
+UID:p7VEIHeqLuyliJVNfXIBI
 SUMMARY:Ukraine v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210703T190000Z
 DTEND:20210703T205000Z
 DESCRIPTION:The 48th game of the (delayed) EURO 2020 competition between Kn
 	ockout 8 winners\, Ukraine and Knockout 7 winners\, England.
-URL:https://trovster.github.io/euro-2020/quarter-final-4/
+URL:https://footballcal.com/euro-2020/quarter-final-4/
 LOCATION:Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Ukraine,England,Rome,Knockout,Quarter Final,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:Wr5Ft6qmKxZc1_1XmyDfK
+UID:9XTU6Kx5DFoqyfDrroKfW
 SUMMARY:Italy v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210706T190000Z
 DTEND:20210706T205000Z
 DESCRIPTION:The 49th game of the (delayed) EURO 2020 competition between Qu
 	arter Final 2 winners\, Italy and Quarter Final 1 winners\, Spain.
-URL:https://trovster.github.io/euro-2020/semi-final-1/
+URL:https://footballcal.com/euro-2020/semi-final-1/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Spain,London,Knockout,Semi Final,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:eR4KKmFrVjCEwqDk_K61L
+UID:dFzCKdxFrHwW4fIZCwCxI
 SUMMARY:England v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210707T190000Z
 DTEND:20210707T205000Z
 DESCRIPTION:The 50th game of the (delayed) EURO 2020 competition between Qu
 	arter Final 4 winners\, England and Quarter Final 3 winners\, Denmark.
-URL:https://trovster.github.io/euro-2020/semi-final-2/
+URL:https://footballcal.com/euro-2020/semi-final-2/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Denmark,London,Knockout,Semi Final,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:EnPniCZ0MCdk6P6geBY6B
+UID:ZoxIXB7sXFefi6dTj__RX
 SUMMARY:Italy v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210711T190000Z
 DTEND:20210711T205000Z
 DESCRIPTION:TV Channels: BBC\, ITV\n\nThe 51st game of the (delayed) EURO 2
 	020 competition between Semi Final 1 winners\, Italy and Semi Final 2 winn
 	ers\, England.
-URL:https://trovster.github.io/euro-2020/final/
+URL:https://footballcal.com/euro-2020/final/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,England,London,Knockout,Final,EURO 2020

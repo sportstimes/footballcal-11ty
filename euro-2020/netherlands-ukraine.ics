@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:gGrOfOUjpHQGZwkyR-8LS
+UID:lkjp4Dk3_bsdfPA8FFVhf
 SUMMARY:Netherlands v Ukraine
-DTSTAMP:20240618T145301Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210613T190000Z
 DTEND:20210613T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe seventh game of the (delayed) EURO 2020
 	 competition between Group C rivals\, Netherlands and Ukraine.
-URL:https://trovster.github.io/euro-2020/netherlands-ukraine/
+URL:https://footballcal.com/euro-2020/netherlands-ukraine/
 LOCATION:Amsterdam
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,Ukraine,Amsterdam,Group C,Group stages,E

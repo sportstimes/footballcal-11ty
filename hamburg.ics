@@ -5,56 +5,56 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:y8oYZiWTed-28cOQuXQud
+UID:KbZvg5CZHQbDKsJsOnzuy
 SUMMARY:Poland v Netherlands
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240616T130000Z
 DTEND:20240616T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
 	n between Group D competitors\, Poland and Netherlands.
-URL:https://trovster.github.io/euro-2024/poland-netherlands/
+URL:https://footballcal.com/euro-2024/poland-netherlands/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:VK2HQ0_OXlwccBHd1olvz
+UID:fMBX932ma2TfO0--47mSS
 SUMMARY:Croatia v Albania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T130000Z
 DTEND:20240619T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirteenth game of the EURO 2024 compe
 	tition between Group B competitors\, Croatia and Albania.
-URL:https://trovster.github.io/euro-2024/croatia-albania/
+URL:https://footballcal.com/euro-2024/croatia-albania/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Albania,Hamburg,Group B,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:9vhZvyif04Vi0aDwPUttj
+UID:zVwYPmRDPYjA-UUgMoVjB
 SUMMARY:Georgia v Czechia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240622T130000Z
 DTEND:20240622T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-second game of the EURO 2024 co
 	mpetition between Group F competitors\, Georgia and Czechia.
-URL:https://trovster.github.io/euro-2024/georgia-czechia/
+URL:https://footballcal.com/euro-2024/georgia-czechia/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Georgia,Czechia,Hamburg,Group F,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:KtAUyENYBx2uqWT_iOBdb
+UID:7gClpp51-__rh-sxVSKjh
 SUMMARY:Czechia v Turkey
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T190000Z
 DTEND:20240626T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe thirty-sixth game of the EURO 2024 comp
 	etition between Group F competitors\, Czechia and Turkey.
-URL:https://trovster.github.io/euro-2024/czechia-turkey/
+URL:https://footballcal.com/euro-2024/czechia-turkey/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Czechia,Turkey,Hamburg,Group F,Group stages,EURO 202

@@ -5,113 +5,113 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:gt11uFuQ153KhxUeKXAp3
+UID:XnB31MHh__odzSstkyxmv
 SUMMARY:Wales v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210612T130000Z
 DTEND:20210612T145000Z
 DESCRIPTION:TV Channels: BBC\, S4C\n\nThe second game of the (delayed) EURO
 	 2020 competition between Group A rivals\, Wales &amp\; Switzerland.
-URL:https://trovster.github.io/euro-2020/wales-switzerland/
+URL:https://footballcal.com/euro-2020/wales-switzerland/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Wales,Switzerland,Baku,Group A,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:_cWfkS-jpzFqogmhlN-QO
+UID:eqerHsiqnW5pGW1PvEOTS
 SUMMARY:Italy v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210616T190000Z
 DTEND:20210616T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe fifteenth game of the (delayed) EURO 20
 	20 competition between Group A rivals\, Italy and Switzerland.
-URL:https://trovster.github.io/euro-2020/italy-switzerland/
+URL:https://footballcal.com/euro-2020/italy-switzerland/
 LOCATION:Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Switzerland,Rome,Group A,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:hw1gLqOR1UBRZMSaaJdn4
+UID:X9ymm-Dxn2qVOSqN3rL35
 SUMMARY:Switzerland v Turkey
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210620T160000Z
 DTEND:20210620T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 26th game of the (delayed) EURO 2020 co
 	mpetition between Group A rivals\, Switzerland and Turkey.
-URL:https://trovster.github.io/euro-2020/switzerland-turkey/
+URL:https://footballcal.com/euro-2020/switzerland-turkey/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Turkey,Baku,Group A,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:9fcxZl22ImodOwpNMIJ_b
+UID:jkJ89D-erJXiOnskcJeUc
 SUMMARY:France v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210628T190000Z
 DTEND:20210628T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
 	mpetition between Group F winners France and Group A third place Switzerla
 	nd.
-URL:https://trovster.github.io/euro-2020/knockout-6/
+URL:https://footballcal.com/euro-2020/knockout-6/
 LOCATION:Bucharest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
 	,Group F,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:GLcyDFAce3tRo_ANAzph5
+UID:PAiigwoU62eDt9M17154D
 SUMMARY:Switzerland v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210702T160000Z
 DTEND:20210702T175000Z
 DESCRIPTION:The 45th game of the (delayed) EURO 2020 competition between Kn
 	ockout 6 winners\, Switzerland and Knockout 5 winners\, Spain.
-URL:https://trovster.github.io/euro-2020/quarter-final-1/
+URL:https://footballcal.com/euro-2020/quarter-final-1/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Spain,St Petersburg,Knockout,Quarter Fin
 	al,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:WcRwga5wbPf1CNV9qhHTK
+UID:LAefJZkuLZ78SGQjrZYXO
 SUMMARY:Hungary v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240615T130000Z
 DTEND:20240615T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe second game of the EURO 2024 competiti
 	on between Group A competitors\, Hungary and Switzerland.
-URL:https://trovster.github.io/euro-2024/hungary-switzerland/
+URL:https://footballcal.com/euro-2024/hungary-switzerland/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,Switzerland,Cologne,Group A,Group stages,EUR
 	O 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:IerR5FC99M6XDQWX7-V7p
+UID:0aAwFI_nHmU4xMtmYyXyq
 SUMMARY:Scotland v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T190000Z
 DTEND:20240619T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe fifteenth game of the EURO 2024 competi
 	tion between Group A competitors\, Scotland and Switerland.
-URL:https://trovster.github.io/euro-2024/scotland-switzerland/
+URL:https://footballcal.com/euro-2024/scotland-switzerland/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Switzerland,Cologne,Group A,Group stages,EU
 	RO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:0CsjiU3ZGVk3m9MFjXMfp
+UID:sIxK7O_48JqSqxhFyYOpt
 SUMMARY:Switzerland v Germany
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240623T190000Z
 DTEND:20240623T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-fifth game of the EURO 2024 comp
 	etition between Group A competitors\, Switzerland and Germany.
-URL:https://trovster.github.io/euro-2024/switzerland-germany/
+URL:https://footballcal.com/euro-2024/switzerland-germany/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Germany,Frankfurt am Main,Group A,Group 

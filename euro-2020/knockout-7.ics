@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:nfQADOhMWoOJ6mHqmNw6T
+UID:2B9IKzSXVOoUF75ETUbKz
 SUMMARY:England v Germany
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210629T160000Z
 DTEND:20210629T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
 	mpetition between Group D winners England and Group F runners-up Germany.
-URL:https://trovster.github.io/euro-2020/knockout-7/
+URL:https://footballcal.com/euro-2020/knockout-7/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou

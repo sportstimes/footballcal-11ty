@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:LxvceVVDlbCH61JMDHPAM
+UID:jC799qZsSSe08gGHvYw79
 SUMMARY:Poland v Netherlands
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240616T130000Z
 DTEND:20240616T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
 	n between Group D competitors\, Poland and Netherlands.
-URL:https://trovster.github.io/euro-2024/poland-netherlands/
+URL:https://footballcal.com/euro-2024/poland-netherlands/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO

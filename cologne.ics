@@ -5,56 +5,56 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:N5TP4Wiq5-IAexezgkmS3
+UID:SIB4gF300NNa8wsUtv75M
 SUMMARY:Hungary v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240615T130000Z
 DTEND:20240615T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe second game of the EURO 2024 competiti
 	on between Group A competitors\, Hungary and Switzerland.
-URL:https://trovster.github.io/euro-2024/hungary-switzerland/
+URL:https://footballcal.com/euro-2024/hungary-switzerland/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,Switzerland,Cologne,Group A,Group stages,EUR
 	O 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:-vK_-Ap5tCEr9dqqwxcsL
+UID:OTJghjOPnmOJaNSUhtWZK
 SUMMARY:Scotland v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T190000Z
 DTEND:20240619T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe fifteenth game of the EURO 2024 competi
 	tion between Group A competitors\, Scotland and Switerland.
-URL:https://trovster.github.io/euro-2024/scotland-switzerland/
+URL:https://footballcal.com/euro-2024/scotland-switzerland/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Switzerland,Cologne,Group A,Group stages,EU
 	RO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:ckV9T0XKoHiuRgds8EmSq
+UID:fH0D1g-32kroUh8jRaNmX
 SUMMARY:Belgium v Romania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240622T190000Z
 DTEND:20240622T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe twenty-fourth game of the EURO 2024 co
 	mpetition between Group E competitors\, Belgium and Romania.
-URL:https://trovster.github.io/euro-2024/belgium-romania/
+URL:https://footballcal.com/euro-2024/belgium-romania/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Romania,Cologne,Group E,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:vcWCh5ADtrSI5NRL8vcbo
+UID:2nXEoTFt-HRFhuDq0Oa3C
 SUMMARY:England v Slovenia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T190000Z
 DTEND:20240625T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirty-first game of the EURO 2024 com
 	petition between Group C competitors\, England and Slovenia.
-URL:https://trovster.github.io/euro-2024/england-slovenia/
+URL:https://footballcal.com/euro-2024/england-slovenia/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Slovenia,Cologne,Group C,Group stages,EURO 2

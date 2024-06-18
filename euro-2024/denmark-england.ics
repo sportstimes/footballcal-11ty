@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:phWdC0r5EfPnZrdvPCg_I
+UID:5v3Eo_MClb6mrlcpDvXrI
 SUMMARY:Denmark v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240620T160000Z
 DTEND:20240620T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe seventeenth game of the EURO 2024 comp
 	etition between Group C competitors\, Denmark and England.
-URL:https://trovster.github.io/euro-2024/denmark-england/
+URL:https://footballcal.com/euro-2024/denmark-england/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Denmark,England,Frankfurt am Main,Group C,Group stag

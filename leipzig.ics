@@ -5,42 +5,42 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Z0DHgISZltoEdaBLzwEgo
+UID:5sAJXtXVHhKHfuoecrSsh
 SUMMARY:Portugal v Czechia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240618T190000Z
 DTEND:20240618T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twelfth game of the EURO 2024 competit
 	ion between Group F competitors\, Portugal and Czechia.
-URL:https://trovster.github.io/euro-2024/portugal-czechia/
+URL:https://footballcal.com/euro-2024/portugal-czechia/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Portugal,Czechia,Leipzig,Group F,Group stages,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:WvYNHTUfVbv6GDPpWaCfb
+UID:nVIwkgEIC9wkUGiYu4sye
 SUMMARY:Netherlands v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240621T190000Z
 DTEND:20240621T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-first game of the EURO 2024 com
 	petition between Group D competitors\, Netherlands and France.
-URL:https://trovster.github.io/euro-2024/netherlands-france/
+URL:https://footballcal.com/euro-2024/netherlands-france/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,France,Leipzig,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:tkIOB-Tluzxhx-CoNXcH1
+UID:s-za7TTFOlaCP-M1h8zGj
 SUMMARY:Croatia v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-eighth game of the EURO 2024 com
 	petition between Group B competitors\, Croatia and Italy.
-URL:https://trovster.github.io/euro-2024/croatia-italy/
+URL:https://footballcal.com/euro-2024/croatia-italy/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Italy,Leipzig,Group B,Group stages,EURO 2024

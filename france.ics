@@ -5,98 +5,98 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:wyqrLtqUoh8i3PMCDR6nn
+UID:8BvmoAELgyRdY_ZNmS1CJ
 SUMMARY:France v Germany
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210615T190000Z
 DTEND:20210615T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe twelfth game of the (delayed) EURO 2020
 	 competition between Group F rivals\, France and Germany.
-URL:https://trovster.github.io/euro-2020/france-germany/
+URL:https://footballcal.com/euro-2020/france-germany/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,France,Germany,Munich,Group F,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:C_f-baIgXVPgAtgMM17Z5
+UID:FDeVajwveHy-70_gUeWDr
 SUMMARY:Hungary v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210619T130000Z
 DTEND:20210619T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 22nd game of the (delayed) EURO 2020 co
 	mpetition between Group F rivals\, Hungary and France.
-URL:https://trovster.github.io/euro-2020/hungary-france/
+URL:https://footballcal.com/euro-2020/hungary-france/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,France,Budapest,Group F,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:SQv0OWrgTaS6aMbvjozdP
+UID:IMqBjGxAvxxbm0eC1Ph_4
 SUMMARY:Portugal v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T190000Z
 DTEND:20210623T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 36th game of the (delayed) EURO 2020 co
 	mpetition between Group F rivals\, Portugal and France.
-URL:https://trovster.github.io/euro-2020/portugal-france/
+URL:https://footballcal.com/euro-2020/portugal-france/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Portugal,France,Budapest,Group F,Group stages,EURO 2
 	020
 END:VEVENT
 BEGIN:VEVENT
-UID:4Qv4wIrOmO-rnabFmCJBs
+UID:HnMRzpymiTvj5usK2x40D
 SUMMARY:France v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210628T190000Z
 DTEND:20210628T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
 	mpetition between Group F winners France and Group A third place Switzerla
 	nd.
-URL:https://trovster.github.io/euro-2020/knockout-6/
+URL:https://footballcal.com/euro-2020/knockout-6/
 LOCATION:Bucharest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
 	,Group F,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:IcoJiUo7-pSZ5fWpPBYTT
+UID:1u8IiP9QsLq5RUIFIzuZg
 SUMMARY:Austria v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240617T190000Z
 DTEND:20240617T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
 	n between Group D competitors\, Austria and France.
-URL:https://trovster.github.io/euro-2024/austria-france/
+URL:https://footballcal.com/euro-2024/austria-france/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO 
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:PEOP8T-v8dN8Q1Wdd3BU2
+UID:A96l0UO1uEj99ouCANHgr
 SUMMARY:Netherlands v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240621T190000Z
 DTEND:20240621T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-first game of the EURO 2024 com
 	petition between Group D competitors\, Netherlands and France.
-URL:https://trovster.github.io/euro-2024/netherlands-france/
+URL:https://footballcal.com/euro-2024/netherlands-france/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,France,Leipzig,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:ed9xU7huRXt6I8qadUEgN
+UID:TDf3OU1xkOmZprHlt1dib
 SUMMARY:France v Poland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T160000Z
 DTEND:20240625T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirtieth game of the EURO 2024 competi
 	tion between Group D competitors\, France and Poland.
-URL:https://trovster.github.io/euro-2024/france-poland/
+URL:https://footballcal.com/euro-2024/france-poland/
 LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,France,Poland,Dortmund,Group D,Group stages,EURO 202

@@ -5,139 +5,139 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:jcGY-XmVxsvhoLuCKne-x
+UID:TVhoC98v05vcd40qHfAdP
 SUMMARY:England v Croatia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210613T130000Z
 DTEND:20210613T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe fifth game of the (delayed) EURO 2020 c
 	ompetition between Group D rivals\, England and Croatia.
-URL:https://trovster.github.io/euro-2020/england-croatia/
+URL:https://footballcal.com/euro-2020/england-croatia/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Croatia,London,Group D,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:DUIxMSYPcbQMUQRw2GUve
+UID:DD5esfmbEfyPgbgbQguXB
 SUMMARY:England v Scotland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210618T190000Z
 DTEND:20210618T205000Z
 DESCRIPTION:TV Channels: ITV\, STV\n\nThe 21st game of the (delayed) EURO 2
 	020 competition between Group D rivals\, England and Scotland.
-URL:https://trovster.github.io/euro-2020/england-scotland/
+URL:https://footballcal.com/euro-2020/england-scotland/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Scotland,London,Group D,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:JW60nXzJgk6RT4pbVO_LK
+UID:rwAQQiMeT-aNn8rpWXgfV
 SUMMARY:Czech Republic v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210622T190000Z
 DTEND:20210622T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 31st game of the (delayed) EURO 2020 co
 	mpetition between Group D rivals\, Czech Republic and England.
-URL:https://trovster.github.io/euro-2020/czech-republic-england/
+URL:https://footballcal.com/euro-2020/czech-republic-england/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Czech Republic,England,London,Group D,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:bR6hAKjoOateqTYs0Ecly
+UID:7xUcrMpE4sAoc2CF4_YKb
 SUMMARY:England v Germany
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210629T160000Z
 DTEND:20210629T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
 	mpetition between Group D winners England and Group F runners-up Germany.
-URL:https://trovster.github.io/euro-2020/knockout-7/
+URL:https://footballcal.com/euro-2020/knockout-7/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou
 	p of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:Ok-i1frT7dlRfFqgC16au
+UID:dsSeCmeDUXIvdWpj26MO6
 SUMMARY:Ukraine v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210703T190000Z
 DTEND:20210703T205000Z
 DESCRIPTION:The 48th game of the (delayed) EURO 2020 competition between Kn
 	ockout 8 winners\, Ukraine and Knockout 7 winners\, England.
-URL:https://trovster.github.io/euro-2020/quarter-final-4/
+URL:https://footballcal.com/euro-2020/quarter-final-4/
 LOCATION:Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Ukraine,England,Rome,Knockout,Quarter Final,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:46mD7yvW90-3jDSKEMqlO
+UID:q7M4GIUSsWGfbkd-l6nx3
 SUMMARY:England v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210707T190000Z
 DTEND:20210707T205000Z
 DESCRIPTION:The 50th game of the (delayed) EURO 2020 competition between Qu
 	arter Final 4 winners\, England and Quarter Final 3 winners\, Denmark.
-URL:https://trovster.github.io/euro-2020/semi-final-2/
+URL:https://footballcal.com/euro-2020/semi-final-2/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Denmark,London,Knockout,Semi Final,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:Fem-k1eVHl0-yAhip6-jo
+UID:fanJhrqv9Et8RbBy8Upuw
 SUMMARY:Italy v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210711T190000Z
 DTEND:20210711T205000Z
 DESCRIPTION:TV Channels: BBC\, ITV\n\nThe 51st game of the (delayed) EURO 2
 	020 competition between Semi Final 1 winners\, Italy and Semi Final 2 winn
 	ers\, England.
-URL:https://trovster.github.io/euro-2020/final/
+URL:https://footballcal.com/euro-2020/final/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,England,London,Knockout,Final,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:x_skDGQxPqqYGZZnKYoOL
+UID:ltwVKYFVZRrZ0t2A_GdWF
 SUMMARY:Serbia v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240616T190000Z
 DTEND:20240616T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe seventh game of the EURO 2024 competit
 	ion between Group C competitors\, Serbia and England.
-URL:https://trovster.github.io/euro-2024/serbia-england/
+URL:https://footballcal.com/euro-2024/serbia-england/
 LOCATION:Gelsenkirchen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Serbia,England,Gelsenkirchen,Group C,Group stages,EU
 	RO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:wgQX6J8lBiQb2qxftKZRS
+UID:Sc9iky6XCbTRPNopgS7J3
 SUMMARY:Denmark v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240620T160000Z
 DTEND:20240620T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe seventeenth game of the EURO 2024 comp
 	etition between Group C competitors\, Denmark and England.
-URL:https://trovster.github.io/euro-2024/denmark-england/
+URL:https://footballcal.com/euro-2024/denmark-england/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Denmark,England,Frankfurt am Main,Group C,Group stag
 	es,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:P4MS1h96Z_sp_f9zvmK1Z
+UID:hdDHQqvJU26Ongw_53KZf
 SUMMARY:England v Slovenia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T190000Z
 DTEND:20240625T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirty-first game of the EURO 2024 com
 	petition between Group C competitors\, England and Slovenia.
-URL:https://trovster.github.io/euro-2024/england-slovenia/
+URL:https://footballcal.com/euro-2024/england-slovenia/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Slovenia,Cologne,Group C,Group stages,EURO 2

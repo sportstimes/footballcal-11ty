@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:if_rxDqjb2SoG5VQjDLAd
+UID:T4Efs1rBfalChXbm9vH85
 SUMMARY:Czechia v Turkey
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T190000Z
 DTEND:20240626T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe thirty-sixth game of the EURO 2024 comp
 	etition between Group F competitors\, Czechia and Turkey.
-URL:https://trovster.github.io/euro-2024/czechia-turkey/
+URL:https://footballcal.com/euro-2024/czechia-turkey/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Czechia,Turkey,Hamburg,Group F,Group stages,EURO 202

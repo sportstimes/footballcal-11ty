@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:14J4Gbgrd7FVC0-d_rG7G
+UID:AWIxa5eO0RfxtZZ24xrZ4
 SUMMARY:England v Slovenia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T190000Z
 DTEND:20240625T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirty-first game of the EURO 2024 com
 	petition between Group C competitors\, England and Slovenia.
-URL:https://trovster.github.io/euro-2024/england-slovenia/
+URL:https://footballcal.com/euro-2024/england-slovenia/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Slovenia,Cologne,Group C,Group stages,EURO 2

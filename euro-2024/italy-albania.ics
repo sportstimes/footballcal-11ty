@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:yCZ3LS2b_ZHhMapKw72eH
+UID:m6JhVDTPrLrvOl9LQe9dY
 SUMMARY:Italy v Albania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240615T190000Z
 DTEND:20240615T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fourth game of the EURO 2024 competiti
 	on between Group A competitors\, Italy v Albania.
-URL:https://trovster.github.io/euro-2024/italy-albania/
+URL:https://footballcal.com/euro-2024/italy-albania/
 LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Albania,Dortmund,Group B,Group stages,EURO 202

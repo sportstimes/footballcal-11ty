@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:tnwh0D5sBEeLiwOFHGWQr
+UID:nM0KEy6wuF0kuMdoYFLlC
 SUMMARY:Portugal v Germany
-DTSTAMP:20240618T145301Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210619T160000Z
 DTEND:20210619T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 23rd game of the (delayed) EURO 2020 co
 	mpetition between Group F rivals\, Portugal and Germany.
-URL:https://trovster.github.io/euro-2020/portugal-germany/
+URL:https://footballcal.com/euro-2020/portugal-germany/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Portugal,Germany,Munich,Group F,Group stages,EURO 20

@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:TFmz_qHkjG5-dPE5e1_T5
+UID:7tlTuDzSPaVuEIWKl50ht
 SUMMARY:Croatia v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-eighth game of the EURO 2024 com
 	petition between Group B competitors\, Croatia and Italy.
-URL:https://trovster.github.io/euro-2024/croatia-italy/
+URL:https://footballcal.com/euro-2024/croatia-italy/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Italy,Leipzig,Group B,Group stages,EURO 2024

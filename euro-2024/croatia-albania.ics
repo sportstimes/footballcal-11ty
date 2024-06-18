@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ak6HlKuh-rHnWD0wMJDez
+UID:f1xB15Qzo4jyaOZ-FQvlw
 SUMMARY:Croatia v Albania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T130000Z
 DTEND:20240619T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirteenth game of the EURO 2024 compe
 	tition between Group B competitors\, Croatia and Albania.
-URL:https://trovster.github.io/euro-2024/croatia-albania/
+URL:https://footballcal.com/euro-2024/croatia-albania/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Albania,Hamburg,Group B,Group stages,EURO 20

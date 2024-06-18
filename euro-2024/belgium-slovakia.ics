@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UJuN80b6yHBCrcfcZh8vw
+UID:pNme6VzcT6zNOC_rus04G
 SUMMARY:Belgium v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240617T160000Z
 DTEND:20240617T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe ninth game of the EURO 2024 competitio
 	n between Group E competitors\, Belgium and Slovakia.
-URL:https://trovster.github.io/euro-2024/belgium-slovakia/
+URL:https://footballcal.com/euro-2024/belgium-slovakia/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Slovakia,Frankfurt am Main,Group E,Group sta

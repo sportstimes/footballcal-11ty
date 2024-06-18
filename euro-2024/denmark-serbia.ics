@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:pADtAHU1Xx723cvfR9DX6
+UID:t5s91GXKlET4IPgQRQJNr
 SUMMARY:Denmark v Serbia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T190000Z
 DTEND:20240625T205000Z
 DESCRIPTION:TV Channels: ITV4\n\nThe thirty-second game of the EURO 2024 co
 	mpetition between Group C competitors\, Denmark and Serbia.
-URL:https://trovster.github.io/euro-2024/denmark-serbia/
+URL:https://footballcal.com/euro-2024/denmark-serbia/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Denmark,Serbia,Munich,Group C,Group stages,EURO 2024

@@ -5,15 +5,15 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:3tZoVBXcRfiCsgRjaMNuA
+UID:l0zpBydAPcYDW2w7WPuOr
 SUMMARY:Belgium v Portugal
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210627T190000Z
 DTEND:20210627T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
 	mpetition between Group B winners Belgium and Group F third place Portugal
 	.
-URL:https://trovster.github.io/euro-2020/knockout-4/
+URL:https://footballcal.com/euro-2020/knockout-4/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro

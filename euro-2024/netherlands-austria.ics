@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:d1PWgHV0rI2rtc0zNtKJw
+UID:LPdx6Z1SmRyUtu-oZ7BU3
 SUMMARY:Netherlands v Austria
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T160000Z
 DTEND:20240625T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-ninth game of the EURO 2024 comp
 	etition between Group D competitors\, Netherlands and Austria.
-URL:https://trovster.github.io/euro-2024/netherlands-austria/
+URL:https://footballcal.com/euro-2024/netherlands-austria/
 LOCATION:Berlin
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,Austria,Berlin,Group D,Group stages,EURO

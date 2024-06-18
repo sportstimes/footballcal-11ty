@@ -5,15 +5,15 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:zjkesF9MW2e4rnmgWIsg6
+UID:08eJX2rLVO90-hX2ft2PD
 SUMMARY:Italy v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210711T190000Z
 DTEND:20210711T205000Z
 DESCRIPTION:TV Channels: BBC\, ITV\n\nThe 51st game of the (delayed) EURO 2
 	020 competition between Semi Final 1 winners\, Italy and Semi Final 2 winn
 	ers\, England.
-URL:https://trovster.github.io/euro-2020/final/
+URL:https://footballcal.com/euro-2020/final/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,England,London,Knockout,Final,EURO 2020

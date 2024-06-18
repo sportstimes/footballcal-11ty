@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:PK3CpZ1mSovMBIZiwc9bM
+UID:lA4dyyfqZChT5TckEX0LE
 SUMMARY:Austria v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240617T190000Z
 DTEND:20240617T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
 	n between Group D competitors\, Austria and France.
-URL:https://trovster.github.io/euro-2024/austria-france/
+URL:https://footballcal.com/euro-2024/austria-france/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO 

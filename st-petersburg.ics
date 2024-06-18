@@ -5,98 +5,98 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:t_iRxHBwGLQReM-YZt0a1
+UID:nzUqnSqNtj4jxxDnW59zO
 SUMMARY:Belgium v Russia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210612T190000Z
 DTEND:20210612T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe fourth game of the (delayed) EURO 2020 
 	competition between Group B rivals\, Beligum and Russia.
-URL:https://trovster.github.io/euro-2020/belgium-russia/
+URL:https://footballcal.com/euro-2020/belgium-russia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Russia,St Petersburg,Group B,Group stages,EU
 	RO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:TJuc9XHNdq-Fha4st12sg
+UID:86zdPW_pXvpef0WDuLHEv
 SUMMARY:Poland v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T160000Z
 DTEND:20210614T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe ninth game of the (delayed) EURO 2020 c
 	ompetition between Group E rivals\, Poland and Slovakia.
-URL:https://trovster.github.io/euro-2020/poland-slovakia/
+URL:https://footballcal.com/euro-2020/poland-slovakia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Slovakia,St Petersburg,Group E,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:VEDXS1ohUTKo92F3yR628
+UID:k1ScUNic7cGKsffl-KQwU
 SUMMARY:Finland v Russia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210616T130000Z
 DTEND:20210616T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirteenth game of the (delayed) EURO 2
 	020 competition between Group B rivals\, Finland and Russia.
-URL:https://trovster.github.io/euro-2020/finland-russia/
+URL:https://footballcal.com/euro-2020/finland-russia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Finland,Russia,St Petersburg,Group B,Group stages,EU
 	RO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:4h6xlLe5yVKp8gJ6B9gTs
+UID:WOpC70ksmSoE6A0tjlpLo
 SUMMARY:Sweden v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210618T130000Z
 DTEND:20210618T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe ninteenth game of the (delayed) EURO 20
 	20 competition between Group E rivals\, Sweden and Slovakia.
-URL:https://trovster.github.io/euro-2020/sweden-slovakia/
+URL:https://footballcal.com/euro-2020/sweden-slovakia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Sweden,Slovakia,St Petersburg,Group E,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:DoA9FKoVNU1bBagWk_jor
+UID:EGpzLezJkLhrr2J0lulYj
 SUMMARY:Finland v Belgium
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210621T190000Z
 DTEND:20210621T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 30th game of the (delayed) EURO 2020 co
 	mpetition between Group B rivals\, Finland and Belgium.
-URL:https://trovster.github.io/euro-2020/finland-belgium/
+URL:https://footballcal.com/euro-2020/finland-belgium/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Finland,Belgium,St Petersburg,Group B,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:14gmbBpMAdwxf3e2PNTe9
+UID:Dehf3YQ9dx4TZhIxEXofK
 SUMMARY:Sweden v Poland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T160000Z
 DTEND:20210623T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 34th game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Sweden and Poland.
-URL:https://trovster.github.io/euro-2020/sweden-poland/
+URL:https://footballcal.com/euro-2020/sweden-poland/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Sweden,Poland,St Petersburg,Group E,Group stages,EUR
 	O 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:wn4b6uQQlCvZUaZrMlSTe
+UID:QyIy__OJswE9jCSA1zLo2
 SUMMARY:Switzerland v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210702T160000Z
 DTEND:20210702T175000Z
 DESCRIPTION:The 45th game of the (delayed) EURO 2020 competition between Kn
 	ockout 6 winners\, Switzerland and Knockout 5 winners\, Spain.
-URL:https://trovster.github.io/euro-2020/quarter-final-1/
+URL:https://footballcal.com/euro-2020/quarter-final-1/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Spain,St Petersburg,Knockout,Quarter Fin

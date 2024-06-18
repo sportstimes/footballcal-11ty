@@ -5,57 +5,57 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:71fL7Ycq7bPLG7AdYclkz
+UID:T2YgBA0NfnbLlQygzO40X
 SUMMARY:Switzerland v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210702T160000Z
 DTEND:20210702T175000Z
 DESCRIPTION:The 45th game of the (delayed) EURO 2020 competition between Kn
 	ockout 6 winners\, Switzerland and Knockout 5 winners\, Spain.
-URL:https://trovster.github.io/euro-2020/quarter-final-1/
+URL:https://footballcal.com/euro-2020/quarter-final-1/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Spain,St Petersburg,Knockout,Quarter Fin
 	al,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:nr7gdSBHQRepoKMywgiwX
+UID:V5o2D_Q5XTiI2OtB3twxk
 SUMMARY:Belgium v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210702T190000Z
 DTEND:20210702T205000Z
 DESCRIPTION:The 46th game of the (delayed) EURO 2020 competition between Kn
 	ockout 4 winners\, Belgium and [Knockout 2 winners]((/euro-2020/knockout-2
 	)\, Italy.
-URL:https://trovster.github.io/euro-2020/quarter-final-2/
+URL:https://footballcal.com/euro-2020/quarter-final-2/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Italy,Munich,Knockout,Quarter Final,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:H0XRuFToXUm_mOF10QO_n
+UID:KLjXJazGYS6VaG0hGrvLz
 SUMMARY:Czech Republic v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210703T160000Z
 DTEND:20210703T175000Z
 DESCRIPTION:The 47th game of the (delayed) EURO 2020 competition between Kn
 	ockout 3 winners\, Czech Republic and Knockout 1 winners\, Denmark.
-URL:https://trovster.github.io/euro-2020/quarter-final-3/
+URL:https://footballcal.com/euro-2020/quarter-final-3/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Czech Republic,Denmark,Baku,Knockout,Quarter Final,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:BO_49JvLDpvCRPDYQriup
+UID:QXGoBFEp_40FdL7RVlYBH
 SUMMARY:Ukraine v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210703T190000Z
 DTEND:20210703T205000Z
 DESCRIPTION:The 48th game of the (delayed) EURO 2020 competition between Kn
 	ockout 8 winners\, Ukraine and Knockout 7 winners\, England.
-URL:https://trovster.github.io/euro-2020/quarter-final-4/
+URL:https://footballcal.com/euro-2020/quarter-final-4/
 LOCATION:Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Ukraine,England,Rome,Knockout,Quarter Final,EURO 202

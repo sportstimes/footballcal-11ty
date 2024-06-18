@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:MM3hHOVMKRe6oNFhShtC-
+UID:hJYhha5HErDXZkL5Zv0Q0
 SUMMARY:Turkey v Portugal
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240622T160000Z
 DTEND:20240622T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe twenty-third game of the EURO 2024 com
 	petition between Group F competitors\, Turkey and Portugal.
-URL:https://trovster.github.io/euro-2024/turkey-portugal/
+URL:https://footballcal.com/euro-2024/turkey-portugal/
 LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Portugal,Dortmund,Group F,Group stages,EURO 2

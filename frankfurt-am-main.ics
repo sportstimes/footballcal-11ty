@@ -5,56 +5,56 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:HSw_i4RwE4aptDkalIKsq
+UID:qlfSvWDQNUWrtryBVgOlN
 SUMMARY:Belgium v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240617T160000Z
 DTEND:20240617T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe ninth game of the EURO 2024 competitio
 	n between Group E competitors\, Belgium and Slovakia.
-URL:https://trovster.github.io/euro-2024/belgium-slovakia/
+URL:https://footballcal.com/euro-2024/belgium-slovakia/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Slovakia,Frankfurt am Main,Group E,Group sta
 	ges,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:7C0xZt5xGKGeDwxmffMjw
+UID:I0Ss7n6kl55NOfrHs3BUT
 SUMMARY:Denmark v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240620T160000Z
 DTEND:20240620T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe seventeenth game of the EURO 2024 comp
 	etition between Group C competitors\, Denmark and England.
-URL:https://trovster.github.io/euro-2024/denmark-england/
+URL:https://footballcal.com/euro-2024/denmark-england/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Denmark,England,Frankfurt am Main,Group C,Group stag
 	es,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:RAVGc1qypkzQDMKTWZYdl
+UID:fQ7Vhsf6LZ1fbJfVH0OKn
 SUMMARY:Switzerland v Germany
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240623T190000Z
 DTEND:20240623T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-fifth game of the EURO 2024 comp
 	etition between Group A competitors\, Switzerland and Germany.
-URL:https://trovster.github.io/euro-2024/switzerland-germany/
+URL:https://footballcal.com/euro-2024/switzerland-germany/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Germany,Frankfurt am Main,Group A,Group 
 	stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:-pSKjD2ZPY6mh-N9NRWqW
+UID:zVJQc4Yf5r32xxn3y2fSU
 SUMMARY:Slovakia v Romania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T160000Z
 DTEND:20240626T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirty-third game of the EURO 2024 comp
 	etition between Group E competitors\, Slovakia and Romania.
-URL:https://trovster.github.io/euro-2024/slovakia-romania/
+URL:https://footballcal.com/euro-2024/slovakia-romania/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Romania,Frankfurt am Main,Group E,Group sta

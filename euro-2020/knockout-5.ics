@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Gz8MlGB6yllXl9nHmW9xi
+UID:viijmGkX7jieHXlLOIO3c
 SUMMARY:Croatia v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210628T160000Z
 DTEND:20210628T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 41st game of the (delayed) EURO 2020 co
 	mpetition between Group D runners-up Croatia and Group E runners-up Spain.
-URL:https://trovster.github.io/euro-2020/knockout-5/
+URL:https://footballcal.com/euro-2020/knockout-5/
 LOCATION:Copenhagen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Spain,Copenhagen,Group D,Group E,Knockout,Gr

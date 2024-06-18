@@ -5,84 +5,84 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:jj6NL8wRQQAKliw6p28nR
+UID:HkZH1i1XWUCqtZmEX9g35
 SUMMARY:Poland v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T160000Z
 DTEND:20210614T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe ninth game of the (delayed) EURO 2020 c
 	ompetition between Group E rivals\, Poland and Slovakia.
-URL:https://trovster.github.io/euro-2020/poland-slovakia/
+URL:https://footballcal.com/euro-2020/poland-slovakia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Slovakia,St Petersburg,Group E,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:pRGJ0c47f72GjJQgAAq7U
+UID:4cpCf0aDmp1SzhruDY5d3
 SUMMARY:Sweden v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210618T130000Z
 DTEND:20210618T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe ninteenth game of the (delayed) EURO 20
 	20 competition between Group E rivals\, Sweden and Slovakia.
-URL:https://trovster.github.io/euro-2020/sweden-slovakia/
+URL:https://footballcal.com/euro-2020/sweden-slovakia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Sweden,Slovakia,St Petersburg,Group E,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:pQLqKpmjlwn1rvB1IMxaF
+UID:dlRHu2sJct7UVKHZd9gMl
 SUMMARY:Slovakia v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T160000Z
 DTEND:20210623T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 33rd game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Slovakia and Spain.
-URL:https://trovster.github.io/euro-2020/slovakia-spain/
+URL:https://footballcal.com/euro-2020/slovakia-spain/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Spain,Seville,Group E,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:1dv5_DF2SaE7N_u6YoeC4
+UID:0_K4KwtLgdoi0Y0DxzNI6
 SUMMARY:Belgium v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240617T160000Z
 DTEND:20240617T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe ninth game of the EURO 2024 competitio
 	n between Group E competitors\, Belgium and Slovakia.
-URL:https://trovster.github.io/euro-2024/belgium-slovakia/
+URL:https://footballcal.com/euro-2024/belgium-slovakia/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Slovakia,Frankfurt am Main,Group E,Group sta
 	ges,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:LZkdiPl83z0YKMBAU6aDU
+UID:s8YDWlfOP_Bi3B1P-ClOh
 SUMMARY:Slovakia v Ukraine
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240621T130000Z
 DTEND:20240621T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe ninteenth game of the EURO 2024 compet
 	ition between Group E competitors\, Slovakia and Ukraine.
-URL:https://trovster.github.io/euro-2024/slovakia-ukraine/
+URL:https://footballcal.com/euro-2024/slovakia-ukraine/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Ukraine,Dusseldorf,Group E,Group stages,EUR
 	O 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:3Jle4zhmJq4lxByDgR1TQ
+UID:teO3cQamo2FpfMorVVqJB
 SUMMARY:Slovakia v Romania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T160000Z
 DTEND:20240626T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirty-third game of the EURO 2024 comp
 	etition between Group E competitors\, Slovakia and Romania.
-URL:https://trovster.github.io/euro-2024/slovakia-romania/
+URL:https://footballcal.com/euro-2024/slovakia-romania/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Romania,Frankfurt am Main,Group E,Group sta

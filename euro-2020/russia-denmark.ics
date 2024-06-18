@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:hiDKDAr8W3AcgTxLgNAiX
+UID:JzOtTDVHR5fvXsYWscE3m
 SUMMARY:Russia v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210621T190000Z
 DTEND:20210621T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 29th game of the (delayed) EURO 2020 co
 	mpetition between Group B rivals\, Russia and Denmark.
-URL:https://trovster.github.io/euro-2020/russia-denmark/
+URL:https://footballcal.com/euro-2020/russia-denmark/
 LOCATION:Copenhagen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Russia,Denmark,Copenhagen,Group B,Group stages,EURO 

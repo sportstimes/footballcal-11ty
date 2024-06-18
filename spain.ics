@@ -5,122 +5,122 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:JbqxRsj5WYl8U1QVw8PL7
+UID:VTLsOBvOWl6S7rw3VK6kV
 SUMMARY:Spain v Sweden
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T190000Z
 DTEND:20210614T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe tenth game of the (delayed) EURO 2020 c
 	ompetition between Group E rivals\, Spain and Sweden.
-URL:https://trovster.github.io/euro-2020/spain-sweden/
+URL:https://footballcal.com/euro-2020/spain-sweden/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Sweden,Seville,Group E,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:ORrv6ClS9wrc82sWKcBOM
+UID:xhkfoITbWRpu4T86Vwqht
 SUMMARY:Spain v Poland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210619T190000Z
 DTEND:20210619T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 24th game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Spain and Poland.
-URL:https://trovster.github.io/euro-2020/spain-poland/
+URL:https://footballcal.com/euro-2020/spain-poland/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Poland,Seville,Group E,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:yj6aG6fB7b2d9cYFXR0UG
+UID:-NO2E02_FJOledq3_lnsR
 SUMMARY:Slovakia v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T160000Z
 DTEND:20210623T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 33rd game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Slovakia and Spain.
-URL:https://trovster.github.io/euro-2020/slovakia-spain/
+URL:https://footballcal.com/euro-2020/slovakia-spain/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Spain,Seville,Group E,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:um3r_Oo_g4-eYbmLpdmXF
+UID:iTywjH7npo9uO0ZRWIEXU
 SUMMARY:Croatia v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210628T160000Z
 DTEND:20210628T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 41st game of the (delayed) EURO 2020 co
 	mpetition between Group D runners-up Croatia and Group E runners-up Spain.
-URL:https://trovster.github.io/euro-2020/knockout-5/
+URL:https://footballcal.com/euro-2020/knockout-5/
 LOCATION:Copenhagen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Spain,Copenhagen,Group D,Group E,Knockout,Gr
 	oup of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:f-6TQ9mXM-cr9HNMQytIq
+UID:IWze59waOHM7rwgreI-Gc
 SUMMARY:Switzerland v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210702T160000Z
 DTEND:20210702T175000Z
 DESCRIPTION:The 45th game of the (delayed) EURO 2020 competition between Kn
 	ockout 6 winners\, Switzerland and Knockout 5 winners\, Spain.
-URL:https://trovster.github.io/euro-2020/quarter-final-1/
+URL:https://footballcal.com/euro-2020/quarter-final-1/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Spain,St Petersburg,Knockout,Quarter Fin
 	al,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:DPr0Vx_ClIr238VOQBEdz
+UID:ZeNoH15kdHGeucrXInht7
 SUMMARY:Italy v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210706T190000Z
 DTEND:20210706T205000Z
 DESCRIPTION:The 49th game of the (delayed) EURO 2020 competition between Qu
 	arter Final 2 winners\, Italy and Quarter Final 1 winners\, Spain.
-URL:https://trovster.github.io/euro-2020/semi-final-1/
+URL:https://footballcal.com/euro-2020/semi-final-1/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Spain,London,Knockout,Semi Final,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:CqOtMKpo65-bqx7DhNwGk
+UID:mPlf-fWSqJbBRw4GPj5TQ
 SUMMARY:Spain v Croatia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240615T160000Z
 DTEND:20240615T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe third game of the EURO 2024 competitio
 	n between Group A competitors\, Spain and Croatia.
-URL:https://trovster.github.io/euro-2024/spain-croatia/
+URL:https://footballcal.com/euro-2024/spain-croatia/
 LOCATION:Berlin
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Croatia,Berlin,Group B,Group stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:56DIsbls3ctddAjNxYRLL
+UID:319GfgHuJ_hmOpAp8zjEQ
 SUMMARY:Spain v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240620T190000Z
 DTEND:20240620T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe eighteenth game of the EURO 2024 compe
 	tition between Group B competitors\, Spain and Italy.
-URL:https://trovster.github.io/euro-2024/spain-italy/
+URL:https://footballcal.com/euro-2024/spain-italy/
 LOCATION:Gelsenkirchen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Italy,Gelsenkirchen,Group B,Group stages,EURO 
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:vl8RHdBqfx59IDWbl0qs3
+UID:Rs3EwTCNiU6yZsBnTuOR7
 SUMMARY:Albania v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-seventh game of the EURO 2024 co
 	mpetition between Group B competitors\, Albania and Spain.
-URL:https://trovster.github.io/euro-2024/albania-spain/
+URL:https://footballcal.com/euro-2024/albania-spain/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Albania,Spain,Dusseldorf,Group B,Group stages,EURO 2

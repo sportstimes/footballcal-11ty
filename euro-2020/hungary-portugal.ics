@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:uiML8LkIlJSg8lvsbssRN
+UID:g-oitjyW4DzmAIN9KoLCG
 SUMMARY:Hungary v Portugal
-DTSTAMP:20240618T145301Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210615T160000Z
 DTEND:20210615T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe eleventh game of the (delayed) EURO 202
 	0 competition between Group F rivals\, Hungary and Portugal.
-URL:https://trovster.github.io/euro-2020/hungary-portugal/
+URL:https://footballcal.com/euro-2020/hungary-portugal/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,Portugal,Budapest,Group F,Group stages,EURO 

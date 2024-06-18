@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:i-NhvXmbXp2q3XQoSJTEL
+UID:5xqW-BVr6IGiXvGlYkmlt
 SUMMARY:Wales v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210626T160000Z
 DTEND:20210626T175000Z
 DESCRIPTION:The 37th game of the (delayed) EURO 2020 competition between Gr
 	oup A runners-up Wales and Group B runners-up Denmark.
-URL:https://trovster.github.io/euro-2020/knockout-1/
+URL:https://footballcal.com/euro-2020/knockout-1/
 LOCATION:Amsterdam
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Wales,Denmark,Amsterdam,Group A,Group B,Knockout,Gro

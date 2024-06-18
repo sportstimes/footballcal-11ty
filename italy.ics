@@ -5,138 +5,138 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:sfIJWro6_xnRTyXrZ0zf7
+UID:nAs6YNm7_y4xaBe22YeKl
 SUMMARY:Turkey v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210611T190000Z
 DTEND:20210611T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe first game of the (delayed) EURO 2020 c
 	ompetition.
-URL:https://trovster.github.io/euro-2020/turkey-italy/
+URL:https://footballcal.com/euro-2020/turkey-italy/
 LOCATION:Olimpico in Rome\, Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Italy,Rome,Group A,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:ZncQTS_Y8158YUdSkyRhL
+UID:0mAAM9z8OZv0O_JeaHUow
 SUMMARY:Italy v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210616T190000Z
 DTEND:20210616T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe fifteenth game of the (delayed) EURO 20
 	20 competition between Group A rivals\, Italy and Switzerland.
-URL:https://trovster.github.io/euro-2020/italy-switzerland/
+URL:https://footballcal.com/euro-2020/italy-switzerland/
 LOCATION:Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Switzerland,Rome,Group A,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:V7NxP_4YSXNd9rx0qcTDY
+UID:LXsqQufULP7UmAquTBdNo
 SUMMARY:Italy v Wales
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210620T160000Z
 DTEND:20210620T175000Z
 DESCRIPTION:TV Channels: ITV\, S4C\n\nThe 25th game of the (delayed) EURO 2
 	020 competition between Group A rivals\, Italy and Wales.
-URL:https://trovster.github.io/euro-2020/italy-wales/
+URL:https://footballcal.com/euro-2020/italy-wales/
 LOCATION:Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Wales,Rome,Group A,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:tlYGaeevT_FSjlFlPZpOd
+UID:4xjOPb9GCN6IJerFLI-Ru
 SUMMARY:Italy v Austria
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210626T190000Z
 DTEND:20210626T205000Z
 DESCRIPTION:The 38th game of the (delayed) EURO 2020 competition between Gr
 	oup A winners Italy and Group C runners-up Austria.
-URL:https://trovster.github.io/euro-2020/knockout-2/
+URL:https://footballcal.com/euro-2020/knockout-2/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Austria,London,Group A,Group C,Knockout,Group 
 	of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:3PDvu5pVPnpbMk9jE-1g4
+UID:tTzofZLNUb8zw9v3zbz-F
 SUMMARY:Belgium v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210702T190000Z
 DTEND:20210702T205000Z
 DESCRIPTION:The 46th game of the (delayed) EURO 2020 competition between Kn
 	ockout 4 winners\, Belgium and [Knockout 2 winners]((/euro-2020/knockout-2
 	)\, Italy.
-URL:https://trovster.github.io/euro-2020/quarter-final-2/
+URL:https://footballcal.com/euro-2020/quarter-final-2/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Italy,Munich,Knockout,Quarter Final,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:6zlgjO-8GMoprRQIgptKT
+UID:zjaQadfWsIjoFtohqBdcJ
 SUMMARY:Italy v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210706T190000Z
 DTEND:20210706T205000Z
 DESCRIPTION:The 49th game of the (delayed) EURO 2020 competition between Qu
 	arter Final 2 winners\, Italy and Quarter Final 1 winners\, Spain.
-URL:https://trovster.github.io/euro-2020/semi-final-1/
+URL:https://footballcal.com/euro-2020/semi-final-1/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Spain,London,Knockout,Semi Final,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:5b58OcjCR89Mc43lG1tBA
+UID:zzPoqLJVUCPFaEJjZaLg7
 SUMMARY:Italy v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210711T190000Z
 DTEND:20210711T205000Z
 DESCRIPTION:TV Channels: BBC\, ITV\n\nThe 51st game of the (delayed) EURO 2
 	020 competition between Semi Final 1 winners\, Italy and Semi Final 2 winn
 	ers\, England.
-URL:https://trovster.github.io/euro-2020/final/
+URL:https://footballcal.com/euro-2020/final/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,England,London,Knockout,Final,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:zw07LngwazQvCEc7F5c13
+UID:IibM0OngBrzJo_c_te405
 SUMMARY:Italy v Albania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240615T190000Z
 DTEND:20240615T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fourth game of the EURO 2024 competiti
 	on between Group A competitors\, Italy v Albania.
-URL:https://trovster.github.io/euro-2024/italy-albania/
+URL:https://footballcal.com/euro-2024/italy-albania/
 LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Albania,Dortmund,Group B,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:WAEZGmarXDd0hZerpBcls
+UID:88-7zePq5sg_OnoTqYFeM
 SUMMARY:Spain v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240620T190000Z
 DTEND:20240620T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe eighteenth game of the EURO 2024 compe
 	tition between Group B competitors\, Spain and Italy.
-URL:https://trovster.github.io/euro-2024/spain-italy/
+URL:https://footballcal.com/euro-2024/spain-italy/
 LOCATION:Gelsenkirchen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Italy,Gelsenkirchen,Group B,Group stages,EURO 
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:a5qfp0ZCJtw-pNh59T4Nt
+UID:76xcERygIURt3JkFPIo0J
 SUMMARY:Croatia v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-eighth game of the EURO 2024 com
 	petition between Group B competitors\, Croatia and Italy.
-URL:https://trovster.github.io/euro-2024/croatia-italy/
+URL:https://footballcal.com/euro-2024/croatia-italy/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Italy,Leipzig,Group B,Group stages,EURO 2024

@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:QoyhYLutmVhBGHUzlgDC9
+UID:9g8OnI7amppmoVSXH5A9Z
 SUMMARY:Georgia v Portugal
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T190000Z
 DTEND:20240626T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe thirty-fifth game of the EURO 2024 comp
 	etition between Group F competitors\, Georgia and Portugal.
-URL:https://trovster.github.io/euro-2024/georgia-portugal/
+URL:https://footballcal.com/euro-2024/georgia-portugal/
 LOCATION:Gelsenkirchen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Georgia,Portugal,Gelsenkirchen,Group F,Group stages,

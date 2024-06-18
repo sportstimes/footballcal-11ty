@@ -5,998 +5,998 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:jewOEXxNfDOlg__1fzboH
+UID:YCLaOcSKxJKJfGI5KzFRS
 SUMMARY:Turkey v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210611T190000Z
 DTEND:20210611T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe first game of the (delayed) EURO 2020 c
 	ompetition.
-URL:https://trovster.github.io/euro-2020/turkey-italy/
+URL:https://footballcal.com/euro-2020/turkey-italy/
 LOCATION:Olimpico in Rome\, Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Italy,Rome,Group A,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:PK8JXklQlvq6pL-EzEAkk
+UID:1Ni7Uqlsgwh-eTS4ZuRoO
 SUMMARY:Wales v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210612T130000Z
 DTEND:20210612T145000Z
 DESCRIPTION:TV Channels: BBC\, S4C\n\nThe second game of the (delayed) EURO
 	 2020 competition between Group A rivals\, Wales &amp\; Switzerland.
-URL:https://trovster.github.io/euro-2020/wales-switzerland/
+URL:https://footballcal.com/euro-2020/wales-switzerland/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Wales,Switzerland,Baku,Group A,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:48DpfXMEQn1VKSFgmQ_2z
+UID:9HFlwsOh0MoA_caS6V3so
 SUMMARY:Denmark v Finland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210612T160000Z
 DTEND:20210612T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe third game of the (delayed) EURO 2020 c
 	ompetition between Group B rivals\, Denmark and Finland.
-URL:https://trovster.github.io/euro-2020/denmark-finland/
+URL:https://footballcal.com/euro-2020/denmark-finland/
 LOCATION:Copenhagen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Denmark,Finland,Copenhagen,Group B,Group stages,EURO
 	 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:WMp1CYiGg9ar1AOnTvsb7
+UID:2WYCRxmk8zpbGboS80GDg
 SUMMARY:Belgium v Russia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210612T190000Z
 DTEND:20210612T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe fourth game of the (delayed) EURO 2020 
 	competition between Group B rivals\, Beligum and Russia.
-URL:https://trovster.github.io/euro-2020/belgium-russia/
+URL:https://footballcal.com/euro-2020/belgium-russia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Russia,St Petersburg,Group B,Group stages,EU
 	RO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:lvzjAPQFUsyoRQWfZ2UYN
+UID:d1EkWw-VUyjzGD_CczW_v
 SUMMARY:England v Croatia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210613T130000Z
 DTEND:20210613T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe fifth game of the (delayed) EURO 2020 c
 	ompetition between Group D rivals\, England and Croatia.
-URL:https://trovster.github.io/euro-2020/england-croatia/
+URL:https://footballcal.com/euro-2020/england-croatia/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Croatia,London,Group D,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:iuEpNJsRbVuB4VCVCCUYV
+UID:N_yiX8QSObJwi11E9cgRn
 SUMMARY:Austria v North Macedonia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210613T160000Z
 DTEND:20210613T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe sixth game of the (delayed) EURO 2020 c
 	ompetition between Group C rivals\, Austria and North Macedonia.
-URL:https://trovster.github.io/euro-2020/austria-north-macedonia/
+URL:https://footballcal.com/euro-2020/austria-north-macedonia/
 LOCATION:Bucharest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Austria,North Macedonia,Bucharest,Group C,Group stag
 	es,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:lmmKmH0wFJer8Mq3hiioX
+UID:RipaENhn4lCkZC_aUq1ke
 SUMMARY:Netherlands v Ukraine
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210613T190000Z
 DTEND:20210613T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe seventh game of the (delayed) EURO 2020
 	 competition between Group C rivals\, Netherlands and Ukraine.
-URL:https://trovster.github.io/euro-2020/netherlands-ukraine/
+URL:https://footballcal.com/euro-2020/netherlands-ukraine/
 LOCATION:Amsterdam
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,Ukraine,Amsterdam,Group C,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:a1gMMdinlfkeQ8fNdgU5K
+UID:npTPLnc6Wr8pPuJm8V4TZ
 SUMMARY:Scotland v Czech Republic
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T130000Z
 DTEND:20210614T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe eighth game of the (delayed) EURO 2020 
 	competition between Group D rivals\, Scotland and Czech Republic.
-URL:https://trovster.github.io/euro-2020/scotland-czech-republic/
+URL:https://footballcal.com/euro-2020/scotland-czech-republic/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Czech Republic,Glasgow,Group D,Group stages
 	,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:xq1Xnzhix0X7fwoLroxqD
+UID:5-IQy4-kdPxd-k9KoZeBW
 SUMMARY:Poland v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T160000Z
 DTEND:20210614T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe ninth game of the (delayed) EURO 2020 c
 	ompetition between Group E rivals\, Poland and Slovakia.
-URL:https://trovster.github.io/euro-2020/poland-slovakia/
+URL:https://footballcal.com/euro-2020/poland-slovakia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Slovakia,St Petersburg,Group E,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:iEGxCZqQ9rEyZgizMOtf7
+UID:X4R5O8SoR5rKgmQ7Xu_Nz
 SUMMARY:Spain v Sweden
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210614T190000Z
 DTEND:20210614T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe tenth game of the (delayed) EURO 2020 c
 	ompetition between Group E rivals\, Spain and Sweden.
-URL:https://trovster.github.io/euro-2020/spain-sweden/
+URL:https://footballcal.com/euro-2020/spain-sweden/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Sweden,Seville,Group E,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:9VWfPklUY5-pDEad9siWV
+UID:yRTPIgJ0tiHYOM2CvWmFR
 SUMMARY:Hungary v Portugal
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210615T160000Z
 DTEND:20210615T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe eleventh game of the (delayed) EURO 202
 	0 competition between Group F rivals\, Hungary and Portugal.
-URL:https://trovster.github.io/euro-2020/hungary-portugal/
+URL:https://footballcal.com/euro-2020/hungary-portugal/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,Portugal,Budapest,Group F,Group stages,EURO 
 	2020
 END:VEVENT
 BEGIN:VEVENT
-UID:Mt7y0yZocL-dg9XRJdn1B
+UID:4iSi1Nx8VvF3arDFysjaL
 SUMMARY:France v Germany
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210615T190000Z
 DTEND:20210615T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe twelfth game of the (delayed) EURO 2020
 	 competition between Group F rivals\, France and Germany.
-URL:https://trovster.github.io/euro-2020/france-germany/
+URL:https://footballcal.com/euro-2020/france-germany/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,France,Germany,Munich,Group F,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:quZno9z9EppC2fYyn3G7z
+UID:SYHRUQu8Z0G8EeCJ6-Aoc
 SUMMARY:Finland v Russia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210616T130000Z
 DTEND:20210616T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirteenth game of the (delayed) EURO 2
 	020 competition between Group B rivals\, Finland and Russia.
-URL:https://trovster.github.io/euro-2020/finland-russia/
+URL:https://footballcal.com/euro-2020/finland-russia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Finland,Russia,St Petersburg,Group B,Group stages,EU
 	RO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:HFsNY60BQnK1trtb9qcj7
+UID:0RPGswnugi1v-cJFr38MG
 SUMMARY:Turkey v Wales
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210616T160000Z
 DTEND:20210616T175000Z
 DESCRIPTION:TV Channels: BBC\, S4C\n\nThe fourteenth game of the (delayed) 
 	EURO 2020 competition between Group A rivals\, Turkey and Wales.
-URL:https://trovster.github.io/euro-2020/turkey-wales/
+URL:https://footballcal.com/euro-2020/turkey-wales/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Wales,Baku,Group A,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:DQhl3Onyy2bTV4aNrRtmc
+UID:HAkM8EzC32k23tlVU6ZXy
 SUMMARY:Italy v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210616T190000Z
 DTEND:20210616T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe fifteenth game of the (delayed) EURO 20
 	20 competition between Group A rivals\, Italy and Switzerland.
-URL:https://trovster.github.io/euro-2020/italy-switzerland/
+URL:https://footballcal.com/euro-2020/italy-switzerland/
 LOCATION:Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Switzerland,Rome,Group A,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:Obmy_3znXYv0SD1hqGWGV
+UID:frpZwLy-yePhOTzdmWYlt
 SUMMARY:Ukraine v North Macedonia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210617T130000Z
 DTEND:20210617T145000Z
 DESCRIPTION:TV Channels: ITV\n\nThe sixteenth game of the (delayed) EURO 20
 	20 competition between Group C rivals\, Ukraine and North Macedonia.
-URL:https://trovster.github.io/euro-2020/ukraine-north-macedonia/
+URL:https://footballcal.com/euro-2020/ukraine-north-macedonia/
 LOCATION:Bucharest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Ukraine,North Macedonia,Bucharest,Group C,Group stag
 	es,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:evIlP4egY9SPSvU_M0M76
+UID:hNf7S5-yTDTqiW4SE4Is3
 SUMMARY:Denmark v Belgium
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210617T160000Z
 DTEND:20210617T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe seventeenth game of the (delayed) EURO 
 	2020 competition between Group B rivals\, Denmark and Belgium.
-URL:https://trovster.github.io/euro-2020/denmark-belgium/
+URL:https://footballcal.com/euro-2020/denmark-belgium/
 LOCATION:Copenhagen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Denmark,Belgium,Copenhagen,Group B,Group stages,EURO
 	 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:f1HPvn3ftKRe99zJMTQg1
+UID:lIlEvLPW50-fSLluTVHRS
 SUMMARY:Netherlands v Austria
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210617T190000Z
 DTEND:20210617T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe eighteenth game of the (delayed) EURO 2
 	020 competition between Group C rivals\, Netherlands and Austria.
-URL:https://trovster.github.io/euro-2020/netherlands-austria/
+URL:https://footballcal.com/euro-2020/netherlands-austria/
 LOCATION:Amsterdam
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,Austria,Amsterdam,Group C,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:Sd__m64OvovyQT69ZU2En
+UID:cz40IHabZ3fosp1FwM27U
 SUMMARY:Sweden v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210618T130000Z
 DTEND:20210618T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe ninteenth game of the (delayed) EURO 20
 	20 competition between Group E rivals\, Sweden and Slovakia.
-URL:https://trovster.github.io/euro-2020/sweden-slovakia/
+URL:https://footballcal.com/euro-2020/sweden-slovakia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Sweden,Slovakia,St Petersburg,Group E,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:Q_WB__q2cuYSoDp3F7DFS
+UID:yg3dctsKZrDYkISMKa1O4
 SUMMARY:Croatia v Czech Republic
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210618T160000Z
 DTEND:20210618T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twentieth game of the (delayed) EURO 20
 	20 competition between Group D rivals\, Croatia and Czech Republic.
-URL:https://trovster.github.io/euro-2020/croatia-czech-republic/
+URL:https://footballcal.com/euro-2020/croatia-czech-republic/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Czech Republic,Glasgow,Group D,Group stages,
 	EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:r6roZOBiXDoko1uhVTpTx
+UID:eR3sywu-LjZnGLyZyx0YM
 SUMMARY:England v Scotland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210618T190000Z
 DTEND:20210618T205000Z
 DESCRIPTION:TV Channels: ITV\, STV\n\nThe 21st game of the (delayed) EURO 2
 	020 competition between Group D rivals\, England and Scotland.
-URL:https://trovster.github.io/euro-2020/england-scotland/
+URL:https://footballcal.com/euro-2020/england-scotland/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Scotland,London,Group D,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:8rDs2tr0J-tToGvhF51Nv
+UID:4PEL1oIdFiZ797nL2yuCI
 SUMMARY:Hungary v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210619T130000Z
 DTEND:20210619T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 22nd game of the (delayed) EURO 2020 co
 	mpetition between Group F rivals\, Hungary and France.
-URL:https://trovster.github.io/euro-2020/hungary-france/
+URL:https://footballcal.com/euro-2020/hungary-france/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,France,Budapest,Group F,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:6uc2wG1JguWmzsEeERma0
+UID:EJZcGzHTOiLDfNS9TqlXZ
 SUMMARY:Portugal v Germany
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210619T160000Z
 DTEND:20210619T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 23rd game of the (delayed) EURO 2020 co
 	mpetition between Group F rivals\, Portugal and Germany.
-URL:https://trovster.github.io/euro-2020/portugal-germany/
+URL:https://footballcal.com/euro-2020/portugal-germany/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Portugal,Germany,Munich,Group F,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:iYR63_y4JmkxJNVJ1vGYy
+UID:lttw7O4aQQNJPAPQjwxDR
 SUMMARY:Spain v Poland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210619T190000Z
 DTEND:20210619T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 24th game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Spain and Poland.
-URL:https://trovster.github.io/euro-2020/spain-poland/
+URL:https://footballcal.com/euro-2020/spain-poland/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Poland,Seville,Group E,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:4v4SFbwCMDUZZVNM_VtqZ
+UID:5MephqChQNCddGY9qGAZ7
 SUMMARY:Italy v Wales
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210620T160000Z
 DTEND:20210620T175000Z
 DESCRIPTION:TV Channels: ITV\, S4C\n\nThe 25th game of the (delayed) EURO 2
 	020 competition between Group A rivals\, Italy and Wales.
-URL:https://trovster.github.io/euro-2020/italy-wales/
+URL:https://footballcal.com/euro-2020/italy-wales/
 LOCATION:Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Wales,Rome,Group A,Group stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:_RuN4BLD15EJ1VUFzJZ6d
+UID:eioxpZHXgt0H-zgruQNRk
 SUMMARY:Switzerland v Turkey
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210620T160000Z
 DTEND:20210620T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 26th game of the (delayed) EURO 2020 co
 	mpetition between Group A rivals\, Switzerland and Turkey.
-URL:https://trovster.github.io/euro-2020/switzerland-turkey/
+URL:https://footballcal.com/euro-2020/switzerland-turkey/
 LOCATION:Baku
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Turkey,Baku,Group A,Group stages,EURO 20
 	20
 END:VEVENT
 BEGIN:VEVENT
-UID:3qqfHWbi3lu4IS7T6eiRY
+UID:j4AB4lcQum5k2vOX9FbmJ
 SUMMARY:North Macedonia v Netherlands
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210621T160000Z
 DTEND:20210621T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 27th game of the (delayed) EURO 2020 co
 	mpetition between Group C rivals\, North Macedonia and Netherlands.
-URL:https://trovster.github.io/euro-2020/north-macedonia-netherlands/
+URL:https://footballcal.com/euro-2020/north-macedonia-netherlands/
 LOCATION:Amsterdam
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,North Macedonia,Netherlands,Amsterdam,Group C,Group 
 	stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:S1B4TN3x7kNryxnKh4-fD
+UID:bzWaRvfSDqE0DJamtRRDO
 SUMMARY:Ukraine v Austria
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210621T160000Z
 DTEND:20210621T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 28th game of the (delayed) EURO 2020 co
 	mpetition between Group C rivals\, Ukraine and Austria.
-URL:https://trovster.github.io/euro-2020/ukraine-austria/
+URL:https://footballcal.com/euro-2020/ukraine-austria/
 LOCATION:Bucharest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Ukraine,Austria,Bucharest,Group C,Group stages,EURO 
 	2020
 END:VEVENT
 BEGIN:VEVENT
-UID:f0_0NMsAMHoFyVlnzqRPB
+UID:7n3ifBG7-hSjqJmbSXnRT
 SUMMARY:Finland v Belgium
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210621T190000Z
 DTEND:20210621T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 30th game of the (delayed) EURO 2020 co
 	mpetition between Group B rivals\, Finland and Belgium.
-URL:https://trovster.github.io/euro-2020/finland-belgium/
+URL:https://footballcal.com/euro-2020/finland-belgium/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Finland,Belgium,St Petersburg,Group B,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:fasLadwrVdYZ1vIfOcl4J
+UID:WgMoNtOqRH5kWApIDHcAr
 SUMMARY:Russia v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210621T190000Z
 DTEND:20210621T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 29th game of the (delayed) EURO 2020 co
 	mpetition between Group B rivals\, Russia and Denmark.
-URL:https://trovster.github.io/euro-2020/russia-denmark/
+URL:https://footballcal.com/euro-2020/russia-denmark/
 LOCATION:Copenhagen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Russia,Denmark,Copenhagen,Group B,Group stages,EURO 
 	2020
 END:VEVENT
 BEGIN:VEVENT
-UID:MT5g7yL7kcPupvrAAdU7T
+UID:iXu_PWjfyOcALGa-zu1Yq
 SUMMARY:Croatia v Scotland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210622T190000Z
 DTEND:20210622T205000Z
 DESCRIPTION:TV Channels: ITV\, STV\n\nThe 32nd game of the (delayed) EURO 2
 	020 competition between Group D rivals\, Croatia and Scotland.
-URL:https://trovster.github.io/euro-2020/croatia-scotland/
+URL:https://footballcal.com/euro-2020/croatia-scotland/
 LOCATION:Glasgow
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Scotland,Glasgow,Group D,Group stages,EURO 2
 	020
 END:VEVENT
 BEGIN:VEVENT
-UID:Pl8RtbIVkUbMyzbev8uHs
+UID:Jg1diZeHpBiuDTnulOjkP
 SUMMARY:Czech Republic v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210622T190000Z
 DTEND:20210622T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 31st game of the (delayed) EURO 2020 co
 	mpetition between Group D rivals\, Czech Republic and England.
-URL:https://trovster.github.io/euro-2020/czech-republic-england/
+URL:https://footballcal.com/euro-2020/czech-republic-england/
 LOCATION:London
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Czech Republic,England,London,Group D,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:zSsdGSBCAVXFAZHhlcNpl
+UID:xTOigDGQJOWv5qc8I2X-8
 SUMMARY:Slovakia v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T160000Z
 DTEND:20210623T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 33rd game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Slovakia and Spain.
-URL:https://trovster.github.io/euro-2020/slovakia-spain/
+URL:https://footballcal.com/euro-2020/slovakia-spain/
 LOCATION:Seville
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Spain,Seville,Group E,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:b8mrK_5vujMpGDtBdYaxS
+UID:iiy3ghGq99NsG_3-heZhp
 SUMMARY:Sweden v Poland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T160000Z
 DTEND:20210623T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 34th game of the (delayed) EURO 2020 co
 	mpetition between Group E rivals\, Sweden and Poland.
-URL:https://trovster.github.io/euro-2020/sweden-poland/
+URL:https://footballcal.com/euro-2020/sweden-poland/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Sweden,Poland,St Petersburg,Group E,Group stages,EUR
 	O 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:9dxaUh3aitIeZNT25on8y
+UID:Chj0t99zN323fUbXeNpJ0
 SUMMARY:Germany v Hungary
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T190000Z
 DTEND:20210623T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 35th game of the (delayed) EURO 2020 co
 	mpetition between Group F rivals\, Germany and Hungary.
-URL:https://trovster.github.io/euro-2020/germany-hungary/
+URL:https://footballcal.com/euro-2020/germany-hungary/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Germany,Hungary,Munich,Group F,Group stages,EURO 202
 	0
 END:VEVENT
 BEGIN:VEVENT
-UID:y91L3uMmR19IMWu9qy1JW
+UID:cFCrtjUx0m-0efO-8TMDN
 SUMMARY:Portugal v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210623T190000Z
 DTEND:20210623T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 36th game of the (delayed) EURO 2020 co
 	mpetition between Group F rivals\, Portugal and France.
-URL:https://trovster.github.io/euro-2020/portugal-france/
+URL:https://footballcal.com/euro-2020/portugal-france/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Portugal,France,Budapest,Group F,Group stages,EURO 2
 	020
 END:VEVENT
 BEGIN:VEVENT
-UID:exc7wqJ0eJpU4NxbZX9t6
+UID:HPYXHaK98sn8UodfNWI1K
 SUMMARY:Germany v Scotland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240614T190000Z
 DTEND:20240614T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe first game of the EURO 2024 competitio
 	n between Group A competitors\, Germany and Scotland.
-URL:https://trovster.github.io/euro-2024/germany-scotland/
+URL:https://footballcal.com/euro-2024/germany-scotland/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Germany,Scotland,Munich,Group A,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:ZjfuevUgbp9_fwdEyAVto
+UID:gF9T-CjODNyHC7hhwq6zs
 SUMMARY:Hungary v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240615T130000Z
 DTEND:20240615T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe second game of the EURO 2024 competiti
 	on between Group A competitors\, Hungary and Switzerland.
-URL:https://trovster.github.io/euro-2024/hungary-switzerland/
+URL:https://footballcal.com/euro-2024/hungary-switzerland/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,Switzerland,Cologne,Group A,Group stages,EUR
 	O 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:rJT3t8GJqOuulMFHbuWQr
+UID:Idr5wf1bDNGCnTEesH0UO
 SUMMARY:Spain v Croatia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240615T160000Z
 DTEND:20240615T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe third game of the EURO 2024 competitio
 	n between Group A competitors\, Spain and Croatia.
-URL:https://trovster.github.io/euro-2024/spain-croatia/
+URL:https://footballcal.com/euro-2024/spain-croatia/
 LOCATION:Berlin
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Croatia,Berlin,Group B,Group stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:e_RLWF0iT5GF1t8_9trrl
+UID:Xbe31hCz-AneqOBBWXHFg
 SUMMARY:Italy v Albania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240615T190000Z
 DTEND:20240615T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fourth game of the EURO 2024 competiti
 	on between Group A competitors\, Italy v Albania.
-URL:https://trovster.github.io/euro-2024/italy-albania/
+URL:https://footballcal.com/euro-2024/italy-albania/
 LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Italy,Albania,Dortmund,Group B,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:IlL1r_qFsnBE9k3kjzw5E
+UID:w5W42zJWObKHYt12L9YXv
 SUMMARY:Poland v Netherlands
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240616T130000Z
 DTEND:20240616T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
 	n between Group D competitors\, Poland and Netherlands.
-URL:https://trovster.github.io/euro-2024/poland-netherlands/
+URL:https://footballcal.com/euro-2024/poland-netherlands/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:MVii9Y8UaHm_b0mP90oVl
+UID:Dwb80X_63r0-jvpLLUZVp
 SUMMARY:Slovenia v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240616T160000Z
 DTEND:20240616T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe sixth game of the EURO 2024 competitio
 	n between Group C competitors\, Slovenia and Denmark.
-URL:https://trovster.github.io/euro-2024/slovenia-denmark/
+URL:https://footballcal.com/euro-2024/slovenia-denmark/
 LOCATION:Stuttgart
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovenia,Denmark,Stuttgart,Group C,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:mcw5V5IMYPu3mpMknkhYA
+UID:KIQolh7rvZSFlzGJq1Hpx
 SUMMARY:Serbia v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240616T190000Z
 DTEND:20240616T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe seventh game of the EURO 2024 competit
 	ion between Group C competitors\, Serbia and England.
-URL:https://trovster.github.io/euro-2024/serbia-england/
+URL:https://footballcal.com/euro-2024/serbia-england/
 LOCATION:Gelsenkirchen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Serbia,England,Gelsenkirchen,Group C,Group stages,EU
 	RO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:rETgPstJMZvY2uYYYGZJr
+UID:jDNKTf2qSFZWYcbL6kwpU
 SUMMARY:Romania v Ukraine
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240617T130000Z
 DTEND:20240617T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe eighth game of the EURO 2024 competiti
 	on between Group E competitors\, Romania and Ukraine.
-URL:https://trovster.github.io/euro-2024/romania-ukraine/
+URL:https://footballcal.com/euro-2024/romania-ukraine/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Romania,Ukraine,Munich,Group E,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:af3KW5Uus1jFBHrsHO3Hf
+UID:IqaDyJkBHCTZOJvej3MKY
 SUMMARY:Belgium v Slovakia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240617T160000Z
 DTEND:20240617T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe ninth game of the EURO 2024 competitio
 	n between Group E competitors\, Belgium and Slovakia.
-URL:https://trovster.github.io/euro-2024/belgium-slovakia/
+URL:https://footballcal.com/euro-2024/belgium-slovakia/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Slovakia,Frankfurt am Main,Group E,Group sta
 	ges,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:IVlPa_DYpByYnCix2JTWa
+UID:mCoontqcsHwxCW9XpAz7R
 SUMMARY:Austria v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240617T190000Z
 DTEND:20240617T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
 	n between Group D competitors\, Austria and France.
-URL:https://trovster.github.io/euro-2024/austria-france/
+URL:https://footballcal.com/euro-2024/austria-france/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO 
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:rH_x6oR_Ltc5PRMVEOKFA
+UID:rqm-5EyP5asliSlasu_Zm
 SUMMARY:Turkey v Georgia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240618T160000Z
 DTEND:20240618T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe eleventh game of the EURO 2024 competi
 	tion between Group F competitors\, Turkey and Georgia.
-URL:https://trovster.github.io/euro-2024/turkey-georgia/
+URL:https://footballcal.com/euro-2024/turkey-georgia/
 LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Georgia,Dortmund,Group F,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:auqnSsEha_M-crLekrdaC
+UID:WK-tb_UarcKduZkKD_MzW
 SUMMARY:Portugal v Czechia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240618T190000Z
 DTEND:20240618T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twelfth game of the EURO 2024 competit
 	ion between Group F competitors\, Portugal and Czechia.
-URL:https://trovster.github.io/euro-2024/portugal-czechia/
+URL:https://footballcal.com/euro-2024/portugal-czechia/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Portugal,Czechia,Leipzig,Group F,Group stages,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:3EkLs3hQmUzkRClX5wa82
+UID:2oZU-2oH_7Dm-U5tzu42v
 SUMMARY:Croatia v Albania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T130000Z
 DTEND:20240619T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirteenth game of the EURO 2024 compe
 	tition between Group B competitors\, Croatia and Albania.
-URL:https://trovster.github.io/euro-2024/croatia-albania/
+URL:https://footballcal.com/euro-2024/croatia-albania/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Albania,Hamburg,Group B,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:TvXp5_I675n2kzzWJ8MDk
+UID:WUStG8z2hK2n4XaAb9MgY
 SUMMARY:Germany v Hungary
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T160000Z
 DTEND:20240619T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fourteenth game of the EURO 2024 compe
 	tition between Group A competitors\, Germany and Hungary.
-URL:https://trovster.github.io/euro-2024/germany-hungary/
+URL:https://footballcal.com/euro-2024/germany-hungary/
 LOCATION:Stuttgart
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Germany,Hungary,Stuttgart,Group A,Group stages,EURO 
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:Z76--L86cWPekFWxOLctw
+UID:6XWgYFgxfi-dqzLIBK1fu
 SUMMARY:Scotland v Switzerland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240619T190000Z
 DTEND:20240619T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe fifteenth game of the EURO 2024 competi
 	tion between Group A competitors\, Scotland and Switerland.
-URL:https://trovster.github.io/euro-2024/scotland-switzerland/
+URL:https://footballcal.com/euro-2024/scotland-switzerland/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Switzerland,Cologne,Group A,Group stages,EU
 	RO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:NxHTULyl3OcM_9oI6eQXS
+UID:bEAwuR_s3Xaku9NUoc45V
 SUMMARY:Slovenia v Serbia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240620T130000Z
 DTEND:20240620T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe sixteenth game of the EURO 2024 compet
 	ition between Group C competitors\, Slovenia and Serbia.
-URL:https://trovster.github.io/euro-2024/slovenia-serbia/
+URL:https://footballcal.com/euro-2024/slovenia-serbia/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovenia,Serbia,Munich,Group C,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:Ztz2IEgSyJ9CYh75eTfxO
+UID:HvueGv_qlP962hklo4WXK
 SUMMARY:Denmark v England
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240620T160000Z
 DTEND:20240620T175000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe seventeenth game of the EURO 2024 comp
 	etition between Group C competitors\, Denmark and England.
-URL:https://trovster.github.io/euro-2024/denmark-england/
+URL:https://footballcal.com/euro-2024/denmark-england/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Denmark,England,Frankfurt am Main,Group C,Group stag
 	es,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:PElqMTsVgCAZ0hAitnDEY
+UID:L4vtdKdAVxyB5ykNNFhjr
 SUMMARY:Spain v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240620T190000Z
 DTEND:20240620T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe eighteenth game of the EURO 2024 compe
 	tition between Group B competitors\, Spain and Italy.
-URL:https://trovster.github.io/euro-2024/spain-italy/
+URL:https://footballcal.com/euro-2024/spain-italy/
 LOCATION:Gelsenkirchen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Italy,Gelsenkirchen,Group B,Group stages,EURO 
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:FxuddDVPiAL_w2YuNaDkK
+UID:N3zz-YZK3Uv2Bq9O6XgcT
 SUMMARY:Slovakia v Ukraine
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240621T130000Z
 DTEND:20240621T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe ninteenth game of the EURO 2024 compet
 	ition between Group E competitors\, Slovakia and Ukraine.
-URL:https://trovster.github.io/euro-2024/slovakia-ukraine/
+URL:https://footballcal.com/euro-2024/slovakia-ukraine/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Ukraine,Dusseldorf,Group E,Group stages,EUR
 	O 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:g5BojaajpWdWYHMMgDrv2
+UID:QMacpiOhBc_9qDtZMdze9
 SUMMARY:Poland v Austria
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240621T160000Z
 DTEND:20240621T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe twentieth game of the EURO 2024 compet
 	ition between Group D competitors\, Poland and Austria.
-URL:https://trovster.github.io/euro-2024/poland-austria/
+URL:https://footballcal.com/euro-2024/poland-austria/
 LOCATION:Berlin
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Austria,Berlin,Group D,Group stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:eRBt3IzLiyk-CQBtCaeZX
+UID:hRCr1EJ8UeA4nb4irsLyw
 SUMMARY:Netherlands v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240621T190000Z
 DTEND:20240621T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-first game of the EURO 2024 com
 	petition between Group D competitors\, Netherlands and France.
-URL:https://trovster.github.io/euro-2024/netherlands-france/
+URL:https://footballcal.com/euro-2024/netherlands-france/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,France,Leipzig,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:rZdnD9bQxcEqFOgCG0bgI
+UID:eZRfAPx3i3Yz25ao5l9v9
 SUMMARY:Georgia v Czechia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240622T130000Z
 DTEND:20240622T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-second game of the EURO 2024 co
 	mpetition between Group F competitors\, Georgia and Czechia.
-URL:https://trovster.github.io/euro-2024/georgia-czechia/
+URL:https://footballcal.com/euro-2024/georgia-czechia/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Georgia,Czechia,Hamburg,Group F,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:q2c1bCTpzV2dyM0AF4xkz
+UID:gwMTopb_8Ggl-JkwqjYD1
 SUMMARY:Turkey v Portugal
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240622T160000Z
 DTEND:20240622T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe twenty-third game of the EURO 2024 com
 	petition between Group F competitors\, Turkey and Portugal.
-URL:https://trovster.github.io/euro-2024/turkey-portugal/
+URL:https://footballcal.com/euro-2024/turkey-portugal/
 LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Portugal,Dortmund,Group F,Group stages,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:ta4tNRRes3y0CYUvHUncZ
+UID:elAdFPoi-ldID0pLo2MlM
 SUMMARY:Belgium v Romania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240622T190000Z
 DTEND:20240622T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe twenty-fourth game of the EURO 2024 co
 	mpetition between Group E competitors\, Belgium and Romania.
-URL:https://trovster.github.io/euro-2024/belgium-romania/
+URL:https://footballcal.com/euro-2024/belgium-romania/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Romania,Cologne,Group E,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:5cwknHYFM1sY3lphM11Cf
+UID:Df74zsCB_rKpcNIa6DiY6
 SUMMARY:Scotland v Hungary
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240623T190000Z
 DTEND:20240623T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-sixth game of the EURO 2024 com
 	petition between Group A competitors\, Scotland and Hungary.
-URL:https://trovster.github.io/euro-2024/scotland-hungary/
+URL:https://footballcal.com/euro-2024/scotland-hungary/
 LOCATION:Stuttgart
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Scotland,Hungary,Stuttgart,Group A,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:RSjr_s6EAdGrYCXvW4vLk
+UID:v9oyDlnG1geqXtCv1a7MI
 SUMMARY:Switzerland v Germany
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240623T190000Z
 DTEND:20240623T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-fifth game of the EURO 2024 comp
 	etition between Group A competitors\, Switzerland and Germany.
-URL:https://trovster.github.io/euro-2024/switzerland-germany/
+URL:https://footballcal.com/euro-2024/switzerland-germany/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Switzerland,Germany,Frankfurt am Main,Group A,Group 
 	stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:FI5_J1IV7vrVCr7yg6blk
+UID:DuSOPHEsmbnBjofWhjWNJ
 SUMMARY:Albania v Spain
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-seventh game of the EURO 2024 co
 	mpetition between Group B competitors\, Albania and Spain.
-URL:https://trovster.github.io/euro-2024/albania-spain/
+URL:https://footballcal.com/euro-2024/albania-spain/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Albania,Spain,Dusseldorf,Group B,Group stages,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:4g_lhKFC2C-4cO569DJQ7
+UID:yy3ScKJx25WmklhbkBQsU
 SUMMARY:Croatia v Italy
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-eighth game of the EURO 2024 com
 	petition between Group B competitors\, Croatia and Italy.
-URL:https://trovster.github.io/euro-2024/croatia-italy/
+URL:https://footballcal.com/euro-2024/croatia-italy/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Italy,Leipzig,Group B,Group stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:GnKWB3nhrl1-9pCIGVshY
+UID:loc-WIMXknoBe5lvRcrOP
 SUMMARY:France v Poland
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T160000Z
 DTEND:20240625T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirtieth game of the EURO 2024 competi
 	tion between Group D competitors\, France and Poland.
-URL:https://trovster.github.io/euro-2024/france-poland/
+URL:https://footballcal.com/euro-2024/france-poland/
 LOCATION:Dortmund
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,France,Poland,Dortmund,Group D,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:Y_wHvFB2X5x29PJDp2H-Y
+UID:CPyblXo0IhEd86rayYF1Q
 SUMMARY:Netherlands v Austria
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T160000Z
 DTEND:20240625T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-ninth game of the EURO 2024 comp
 	etition between Group D competitors\, Netherlands and Austria.
-URL:https://trovster.github.io/euro-2024/netherlands-austria/
+URL:https://footballcal.com/euro-2024/netherlands-austria/
 LOCATION:Berlin
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,Austria,Berlin,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:p7m2Tupnp2cdekI_XXq7X
+UID:WDojufeO8mVn44liMye8d
 SUMMARY:Denmark v Serbia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T190000Z
 DTEND:20240625T205000Z
 DESCRIPTION:TV Channels: ITV4\n\nThe thirty-second game of the EURO 2024 co
 	mpetition between Group C competitors\, Denmark and Serbia.
-URL:https://trovster.github.io/euro-2024/denmark-serbia/
+URL:https://footballcal.com/euro-2024/denmark-serbia/
 LOCATION:Munich
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Denmark,Serbia,Munich,Group C,Group stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:SRlIyAphc4viczTHUPkFQ
+UID:dw7-4WTM5e1JISRk_s6EB
 SUMMARY:England v Slovenia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T190000Z
 DTEND:20240625T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirty-first game of the EURO 2024 com
 	petition between Group C competitors\, England and Slovenia.
-URL:https://trovster.github.io/euro-2024/england-slovenia/
+URL:https://footballcal.com/euro-2024/england-slovenia/
 LOCATION:Cologne
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,England,Slovenia,Cologne,Group C,Group stages,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:3FmzymXhVsQ1Yr91dW5PX
+UID:K0AyEzrO_XUZbo9rZoNCy
 SUMMARY:Slovakia v Romania
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T160000Z
 DTEND:20240626T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirty-third game of the EURO 2024 comp
 	etition between Group E competitors\, Slovakia and Romania.
-URL:https://trovster.github.io/euro-2024/slovakia-romania/
+URL:https://footballcal.com/euro-2024/slovakia-romania/
 LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Romania,Frankfurt am Main,Group E,Group sta
 	ges,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:IhQ-bwgm2VIzcEbxBvhi1
+UID:0KE4f6XJ2QTgGVK79rwfk
 SUMMARY:Ukraine v Belgium
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T160000Z
 DTEND:20240626T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirty-fourth game of the EURO 2024 com
 	petition between Group E competitors\, Ukraine and Belgium.
-URL:https://trovster.github.io/euro-2024/ukraine-belgium/
+URL:https://footballcal.com/euro-2024/ukraine-belgium/
 LOCATION:Stuttgart
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Ukraine,Belgium,Stuttgart,Group E,Group stages,EURO 
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:8oTjtnNb9dnYQ78Q0AuTg
+UID:98K2prG3pEcYP_LaRsK-q
 SUMMARY:Czechia v Turkey
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T190000Z
 DTEND:20240626T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe thirty-sixth game of the EURO 2024 comp
 	etition between Group F competitors\, Czechia and Turkey.
-URL:https://trovster.github.io/euro-2024/czechia-turkey/
+URL:https://footballcal.com/euro-2024/czechia-turkey/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Czechia,Turkey,Hamburg,Group F,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:6D2jV6dokj0VMc3lqR2aU
+UID:3xf3Hl_3VOtFHOKhmD5pC
 SUMMARY:Georgia v Portugal
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240626T190000Z
 DTEND:20240626T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe thirty-fifth game of the EURO 2024 comp
 	etition between Group F competitors\, Georgia and Portugal.
-URL:https://trovster.github.io/euro-2024/georgia-portugal/
+URL:https://footballcal.com/euro-2024/georgia-portugal/
 LOCATION:Gelsenkirchen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Georgia,Portugal,Gelsenkirchen,Group F,Group stages,

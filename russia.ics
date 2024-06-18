@@ -5,42 +5,42 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:C6ZDw0EOvWNXJgUME11xr
+UID:36_OqLOPR26yi-b3Ofecj
 SUMMARY:Belgium v Russia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210612T190000Z
 DTEND:20210612T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe fourth game of the (delayed) EURO 2020 
 	competition between Group B rivals\, Beligum and Russia.
-URL:https://trovster.github.io/euro-2020/belgium-russia/
+URL:https://footballcal.com/euro-2020/belgium-russia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Belgium,Russia,St Petersburg,Group B,Group stages,EU
 	RO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:UxrTugX1cOGtxN10q1PWo
+UID:c8sYqKNL-JwPvvpAfpoGU
 SUMMARY:Finland v Russia
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210616T130000Z
 DTEND:20210616T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirteenth game of the (delayed) EURO 2
 	020 competition between Group B rivals\, Finland and Russia.
-URL:https://trovster.github.io/euro-2020/finland-russia/
+URL:https://footballcal.com/euro-2020/finland-russia/
 LOCATION:St Petersburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Finland,Russia,St Petersburg,Group B,Group stages,EU
 	RO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:W1uHb7zvYLBldr5fVCStI
+UID:Fb6LwZKCaWqh7qfo6g7ik
 SUMMARY:Russia v Denmark
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210621T190000Z
 DTEND:20210621T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 29th game of the (delayed) EURO 2020 co
 	mpetition between Group B rivals\, Russia and Denmark.
-URL:https://trovster.github.io/euro-2020/russia-denmark/
+URL:https://footballcal.com/euro-2020/russia-denmark/
 LOCATION:Copenhagen
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Russia,Denmark,Copenhagen,Group B,Group stages,EURO 

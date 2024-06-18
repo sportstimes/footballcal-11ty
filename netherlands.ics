@@ -5,99 +5,99 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:B5csKkQsmFEz_Q5kPrz8b
+UID:G91H_MIVhOflKt3mcmWhX
 SUMMARY:Netherlands v Ukraine
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210613T190000Z
 DTEND:20210613T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe seventh game of the (delayed) EURO 2020
 	 competition between Group C rivals\, Netherlands and Ukraine.
-URL:https://trovster.github.io/euro-2020/netherlands-ukraine/
+URL:https://footballcal.com/euro-2020/netherlands-ukraine/
 LOCATION:Amsterdam
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,Ukraine,Amsterdam,Group C,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:ux5FsifBprZHCStDGsObx
+UID:qkUowtx3wXUr7z6CvX3cu
 SUMMARY:Netherlands v Austria
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210617T190000Z
 DTEND:20210617T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe eighteenth game of the (delayed) EURO 2
 	020 competition between Group C rivals\, Netherlands and Austria.
-URL:https://trovster.github.io/euro-2020/netherlands-austria/
+URL:https://footballcal.com/euro-2020/netherlands-austria/
 LOCATION:Amsterdam
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,Austria,Amsterdam,Group C,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:8wHOZEU_wZkZlsDl9wQYU
+UID:u3g_qPlUiKlvk81up2uGR
 SUMMARY:North Macedonia v Netherlands
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210621T160000Z
 DTEND:20210621T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 27th game of the (delayed) EURO 2020 co
 	mpetition between Group C rivals\, North Macedonia and Netherlands.
-URL:https://trovster.github.io/euro-2020/north-macedonia-netherlands/
+URL:https://footballcal.com/euro-2020/north-macedonia-netherlands/
 LOCATION:Amsterdam
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,North Macedonia,Netherlands,Amsterdam,Group C,Group 
 	stages,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:PPdEKsrhw78Q2KZerhWOV
+UID:I6A7dSsndiXbYUz5RoPLZ
 SUMMARY:Netherlands v Czech Republic
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210627T160000Z
 DTEND:20210627T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 39th game of the (delayed) EURO 2020 co
 	mpetition between Group C winners Netherlands and Group D third place Czec
 	h Republic.
-URL:https://trovster.github.io/euro-2020/knockout-3/
+URL:https://footballcal.com/euro-2020/knockout-3/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,Czech Republic,Budapest,Group C,Group D,
 	Group E,Group F,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:JFN3A131wkhfbJEPRRDLB
+UID:aRsKBMEWixYrZOP0x7Ob7
 SUMMARY:Poland v Netherlands
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240616T130000Z
 DTEND:20240616T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
 	n between Group D competitors\, Poland and Netherlands.
-URL:https://trovster.github.io/euro-2024/poland-netherlands/
+URL:https://footballcal.com/euro-2024/poland-netherlands/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:Q15kNKrL_FSJ-HMhYR8n1
+UID:tHQFyvd3cfpEtOR6iZb2k
 SUMMARY:Netherlands v France
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240621T190000Z
 DTEND:20240621T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-first game of the EURO 2024 com
 	petition between Group D competitors\, Netherlands and France.
-URL:https://trovster.github.io/euro-2024/netherlands-france/
+URL:https://footballcal.com/euro-2024/netherlands-france/
 LOCATION:Leipzig
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,France,Leipzig,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:GIhapWBRIGaITqOIyljAT
+UID:FYlaZodW-IIFpvRlOUI17
 SUMMARY:Netherlands v Austria
-DTSTAMP:20240618T145302Z
+DTSTAMP:20240618T151525Z
 DTSTART:20240625T160000Z
 DTEND:20240625T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-ninth game of the EURO 2024 comp
 	etition between Group D competitors\, Netherlands and Austria.
-URL:https://trovster.github.io/euro-2024/netherlands-austria/
+URL:https://footballcal.com/euro-2024/netherlands-austria/
 LOCATION:Berlin
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Netherlands,Austria,Berlin,Group D,Group stages,EURO

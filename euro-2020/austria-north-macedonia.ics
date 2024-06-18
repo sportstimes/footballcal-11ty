@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:oK-gA0Bn3quC1tPhBPuLK
+UID:0GmNNk_tBu1rFh1LVRQR0
 SUMMARY:Austria v North Macedonia
-DTSTAMP:20240618T145301Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210613T160000Z
 DTEND:20210613T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe sixth game of the (delayed) EURO 2020 c
 	ompetition between Group C rivals\, Austria and North Macedonia.
-URL:https://trovster.github.io/euro-2020/austria-north-macedonia/
+URL:https://footballcal.com/euro-2020/austria-north-macedonia/
 LOCATION:Bucharest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Austria,North Macedonia,Bucharest,Group C,Group stag

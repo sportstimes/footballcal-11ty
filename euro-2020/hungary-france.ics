@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:cULVRKG39hdSmOBlgSR-g
+UID:MmHsJxojgEVHtmOM8qFQ-
 SUMMARY:Hungary v France
-DTSTAMP:20240618T145301Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210619T130000Z
 DTEND:20210619T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 22nd game of the (delayed) EURO 2020 co
 	mpetition between Group F rivals\, Hungary and France.
-URL:https://trovster.github.io/euro-2020/hungary-france/
+URL:https://footballcal.com/euro-2020/hungary-france/
 LOCATION:Budapest
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Hungary,France,Budapest,Group F,Group stages,EURO 20

@@ -5,14 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:RCRiLvPwpbmqSps3PZLd3
+UID:kh-4R5Tim9kclk0giU6WX
 SUMMARY:Turkey v Italy
-DTSTAMP:20240618T145301Z
+DTSTAMP:20240618T151525Z
 DTSTART:20210611T190000Z
 DTEND:20210611T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe first game of the (delayed) EURO 2020 c
 	ompetition.
-URL:https://trovster.github.io/euro-2020/turkey-italy/
+URL:https://footballcal.com/euro-2020/turkey-italy/
 LOCATION:Olimpico in Rome\, Rome
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Turkey,Italy,Rome,Group A,Group stages,EURO 2020
