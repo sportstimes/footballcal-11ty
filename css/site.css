@@ -252,7 +252,7 @@ html {
 body {
   text-align: left;
   background-color: #D55A5A;
-  background-image: linear-gradient(-30deg, #D55A5A 50%, #135A94 50%);
+  background-image: linear-gradient(120deg, #D55A5A 50%, #135A94 50%);
   color: rgb(30 30 30 / 80%);
   font-family: Helvetica, sans-serif;
   font-weight: normal;
@@ -765,7 +765,7 @@ td.datetime {
 }
 
 td.time {
-    background-image: linear-gradient(180deg, transparent 0, transparent 49%, #FFF 49%, #FFF 51%, transparent 51%);
+    background-image: linear-gradient(90deg, transparent 0, transparent 49%, #FFF 49%, #FFF 51%, transparent 51%);
 }
 
 td.time span {
