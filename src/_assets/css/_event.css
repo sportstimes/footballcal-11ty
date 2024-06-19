@@ -16,7 +16,7 @@ td.datetime {
 }
 
 td.time {
-    background-image: linear-gradient(180deg, transparent 0, transparent 49%, #FFF 49%, #FFF 51%, transparent 51%);
+    background-image: linear-gradient(90deg, transparent 0, transparent 49%, #FFF 49%, #FFF 51%, transparent 51%);
 }
 
 td.time span {
