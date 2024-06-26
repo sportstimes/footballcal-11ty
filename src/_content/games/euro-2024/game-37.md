@@ -7,5 +7,4 @@ path: /euro-2024/game-37/
 tags: ["Dortmund", "Group C", "Group A", "Round of 16", "EURO 2024"]
 tv: []
 ---
-
 The thirty-seventh game of the EURO 2024 competition between Group A winners, Germany, and Group C runners-up.
