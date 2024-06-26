@@ -17,7 +17,5 @@ tags:
 "EURO 2024",
 ]
 tv: []
-
--
-
+---
 The 43rd game of the EURO 2024 competition between Group E winners and Group A, B, C or D third place.
