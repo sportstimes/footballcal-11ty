@@ -16,5 +16,4 @@ tags:
   ]
 tv: []
 ---
-
 The 41st game of the EURO 2024 competition between Group F winners, Portugal, and Group A, B or C 3rd place.
