@@ -16,5 +16,4 @@ tags:
   ]
 tv: []
 ---
-
 The 40th game of the EURO 2024 competition between Group C winners and Group D, E or F 3rd place.
