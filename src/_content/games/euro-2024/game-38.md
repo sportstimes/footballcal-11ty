@@ -7,5 +7,4 @@ path: /euro-2024/game-38/
 tags: ["Berlin", "Group A", "Group B", "Round of 16", "EURO 2024"]
 tv: []
 ---
-
 The thirty-eighth game of the EURO 2024 competition between Group A runners-up, Switzerland, and Group B runners-up.
