@@ -17,5 +17,4 @@ tags:
   ]
 tv: []
 ---
-
 The 39th game of the EURO 2024 competition between Group B winners, Spain, and Group A, D, E or F third place.
