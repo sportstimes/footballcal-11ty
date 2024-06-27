@@ -1,5 +1,4 @@
 ---
-
 title: Group D 2 v Group E 2
 date: 2024-07-01T16:00Z
 endDate: 2024-07-01T17:50Z
