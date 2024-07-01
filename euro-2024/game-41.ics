@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:JRGdYL0bbI1xWasryLy1t
+SUMMARY:Portugal v Group A/B/C 3
+DTSTAMP:20240701T101230Z
+DTSTART:20240701T190000Z
+DTEND:20240701T205000Z
+DESCRIPTION:TV Channels: \n\nThe 41st game of the EURO 2024 competition bet
+	ween Group F winners\, Portugal\, and Group A\, B or C 3rd place.
+URL:https://footballcal.com/euro-2024/game-41/
+LOCATION:Frankfurt
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Frankfurt,Group A,Group B,Group C,Group F,Round of 1
+	6,EURO 2024
+END:VEVENT
+END:VCALENDAR

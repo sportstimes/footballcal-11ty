@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:t0qVBfmBnsFJv9toBNAwf
+SUMMARY:Switzerland v Group B 2
+DTSTAMP:20240701T101230Z
+DTSTART:20240629T160000Z
+DTEND:20240629T175000Z
+DESCRIPTION:TV Channels: \n\nThe thirty-eighth game of the EURO 2024 compet
+	ition between Group A runners-up\, Switzerland\, and Group B runners-up.
+URL:https://footballcal.com/euro-2024/game-38/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Berlin,Group A,Group B,Round of 16,EURO 2024
+END:VEVENT
+END:VCALENDAR

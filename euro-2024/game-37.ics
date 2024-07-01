@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:xgjIBJfCcWCa5rimDfgSK
+SUMMARY:Germany v Group C 2
+DTSTAMP:20240701T101230Z
+DTSTART:20240629T190000Z
+DTEND:20240629T205000Z
+DESCRIPTION:TV Channels: \n\nThe thirty-seventh game of the EURO 2024 compe
+	tition between Group A winners\, Germany\, and Group C runners-up.
+URL:https://footballcal.com/euro-2024/game-37/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Dortmund,Group C,Group A,Round of 16,EURO 2024
+END:VEVENT
+END:VCALENDAR
