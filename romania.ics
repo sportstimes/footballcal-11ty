@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:lFzYTI4U92pucY3wIXjDf
+UID:mhCKpCMlujBTe8FzExET3
 SUMMARY:Romania v Ukraine
-DTSTAMP:20240701T101231Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240617T130000Z
 DTEND:20240617T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe eighth game of the EURO 2024 competiti
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Romania,Ukraine,Munich,Group E,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:bIRE6rwawhBJ5loHuOdGX
+UID:IQQW4LYfvHggunRDw2hPK
 SUMMARY:Belgium v Romania
-DTSTAMP:20240701T101231Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240622T190000Z
 DTEND:20240622T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe twenty-fourth game of the EURO 2024 co
@@ -33,9 +33,9 @@ CATEGORIES:webcal-game,Belgium,Romania,Cologne,Group E,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:f84jbvsNoCq_uyhod_5_k
+UID:xwCTcPukc3x11CNyXdXpm
 SUMMARY:Slovakia v Romania
-DTSTAMP:20240701T101231Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240626T160000Z
 DTEND:20240626T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirty-third game of the EURO 2024 comp
@@ -45,5 +45,19 @@ LOCATION:Frankfurt am Main
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Slovakia,Romania,Frankfurt am Main,Group E,Group sta
 	ges,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:xK4K3yD7kC4qoyYE_m61-
+SUMMARY:Romania v Netherlands
+DTSTAMP:20240702T211801Z
+DTSTART:20240702T160000Z
+DTEND:20240702T175000Z
+DESCRIPTION:TV Channels: \n\nThe 43rd game of the EURO 2024 competition bet
+	ween Group E winners\, Romania and Group D third place\, Netherlands.
+URL:https://footballcal.com/euro-2024/game-43/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Romania,Netherlands,Munich,Group D,Group E,Round of 
+	16,EURO 2024
 END:VEVENT
 END:VCALENDAR

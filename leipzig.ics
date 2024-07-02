@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:lXdF4bHt5kRofdMgvcPsl
+UID:IkRkbA9ykcw59LYkWvz6U
 SUMMARY:Portugal v Czechia
-DTSTAMP:20240701T101231Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240618T190000Z
 DTEND:20240618T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twelfth game of the EURO 2024 competit
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Portugal,Czechia,Leipzig,Group F,Group stages,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:RaXNcTvzVGBsXmnECaNQM
+UID:_JhRoaB0Id6JWrTqIPTTj
 SUMMARY:Netherlands v France
-DTSTAMP:20240701T101231Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240621T190000Z
 DTEND:20240621T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe twenty-first game of the EURO 2024 com
@@ -33,9 +33,9 @@ CATEGORIES:webcal-game,Netherlands,France,Leipzig,Group D,Group stages,EURO
 	 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:YFr3LSF0d_9bMniT-gCTB
+UID:bURcabk2ZZ9PNA6elykDd
 SUMMARY:Croatia v Italy
-DTSTAMP:20240701T101231Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-eighth game of the EURO 2024 com
@@ -46,16 +46,17 @@ STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Italy,Leipzig,Group B,Group stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:uz-fCBi8TpM12YhEOcDcE
-SUMMARY:Group D 1 v Group F 2
-DTSTAMP:20240701T101231Z
+UID:erdf409bL7SyptkD0c8Nl
+SUMMARY:Austria v Turkey
+DTSTAMP:20240702T211801Z
 DTSTART:20240702T190000Z
 DTEND:20240702T205000Z
 DESCRIPTION:TV Channels: \n\nThe 44th game of the EURO 2024 competition bet
-	ween Group D winners and Group F runners-up.
+	ween Group D winners\, Austria and Group F runners-up\, Turkey.
 URL:https://footballcal.com/euro-2024/game-44/
 LOCATION:Leipzig
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Leipzig,Group D,Group F,Round of 16,EURO 2024
+CATEGORIES:webcal-game,Austria,Turkey,Leipzig,Group D,Group F,Round of 16,E
+	URO 2024
 END:VEVENT
 END:VCALENDAR

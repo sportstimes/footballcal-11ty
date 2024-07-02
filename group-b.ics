@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:XVZhBFse5ycYeF8iLNQw7
+UID:x_JzCgRbH8GXbFOJKcW9s
 SUMMARY:Denmark v Finland
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20210612T160000Z
 DTEND:20210612T175000Z
 DESCRIPTION:TV Channels: BBC\n\nThe third game of the (delayed) EURO 2020 c
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Denmark,Finland,Copenhagen,Group B,Group stages,EURO
 	 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:ADOdsGbBeFpsO30spvG0n
+UID:wbSWDaJ5ESRZl0IazhpCt
 SUMMARY:Belgium v Russia
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20210612T190000Z
 DTEND:20210612T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe fourth game of the (delayed) EURO 2020 
@@ -33,9 +33,9 @@ CATEGORIES:webcal-game,Belgium,Russia,St Petersburg,Group B,Group stages,EU
 	RO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:DY2JCxkx7zP29KZ1cDquG
+UID:dMTD15V0Qxud3WfT8IPvz
 SUMMARY:Finland v Russia
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20210616T130000Z
 DTEND:20210616T145000Z
 DESCRIPTION:TV Channels: BBC\n\nThe thirteenth game of the (delayed) EURO 2
@@ -47,9 +47,9 @@ CATEGORIES:webcal-game,Finland,Russia,St Petersburg,Group B,Group stages,EU
 	RO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:BlTdOSMaoqnmsFFFc-pY_
+UID:nsFltDfr-_XRiR4mvpPlF
 SUMMARY:Denmark v Belgium
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20210617T160000Z
 DTEND:20210617T175000Z
 DESCRIPTION:TV Channels: ITV\n\nThe seventeenth game of the (delayed) EURO 
@@ -61,9 +61,9 @@ CATEGORIES:webcal-game,Denmark,Belgium,Copenhagen,Group B,Group stages,EURO
 	 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:prg79I2Wsc0oWnwLCBF4Z
+UID:djSApko_Voi6x1v_DjVWG
 SUMMARY:Finland v Belgium
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20210621T190000Z
 DTEND:20210621T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 30th game of the (delayed) EURO 2020 co
@@ -75,9 +75,9 @@ CATEGORIES:webcal-game,Finland,Belgium,St Petersburg,Group B,Group stages,E
 	URO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:_v_dSHrll6e8M37IhtCJe
+UID:2aPITb2fR4kU2Sf0NS7bT
 SUMMARY:Russia v Denmark
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20210621T190000Z
 DTEND:20210621T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 29th game of the (delayed) EURO 2020 co
@@ -89,9 +89,9 @@ CATEGORIES:webcal-game,Russia,Denmark,Copenhagen,Group B,Group stages,EURO
 	2020
 END:VEVENT
 BEGIN:VEVENT
-UID:8N2Nf3ALcyt_9qOjdUXH3
+UID:-z2DU-e0mQmdcRhr2xcIR
 SUMMARY:Wales v Denmark
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20210626T160000Z
 DTEND:20210626T175000Z
 DESCRIPTION:The 37th game of the (delayed) EURO 2020 competition between Gr
@@ -103,9 +103,9 @@ CATEGORIES:webcal-game,Wales,Denmark,Amsterdam,Group A,Group B,Knockout,Gro
 	up of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:YyQ2xwKI1Zxb9bi1Haf_T
+UID:tAXv51hiyEj8mdzbB-QhV
 SUMMARY:Belgium v Portugal
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20210627T190000Z
 DTEND:20210627T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
@@ -118,9 +118,9 @@ CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
 	up E,Group F,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:YR4pbDZIN-vYrZPO2IEKU
+UID:RtyiaBSGfyCh7qI102GTV
 SUMMARY:France v Switzerland
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20210628T190000Z
 DTEND:20210628T205000Z
 DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
@@ -133,9 +133,9 @@ CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
 	,Group F,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:Kgrg7ta-t4HwaVruSiK24
+UID:YSf6zew3Iru6lvn9svF4p
 SUMMARY:Sweden v Ukraine
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20210629T190000Z
 DTEND:20210629T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
@@ -147,9 +147,9 @@ CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group
 	D,Group E,Knockout,Group of 16,EURO 2020
 END:VEVENT
 BEGIN:VEVENT
-UID:cyhVW8fKJpoEknfoMp7Lf
+UID:9NQElR86q_Iz5CsDM81Ez
 SUMMARY:Spain v Croatia
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240615T160000Z
 DTEND:20240615T175000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe third game of the EURO 2024 competitio
@@ -160,9 +160,9 @@ STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Croatia,Berlin,Group B,Group stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:WgGUt6MIsznXNbjrH2a24
+UID:LESoStL4IOwoJ8EiuhY80
 SUMMARY:Italy v Albania
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240615T190000Z
 DTEND:20240615T205000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe fourth game of the EURO 2024 competiti
@@ -174,9 +174,9 @@ CATEGORIES:webcal-game,Italy,Albania,Dortmund,Group B,Group stages,EURO 202
 	4
 END:VEVENT
 BEGIN:VEVENT
-UID:3zlqV37P-vCc65JbOP80g
+UID:k2MqxbEFk24P3uqb_Apr-
 SUMMARY:Croatia v Albania
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240619T130000Z
 DTEND:20240619T145000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe thirteenth game of the EURO 2024 compe
@@ -188,9 +188,9 @@ CATEGORIES:webcal-game,Croatia,Albania,Hamburg,Group B,Group stages,EURO 20
 	24
 END:VEVENT
 BEGIN:VEVENT
-UID:RP1oHUIxceeA4uduCTQOM
+UID:E9SAACS9rfOfg2Dh9IQcQ
 SUMMARY:Spain v Italy
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240620T190000Z
 DTEND:20240620T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe eighteenth game of the EURO 2024 compe
@@ -202,9 +202,9 @@ CATEGORIES:webcal-game,Spain,Italy,Gelsenkirchen,Group B,Group stages,EURO
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:vHHfqrz0ItD9sgDH9DcZA
+UID:t0biFhMeq1a8BxUWYuf8Y
 SUMMARY:Albania v Spain
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-seventh game of the EURO 2024 co
@@ -216,9 +216,9 @@ CATEGORIES:webcal-game,Albania,Spain,Dusseldorf,Group B,Group stages,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:8TjyPY_4yOZ4NHsJ764s8
+UID:B_BhXI9Qf_aVUgfrcCnzI
 SUMMARY:Croatia v Italy
-DTSTAMP:20240701T101230Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-eighth game of the EURO 2024 com
@@ -229,58 +229,32 @@ STATUS:CONFIRMED
 CATEGORIES:webcal-game,Croatia,Italy,Leipzig,Group B,Group stages,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:MWZA46lopdZO1B1QTi78o
-SUMMARY:Switzerland v Group B 2
-DTSTAMP:20240701T101230Z
+UID:jMntBvEan8rAm6aqex4yc
+SUMMARY:Switzerland v Italy
+DTSTAMP:20240702T211801Z
 DTSTART:20240629T160000Z
 DTEND:20240629T175000Z
 DESCRIPTION:TV Channels: \n\nThe thirty-eighth game of the EURO 2024 compet
-	ition between Group A runners-up\, Switzerland\, and Group B runners-up.
+	ition between Group A runners-up\, Switzerland\, and Group B runners-up\, 
+	Italy.
 URL:https://footballcal.com/euro-2024/game-38/
 LOCATION:Berlin
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Berlin,Group A,Group B,Round of 16,EURO 2024
+CATEGORIES:webcal-game,Switzerland,Italy,Berlin,Group A,Group B,Round of 16
+	,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:mJN1TlrAfWkiaALj5q1th
-SUMMARY:Spain v Group A/D/E/F 3
-DTSTAMP:20240701T101230Z
+UID:IygttjyJc0PtQ-WRGHM9x
+SUMMARY:Spain v Georgia
+DTSTAMP:20240702T211801Z
 DTSTART:20240630T190000Z
 DTEND:20240630T205000Z
 DESCRIPTION:TV Channels: \n\nThe 39th game of the EURO 2024 competition bet
-	ween Group B winners\, Spain\, and Group A\, D\, E or F third place.
+	ween Group B winners\, Spain\, and Group F third place\, Georgia.
 URL:https://footballcal.com/euro-2024/game-39/
 LOCATION:Cologne
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Cologne,Group B,Group A,Group D,Group E,Group F,Roun
-	d of 16,EURO 2024
-END:VEVENT
-BEGIN:VEVENT
-UID:DmxsA91mvU7TWi8Xzo4B2
-SUMMARY:Portugal v Group A/B/C 3
-DTSTAMP:20240701T101230Z
-DTSTART:20240701T190000Z
-DTEND:20240701T205000Z
-DESCRIPTION:TV Channels: \n\nThe 41st game of the EURO 2024 competition bet
-	ween Group F winners\, Portugal\, and Group A\, B or C 3rd place.
-URL:https://footballcal.com/euro-2024/game-41/
-LOCATION:Frankfurt
-STATUS:CONFIRMED
-CATEGORIES:webcal-game,Frankfurt,Group A,Group B,Group C,Group F,Round of 1
-	6,EURO 2024
-END:VEVENT
-BEGIN:VEVENT
-UID:ZgP1nmvSb_g39WmrN4SAo
-SUMMARY:Group E 1 v Group A/B/C/D 3
-DTSTAMP:20240701T101230Z
-DTSTART:20240702T160000Z
-DTEND:20240702T175000Z
-DESCRIPTION:TV Channels: \n\nThe 43rd game of the EURO 2024 competition bet
-	ween Group E winners and Group A\, B\, C or D third place.
-URL:https://footballcal.com/euro-2024/game-43/
-LOCATION:Munich
-STATUS:CONFIRMED
-CATEGORIES:webcal-game,Munich,Group A,Group B,Group C,Group D,Group E,Round
-	 of 16,EURO 2024
+CATEGORIES:webcal-game,Spain,Georgia,Cologne,Group B,Group F,Round of 16,EU
+	RO 2024
 END:VEVENT
 END:VCALENDAR

@@ -5,16 +5,17 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:qaRD6XjP2adFVLZPiVyvF
-SUMMARY:QF5 v QF6
-DTSTAMP:20240701T101230Z
+UID:cqIkTYJ1XaoPl-WzzZ_yY
+SUMMARY:England v Switzerland
+DTSTAMP:20240702T211800Z
 DTSTART:20240706T170000Z
-DTEND:20240705T185000Z
+DTEND:20240706T185000Z
 DESCRIPTION:TV Channels: \n\nThe 47th game and third quarter final of the E
-	URO 2024 competition.
+	URO 2024 competition between England and Switzerland.
 URL:https://footballcal.com/euro-2024/quarter-final-3/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Dusseldorf,Quarter Finals,EURO 2024
+CATEGORIES:webcal-game,England,Switzerland,Dusseldorf,Quarter Finals,EURO 2
+	024
 END:VEVENT
 END:VCALENDAR

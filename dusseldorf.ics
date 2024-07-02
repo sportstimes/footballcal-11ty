@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:XDHUNbNCHuixVrWsnz-r4
+UID:plz6vP7Zyo8dO_yPdB3hr
 SUMMARY:Austria v France
-DTSTAMP:20240701T101231Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240617T190000Z
 DTEND:20240617T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:JRAIk359QusDRQQ5xDq32
+UID:1oOmPBvcO6r2Xqy3Uz1Wx
 SUMMARY:Slovakia v Ukraine
-DTSTAMP:20240701T101231Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240621T130000Z
 DTEND:20240621T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe ninteenth game of the EURO 2024 compet
@@ -33,9 +33,9 @@ CATEGORIES:webcal-game,Slovakia,Ukraine,Dusseldorf,Group E,Group stages,EUR
 	O 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:Dw4n7E7o_PCsmPjJqNMnX
+UID:8ueVK8Ql3W_4xvVxs9IO0
 SUMMARY:Albania v Spain
-DTSTAMP:20240701T101231Z
+DTSTAMP:20240702T211801Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-seventh game of the EURO 2024 co
@@ -47,29 +47,31 @@ CATEGORIES:webcal-game,Albania,Spain,Dusseldorf,Group B,Group stages,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:41dnkaT39c379px0AnO_N
-SUMMARY:Group D 2 v Group E 2
-DTSTAMP:20240701T101231Z
+UID:vgCO3FJBtfATMOQ0Y4_rb
+SUMMARY:France v Belgium
+DTSTAMP:20240702T211801Z
 DTSTART:20240701T160000Z
 DTEND:20240701T175000Z
 DESCRIPTION:TV Channels: \n\nThe 42nd game of the EURO 2024 competition bet
-	ween Group D runners-up and Group E runners-up.
+	ween Group D runners-up\, France and Group E runners-up\, Belgium.
 URL:https://footballcal.com/euro-2024/game-42/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Dusseldorf,Group D,Group E,Round of 16,EURO 2024
+CATEGORIES:webcal-game,France,Belgium,Dusseldorf,Group D,Group E,Round of 1
+	6,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:A1oC67Kxw4IgA4n0e09Mj
-SUMMARY:QF5 v QF6
-DTSTAMP:20240701T101231Z
+UID:EOYibLvzNvq7x5Cl4PnL1
+SUMMARY:England v Switzerland
+DTSTAMP:20240702T211801Z
 DTSTART:20240706T170000Z
-DTEND:20240705T185000Z
+DTEND:20240706T185000Z
 DESCRIPTION:TV Channels: \n\nThe 47th game and third quarter final of the E
-	URO 2024 competition.
+	URO 2024 competition between England and Switzerland.
 URL:https://footballcal.com/euro-2024/quarter-final-3/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Dusseldorf,Quarter Finals,EURO 2024
+CATEGORIES:webcal-game,England,Switzerland,Dusseldorf,Quarter Finals,EURO 2
+	024
 END:VEVENT
 END:VCALENDAR

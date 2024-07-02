@@ -5,16 +5,17 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:OgFMpjo_VVulExA0INcqR
-SUMMARY:Group D 2 v Group E 2
-DTSTAMP:20240701T101230Z
+UID:EMDz0Nl2npiLwcVig4Ax2
+SUMMARY:France v Belgium
+DTSTAMP:20240702T211800Z
 DTSTART:20240701T160000Z
 DTEND:20240701T175000Z
 DESCRIPTION:TV Channels: \n\nThe 42nd game of the EURO 2024 competition bet
-	ween Group D runners-up and Group E runners-up.
+	ween Group D runners-up\, France and Group E runners-up\, Belgium.
 URL:https://footballcal.com/euro-2024/game-42/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Dusseldorf,Group D,Group E,Round of 16,EURO 2024
+CATEGORIES:webcal-game,France,Belgium,Dusseldorf,Group D,Group E,Round of 1
+	6,EURO 2024
 END:VEVENT
 END:VCALENDAR

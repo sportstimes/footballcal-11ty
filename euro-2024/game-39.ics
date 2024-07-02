@@ -5,17 +5,17 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:lKOK3-uMG5igcjoIL-6lj
-SUMMARY:Spain v Group A/D/E/F 3
-DTSTAMP:20240701T101230Z
+UID:fZtnhKwEPwKZOe3R0HY9W
+SUMMARY:Spain v Georgia
+DTSTAMP:20240702T211800Z
 DTSTART:20240630T190000Z
 DTEND:20240630T205000Z
 DESCRIPTION:TV Channels: \n\nThe 39th game of the EURO 2024 competition bet
-	ween Group B winners\, Spain\, and Group A\, D\, E or F third place.
+	ween Group B winners\, Spain\, and Group F third place\, Georgia.
 URL:https://footballcal.com/euro-2024/game-39/
 LOCATION:Cologne
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Cologne,Group B,Group A,Group D,Group E,Group F,Roun
-	d of 16,EURO 2024
+CATEGORIES:webcal-game,Spain,Georgia,Cologne,Group B,Group F,Round of 16,EU
+	RO 2024
 END:VEVENT
 END:VCALENDAR
