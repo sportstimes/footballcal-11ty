@@ -5,13 +5,14 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:jKPHJLq3SeuYNHLeNszLW
+UID:B8SVXQoVeJG6abaB_HIUF
 SUMMARY:Spain v Germany
-DTSTAMP:20240702T211800Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240705T160000Z
 DTEND:20240705T175000Z
-DESCRIPTION:TV Channels: \n\nThe 45th game and first quarter final of the E
-	URO 2024 competition between Spain and Germany.
+DESCRIPTION:TV Channels: ITV1\, STV\, ITVX\, STV Player\n\nThe 45th game an
+	d first quarter final of the EURO 2024 competition between Spain and Germa
+	ny.
 URL:https://footballcal.com/euro-2024/quarter-final-1/
 LOCATION:Stuttgart
 STATUS:CONFIRMED

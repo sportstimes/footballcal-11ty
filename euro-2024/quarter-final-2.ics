@@ -5,13 +5,13 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:XIAMeWHtTKcUULgNNURDy
+UID:vAQTm3PzyaCHU9gjsqrn0
 SUMMARY:Portugal v France
-DTSTAMP:20240702T211800Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240705T190000Z
 DTEND:20240705T205000Z
-DESCRIPTION:TV Channels: \n\nThe 46th game and second quarter final of the 
-	EURO 2024 competition between Portugal and France.
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 46th game and second qua
+	rter final of the EURO 2024 competition between Portugal and France.
 URL:https://footballcal.com/euro-2024/quarter-final-2/
 LOCATION:Hamburg
 STATUS:CONFIRMED

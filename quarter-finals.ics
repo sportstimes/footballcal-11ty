@@ -5,39 +5,40 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ld5QdTWwrbbun4urHDwM2
+UID:8i6k2hXA3z_zu16MEvOcH
 SUMMARY:Spain v Germany
-DTSTAMP:20240702T211801Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240705T160000Z
 DTEND:20240705T175000Z
-DESCRIPTION:TV Channels: \n\nThe 45th game and first quarter final of the E
-	URO 2024 competition between Spain and Germany.
+DESCRIPTION:TV Channels: ITV1\, STV\, ITVX\, STV Player\n\nThe 45th game an
+	d first quarter final of the EURO 2024 competition between Spain and Germa
+	ny.
 URL:https://footballcal.com/euro-2024/quarter-final-1/
 LOCATION:Stuttgart
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Spain,Germany,Stuttgart,Quarter Finals,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:fYyCwOiXwEjIYxMqkyv-2
+UID:amkxaQd9iD0uzSCmNE5tg
 SUMMARY:Portugal v France
-DTSTAMP:20240702T211801Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240705T190000Z
 DTEND:20240705T205000Z
-DESCRIPTION:TV Channels: \n\nThe 46th game and second quarter final of the 
-	EURO 2024 competition between Portugal and France.
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 46th game and second qua
+	rter final of the EURO 2024 competition between Portugal and France.
 URL:https://footballcal.com/euro-2024/quarter-final-2/
 LOCATION:Hamburg
 STATUS:CONFIRMED
 CATEGORIES:webcal-game,Portugal,France,Hamburg,Quarter Finals,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:G7xolWgf55A6Joa9DkND1
+UID:Qhdix9DDIg0mUakR0ug8z
 SUMMARY:England v Switzerland
-DTSTAMP:20240702T211801Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240706T170000Z
 DTEND:20240706T185000Z
-DESCRIPTION:TV Channels: \n\nThe 47th game and third quarter final of the E
-	URO 2024 competition between England and Switzerland.
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 47th game and third quar
+	ter final of the EURO 2024 competition between England and Switzerland.
 URL:https://footballcal.com/euro-2024/quarter-final-3/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
@@ -45,13 +46,14 @@ CATEGORIES:webcal-game,England,Switzerland,Dusseldorf,Quarter Finals,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:Yx5CeCIvgz8QXkdUWqcuB
+UID:g7ig9r7pkZl96jxedcLeh
 SUMMARY:Netherlands v Turkey
-DTSTAMP:20240702T211801Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240706T190000Z
 DTEND:20240706T205000Z
-DESCRIPTION:TV Channels: \n\nThe 48th game and fourth quarter final of the 
-	EURO 2024 competition between Netherlands and Turkey.
+DESCRIPTION:TV Channels: ITV1\, STV\, ITVX\, STV Player\n\nThe 48th game an
+	d fourth quarter final of the EURO 2024 competition between Netherlands an
+	d Turkey.
 URL:https://footballcal.com/euro-2024/quarter-final-4/
 LOCATION:Berlin
 STATUS:CONFIRMED

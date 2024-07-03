@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:plz6vP7Zyo8dO_yPdB3hr
+UID:-gCs9idk4CxEaeySaiu4s
 SUMMARY:Austria v France
-DTSTAMP:20240702T211801Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240617T190000Z
 DTEND:20240617T205000Z
 DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
@@ -19,9 +19,9 @@ CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO
 	2024
 END:VEVENT
 BEGIN:VEVENT
-UID:1oOmPBvcO6r2Xqy3Uz1Wx
+UID:9-fymM0JtlKSFsZUz_GAy
 SUMMARY:Slovakia v Ukraine
-DTSTAMP:20240702T211801Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240621T130000Z
 DTEND:20240621T145000Z
 DESCRIPTION:TV Channels: BBC1\n\nThe ninteenth game of the EURO 2024 compet
@@ -33,9 +33,9 @@ CATEGORIES:webcal-game,Slovakia,Ukraine,Dusseldorf,Group E,Group stages,EUR
 	O 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:8ueVK8Ql3W_4xvVxs9IO0
+UID:Uo4gotpnwhEjb4F5DhgPT
 SUMMARY:Albania v Spain
-DTSTAMP:20240702T211801Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240624T190000Z
 DTEND:20240624T205000Z
 DESCRIPTION:TV Channels: BBC\n\nThe twenty-seventh game of the EURO 2024 co
@@ -47,9 +47,9 @@ CATEGORIES:webcal-game,Albania,Spain,Dusseldorf,Group B,Group stages,EURO 2
 	024
 END:VEVENT
 BEGIN:VEVENT
-UID:vgCO3FJBtfATMOQ0Y4_rb
+UID:Bsmmod5tKNvP6xgN-rW4g
 SUMMARY:France v Belgium
-DTSTAMP:20240702T211801Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240701T160000Z
 DTEND:20240701T175000Z
 DESCRIPTION:TV Channels: \n\nThe 42nd game of the EURO 2024 competition bet
@@ -61,13 +61,13 @@ CATEGORIES:webcal-game,France,Belgium,Dusseldorf,Group D,Group E,Round of 1
 	6,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:EOYibLvzNvq7x5Cl4PnL1
+UID:d9v-KyBq65wZXk2839-y5
 SUMMARY:England v Switzerland
-DTSTAMP:20240702T211801Z
+DTSTAMP:20240703T213858Z
 DTSTART:20240706T170000Z
 DTEND:20240706T185000Z
-DESCRIPTION:TV Channels: \n\nThe 47th game and third quarter final of the E
-	URO 2024 competition between England and Switzerland.
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 47th game and third quar
+	ter final of the EURO 2024 competition between England and Switzerland.
 URL:https://footballcal.com/euro-2024/quarter-final-3/
 LOCATION:Dusseldorf
 STATUS:CONFIRMED
