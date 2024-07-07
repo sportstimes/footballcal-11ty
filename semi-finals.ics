@@ -5,22 +5,22 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:TQdB4d7XrZ6LYbjFC8dpE
-SUMMARY:SF1 v SF2
-DTSTAMP:20240703T214605Z
+UID:jKFh-oVncSxD577StmukG
+SUMMARY:Spain v France
+DTSTAMP:20240707T201641Z
 DTSTART:20240709T190000Z
 DTEND:20240709T205000Z
-DESCRIPTION:TV Channels: \n\nThe 49th game and first semi final of the EURO
-	 2024 competition.
+DESCRIPTION:TV Channels: BBC 1\, BBC iPlayer\n\nThe 49th game and first sem
+	i final of the EURO 2024 competition between Spain and France.
 URL:https://footballcal.com/euro-2024/semi-final-1/
 LOCATION:Munich
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Munich,Semi Finals,EURO 2024
+CATEGORIES:webcal-game,Spain,France,Munich,Semi Finals,EURO 2024
 END:VEVENT
 BEGIN:VEVENT
-UID:LaWAtpBHEazETgmY2wIId
+UID:XO3aPkACl573JKufSdtSw
 SUMMARY:SF3 v SF4
-DTSTAMP:20240703T214605Z
+DTSTAMP:20240707T201641Z
 DTSTART:20240710T190000Z
 DTEND:20240710T205000Z
 DESCRIPTION:TV Channels: \n\nThe 50th game and second semi final of the EUR
