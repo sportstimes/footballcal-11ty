@@ -5,16 +5,16 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:jd3RG6-XzQhTm5Rjx2h_j
-SUMMARY:SF3 v SF4
-DTSTAMP:20240707T201640Z
+UID:efYMg_EM6w0QFcwBGYI_7
+SUMMARY:England v Netherlands
+DTSTAMP:20240707T201730Z
 DTSTART:20240710T190000Z
 DTEND:20240710T205000Z
 DESCRIPTION:TV Channels: \n\nThe 50th game and second semi final of the EUR
-	O 2024 competition.
+	O 2024 competition between England and Netherlands.
 URL:https://footballcal.com/euro-2024/semi-final-2/
 LOCATION:Dortmund
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Dortmund,Semi Finals,EURO 2024
+CATEGORIES:webcal-game,England,Netherlands,Dortmund,Semi Finals,EURO 2024
 END:VEVENT
 END:VCALENDAR
