@@ -5,16 +5,17 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4RMWZZ-9ooJSwXf8SXGIh
-SUMMARY:Finalist 1 v Finalist 2
-DTSTAMP:20240707T202122Z
+UID:s-qrToc_x3DhT8NRb2KRd
+SUMMARY:Spain v England
+DTSTAMP:20240711T133729Z
 DTSTART:20240714T190000Z
 DTEND:20240714T205000Z
 DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\, ITV1\, STV\, ITVX\, STV Playe
-	r\n\nThe 51st and final game of the EURO 2024 competition.
+	r\n\nThe 51st and final game of the EURO 2024 competition between Spain an
+	d England.
 URL:https://footballcal.com/euro-2024/final/
 LOCATION:Berlin
 STATUS:CONFIRMED
-CATEGORIES:webcal-game,Berlin,Finals,EURO 2024
+CATEGORIES:webcal-game,Spain,England,Berlin,Finals,EURO 2024
 END:VEVENT
 END:VCALENDAR
