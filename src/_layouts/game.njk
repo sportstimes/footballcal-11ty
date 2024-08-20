@@ -5,7 +5,7 @@ layout: base.njk
     <h1 class="p-name">{{ title }}</h1>
 
     <div class="datetime">
-        <p class="date">{{ date | date('ccc d LLLL') }}</p>
+        <p class="date">{{ date | date('ccc dS LLLL') }}</p>
         <p class="time">
             <span class="starttime">{{ date | date('h:mma') }}</span>
             <span class="endtime">–{{ endDate | date('h:mma') }}</span>

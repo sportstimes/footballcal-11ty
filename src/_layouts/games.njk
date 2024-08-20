@@ -23,7 +23,7 @@ layout: base.njk
             <tr class="vevent h-event">
                 <td class="datetime">
                     {% if showDate(game.data.date, loop.index0, collections[tag]) %}
-                        <span class="day">{{ game.data.date | date('ccc d LLLL') }}</span>
+                        <span class="day">{{ game.data.date | date('ccc dS LLLL') }}</span>
                     {% endif %}
                 </td>
                 <td class="time">
