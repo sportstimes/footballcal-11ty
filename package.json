@@ -27,7 +27,7 @@
   },
   "scripts": {
     "clean": "rm -rf dist",
-    "11ty": "npx @11ty/eleventy",
+    "11ty": "npx @11ty/eleventy $npm_config_pathprefix",
     "css": "npx postcss ./src/_assets/css/site.css -o ./dist/css/site.css",
     "start": "npm run 11ty -- --serve --quiet & npm run css -- --watch",
     "prebuild": "npm run clean",
@@ -47,6 +47,7 @@
     "postcss": "^8.4.38",
     "postcss-cli": "^11.0.0",
     "postcss-import": "^16.1.0",
+    "cssnano": "^7.0.5",
     "standard": "^17.1.0",
     "stylelint": "^16.6.1",
     "stylelint-config-standard": "^36.0.0"
