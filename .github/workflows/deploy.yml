@@ -1,6 +1,4 @@
 name: Build and Deploy
-permissions:
-  contents: write
 
 on:
   push:
@@ -8,11 +6,23 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 env:
   URL: 'https://footballcal.com'
 
 jobs:
   build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -34,8 +44,11 @@ jobs:
       - name: Copy CNAME
         run: cp CNAME ./dist/
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@releases/v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          branch: gh-pages
-          folder: dist
+          path: "dist"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
