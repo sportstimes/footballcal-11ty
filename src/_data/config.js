@@ -1,4 +1,7 @@
-const config = {}
+const config = {
+  POSTHOG_KEY: 'phc_JdP4Pzr615wYq8B0fT0wCK3dPL8yszZIOWOsSAM2Fad',
+  POSTHOG_HOST: 'https://eu.i.posthog.com'
+}
 
 module.exports = () => {
   if (process.env.ELEVENTY_BASE_URL) {
