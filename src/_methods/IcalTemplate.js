@@ -23,7 +23,8 @@ module.exports = class {
   }
 
   date (date) {
-    return DateTime.fromISO(date).toFormat('y-LL-d-H-mm').split('-').map(a => parseInt(a, 10))
+    const dt = DateTime.fromISO(date.toISOString ? date.toISOString() : date)
+    return [dt.year, dt.month, dt.day, dt.hour, dt.minute]
   }
 
   description (game) {
