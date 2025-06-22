@@ -259,6 +259,9 @@ img {
 
 main {
   min-height: 80vh;
+  margin: 0 auto;
+  max-width: 50rem;
+  padding: 1.5rem;
 }
 
 footer {
@@ -266,6 +269,12 @@ footer {
   font-size: 0.75rem;
   opacity: 0.4;
   margin: 5rem 0;
+  transition: opacity .2s ease-in-out;
+}
+
+footer:hover,
+footer:focus-within {
+  opacity: 0.9;
 }
 
 h1,

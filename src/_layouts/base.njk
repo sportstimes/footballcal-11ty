@@ -37,20 +37,17 @@
                 {{ content | safe }}
             </main>
             <footer>
-                <ul class="inline">
-                    <li>
-                        <a href="{{ '/about/' | url | absoluteUrl(config.baseUrl) }}">About</a>
-                    </li>
-                </ul>
+                
+                <a href="https://www.buymeacoffee.com/si"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=si&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
                 <p id="Credits">
-                    © 2020-{% year %} Football Cal. All football trademarks are copyright to respective owners. Built with
+                    
+                    &copy; 2020-{% year %} Football Cal. All football trademarks are copyright to respective owners. Built with
                     <a href="https://github.com/sportstimes/footballcal-11ty/">11ty</a>.
-                                                                                            Roadmap on
-                    <a href="https://github.com/orgs/sportstimes/projects/7/views/3">Github</a>.
+                                                                                           
                     Hosted on <a href="https://github.com/">Github Pages</a>.
-                    <a href="https://www.buymeacoffee.com/si" class="button">Buy Si a drink
-                        <span role="img" aria-label="drink">🥛</span>
-                    </a>
+
+                    <a href="{{ '/about/' | url | absoluteUrl(config.baseUrl) }}">What's this all about?</a>
+                    
                 </p>
             </footer>
         </div>
