@@ -7,4 +7,4 @@ path: /euro-2025/belgium-italy/
 tags: ["Belgium", "Italy", "Stade de Tourbillon, Sion", "EURO 2025"]
 tv: ["BBC", "ITV"]
 ---
-3th game of the Women's Euro 2025 competition between Belgium and Italy. 
+3rd game of the Women's Euro 2025 competition between Belgium and Italy. 

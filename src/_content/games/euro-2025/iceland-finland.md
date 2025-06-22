@@ -7,4 +7,4 @@ path: /euro-2025/iceland-finland/
 tags: ["Iceland", "Finland", "Arena Thun, Thun", "EURO 2025"]
 tv: ["ITV"]
 ---
-1th game of the Women's Euro 2025 competition between Iceland and Finland. 
+1st game of the Women's Euro 2025 competition between Iceland and Finland. 

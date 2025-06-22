@@ -7,4 +7,4 @@ path: /euro-2025/netherlands-france/
 tags: ["Netherlands", "France", "St. Jakob‑Park, Basel", "EURO 2025"]
 tv: ["BBC", "ITV"]
 ---
-23th game of the Women's Euro 2025 competition between Netherlands and France. 
+23rd game of the Women's Euro 2025 competition between Netherlands and France. 

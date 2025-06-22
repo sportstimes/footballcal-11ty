@@ -7,4 +7,4 @@ path: /euro-2025/winners-sf1-sf2/
 tags: ["Winners SF1", "SF2", "St. Jakob‑Park, Basel", "EURO 2025"]
 tv: ["BBC", "ITV"]
 ---
-31th game of the Women's Euro 2025 competition between Winners SF1 and SF2. 
+31st game of the Women's Euro 2025 competition between Winners SF1 and SF2. 
