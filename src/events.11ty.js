@@ -11,7 +11,11 @@ module.exports = class FeedTemplate {
 
   render ({ config, collections }) {
     const events = collections['webcal-game'].map(game => new IcalTemplate(game, config))
-
-    return ics.createEvents(events).value
+    const { error, value } = ics.createEvents(events)
+    if (error || !value) {
+      console.error('ICS generation error in events.ics:', error)
+      return ''
+    }
+    return value
   }
 }

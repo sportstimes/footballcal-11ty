@@ -17,6 +17,11 @@ module.exports = class {
   }
 
   render ({ config, game }) {
-    return ics.createEvent(new IcalTemplate(game, config)).value
+    const { error, value } = ics.createEvent(new IcalTemplate(game, config));
+    if (error || !value) {
+      console.error('ICS generation error:', error, 'for game:', game && game.data && game.data.title);
+      return '';
+    }
+    return value;
   }
 }
