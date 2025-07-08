@@ -32,3 +32,12 @@
 #cookie-banner button:hover {
   background: rgba(255,255,255,1)
 }
+
+.buy-me {
+  position: fixed;
+  left: 50%;
+  bottom: 1.5em;
+  transform: translateX(-50%);
+  z-index: 1001;
+  border-bottom: none;
+}
