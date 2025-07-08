@@ -51,5 +51,29 @@
                 </p>
             </footer>
         </div>
+        <div id="cookie-banner" style="display:none;">
+          <span>
+            This website uses some cookies for analytics. 
+            <button id="cookie-accept">Accept</button>
+            <button id="cookie-decline">Decline</button>
+          </span>
+        </div>
+        <script>
+        (function() {
+          var banner = document.getElementById('cookie-banner');
+          var acceptBtn = document.getElementById('cookie-accept');
+          var declineBtn = document.getElementById('cookie-decline');
+          var consent = localStorage.getItem('cookieConsent');
+          if (!consent) {
+            banner.style.display = 'block';
+          }
+          function setConsent(value) {
+            localStorage.setItem('cookieConsent', value);
+            banner.style.display = 'none';
+          }
+          acceptBtn && acceptBtn.addEventListener('click', function() { setConsent('accepted'); });
+          declineBtn && declineBtn.addEventListener('click', function() { setConsent('declined'); });
+        })();
+        </script>
     </body>
 </html>

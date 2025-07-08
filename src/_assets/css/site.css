@@ -2,3 +2,33 @@
 @import url("_header.css");
 @import url("_subscribe.css");
 @import url("_event.css");
+
+#cookie-banner {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 0.75em 1.5em;
+  font-size: 1em;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#cookie-banner button {
+  margin-left: 1em;
+  background: rgba(255,255,255,0.8);
+  color: #000000;
+  border: none;
+  border-radius: 8px;
+  padding: 0.4em 1em;
+  cursor: pointer;
+  font-size: 1em;
+  transition: background 0.2s;
+}
+#cookie-banner button:hover {
+  background: rgba(255,255,255,1)
+}
