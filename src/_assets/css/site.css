@@ -2,6 +2,7 @@
 @import url("_header.css");
 @import url("_subscribe.css");
 @import url("_event.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
 
 #cookie-banner {
   position: fixed;
@@ -40,4 +41,14 @@
   transform: translateX(-50%);
   z-index: 1001;
   border-bottom: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
+  font-weight: 900;
+}
+
+.datetime {
+  font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
+  font-weight: 900;
 }
