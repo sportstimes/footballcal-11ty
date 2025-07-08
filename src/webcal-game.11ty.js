@@ -19,7 +19,7 @@ module.exports = class {
   render ({ config, game }) {
     const { error, value } = ics.createEvent(new IcalTemplate(game, config));
     if (error || !value) {
-      console.error('ICS generation error:', error, 'for game:', game && game.data && game.data.title);
+      console.error('ICS generation error:', error, 'for game:', game.data.title);
       return '';
     }
     return value;
