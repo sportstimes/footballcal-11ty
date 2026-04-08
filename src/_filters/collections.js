@@ -6,8 +6,13 @@ const upcoming = arr => {
   return arr.filter(post => DateTime.fromISO(post.data.date) >= DateTime.now())
 }
 
+const past = arr => {
+  return arr.filter(post => DateTime.fromISO(post.data.date) < DateTime.now())
+}
+
 module.exports = {
   limit,
   upcoming,
+  past,
   next: arr => limit(upcoming(arr), 1).pop()
 }
