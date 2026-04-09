@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:rvkvuRg_8_kWBP_D9d3Vt
+SUMMARY:Romania v Ukraine
+DTSTAMP:20260409T205942Z
+DTSTART:20240617T130000Z
+DTEND:20240617T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe eighth game of the EURO 2024 competiti
+	on between Group E competitors\, Romania and Ukraine.
+URL:https://footballcal.com/euro-2024/romania-ukraine/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Romania,Ukraine,Munich,Group E,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:o3lkQTbzCZXJD27u_GICp
+SUMMARY:Belgium v Romania
+DTSTAMP:20260409T205942Z
+DTSTART:20240622T190000Z
+DTEND:20240622T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twenty-fourth game of the EURO 2024 co
+	mpetition between Group E competitors\, Belgium and Romania.
+URL:https://footballcal.com/euro-2024/belgium-romania/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Romania,Cologne,Group E,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:8o6M-9w50yUueejM7THgN
+SUMMARY:Slovakia v Romania
+DTSTAMP:20260409T205942Z
+DTSTART:20240626T160000Z
+DTEND:20240626T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirty-third game of the EURO 2024 comp
+	etition between Group E competitors\, Slovakia and Romania.
+URL:https://footballcal.com/euro-2024/slovakia-romania/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovakia,Romania,Frankfurt am Main,Group E,Group sta
+	ges,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:bD0EKNOm21jtkowom9d2g
+SUMMARY:Romania v Netherlands
+DTSTAMP:20260409T205942Z
+DTSTART:20240702T160000Z
+DTEND:20240702T175000Z
+DESCRIPTION:TV Channels: \n\nThe 43rd game of the EURO 2024 competition bet
+	ween Group E winners\, Romania and Group D third place\, Netherlands.
+URL:https://footballcal.com/euro-2024/game-43/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Romania,Netherlands,Munich,Group D,Group E,Round of 
+	16,EURO 2024
+END:VEVENT
+END:VCALENDAR

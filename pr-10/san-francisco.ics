@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:rJo44WBwoaI2XGbhzJciC
+SUMMARY:Qatar v Switzerland
+DTSTAMP:20260409T205942Z
+DTSTART:20260613T190000Z
+DTEND:20260613T205000Z
+DESCRIPTION:TV Channels: \n\nThe 8th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Qatar and Switzerland.
+URL:https://footballcal.com/world-cup-2026/qatar-switzerland/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Qatar,Switzerland,San Francisco,Group B,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:l8G02i_9-cxrQDRPDjdsR
+SUMMARY:Austria v Jordan
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T040000Z
+DTEND:20260617T055000Z
+DESCRIPTION:TV Channels: \n\nThe 56th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Austria and Jordan.
+URL:https://footballcal.com/world-cup-2026/austria-jordan/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,Jordan,San Francisco,Group J,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:hMjLCiFxuLWqeIR1ha716
+SUMMARY:UEFA Playoff C v Paraguay
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T040000Z
+DTEND:20260620T055000Z
+DESCRIPTION:TV Channels: \n\nThe 21st game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, UEFA Playoff C and Paraguay.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-c-paraguay/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff C,Paraguay,San Francisco,Group D,Group 
+	stages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:UmvgaQ-b8PPy-BmaXeCdA
+SUMMARY:Jordan v Algeria
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T030000Z
+DTEND:20260623T045000Z
+DESCRIPTION:TV Channels: \n\nThe 58th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Jordan and Algeria.
+URL:https://footballcal.com/world-cup-2026/jordan-algeria/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Jordan,Algeria,San Francisco,Group J,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:VVyoLICnZPmI4EVzP_WCA
+SUMMARY:Paraguay v Australia
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T020000Z
+DTEND:20260626T035000Z
+DESCRIPTION:TV Channels: \n\nThe 24th game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, Paraguay and Australia.
+URL:https://footballcal.com/world-cup-2026/paraguay-australia/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Paraguay,Australia,San Francisco,Group D,Group stage
+	s,World Cup 2026
+END:VEVENT
+END:VCALENDAR

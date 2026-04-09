@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:6_aY29fmWdeV9HIDBSTH8
+SUMMARY:South Africa v South Korea
+DTSTAMP:20260409T205941Z
+DTSTART:20260625T020000Z
+DTEND:20260625T035000Z
+DESCRIPTION:TV Channels: \n\nThe 6th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, South Africa and South Korea.
+URL:https://footballcal.com/world-cup-2026/south-africa-south-korea/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,South Africa,South Korea,Monterrey,Group A,Group sta
+	ges,World Cup 2026
+END:VEVENT
+END:VCALENDAR

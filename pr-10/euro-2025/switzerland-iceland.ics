@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:93VZ22vgekx18TyLNRM8E
+SUMMARY:Switzerland v Iceland
+DTSTAMP:20260409T205941Z
+DTSTART:20250706T190000Z
+DTEND:20250706T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, RTS\, SRF\, RSI\, RÚV\n\n10th game of 
+	the Women's Euro 2025 competition between Switzerland and Iceland.
+URL:https://footballcal.com/euro-2025/switzerland-iceland/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Iceland,Stadion Wankdorf, Bern,EURO 2025
+END:VEVENT
+END:VCALENDAR

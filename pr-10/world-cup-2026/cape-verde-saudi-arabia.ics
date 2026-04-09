@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Gtdr65YxO_40-5pwiW7V3
+SUMMARY:Cape Verde v Saudi Arabia
+DTSTAMP:20260409T205941Z
+DTSTART:20260627T000000Z
+DTEND:20260627T015000Z
+DESCRIPTION:TV Channels: \n\nThe 47th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Cape Verde and Saudi Arabia.
+URL:https://footballcal.com/world-cup-2026/cape-verde-saudi-arabia/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Cape Verde,Saudi Arabia,Houston,Group H,Group stages
+	,World Cup 2026
+END:VEVENT
+END:VCALENDAR

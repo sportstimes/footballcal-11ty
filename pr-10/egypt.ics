@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:gPfhMTIPhE_BEZvYrlIdA
+SUMMARY:Belgium v Egypt
+DTSTAMP:20260409T205942Z
+DTSTART:20260615T190000Z
+DTEND:20260615T205000Z
+DESCRIPTION:TV Channels: \n\nThe 37th game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Belgium and Egypt.
+URL:https://footballcal.com/world-cup-2026/belgium-egypt/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Egypt,Seattle,Group G,Group stages,World Cup
+	 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:q0Zc_CPFFCikQ0ZZYwLMF
+SUMMARY:New Zealand v Egypt
+DTSTAMP:20260409T205942Z
+DTSTART:20260622T010000Z
+DTEND:20260622T025000Z
+DESCRIPTION:TV Channels: \n\nThe 40th game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, New Zealand and Egypt.
+URL:https://footballcal.com/world-cup-2026/new-zealand-egypt/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,New Zealand,Egypt,Vancouver,Group G,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:7s3bqhdV3_NG3leyQnvYS
+SUMMARY:Egypt v Iran
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T030000Z
+DTEND:20260627T045000Z
+DESCRIPTION:TV Channels: \n\nThe 41st game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Egypt and Iran.
+URL:https://footballcal.com/world-cup-2026/egypt-iran/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Egypt,Iran,Seattle,Group G,Group stages,World Cup 20
+	26
+END:VEVENT
+END:VCALENDAR

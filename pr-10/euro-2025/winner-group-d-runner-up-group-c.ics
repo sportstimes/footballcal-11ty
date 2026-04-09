@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:7KAvgSTxB1YnYmBLw-Zqt
+SUMMARY:France v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20250719T190000Z
+DTEND:20250719T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n28th game of the Women's Euro 2025 co
+	mpetition between Winner Group D and Runner-up Group C.
+URL:https://footballcal.com/euro-2025/winner-group-d-runner-up-group-c/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Group D,Group C,St. Jakob‑Park, Basel
+	,EURO 2025
+END:VEVENT
+END:VCALENDAR

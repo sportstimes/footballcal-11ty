@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:2ugK4JpldzsA2jklPswuf
+SUMMARY:Spain v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20240705T160000Z
+DTEND:20240705T175000Z
+DESCRIPTION:TV Channels: ITV1\, STV\, ITVX\, STV Player\n\nThe 45th game an
+	d first quarter final of the EURO 2024 competition between Spain and Germa
+	ny.
+URL:https://footballcal.com/euro-2024/quarter-final-1/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Germany,Stuttgart,Quarter Finals,EURO 2024
+END:VEVENT
+END:VCALENDAR

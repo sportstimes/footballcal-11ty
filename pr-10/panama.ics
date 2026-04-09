@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:bPoc5116r2bAFSy5JD3yv
+SUMMARY:Ghana v Panama
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T230000Z
+DTEND:20260618T005000Z
+DESCRIPTION:TV Channels: \n\nThe 68th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Ghana and Panama.
+URL:https://footballcal.com/world-cup-2026/ghana-panama/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ghana,Panama,Toronto,Group L,Group stages,World Cup 
+	2026
+END:VEVENT
+BEGIN:VEVENT
+UID:iBH2dYa3RLG7vZ2q6e_kd
+SUMMARY:Panama v Croatia
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T230000Z
+DTEND:20260624T005000Z
+DESCRIPTION:TV Channels: \n\nThe 70th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Panama and Croatia.
+URL:https://footballcal.com/world-cup-2026/panama-croatia/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Panama,Croatia,Toronto,Group L,Group stages,World Cu
+	p 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:PgxDsd3K7MugTwwMSDaXd
+SUMMARY:Panama v England
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T210000Z
+DTEND:20260627T225000Z
+DESCRIPTION:TV Channels: \n\nThe 71st game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Panama and England.
+URL:https://footballcal.com/world-cup-2026/panama-england/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Panama,England,New York New Jersey,Group L,Group sta
+	ges,World Cup 2026
+END:VEVENT
+END:VCALENDAR

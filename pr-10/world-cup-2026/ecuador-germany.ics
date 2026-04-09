@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:0n5R1tq4HvNe4s_E-NxUl
+SUMMARY:Ecuador v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20260625T200000Z
+DTEND:20260625T215000Z
+DESCRIPTION:TV Channels: \n\nThe 29th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ecuador and Germany.
+URL:https://footballcal.com/world-cup-2026/ecuador-germany/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ecuador,Germany,New York New Jersey,Group E,Group st
+	ages,World Cup 2026
+END:VEVENT
+END:VCALENDAR

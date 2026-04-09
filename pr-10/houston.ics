@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:nnOUyGgrfP5uS5Cwc8gC_
+SUMMARY:Germany v Curaçao
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T170000Z
+DTEND:20260614T185000Z
+DESCRIPTION:TV Channels: \n\nThe 25th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Germany and Curaçao.
+URL:https://footballcal.com/world-cup-2026/germany-curacao/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Curaçao,Houston,Group E,Group stages,World C
+	up 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:0268SkSG77QrRFK3RlaPg
+SUMMARY:Portugal v IC Playoff 1
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T170000Z
+DTEND:20260617T185000Z
+DESCRIPTION:TV Channels: \n\nThe 61st game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Portugal and IC Playoff 1.
+URL:https://footballcal.com/world-cup-2026/portugal-ic-playoff-1/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,IC Playoff 1,Houston,Group K,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:au6o8dseDxpnsFudX8R4E
+SUMMARY:Netherlands v UEFA Playoff B
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T170000Z
+DTEND:20260620T185000Z
+DESCRIPTION:TV Channels: \n\nThe 33rd game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Netherlands and UEFA Playoff B.
+URL:https://footballcal.com/world-cup-2026/netherlands-uefa-playoff-b/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,UEFA Playoff B,Houston,Group F,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fHoU76KHI9zFR2cTE-xAa
+SUMMARY:Portugal v Uzbekistan
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T170000Z
+DTEND:20260623T185000Z
+DESCRIPTION:TV Channels: \n\nThe 63rd game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Portugal and Uzbekistan.
+URL:https://footballcal.com/world-cup-2026/portugal-uzbekistan/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Uzbekistan,Houston,Group K,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:umh-txTLatE2JDQP_UIhi
+SUMMARY:Cape Verde v Saudi Arabia
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T000000Z
+DTEND:20260627T015000Z
+DESCRIPTION:TV Channels: \n\nThe 47th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Cape Verde and Saudi Arabia.
+URL:https://footballcal.com/world-cup-2026/cape-verde-saudi-arabia/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Cape Verde,Saudi Arabia,Houston,Group H,Group stages
+	,World Cup 2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:VFYT6EWBHLGpEWOcBCcR4
+SUMMARY:Croatia v Ghana
+DTSTAMP:20260409T205941Z
+DTSTART:20260627T210000Z
+DTEND:20260627T225000Z
+DESCRIPTION:TV Channels: \n\nThe 72nd game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Croatia and Ghana.
+URL:https://footballcal.com/world-cup-2026/croatia-ghana/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Ghana,Philadelphia,Group L,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+END:VCALENDAR

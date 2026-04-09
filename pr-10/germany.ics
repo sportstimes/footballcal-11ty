@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:PSx8RTCGFqYy63j1f3KOZ
+SUMMARY:France v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20210615T190000Z
+DTEND:20210615T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe twelfth game of the (delayed) EURO 2020
+	 competition between Group F rivals\, France and Germany.
+URL:https://footballcal.com/euro-2020/france-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Munich,Group F,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:fWaIES2Qk0MFSHCON9AvP
+SUMMARY:Portugal v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20210619T160000Z
+DTEND:20210619T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 23rd game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Portugal and Germany.
+URL:https://footballcal.com/euro-2020/portugal-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Germany,Munich,Group F,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:CP17wWsofQhX3Ofxa7PEk
+SUMMARY:Germany v Hungary
+DTSTAMP:20260409T205941Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 35th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Germany and Hungary.
+URL:https://footballcal.com/euro-2020/germany-hungary/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Hungary,Munich,Group F,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:muE0nDSg_MNg3oLUL8T2g
+SUMMARY:England v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20210629T160000Z
+DTEND:20210629T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
+	mpetition between Group D winners England and Group F runners-up Germany.
+URL:https://footballcal.com/euro-2020/knockout-7/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou
+	p of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:kcjWzdFKf2_Ig5AU4bMox
+SUMMARY:Germany v Scotland
+DTSTAMP:20260409T205941Z
+DTSTART:20240614T190000Z
+DTEND:20240614T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe first game of the EURO 2024 competitio
+	n between Group A competitors\, Germany and Scotland.
+URL:https://footballcal.com/euro-2024/germany-scotland/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Scotland,Munich,Group A,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:CjdtpRsgTHWLxjw2dahfa
+SUMMARY:Germany v Hungary
+DTSTAMP:20260409T205941Z
+DTSTART:20240619T160000Z
+DTEND:20240619T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fourteenth game of the EURO 2024 compe
+	tition between Group A competitors\, Germany and Hungary.
+URL:https://footballcal.com/euro-2024/germany-hungary/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Hungary,Stuttgart,Group A,Group stages,EURO 
+	2024
+END:VEVENT
+BEGIN:VEVENT
+UID:jfai69gCwrGLfGE320Vi6
+SUMMARY:Switzerland v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20240623T190000Z
+DTEND:20240623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-fifth game of the EURO 2024 comp
+	etition between Group A competitors\, Switzerland and Germany.
+URL:https://footballcal.com/euro-2024/switzerland-germany/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Germany,Frankfurt am Main,Group A,Group 
+	stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:6-gZQRQ5EzL-yIGRJ9-7L
+SUMMARY:Germany v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20240629T190000Z
+DTEND:20240629T205000Z
+DESCRIPTION:TV Channels: \n\nThe thirty-seventh game of the EURO 2024 compe
+	tition between Group A winners\, Germany\, and Group C runners-up\, Denmar
+	k.
+URL:https://footballcal.com/euro-2024/game-37/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Denmark,Dortmund,Group C,Group A,Round of 16
+	,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:9VulCkS2900pje4ihYC5C
+SUMMARY:Spain v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20240705T160000Z
+DTEND:20240705T175000Z
+DESCRIPTION:TV Channels: ITV1\, STV\, ITVX\, STV Player\n\nThe 45th game an
+	d first quarter final of the EURO 2024 competition between Spain and Germa
+	ny.
+URL:https://footballcal.com/euro-2024/quarter-final-1/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Germany,Stuttgart,Quarter Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:KCJkccjpXzVCuMYZijI6C
+SUMMARY:Germany v Poland
+DTSTAMP:20260409T205941Z
+DTSTART:20250704T190000Z
+DTEND:20250704T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n6th game of the Women's Euro 2025 com
+	petition between Germany and Poland.
+URL:https://footballcal.com/euro-2025/germany-poland/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Poland,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:6-thHzG4i06KCBGR4DjbU
+SUMMARY:Germany v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n13th game of the Women's Euro 2025 co
+	mpetition between Germany and Denmark.
+URL:https://footballcal.com/euro-2025/germany-denmark/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Denmark,St. Jakob‑Park, Basel,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:O87h_mrVZOIEfRJ-28RkU
+SUMMARY:Sweden v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n21st game of the Women's Euro 2025 co
+	mpetition between Sweden and Germany.
+URL:https://footballcal.com/euro-2025/sweden-germany/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Germany,Stadion Letzigrund, Zurich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:OuwDz7XMKJcvdrPTHhT7J
+SUMMARY:France v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20250719T190000Z
+DTEND:20250719T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n28th game of the Women's Euro 2025 co
+	mpetition between Winner Group D and Runner-up Group C.
+URL:https://footballcal.com/euro-2025/winner-group-d-runner-up-group-c/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Group D,Group C,St. Jakob‑Park, Basel
+	,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:BC0j5AsaxAPHPmLBO0V8d
+SUMMARY:Germany v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20250723T190000Z
+DTEND:20250723T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe second semi-final of the Women's 
+	Euro 2025 competition between Germany and Spain.
+URL:https://footballcal.com/euro-2025/semi-final-2/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Spain,Semi-final 2,Stadion Letzigrund, Zuric
+	h,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:P0DKFOf3iP67yE2wZzKzw
+SUMMARY:Germany v Curaçao
+DTSTAMP:20260409T205941Z
+DTSTART:20260614T170000Z
+DTEND:20260614T185000Z
+DESCRIPTION:TV Channels: \n\nThe 25th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Germany and Curaçao.
+URL:https://footballcal.com/world-cup-2026/germany-curacao/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Curaçao,Houston,Group E,Group stages,World C
+	up 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:KhT_Oili7Bm6UZCiqeSYh
+SUMMARY:Germany v Ivory Coast
+DTSTAMP:20260409T205941Z
+DTSTART:20260620T200000Z
+DTEND:20260620T215000Z
+DESCRIPTION:TV Channels: \n\nThe 27th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Germany and Ivory Coast.
+URL:https://footballcal.com/world-cup-2026/germany-ivory-coast/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Ivory Coast,Toronto,Group E,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Npkagj6QYcbABsVSCxuqf
+SUMMARY:Ecuador v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20260625T200000Z
+DTEND:20260625T215000Z
+DESCRIPTION:TV Channels: \n\nThe 29th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ecuador and Germany.
+URL:https://footballcal.com/world-cup-2026/ecuador-germany/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ecuador,Germany,New York New Jersey,Group E,Group st
+	ages,World Cup 2026
+END:VEVENT
+END:VCALENDAR

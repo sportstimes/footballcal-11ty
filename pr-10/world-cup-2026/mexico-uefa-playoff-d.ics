@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:RZNA7GyCxNj6z32w76Vqs
+SUMMARY:Mexico v UEFA Playoff D
+DTSTAMP:20260409T205941Z
+DTSTART:20260625T020000Z
+DTEND:20260625T035000Z
+DESCRIPTION:TV Channels: \n\nThe 5th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and UEFA Playoff D.
+URL:https://footballcal.com/world-cup-2026/mexico-uefa-playoff-d/
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,UEFA Playoff D,Mexico City,Group A,Group stag
+	es,World Cup 2026
+END:VEVENT
+END:VCALENDAR

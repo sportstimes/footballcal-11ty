@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Zo1N38ZXMP-vrW1oK5Aj7
+SUMMARY:Spain v Portugal
+DTSTAMP:20260409T205941Z
+DTSTART:20250703T190000Z
+DTEND:20250703T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n4th game of the Women's Euro 2025 com
+	petition between Spain and Portugal.
+URL:https://footballcal.com/euro-2025/spain-portugal/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Portugal,Stadion Wankdorf, Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:mEfBZr0t4zqnEAKjRLr2e
+SUMMARY:Switzerland v Iceland
+DTSTAMP:20260409T205941Z
+DTSTART:20250706T190000Z
+DTEND:20250706T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, RTS\, SRF\, RSI\, RÚV\n\n10th game of 
+	the Women's Euro 2025 competition between Switzerland and Iceland.
+URL:https://footballcal.com/euro-2025/switzerland-iceland/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Iceland,Stadion Wankdorf, Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:jCcxLT5ub70KLpVB2jBgZ
+SUMMARY:Italy v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20250711T190000Z
+DTEND:20250711T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n19th game of the Women's Euro 2025 co
+	mpetition between Italy and Spain.
+URL:https://footballcal.com/euro-2025/italy-spain/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Spain,Stadion Wankdorf, Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:CYiwGu4ZGtAK7mlL0uU-L
+SUMMARY:Spain v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20250718T190000Z
+DTEND:20250718T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n27th game of the Women's Euro 2025 co
+	mpetition between Winner Group B and Runner-up Group A.
+URL:https://footballcal.com/euro-2025/winner-group-b-runner-up-group-a/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Switzerland,Group B,Group A,Stadion Wankdorf, 
+	Bern,EURO 2025
+END:VEVENT
+END:VCALENDAR

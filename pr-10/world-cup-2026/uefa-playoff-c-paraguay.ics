@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ju2CDR-JuyGNgzxNy6gum
+SUMMARY:UEFA Playoff C v Paraguay
+DTSTAMP:20260409T205941Z
+DTSTART:20260620T040000Z
+DTEND:20260620T055000Z
+DESCRIPTION:TV Channels: \n\nThe 21st game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, UEFA Playoff C and Paraguay.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-c-paraguay/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff C,Paraguay,San Francisco,Group D,Group 
+	stages,World Cup 2026
+END:VEVENT
+END:VCALENDAR

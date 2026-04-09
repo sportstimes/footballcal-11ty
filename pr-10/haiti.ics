@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:AjnFKZQUJJnES4v5pemuD
+SUMMARY:Haiti v Scotland
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T010000Z
+DTEND:20260614T025000Z
+DESCRIPTION:TV Channels: \n\nThe 14th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Haiti and Scotland.
+URL:https://footballcal.com/world-cup-2026/haiti-scotland/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Haiti,Scotland,Boston,Group C,Group stages,World Cup
+	 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:6Vh9cIOOi8TPF0ye3YVzJ
+SUMMARY:Brazil v Haiti
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T010000Z
+DTEND:20260620T025000Z
+DESCRIPTION:TV Channels: \n\nThe 16th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Brazil and Haiti.
+URL:https://footballcal.com/world-cup-2026/brazil-haiti/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Brazil,Haiti,Philadelphia,Group C,Group stages,World
+	 Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:T63vNBiCCyCtmsfqi72mz
+SUMMARY:Morocco v Haiti
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T220000Z
+DTEND:20260624T235000Z
+DESCRIPTION:TV Channels: \n\nThe 18th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Morocco and Haiti.
+URL:https://footballcal.com/world-cup-2026/morocco-haiti/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Morocco,Haiti,Atlanta,Group C,Group stages,World Cup
+	 2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:m9R2JcwQe13Ncn72vr-OT
+SUMMARY:Brazil v Morocco
+DTSTAMP:20260409T205942Z
+DTSTART:20260613T220000Z
+DTEND:20260613T235000Z
+DESCRIPTION:TV Channels: \n\nThe 13th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Brazil and Morocco.
+URL:https://footballcal.com/world-cup-2026/brazil-morocco/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Brazil,Morocco,New York New Jersey,Group C,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Oc_vsiHg6kCRRftoD50y5
+SUMMARY:Brazil v Haiti
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T010000Z
+DTEND:20260620T025000Z
+DESCRIPTION:TV Channels: \n\nThe 16th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Brazil and Haiti.
+URL:https://footballcal.com/world-cup-2026/brazil-haiti/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Brazil,Haiti,Philadelphia,Group C,Group stages,World
+	 Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:i6M8OpIIFAJkedjO5-y94
+SUMMARY:Scotland v Brazil
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T220000Z
+DTEND:20260624T235000Z
+DESCRIPTION:TV Channels: \n\nThe 17th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Scotland and Brazil.
+URL:https://footballcal.com/world-cup-2026/scotland-brazil/
+LOCATION:Hard Rock Stadium\, Miami
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Brazil,Miami,Group C,Group stages,World Cup
+	 2026
+END:VEVENT
+END:VCALENDAR

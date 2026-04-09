@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:oNV9NJ_8kBSQI1owevWLy
+SUMMARY:Germany v Poland
+DTSTAMP:20260409T205941Z
+DTSTART:20250704T190000Z
+DTEND:20250704T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n6th game of the Women's Euro 2025 com
+	petition between Germany and Poland.
+URL:https://footballcal.com/euro-2025/germany-poland/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Poland,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+END:VCALENDAR

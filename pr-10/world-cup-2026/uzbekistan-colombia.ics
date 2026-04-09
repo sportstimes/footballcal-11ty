@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:QAANu9OiL62jqv3RHJPF2
+SUMMARY:Uzbekistan v Colombia
+DTSTAMP:20260409T205941Z
+DTSTART:20260618T030000Z
+DTEND:20260618T045000Z
+DESCRIPTION:TV Channels: \n\nThe 62nd game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Uzbekistan and Colombia.
+URL:https://footballcal.com/world-cup-2026/uzbekistan-colombia/
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Uzbekistan,Colombia,Mexico City,Group K,Group stages
+	,World Cup 2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:LyTjOTqxR55RYeeI9HVHt
+SUMMARY:Iceland v Finland
+DTSTAMP:20260409T205941Z
+DTSTART:20250702T160000Z
+DTEND:20250702T180000Z
+DESCRIPTION:TV Channels: ITV\, RÚV\, YLE\n\n1st game of the Women's Euro 20
+	25 competition between Iceland and Finland.
+URL:https://footballcal.com/euro-2025/iceland-finland/
+LOCATION:Arena Thun\, Thun
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Iceland,Finland,Arena Thun, Thun,EURO 2025
+END:VEVENT
+END:VCALENDAR

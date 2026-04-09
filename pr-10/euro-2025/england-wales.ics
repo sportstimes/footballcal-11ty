@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:4C-1Ipu6PstFiN9FKVAQI
+SUMMARY:England v Wales
+DTSTAMP:20260409T205941Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+DESCRIPTION:TV Channels: ITV\, BBC\n\n24th game of the Women's Euro 2025 co
+	mpetition between England and Wales.
+URL:https://footballcal.com/euro-2025/england-wales/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Wales,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+END:VCALENDAR

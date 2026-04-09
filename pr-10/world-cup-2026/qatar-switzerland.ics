@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:0YdKQc0FcNV3YHdzni33j
+SUMMARY:Qatar v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20260613T190000Z
+DTEND:20260613T205000Z
+DESCRIPTION:TV Channels: \n\nThe 8th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Qatar and Switzerland.
+URL:https://footballcal.com/world-cup-2026/qatar-switzerland/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Qatar,Switzerland,San Francisco,Group B,Group stages
+	,World Cup 2026
+END:VEVENT
+END:VCALENDAR

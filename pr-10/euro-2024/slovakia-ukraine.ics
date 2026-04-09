@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:lGZf7DJ7Qs3MCsZoBk43m
+SUMMARY:Slovakia v Ukraine
+DTSTAMP:20260409T205941Z
+DTSTART:20240621T130000Z
+DTEND:20240621T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe ninteenth game of the EURO 2024 compet
+	ition between Group E competitors\, Slovakia and Ukraine.
+URL:https://footballcal.com/euro-2024/slovakia-ukraine/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Slovakia,Ukraine,Dusseldorf,Group E,Group stages,EUR
+	O 2024
+END:VEVENT
+END:VCALENDAR

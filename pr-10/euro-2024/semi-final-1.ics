@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:zsUuMhARRKa-brHf7zjG6
+SUMMARY:Spain v France
+DTSTAMP:20260409T205941Z
+DTSTART:20240709T190000Z
+DTEND:20240709T205000Z
+DESCRIPTION:TV Channels: BBC 1\, BBC iPlayer\n\nThe 49th game and first sem
+	i final of the EURO 2024 competition between Spain and France.
+URL:https://footballcal.com/euro-2024/semi-final-1/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,France,Munich,Semi Finals,EURO 2024
+END:VEVENT
+END:VCALENDAR

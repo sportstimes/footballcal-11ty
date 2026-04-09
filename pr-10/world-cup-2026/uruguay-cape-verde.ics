@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ZzISB9gNtj9jjl19Vl_3y
+SUMMARY:Uruguay v Cape Verde
+DTSTAMP:20260409T205941Z
+DTSTART:20260621T220000Z
+DTEND:20260621T235000Z
+DESCRIPTION:TV Channels: \n\nThe 46th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Uruguay and Cape Verde.
+URL:https://footballcal.com/world-cup-2026/uruguay-cape-verde/
+LOCATION:Hard Rock Stadium\, Miami
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Uruguay,Cape Verde,Miami,Group H,Group stages,World 
+	Cup 2026
+END:VEVENT
+END:VCALENDAR

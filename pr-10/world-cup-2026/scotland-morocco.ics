@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ub6uEzHojXqp71ymiupTP
+SUMMARY:Scotland v Morocco
+DTSTAMP:20260409T205941Z
+DTSTART:20260619T220000Z
+DTEND:20260619T235000Z
+DESCRIPTION:TV Channels: \n\nThe 15th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Scotland and Morocco.
+URL:https://footballcal.com/world-cup-2026/scotland-morocco/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Morocco,Boston,Group C,Group stages,World C
+	up 2026
+END:VEVENT
+END:VCALENDAR

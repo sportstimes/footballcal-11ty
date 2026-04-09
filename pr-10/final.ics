@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:FIiTNtsCPOrK7rr2xJHfn
+SUMMARY:Italy v England
+DTSTAMP:20260409T205941Z
+DTSTART:20210711T190000Z
+DTEND:20210711T205000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe 51st game of the (delayed) EURO 2
+	020 competition between Semi Final 1 winners\, Italy and Semi Final 2 winn
+	ers\, England.
+URL:https://footballcal.com/euro-2020/final/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,England,London,Knockout,Final,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:Fulu7dvMUfrx_bEXP-iW1
+SUMMARY:England v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20250727T160000Z
+DTEND:20250727T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe final of the Women's Euro 2025 co
+	mpetition will be contested between England and Spain.
+URL:https://footballcal.com/euro-2025/final/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Final,St. Jakob‑Park, Basel,EURO 2025,England,Spain
+END:VEVENT
+END:VCALENDAR

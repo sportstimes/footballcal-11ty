@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ML58SVW2W66IYWYdpzcWR
+SUMMARY:Switzerland v UEFA Playoff A
+DTSTAMP:20260409T205941Z
+DTSTART:20260618T190000Z
+DTEND:20260618T205000Z
+DESCRIPTION:TV Channels: \n\nThe 9th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Switzerland and UEFA Playoff A.
+URL:https://footballcal.com/world-cup-2026/switzerland-uefa-playoff-a/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,UEFA Playoff A,Los Angeles,Group B,Group
+	 stages,World Cup 2026
+END:VEVENT
+END:VCALENDAR

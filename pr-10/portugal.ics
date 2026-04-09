@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:NF_yUe262TAW5wQWpAGUx
+SUMMARY:Hungary v Portugal
+DTSTAMP:20260409T205941Z
+DTSTART:20210615T160000Z
+DTEND:20210615T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe eleventh game of the (delayed) EURO 202
+	0 competition between Group F rivals\, Hungary and Portugal.
+URL:https://footballcal.com/euro-2020/hungary-portugal/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,Portugal,Budapest,Group F,Group stages,EURO 
+	2020
+END:VEVENT
+BEGIN:VEVENT
+UID:jTvO--YnfBXIUTWx_tgGU
+SUMMARY:Portugal v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20210619T160000Z
+DTEND:20210619T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 23rd game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Portugal and Germany.
+URL:https://footballcal.com/euro-2020/portugal-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Germany,Munich,Group F,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:ltVjUmotwYxVEgVrGF_tD
+SUMMARY:Portugal v France
+DTSTAMP:20260409T205941Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 36th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Portugal and France.
+URL:https://footballcal.com/euro-2020/portugal-france/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,France,Budapest,Group F,Group stages,EURO 2
+	020
+END:VEVENT
+BEGIN:VEVENT
+UID:TJefz5k3ZNdYwAcnxT7gO
+SUMMARY:Belgium v Portugal
+DTSTAMP:20260409T205941Z
+DTSTART:20210627T190000Z
+DTEND:20210627T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
+	mpetition between Group B winners Belgium and Group F third place Portugal
+	.
+URL:https://footballcal.com/euro-2020/knockout-4/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
+	up E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:1pfVmAeMuXGVn3QoPnAOB
+SUMMARY:Portugal v Czechia
+DTSTAMP:20260409T205941Z
+DTSTART:20240618T190000Z
+DTEND:20240618T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twelfth game of the EURO 2024 competit
+	ion between Group F competitors\, Portugal and Czechia.
+URL:https://footballcal.com/euro-2024/portugal-czechia/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Czechia,Leipzig,Group F,Group stages,EURO 2
+	024
+END:VEVENT
+BEGIN:VEVENT
+UID:1PSrzsKOEBDrPEW3B8jpX
+SUMMARY:Turkey v Portugal
+DTSTAMP:20260409T205941Z
+DTSTART:20240622T160000Z
+DTEND:20240622T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twenty-third game of the EURO 2024 com
+	petition between Group F competitors\, Turkey and Portugal.
+URL:https://footballcal.com/euro-2024/turkey-portugal/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Portugal,Dortmund,Group F,Group stages,EURO 2
+	024
+END:VEVENT
+BEGIN:VEVENT
+UID:f1FtbM6ERYdBRFlpSUKXX
+SUMMARY:Georgia v Portugal
+DTSTAMP:20260409T205941Z
+DTSTART:20240626T190000Z
+DTEND:20240626T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe thirty-fifth game of the EURO 2024 comp
+	etition between Group F competitors\, Georgia and Portugal.
+URL:https://footballcal.com/euro-2024/georgia-portugal/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Georgia,Portugal,Gelsenkirchen,Group F,Group stages,
+	EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:_mPjNn7JVzF-L-VVCbRUK
+SUMMARY:Portugal v Slovenia
+DTSTAMP:20260409T205941Z
+DTSTART:20240701T190000Z
+DTEND:20240701T205000Z
+DESCRIPTION:TV Channels: \n\nThe 41st game of the EURO 2024 competition bet
+	ween Group F winners\, Portugal\, and Group C 3rd place\, Slovenia.
+URL:https://footballcal.com/euro-2024/game-41/
+LOCATION:Frankfurt
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Slovenia,Frankfurt,Group A,Group C,Round of
+	 16,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:MFNU8S6x5EZQb-D2Gziua
+SUMMARY:Portugal v France
+DTSTAMP:20260409T205941Z
+DTSTART:20240705T190000Z
+DTEND:20240705T205000Z
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 46th game and second qua
+	rter final of the EURO 2024 competition between Portugal and France.
+URL:https://footballcal.com/euro-2024/quarter-final-2/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,France,Hamburg,Quarter Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:wUjI0vHh0S2jo6XoAGzIV
+SUMMARY:Spain v Portugal
+DTSTAMP:20260409T205941Z
+DTSTART:20250703T190000Z
+DTEND:20250703T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n4th game of the Women's Euro 2025 com
+	petition between Spain and Portugal.
+URL:https://footballcal.com/euro-2025/spain-portugal/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Portugal,Stadion Wankdorf, Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:EJT-7MnYEJSNKVOJplB-g
+SUMMARY:Portugal v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250707T190000Z
+DTEND:20250707T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n12th game of the Women's Euro 2025 co
+	mpetition between Portugal and Italy.
+URL:https://footballcal.com/euro-2025/portugal-italy/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Italy,Stade de Genève, Geneva,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:GjSH1tADeX_A-rPtRyW-X
+SUMMARY:Portugal v Belgium
+DTSTAMP:20260409T205941Z
+DTSTART:20250711T190000Z
+DTEND:20250711T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n20th game of the Women's Euro 2025 co
+	mpetition between Portugal and Belgium.
+URL:https://footballcal.com/euro-2025/portugal-belgium/
+LOCATION:Stade de Tourbillon\, Sion
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Belgium,Stade de Tourbillon, Sion,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:ugabXRDVPDk8pjK3ApHfH
+SUMMARY:Portugal v IC Playoff 1
+DTSTAMP:20260409T205941Z
+DTSTART:20260617T170000Z
+DTEND:20260617T185000Z
+DESCRIPTION:TV Channels: \n\nThe 61st game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Portugal and IC Playoff 1.
+URL:https://footballcal.com/world-cup-2026/portugal-ic-playoff-1/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,IC Playoff 1,Houston,Group K,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ntFTGFSFr0qtI74VgDYd6
+SUMMARY:Portugal v Uzbekistan
+DTSTAMP:20260409T205941Z
+DTSTART:20260623T170000Z
+DTEND:20260623T185000Z
+DESCRIPTION:TV Channels: \n\nThe 63rd game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Portugal and Uzbekistan.
+URL:https://footballcal.com/world-cup-2026/portugal-uzbekistan/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Uzbekistan,Houston,Group K,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:t7Mk9SqLUckasSmTKKUID
+SUMMARY:Colombia v Portugal
+DTSTAMP:20260409T205941Z
+DTSTART:20260627T233000Z
+DTEND:20260628T012000Z
+DESCRIPTION:TV Channels: \n\nThe 65th game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Colombia and Portugal.
+URL:https://footballcal.com/world-cup-2026/colombia-portugal/
+LOCATION:Hard Rock Stadium\, Miami
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Colombia,Portugal,Miami,Group K,Group stages,World C
+	up 2026
+END:VEVENT
+END:VCALENDAR

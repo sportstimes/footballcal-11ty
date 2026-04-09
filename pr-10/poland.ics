@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:vCfKxbzh_xFZG2gJYBe_Q
+SUMMARY:Poland v Slovakia
+DTSTAMP:20260409T205941Z
+DTSTART:20210614T160000Z
+DTEND:20210614T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe ninth game of the (delayed) EURO 2020 c
+	ompetition between Group E rivals\, Poland and Slovakia.
+URL:https://footballcal.com/euro-2020/poland-slovakia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Slovakia,St Petersburg,Group E,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:pqafcbRcXoU-sS7irHrZK
+SUMMARY:Spain v Poland
+DTSTAMP:20260409T205941Z
+DTSTART:20210619T190000Z
+DTEND:20210619T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 24th game of the (delayed) EURO 2020 co
+	mpetition between Group E rivals\, Spain and Poland.
+URL:https://footballcal.com/euro-2020/spain-poland/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Poland,Seville,Group E,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:KsCMYdiIoa8IGGd7cO7U4
+SUMMARY:Sweden v Poland
+DTSTAMP:20260409T205941Z
+DTSTART:20210623T160000Z
+DTEND:20210623T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 34th game of the (delayed) EURO 2020 co
+	mpetition between Group E rivals\, Sweden and Poland.
+URL:https://footballcal.com/euro-2020/sweden-poland/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Poland,St Petersburg,Group E,Group stages,EUR
+	O 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:8VZi2-dY6VbHowcJMmHhz
+SUMMARY:Poland v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20240616T130000Z
+DTEND:20240616T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
+	n between Group D competitors\, Poland and Netherlands.
+URL:https://footballcal.com/euro-2024/poland-netherlands/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:pLTCCw5GtBeQJiDQw0Kvo
+SUMMARY:Poland v Austria
+DTSTAMP:20260409T205941Z
+DTSTART:20240621T160000Z
+DTEND:20240621T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twentieth game of the EURO 2024 compet
+	ition between Group D competitors\, Poland and Austria.
+URL:https://footballcal.com/euro-2024/poland-austria/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Austria,Berlin,Group D,Group stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:VhihAotC9w8lNeRC18KPh
+SUMMARY:France v Poland
+DTSTAMP:20260409T205941Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirtieth game of the EURO 2024 competi
+	tion between Group D competitors\, France and Poland.
+URL:https://footballcal.com/euro-2024/france-poland/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Poland,Dortmund,Group D,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:j5rxU9dFoxgCVQrlGHlje
+SUMMARY:Germany v Poland
+DTSTAMP:20260409T205941Z
+DTSTART:20250704T190000Z
+DTEND:20250704T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n6th game of the Women's Euro 2025 com
+	petition between Germany and Poland.
+URL:https://footballcal.com/euro-2025/germany-poland/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Poland,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:ivdealkd6d-q8zVrz9BAl
+SUMMARY:Poland v Sweden
+DTSTAMP:20260409T205941Z
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n14th game of the Women's Euro 2025 co
+	mpetition between Poland and Sweden.
+URL:https://footballcal.com/euro-2025/poland-sweden/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Sweden,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:wzbwL5lMgZu-0x59pkwru
+SUMMARY:Poland v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n22nd game of the Women's Euro 2025 co
+	mpetition between Poland and Denmark.
+URL:https://footballcal.com/euro-2025/poland-denmark/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Denmark,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+END:VCALENDAR

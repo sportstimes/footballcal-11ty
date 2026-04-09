@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:_vQhZwDxwvOChVofPXxBn
+SUMMARY:Sweden v England
+DTSTAMP:20260409T205941Z
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n26th game of the Women's Euro 2025 co
+	mpetition between Winner Group C and Runner-up Group D.
+URL:https://footballcal.com/euro-2025/winner-group-c-runner-up-group-d/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,England,Group C,Group D,Stadion Letzigrund, Z
+	urich,EURO 2025
+END:VEVENT
+END:VCALENDAR

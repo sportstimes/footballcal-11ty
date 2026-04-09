@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:BxAAUVWpz2ru2tO9BqXqZ
+SUMMARY:Sweden v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n21st game of the Women's Euro 2025 co
+	mpetition between Sweden and Germany.
+URL:https://footballcal.com/euro-2025/sweden-germany/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Germany,Stadion Letzigrund, Zurich,EURO 2025
+END:VEVENT
+END:VCALENDAR

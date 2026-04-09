@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:vU8_bVQqtc2kseFHH05Ta
+SUMMARY:Spain v Germany
+DTSTAMP:20260409T205942Z
+DTSTART:20240705T160000Z
+DTEND:20240705T175000Z
+DESCRIPTION:TV Channels: ITV1\, STV\, ITVX\, STV Player\n\nThe 45th game an
+	d first quarter final of the EURO 2024 competition between Spain and Germa
+	ny.
+URL:https://footballcal.com/euro-2024/quarter-final-1/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Germany,Stuttgart,Quarter Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:SpIZc1Bb7qvnN7Xxe7ebL
+SUMMARY:Portugal v France
+DTSTAMP:20260409T205942Z
+DTSTART:20240705T190000Z
+DTEND:20240705T205000Z
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 46th game and second qua
+	rter final of the EURO 2024 competition between Portugal and France.
+URL:https://footballcal.com/euro-2024/quarter-final-2/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,France,Hamburg,Quarter Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:WEfxReg62vtfbCOIGTNiq
+SUMMARY:England v Switzerland
+DTSTAMP:20260409T205942Z
+DTSTART:20240706T170000Z
+DTEND:20240706T185000Z
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 47th game and third quar
+	ter final of the EURO 2024 competition between England and Switzerland.
+URL:https://footballcal.com/euro-2024/quarter-final-3/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Switzerland,Dusseldorf,Quarter Finals,EURO 2
+	024
+END:VEVENT
+BEGIN:VEVENT
+UID:N_yPmwIW1ZWQC5vwPVQRF
+SUMMARY:Netherlands v Turkey
+DTSTAMP:20260409T205942Z
+DTSTART:20240706T190000Z
+DTEND:20240706T205000Z
+DESCRIPTION:TV Channels: ITV1\, STV\, ITVX\, STV Player\n\nThe 48th game an
+	d fourth quarter final of the EURO 2024 competition between Netherlands an
+	d Turkey.
+URL:https://footballcal.com/euro-2024/quarter-final-4/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Turkey,Berlin,Quarter Finals,EURO 2024
+END:VEVENT
+END:VCALENDAR

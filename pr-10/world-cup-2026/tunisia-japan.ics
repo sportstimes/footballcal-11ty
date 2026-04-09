@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ELi8yr709JwNvPL5_AR8d
+SUMMARY:Tunisia v Japan
+DTSTAMP:20260409T205941Z
+DTSTART:20260621T030000Z
+DTEND:20260621T045000Z
+DESCRIPTION:TV Channels: \n\nThe 34th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Tunisia and Japan.
+URL:https://footballcal.com/world-cup-2026/tunisia-japan/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Tunisia,Japan,Monterrey,Group F,Group stages,World C
+	up 2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:J1IByN4xmKqapMzgtNmuj
+SUMMARY:UEFA Playoff B v Tunisia
+DTSTAMP:20260409T205941Z
+DTSTART:20260615T030000Z
+DTEND:20260615T045000Z
+DESCRIPTION:TV Channels: \n\nThe 32nd game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, UEFA Playoff B and Tunisia.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-b-tunisia/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff B,Tunisia,Monterrey,Group F,Group stage
+	s,World Cup 2026
+END:VEVENT
+END:VCALENDAR

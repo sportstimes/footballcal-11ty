@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:2q0knhazDrBA7MrEks9-7
+SUMMARY:England v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n15th game of the Women's Euro 2025 co
+	mpetition between England and Netherlands.
+URL:https://footballcal.com/euro-2025/england-netherlands/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Netherlands,Stadion Letzigrund, Zurich,EURO 
+	2025
+END:VEVENT
+END:VCALENDAR

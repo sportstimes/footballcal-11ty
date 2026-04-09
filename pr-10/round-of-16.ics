@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:sJ4ZGvF9D4BEXfFUgPl2s
+SUMMARY:Switzerland v Italy
+DTSTAMP:20260409T205942Z
+DTSTART:20240629T160000Z
+DTEND:20240629T175000Z
+DESCRIPTION:TV Channels: \n\nThe thirty-eighth game of the EURO 2024 compet
+	ition between Group A runners-up\, Switzerland\, and Group B runners-up\, 
+	Italy.
+URL:https://footballcal.com/euro-2024/game-38/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Italy,Berlin,Group A,Group B,Round of 16
+	,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:idnfJ5mTTZ8aRKjMPwE5U
+SUMMARY:Germany v Denmark
+DTSTAMP:20260409T205942Z
+DTSTART:20240629T190000Z
+DTEND:20240629T205000Z
+DESCRIPTION:TV Channels: \n\nThe thirty-seventh game of the EURO 2024 compe
+	tition between Group A winners\, Germany\, and Group C runners-up\, Denmar
+	k.
+URL:https://footballcal.com/euro-2024/game-37/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Denmark,Dortmund,Group C,Group A,Round of 16
+	,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:VxX8aSrtWY721Ht20A4VO
+SUMMARY:England v Slovakia
+DTSTAMP:20260409T205942Z
+DTSTART:20240630T160000Z
+DTEND:20240630T175000Z
+DESCRIPTION:TV Channels: \n\nThe 40th game of the EURO 2024 competition bet
+	ween Group C winners\, England and Group E 3rd place\, Slovakia.
+URL:https://footballcal.com/euro-2024/game-40/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Slovakia,Gelsenkirchen,Group C,Group E,Round
+	 of 16,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:5V_QYuhL9s-xG49yWgW4I
+SUMMARY:Spain v Georgia
+DTSTAMP:20260409T205942Z
+DTSTART:20240630T190000Z
+DTEND:20240630T205000Z
+DESCRIPTION:TV Channels: \n\nThe 39th game of the EURO 2024 competition bet
+	ween Group B winners\, Spain\, and Group F third place\, Georgia.
+URL:https://footballcal.com/euro-2024/game-39/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Georgia,Cologne,Group B,Group F,Round of 16,EU
+	RO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:W2q7R2Tn02LKzulg2fPLt
+SUMMARY:France v Belgium
+DTSTAMP:20260409T205942Z
+DTSTART:20240701T160000Z
+DTEND:20240701T175000Z
+DESCRIPTION:TV Channels: \n\nThe 42nd game of the EURO 2024 competition bet
+	ween Group D runners-up\, France and Group E runners-up\, Belgium.
+URL:https://footballcal.com/euro-2024/game-42/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Belgium,Dusseldorf,Group D,Group E,Round of 1
+	6,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:VJ0JHh85QCddv__ZsyB7v
+SUMMARY:Portugal v Slovenia
+DTSTAMP:20260409T205942Z
+DTSTART:20240701T190000Z
+DTEND:20240701T205000Z
+DESCRIPTION:TV Channels: \n\nThe 41st game of the EURO 2024 competition bet
+	ween Group F winners\, Portugal\, and Group C 3rd place\, Slovenia.
+URL:https://footballcal.com/euro-2024/game-41/
+LOCATION:Frankfurt
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Slovenia,Frankfurt,Group A,Group C,Round of
+	 16,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:5l6y2XUyfvKZPQcoYLUr3
+SUMMARY:Romania v Netherlands
+DTSTAMP:20260409T205942Z
+DTSTART:20240702T160000Z
+DTEND:20240702T175000Z
+DESCRIPTION:TV Channels: \n\nThe 43rd game of the EURO 2024 competition bet
+	ween Group E winners\, Romania and Group D third place\, Netherlands.
+URL:https://footballcal.com/euro-2024/game-43/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Romania,Netherlands,Munich,Group D,Group E,Round of 
+	16,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:UjNaxdyMLD6xl22AZiPo4
+SUMMARY:Austria v Turkey
+DTSTAMP:20260409T205942Z
+DTSTART:20240702T190000Z
+DTEND:20240702T205000Z
+DESCRIPTION:TV Channels: \n\nThe 44th game of the EURO 2024 competition bet
+	ween Group D winners\, Austria and Group F runners-up\, Turkey.
+URL:https://footballcal.com/euro-2024/game-44/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,Turkey,Leipzig,Group D,Group F,Round of 16,E
+	URO 2024
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:u7IbYLEBBfkzyij67wzo7
+SUMMARY:Denmark v Sweden
+DTSTAMP:20260409T205941Z
+DTSTART:20250704T160000Z
+DTEND:20250704T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n5th game of the Women's Euro 2025 com
+	petition between Denmark and Sweden.
+URL:https://footballcal.com/euro-2025/denmark-sweden/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Sweden,Stade de Genève, Geneva,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:b63eriXOZ1vptv4A1m7We
+SUMMARY:Portugal v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250707T190000Z
+DTEND:20250707T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n12th game of the Women's Euro 2025 co
+	mpetition between Portugal and Italy.
+URL:https://footballcal.com/euro-2025/portugal-italy/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Italy,Stade de Genève, Geneva,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:LUmk-x1XcU9Sut7gWatNH
+SUMMARY:Finland v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, YLE\, RTS\, SRF\, RSI\n\n17th game of 
+	the Women's Euro 2025 competition between Finland and Switzerland.
+URL:https://footballcal.com/euro-2025/finland-switzerland/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Finland,Switzerland,Stade de Genève, Geneva,EURO 202
+	5
+END:VEVENT
+BEGIN:VEVENT
+UID:Kg_0Hf_CvqDwDnpo4Umot
+SUMMARY:Norway v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250716T190000Z
+DTEND:20250716T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n25th game of the Women's Euro 2025 co
+	mpetition between Winner Group A and Runner-up Group B.
+URL:https://footballcal.com/euro-2025/winner-group-a-runner-up-group-b/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Italy,Group A,Group B,Stade de Genève, Geneva
+	,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:06ZNtP6xdCxHkc-4dnCUb
+SUMMARY:England v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250722T190000Z
+DTEND:20250722T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe first semi-final of the Women's E
+	uro 2025 competition between England and Italy.
+URL:https://footballcal.com/euro-2025/semi-final-1/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Italy,Semi-final 1,Stade de Genève, Geneva,E
+	URO 2025
+END:VEVENT
+END:VCALENDAR

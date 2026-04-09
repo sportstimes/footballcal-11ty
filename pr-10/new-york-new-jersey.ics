@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:YQR7bMeHNC3OdTNCmZ6O5
+SUMMARY:Brazil v Morocco
+DTSTAMP:20260409T205942Z
+DTSTART:20260613T220000Z
+DTEND:20260613T235000Z
+DESCRIPTION:TV Channels: \n\nThe 13th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Brazil and Morocco.
+URL:https://footballcal.com/world-cup-2026/brazil-morocco/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Brazil,Morocco,New York New Jersey,Group C,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:WtvpOEjwb2X8N7k-jWkgo
+SUMMARY:France v Senegal
+DTSTAMP:20260409T205942Z
+DTSTART:20260616T190000Z
+DTEND:20260616T205000Z
+DESCRIPTION:TV Channels: \n\nThe 49th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, France and Senegal.
+URL:https://footballcal.com/world-cup-2026/france-senegal/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Senegal,New York New Jersey,Group I,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:IiyXpcoT7ApoxLds6u8zr
+SUMMARY:Norway v Senegal
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T000000Z
+DTEND:20260623T015000Z
+DESCRIPTION:TV Channels: \n\nThe 52nd game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Norway and Senegal.
+URL:https://footballcal.com/world-cup-2026/norway-senegal/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Senegal,New York New Jersey,Group I,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:o3wTOfHeMcATYjQQ1vjH6
+SUMMARY:Ecuador v Germany
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T200000Z
+DTEND:20260625T215000Z
+DESCRIPTION:TV Channels: \n\nThe 29th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ecuador and Germany.
+URL:https://footballcal.com/world-cup-2026/ecuador-germany/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ecuador,Germany,New York New Jersey,Group E,Group st
+	ages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:LCAa5NKDTeoJJ4bSkH_tT
+SUMMARY:Panama v England
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T210000Z
+DTEND:20260627T225000Z
+DESCRIPTION:TV Channels: \n\nThe 71st game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Panama and England.
+URL:https://footballcal.com/world-cup-2026/panama-england/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Panama,England,New York New Jersey,Group L,Group sta
+	ges,World Cup 2026
+END:VEVENT
+END:VCALENDAR

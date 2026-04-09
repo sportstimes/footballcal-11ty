@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:cEwKQMp0QnuRn1frmKFB-
+SUMMARY:Poland v Austria
+DTSTAMP:20260409T205941Z
+DTSTART:20240621T160000Z
+DTEND:20240621T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twentieth game of the EURO 2024 compet
+	ition between Group D competitors\, Poland and Austria.
+URL:https://footballcal.com/euro-2024/poland-austria/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Austria,Berlin,Group D,Group stages,EURO 2024
+END:VEVENT
+END:VCALENDAR

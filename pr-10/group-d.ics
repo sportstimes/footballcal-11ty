@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:LuE6A9voWpc1y1U7QdaUb
+SUMMARY:England v Croatia
+DTSTAMP:20260409T205942Z
+DTSTART:20210613T130000Z
+DTEND:20210613T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe fifth game of the (delayed) EURO 2020 c
+	ompetition between Group D rivals\, England and Croatia.
+URL:https://footballcal.com/euro-2020/england-croatia/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Croatia,London,Group D,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:jvw4Ysd_RbGb1BWK9L-1i
+SUMMARY:Scotland v Czech Republic
+DTSTAMP:20260409T205942Z
+DTSTART:20210614T130000Z
+DTEND:20210614T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe eighth game of the (delayed) EURO 2020 
+	competition between Group D rivals\, Scotland and Czech Republic.
+URL:https://footballcal.com/euro-2020/scotland-czech-republic/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Czech Republic,Glasgow,Group D,Group stages
+	,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:0GDpRaKqOSfPppz9fCYb4
+SUMMARY:Croatia v Czech Republic
+DTSTAMP:20260409T205942Z
+DTSTART:20210618T160000Z
+DTEND:20210618T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twentieth game of the (delayed) EURO 20
+	20 competition between Group D rivals\, Croatia and Czech Republic.
+URL:https://footballcal.com/euro-2020/croatia-czech-republic/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Czech Republic,Glasgow,Group D,Group stages,
+	EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:nJNc0TRrlmyA6uCrZP0vP
+SUMMARY:England v Scotland
+DTSTAMP:20260409T205942Z
+DTSTART:20210618T190000Z
+DTEND:20210618T205000Z
+DESCRIPTION:TV Channels: ITV\, STV\n\nThe 21st game of the (delayed) EURO 2
+	020 competition between Group D rivals\, England and Scotland.
+URL:https://footballcal.com/euro-2020/england-scotland/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Scotland,London,Group D,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:yUdlFZVTqAEbSP2pNFNY6
+SUMMARY:Croatia v Scotland
+DTSTAMP:20260409T205942Z
+DTSTART:20210622T190000Z
+DTEND:20210622T205000Z
+DESCRIPTION:TV Channels: ITV\, STV\n\nThe 32nd game of the (delayed) EURO 2
+	020 competition between Group D rivals\, Croatia and Scotland.
+URL:https://footballcal.com/euro-2020/croatia-scotland/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Scotland,Glasgow,Group D,Group stages,EURO 2
+	020
+END:VEVENT
+BEGIN:VEVENT
+UID:UU6fati7omRz5NhdtdIF3
+SUMMARY:Czech Republic v England
+DTSTAMP:20260409T205942Z
+DTSTART:20210622T190000Z
+DTEND:20210622T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 31st game of the (delayed) EURO 2020 co
+	mpetition between Group D rivals\, Czech Republic and England.
+URL:https://footballcal.com/euro-2020/czech-republic-england/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Czech Republic,England,London,Group D,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:R3vuGYl0a3JwAbG0dKGXg
+SUMMARY:Netherlands v Czech Republic
+DTSTAMP:20260409T205942Z
+DTSTART:20210627T160000Z
+DTEND:20210627T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 39th game of the (delayed) EURO 2020 co
+	mpetition between Group C winners Netherlands and Group D third place Czec
+	h Republic.
+URL:https://footballcal.com/euro-2020/knockout-3/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Czech Republic,Budapest,Group C,Group D,
+	Group E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:ZuHoRZWDoLHaFD3AplM9v
+SUMMARY:Belgium v Portugal
+DTSTAMP:20260409T205942Z
+DTSTART:20210627T190000Z
+DTEND:20210627T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
+	mpetition between Group B winners Belgium and Group F third place Portugal
+	.
+URL:https://footballcal.com/euro-2020/knockout-4/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
+	up E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:mljdQU-fYvQ-NjL_lHbfX
+SUMMARY:Croatia v Spain
+DTSTAMP:20260409T205942Z
+DTSTART:20210628T160000Z
+DTEND:20210628T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 41st game of the (delayed) EURO 2020 co
+	mpetition between Group D runners-up Croatia and Group E runners-up Spain.
+URL:https://footballcal.com/euro-2020/knockout-5/
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Spain,Copenhagen,Group D,Group E,Knockout,Gr
+	oup of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:160b8X4X9zPT5SNHKEOkb
+SUMMARY:England v Germany
+DTSTAMP:20260409T205942Z
+DTSTART:20210629T160000Z
+DTEND:20210629T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
+	mpetition between Group D winners England and Group F runners-up Germany.
+URL:https://footballcal.com/euro-2020/knockout-7/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou
+	p of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:ob08D_7hdzCKul1NU2SmY
+SUMMARY:Sweden v Ukraine
+DTSTAMP:20260409T205942Z
+DTSTART:20210629T190000Z
+DTEND:20210629T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
+	mpetition between Group E winners Sweden and Group C third place Ukraine.
+URL:https://footballcal.com/euro-2020/knockout-8/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group 
+	D,Group E,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:rVp_jadfjP2TiVDSwGr4b
+SUMMARY:Poland v Netherlands
+DTSTAMP:20260409T205942Z
+DTSTART:20240616T130000Z
+DTEND:20240616T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
+	n between Group D competitors\, Poland and Netherlands.
+URL:https://footballcal.com/euro-2024/poland-netherlands/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:W2KbYkZlvHLv1T4lyfOZa
+SUMMARY:Austria v France
+DTSTAMP:20260409T205942Z
+DTSTART:20240617T190000Z
+DTEND:20240617T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
+	n between Group D competitors\, Austria and France.
+URL:https://footballcal.com/euro-2024/austria-france/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO 
+	2024
+END:VEVENT
+BEGIN:VEVENT
+UID:ON32uXAhWWtHc3T5bSyH5
+SUMMARY:Poland v Austria
+DTSTAMP:20260409T205942Z
+DTSTART:20240621T160000Z
+DTEND:20240621T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twentieth game of the EURO 2024 compet
+	ition between Group D competitors\, Poland and Austria.
+URL:https://footballcal.com/euro-2024/poland-austria/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Austria,Berlin,Group D,Group stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:XenjN7PUpQBWmB5ko2HJ7
+SUMMARY:Netherlands v France
+DTSTAMP:20260409T205942Z
+DTSTART:20240621T190000Z
+DTEND:20240621T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-first game of the EURO 2024 com
+	petition between Group D competitors\, Netherlands and France.
+URL:https://footballcal.com/euro-2024/netherlands-france/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,France,Leipzig,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:B-F651xAJ4GvL_Uko4fze
+SUMMARY:France v Poland
+DTSTAMP:20260409T205942Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirtieth game of the EURO 2024 competi
+	tion between Group D competitors\, France and Poland.
+URL:https://footballcal.com/euro-2024/france-poland/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Poland,Dortmund,Group D,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:V-GCsm1nVGE0TrJvlsTAR
+SUMMARY:Netherlands v Austria
+DTSTAMP:20260409T205942Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-ninth game of the EURO 2024 comp
+	etition between Group D competitors\, Netherlands and Austria.
+URL:https://footballcal.com/euro-2024/netherlands-austria/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Austria,Berlin,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:xwr9ous5jW23ecClNVwJZ
+SUMMARY:France v Belgium
+DTSTAMP:20260409T205942Z
+DTSTART:20240701T160000Z
+DTEND:20240701T175000Z
+DESCRIPTION:TV Channels: \n\nThe 42nd game of the EURO 2024 competition bet
+	ween Group D runners-up\, France and Group E runners-up\, Belgium.
+URL:https://footballcal.com/euro-2024/game-42/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Belgium,Dusseldorf,Group D,Group E,Round of 1
+	6,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:aii2LEOzcSxgRl25I2k0k
+SUMMARY:Romania v Netherlands
+DTSTAMP:20260409T205942Z
+DTSTART:20240702T160000Z
+DTEND:20240702T175000Z
+DESCRIPTION:TV Channels: \n\nThe 43rd game of the EURO 2024 competition bet
+	ween Group E winners\, Romania and Group D third place\, Netherlands.
+URL:https://footballcal.com/euro-2024/game-43/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Romania,Netherlands,Munich,Group D,Group E,Round of 
+	16,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:BUiXlLinglExegrpNeznk
+SUMMARY:Austria v Turkey
+DTSTAMP:20260409T205942Z
+DTSTART:20240702T190000Z
+DTEND:20240702T205000Z
+DESCRIPTION:TV Channels: \n\nThe 44th game of the EURO 2024 competition bet
+	ween Group D winners\, Austria and Group F runners-up\, Turkey.
+URL:https://footballcal.com/euro-2024/game-44/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,Turkey,Leipzig,Group D,Group F,Round of 16,E
+	URO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:XlGdheam0dOXaUJp1JNWx
+SUMMARY:Sweden v England
+DTSTAMP:20260409T205942Z
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n26th game of the Women's Euro 2025 co
+	mpetition between Winner Group C and Runner-up Group D.
+URL:https://footballcal.com/euro-2025/winner-group-c-runner-up-group-d/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,England,Group C,Group D,Stadion Letzigrund, Z
+	urich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:T8Trvq_Oh-5hlyISvpByT
+SUMMARY:France v Germany
+DTSTAMP:20260409T205942Z
+DTSTART:20250719T190000Z
+DTEND:20250719T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n28th game of the Women's Euro 2025 co
+	mpetition between Winner Group D and Runner-up Group C.
+URL:https://footballcal.com/euro-2025/winner-group-d-runner-up-group-c/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Group D,Group C,St. Jakob‑Park, Basel
+	,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:3DcBkyGBkZ36pMy1pS8ZA
+SUMMARY:USA v Paraguay
+DTSTAMP:20260409T205942Z
+DTSTART:20260613T010000Z
+DTEND:20260613T025000Z
+DESCRIPTION:TV Channels: \n\nThe 19th game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, USA and Paraguay.
+URL:https://footballcal.com/world-cup-2026/usa-paraguay/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,USA,Paraguay,Los Angeles,Group D,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:H4fxNLdqsio95cvdxBiBz
+SUMMARY:Australia v UEFA Playoff C
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T040000Z
+DTEND:20260614T055000Z
+DESCRIPTION:TV Channels: \n\nThe 20th game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, Australia and UEFA Playoff C.
+URL:https://footballcal.com/world-cup-2026/australia-uefa-playoff-c/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Australia,UEFA Playoff C,Vancouver,Group D,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:VT_kMToNtv3JjUBoElfxb
+SUMMARY:USA v Australia
+DTSTAMP:20260409T205942Z
+DTSTART:20260619T220000Z
+DTEND:20260619T235000Z
+DESCRIPTION:TV Channels: \n\nThe 22nd game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, USA and Australia.
+URL:https://footballcal.com/world-cup-2026/usa-australia/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,USA,Australia,Seattle,Group D,Group stages,World Cup
+	 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:_Ewem52IiqcEoiNKpbTGv
+SUMMARY:UEFA Playoff C v Paraguay
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T040000Z
+DTEND:20260620T055000Z
+DESCRIPTION:TV Channels: \n\nThe 21st game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, UEFA Playoff C and Paraguay.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-c-paraguay/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff C,Paraguay,San Francisco,Group D,Group 
+	stages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2qBgvdycZdx0TeGb0-MhU
+SUMMARY:Paraguay v Australia
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T020000Z
+DTEND:20260626T035000Z
+DESCRIPTION:TV Channels: \n\nThe 24th game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, Paraguay and Australia.
+URL:https://footballcal.com/world-cup-2026/paraguay-australia/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Paraguay,Australia,San Francisco,Group D,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:O4smz11N-7kRTEicbBGHw
+SUMMARY:UEFA Playoff C v USA
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T020000Z
+DTEND:20260626T035000Z
+DESCRIPTION:TV Channels: \n\nThe 23rd game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, UEFA Playoff C and USA.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-c-usa/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff C,USA,Los Angeles,Group D,Group stages,
+	World Cup 2026
+END:VEVENT
+END:VCALENDAR

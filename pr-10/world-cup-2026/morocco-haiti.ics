@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:sfWSAXajge-KAGVkouOg0
+SUMMARY:Morocco v Haiti
+DTSTAMP:20260409T205941Z
+DTSTART:20260624T220000Z
+DTEND:20260624T235000Z
+DESCRIPTION:TV Channels: \n\nThe 18th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Morocco and Haiti.
+URL:https://footballcal.com/world-cup-2026/morocco-haiti/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Morocco,Haiti,Atlanta,Group C,Group stages,World Cup
+	 2026
+END:VEVENT
+END:VCALENDAR

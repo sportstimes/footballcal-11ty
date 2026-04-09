@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:eSVEPAeXBinzg72BzIwyX
+SUMMARY:Canada v Qatar
+DTSTAMP:20260409T205941Z
+DTSTART:20260618T220000Z
+DTEND:20260618T235000Z
+DESCRIPTION:TV Channels: \n\nThe 10th game of the FIFA World Cup 2026 group
+	 stage between Group B competitors\, Canada and Qatar.
+URL:https://footballcal.com/world-cup-2026/canada-qatar/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Canada,Qatar,Vancouver,Group B,Group stages,World Cu
+	p 2026
+END:VEVENT
+END:VCALENDAR

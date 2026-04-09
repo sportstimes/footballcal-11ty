@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:JOmUH_ogYIYceGMJDR21h
+SUMMARY:Spain v Sweden
+DTSTAMP:20260409T205941Z
+DTSTART:20210614T190000Z
+DTEND:20210614T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe tenth game of the (delayed) EURO 2020 c
+	ompetition between Group E rivals\, Spain and Sweden.
+URL:https://footballcal.com/euro-2020/spain-sweden/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Sweden,Seville,Group E,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:-jTUPTL3o0N1B_jXEwvBi
+SUMMARY:Sweden v Slovakia
+DTSTAMP:20260409T205941Z
+DTSTART:20210618T130000Z
+DTEND:20210618T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe ninteenth game of the (delayed) EURO 20
+	20 competition between Group E rivals\, Sweden and Slovakia.
+URL:https://footballcal.com/euro-2020/sweden-slovakia/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Slovakia,St Petersburg,Group E,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:4cJ62KRj_1DsepKOlNLSo
+SUMMARY:Sweden v Poland
+DTSTAMP:20260409T205941Z
+DTSTART:20210623T160000Z
+DTEND:20210623T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 34th game of the (delayed) EURO 2020 co
+	mpetition between Group E rivals\, Sweden and Poland.
+URL:https://footballcal.com/euro-2020/sweden-poland/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Poland,St Petersburg,Group E,Group stages,EUR
+	O 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:s9RTAs_HocuTKk9dMxm8u
+SUMMARY:Sweden v Ukraine
+DTSTAMP:20260409T205941Z
+DTSTART:20210629T190000Z
+DTEND:20210629T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
+	mpetition between Group E winners Sweden and Group C third place Ukraine.
+URL:https://footballcal.com/euro-2020/knockout-8/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group 
+	D,Group E,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:l1Sh7xvt9xUmjIbsfEjfm
+SUMMARY:Denmark v Sweden
+DTSTAMP:20260409T205941Z
+DTSTART:20250704T160000Z
+DTEND:20250704T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n5th game of the Women's Euro 2025 com
+	petition between Denmark and Sweden.
+URL:https://footballcal.com/euro-2025/denmark-sweden/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Sweden,Stade de Genève, Geneva,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:oJNt-y3AUj58CTfp-ymgg
+SUMMARY:Poland v Sweden
+DTSTAMP:20260409T205941Z
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n14th game of the Women's Euro 2025 co
+	mpetition between Poland and Sweden.
+URL:https://footballcal.com/euro-2025/poland-sweden/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Sweden,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:UsoRv0dcRdV7lPQ5Jrhw1
+SUMMARY:Sweden v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n21st game of the Women's Euro 2025 co
+	mpetition between Sweden and Germany.
+URL:https://footballcal.com/euro-2025/sweden-germany/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Germany,Stadion Letzigrund, Zurich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:ca7IQkveOV-RxfYvWe9MM
+SUMMARY:Sweden v England
+DTSTAMP:20260409T205941Z
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n26th game of the Women's Euro 2025 co
+	mpetition between Winner Group C and Runner-up Group D.
+URL:https://footballcal.com/euro-2025/winner-group-c-runner-up-group-d/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,England,Group C,Group D,Stadion Letzigrund, Z
+	urich,EURO 2025
+END:VEVENT
+END:VCALENDAR

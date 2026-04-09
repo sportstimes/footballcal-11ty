@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:YKE3giO6k8y_irYfIKwtG
+SUMMARY:USA v Paraguay
+DTSTAMP:20260409T205942Z
+DTSTART:20260613T010000Z
+DTEND:20260613T025000Z
+DESCRIPTION:TV Channels: \n\nThe 19th game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, USA and Paraguay.
+URL:https://footballcal.com/world-cup-2026/usa-paraguay/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,USA,Paraguay,Los Angeles,Group D,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Zq656NypalVuj37UDGQyb
+SUMMARY:UEFA Playoff C v Paraguay
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T040000Z
+DTEND:20260620T055000Z
+DESCRIPTION:TV Channels: \n\nThe 21st game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, UEFA Playoff C and Paraguay.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-c-paraguay/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff C,Paraguay,San Francisco,Group D,Group 
+	stages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:BBzMnJlzq8SMpKttl3Z67
+SUMMARY:Paraguay v Australia
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T020000Z
+DTEND:20260626T035000Z
+DESCRIPTION:TV Channels: \n\nThe 24th game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, Paraguay and Australia.
+URL:https://footballcal.com/world-cup-2026/paraguay-australia/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Paraguay,Australia,San Francisco,Group D,Group stage
+	s,World Cup 2026
+END:VEVENT
+END:VCALENDAR

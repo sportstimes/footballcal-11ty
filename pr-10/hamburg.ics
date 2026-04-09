@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:H86rMPbe7nQMeAlEigG0Q
+SUMMARY:Poland v Netherlands
+DTSTAMP:20260409T205942Z
+DTSTART:20240616T130000Z
+DTEND:20240616T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
+	n between Group D competitors\, Poland and Netherlands.
+URL:https://footballcal.com/euro-2024/poland-netherlands/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:rrOng4WtszdAUWY3Od665
+SUMMARY:Croatia v Albania
+DTSTAMP:20260409T205942Z
+DTSTART:20240619T130000Z
+DTEND:20240619T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe thirteenth game of the EURO 2024 compe
+	tition between Group B competitors\, Croatia and Albania.
+URL:https://footballcal.com/euro-2024/croatia-albania/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Albania,Hamburg,Group B,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:9_gCufcBdhwcaIxl7mHEq
+SUMMARY:Georgia v Czechia
+DTSTAMP:20260409T205942Z
+DTSTART:20240622T130000Z
+DTEND:20240622T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-second game of the EURO 2024 co
+	mpetition between Group F competitors\, Georgia and Czechia.
+URL:https://footballcal.com/euro-2024/georgia-czechia/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Georgia,Czechia,Hamburg,Group F,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:vg1OmMbHg_UDmWFrtT7Iz
+SUMMARY:Czechia v Turkey
+DTSTAMP:20260409T205942Z
+DTSTART:20240626T190000Z
+DTEND:20240626T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe thirty-sixth game of the EURO 2024 comp
+	etition between Group F competitors\, Czechia and Turkey.
+URL:https://footballcal.com/euro-2024/czechia-turkey/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Czechia,Turkey,Hamburg,Group F,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:BOCVS7mp3q0DAUSVM03K2
+SUMMARY:Portugal v France
+DTSTAMP:20260409T205942Z
+DTSTART:20240705T190000Z
+DTEND:20240705T205000Z
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 46th game and second qua
+	rter final of the EURO 2024 competition between Portugal and France.
+URL:https://footballcal.com/euro-2024/quarter-final-2/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,France,Hamburg,Quarter Finals,EURO 2024
+END:VEVENT
+END:VCALENDAR

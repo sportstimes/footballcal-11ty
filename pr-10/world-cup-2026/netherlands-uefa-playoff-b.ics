@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Q2jz_3bc7OaZMr9C3rDpm
+SUMMARY:Netherlands v UEFA Playoff B
+DTSTAMP:20260409T205941Z
+DTSTART:20260620T170000Z
+DTEND:20260620T185000Z
+DESCRIPTION:TV Channels: \n\nThe 33rd game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Netherlands and UEFA Playoff B.
+URL:https://footballcal.com/world-cup-2026/netherlands-uefa-playoff-b/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,UEFA Playoff B,Houston,Group F,Group sta
+	ges,World Cup 2026
+END:VEVENT
+END:VCALENDAR

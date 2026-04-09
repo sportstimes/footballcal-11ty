@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:BiLFCPJBz2wIoMMldY6Xn
+SUMMARY:Netherlands v Ukraine
+DTSTAMP:20260409T205941Z
+DTSTART:20210613T190000Z
+DTEND:20210613T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe seventh game of the (delayed) EURO 2020
+	 competition between Group C rivals\, Netherlands and Ukraine.
+URL:https://footballcal.com/euro-2020/netherlands-ukraine/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Ukraine,Amsterdam,Group C,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:jS5QmcHBDIRQzDJmbUEeW
+SUMMARY:Netherlands v Austria
+DTSTAMP:20260409T205941Z
+DTSTART:20210617T190000Z
+DTEND:20210617T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe eighteenth game of the (delayed) EURO 2
+	020 competition between Group C rivals\, Netherlands and Austria.
+URL:https://footballcal.com/euro-2020/netherlands-austria/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Austria,Amsterdam,Group C,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:f1uW5oeb5zHNr8JhvbEtg
+SUMMARY:North Macedonia v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20210621T160000Z
+DTEND:20210621T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 27th game of the (delayed) EURO 2020 co
+	mpetition between Group C rivals\, North Macedonia and Netherlands.
+URL:https://footballcal.com/euro-2020/north-macedonia-netherlands/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,North Macedonia,Netherlands,Amsterdam,Group C,Group 
+	stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:dM9I5JfJNan7Xfsi4RTJY
+SUMMARY:Netherlands v Czech Republic
+DTSTAMP:20260409T205941Z
+DTSTART:20210627T160000Z
+DTEND:20210627T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 39th game of the (delayed) EURO 2020 co
+	mpetition between Group C winners Netherlands and Group D third place Czec
+	h Republic.
+URL:https://footballcal.com/euro-2020/knockout-3/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Czech Republic,Budapest,Group C,Group D,
+	Group E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:QAGwW51C8whgN3khRcbUl
+SUMMARY:Poland v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20240616T130000Z
+DTEND:20240616T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fifth game of the EURO 2024 competitio
+	n between Group D competitors\, Poland and Netherlands.
+URL:https://footballcal.com/euro-2024/poland-netherlands/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Netherlands,Hamburg,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:pKkuUksb2VLf2o9kop07S
+SUMMARY:Netherlands v France
+DTSTAMP:20260409T205941Z
+DTSTART:20240621T190000Z
+DTEND:20240621T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-first game of the EURO 2024 com
+	petition between Group D competitors\, Netherlands and France.
+URL:https://footballcal.com/euro-2024/netherlands-france/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,France,Leipzig,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:WtC2SR5PUurUfkGNk6R04
+SUMMARY:Netherlands v Austria
+DTSTAMP:20260409T205941Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-ninth game of the EURO 2024 comp
+	etition between Group D competitors\, Netherlands and Austria.
+URL:https://footballcal.com/euro-2024/netherlands-austria/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Austria,Berlin,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:UG8nnPvJm2rj7Di2fuukm
+SUMMARY:Romania v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20240702T160000Z
+DTEND:20240702T175000Z
+DESCRIPTION:TV Channels: \n\nThe 43rd game of the EURO 2024 competition bet
+	ween Group E winners\, Romania and Group D third place\, Netherlands.
+URL:https://footballcal.com/euro-2024/game-43/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Romania,Netherlands,Munich,Group D,Group E,Round of 
+	16,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:7qOPj_tqBBXsHoDXd1ol7
+SUMMARY:Netherlands v Turkey
+DTSTAMP:20260409T205941Z
+DTSTART:20240706T190000Z
+DTEND:20240706T205000Z
+DESCRIPTION:TV Channels: ITV1\, STV\, ITVX\, STV Player\n\nThe 48th game an
+	d fourth quarter final of the EURO 2024 competition between Netherlands an
+	d Turkey.
+URL:https://footballcal.com/euro-2024/quarter-final-4/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Turkey,Berlin,Quarter Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:_g8RNg0RD33_L3sNhoUXt
+SUMMARY:England v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20240710T190000Z
+DTEND:20240710T205000Z
+DESCRIPTION:TV Channels: ITV1\, ITVX\, STV\n\nThe 50th game and second semi
+	 final of the EURO 2024 competition between England and Netherlands.
+URL:https://footballcal.com/euro-2024/semi-final-2/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Netherlands,Dortmund,Semi Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:t7wX6T7Ghx172Mv14RlI4
+SUMMARY:Wales v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20250705T160000Z
+DTEND:20250705T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n7th game of the Women's Euro 2025 com
+	petition between Wales and Netherlands.
+URL:https://footballcal.com/euro-2025/wales-netherlands/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Netherlands,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:YKnR4kbJ3qoBCeBKlR8P2
+SUMMARY:England v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n15th game of the Women's Euro 2025 co
+	mpetition between England and Netherlands.
+URL:https://footballcal.com/euro-2025/england-netherlands/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Netherlands,Stadion Letzigrund, Zurich,EURO 
+	2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Q8Ndi_jxRgHamhOMI-Mis
+SUMMARY:Netherlands v France
+DTSTAMP:20260409T205941Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n23rd game 
+	of the Women's Euro 2025 competition between Netherlands and France.
+URL:https://footballcal.com/euro-2025/netherlands-france/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,France,St. Jakob‑Park, Basel,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:xcdfW2z06tkYQYccKWnIc
+SUMMARY:Netherlands v Japan
+DTSTAMP:20260409T205941Z
+DTSTART:20260614T200000Z
+DTEND:20260614T215000Z
+DESCRIPTION:TV Channels: \n\nThe 31st game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Netherlands and Japan.
+URL:https://footballcal.com/world-cup-2026/netherlands-japan/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Japan,Dallas,Group F,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:1qhf2_u7u4LADAvTh_kuq
+SUMMARY:Netherlands v UEFA Playoff B
+DTSTAMP:20260409T205941Z
+DTSTART:20260620T170000Z
+DTEND:20260620T185000Z
+DESCRIPTION:TV Channels: \n\nThe 33rd game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Netherlands and UEFA Playoff B.
+URL:https://footballcal.com/world-cup-2026/netherlands-uefa-playoff-b/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,UEFA Playoff B,Houston,Group F,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:jxcV_gdNwhVp5Zrb-0r9x
+SUMMARY:Tunisia v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20260625T230000Z
+DTEND:20260626T005000Z
+DESCRIPTION:TV Channels: \n\nThe 36th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Tunisia and Netherlands.
+URL:https://footballcal.com/world-cup-2026/tunisia-netherlands/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Tunisia,Netherlands,Kansas City,Group F,Group stages
+	,World Cup 2026
+END:VEVENT
+END:VCALENDAR

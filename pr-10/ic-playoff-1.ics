@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:nNodd2cae4R6L7osi8hVt
+SUMMARY:Portugal v IC Playoff 1
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T170000Z
+DTEND:20260617T185000Z
+DESCRIPTION:TV Channels: \n\nThe 61st game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Portugal and IC Playoff 1.
+URL:https://footballcal.com/world-cup-2026/portugal-ic-playoff-1/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,IC Playoff 1,Houston,Group K,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:1fdn6X4YXZIVIHZxFSMah
+SUMMARY:Colombia v IC Playoff 1
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T030000Z
+DTEND:20260624T045000Z
+DESCRIPTION:TV Channels: \n\nThe 64th game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Colombia and IC Playoff 1.
+URL:https://footballcal.com/world-cup-2026/colombia-ic-playoff-1/
+LOCATION:Estadio Akron\, Guadalajara
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Colombia,IC Playoff 1,Guadalajara,Group K,Group stag
+	es,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:wIFDsLgAt6kjkIlK0qi0E
+SUMMARY:IC Playoff 1 v Uzbekistan
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T233000Z
+DTEND:20260628T012000Z
+DESCRIPTION:TV Channels: \n\nThe 66th game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, IC Playoff 1 and Uzbekistan.
+URL:https://footballcal.com/world-cup-2026/ic-playoff-1-uzbekistan/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,IC Playoff 1,Uzbekistan,Atlanta,Group K,Group stages
+	,World Cup 2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:lEH76B3e9DlxHxXxmwAEY
+SUMMARY:Spain v Cape Verde
+DTSTAMP:20260409T205941Z
+DTSTART:20260615T160000Z
+DTEND:20260615T175000Z
+DESCRIPTION:TV Channels: \n\nThe 43rd game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Spain and Cape Verde.
+URL:https://footballcal.com/world-cup-2026/spain-cape-verde/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Cape Verde,Atlanta,Group H,Group stages,World 
+	Cup 2026
+END:VEVENT
+END:VCALENDAR

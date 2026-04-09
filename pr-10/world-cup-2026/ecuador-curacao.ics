@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:GEQU4RdhiAjIMkGQY0kDk
+SUMMARY:Ecuador v Curaçao
+DTSTAMP:20260409T205941Z
+DTSTART:20260621T000000Z
+DTEND:20260621T015000Z
+DESCRIPTION:TV Channels: \n\nThe 28th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ecuador and Curaçao.
+URL:https://footballcal.com/world-cup-2026/ecuador-curacao/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ecuador,Curaçao,Kansas City,Group E,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+END:VCALENDAR

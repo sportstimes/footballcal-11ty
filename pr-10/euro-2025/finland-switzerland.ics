@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:hAc5XxToBrnP5WoJ6eOeq
+SUMMARY:Finland v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, YLE\, RTS\, SRF\, RSI\n\n17th game of 
+	the Women's Euro 2025 competition between Finland and Switzerland.
+URL:https://footballcal.com/euro-2025/finland-switzerland/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Finland,Switzerland,Stade de Genève, Geneva,EURO 202
+	5
+END:VEVENT
+END:VCALENDAR

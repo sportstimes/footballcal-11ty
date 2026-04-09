@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:pB6txHB-jJXJaNaX1oP84
+SUMMARY:IC Playoff 1 v Uzbekistan
+DTSTAMP:20260409T205941Z
+DTSTART:20260627T233000Z
+DTEND:20260628T012000Z
+DESCRIPTION:TV Channels: \n\nThe 66th game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, IC Playoff 1 and Uzbekistan.
+URL:https://footballcal.com/world-cup-2026/ic-playoff-1-uzbekistan/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,IC Playoff 1,Uzbekistan,Atlanta,Group K,Group stages
+	,World Cup 2026
+END:VEVENT
+END:VCALENDAR

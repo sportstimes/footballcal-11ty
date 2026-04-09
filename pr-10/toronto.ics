@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Wus3-RjURyzJ55KRXqKZ1
+SUMMARY:Canada v UEFA Playoff A
+DTSTAMP:20260409T205942Z
+DTSTART:20260612T190000Z
+DTEND:20260612T205000Z
+DESCRIPTION:TV Channels: \n\nThe 7th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Canada and UEFA Playoff A.
+URL:https://footballcal.com/world-cup-2026/canada-uefa-playoff-a/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Canada,UEFA Playoff A,Toronto,Group B,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ojvF_IFRk6-IeY8l1TcaK
+SUMMARY:Ghana v Panama
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T230000Z
+DTEND:20260618T005000Z
+DESCRIPTION:TV Channels: \n\nThe 68th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Ghana and Panama.
+URL:https://footballcal.com/world-cup-2026/ghana-panama/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ghana,Panama,Toronto,Group L,Group stages,World Cup 
+	2026
+END:VEVENT
+BEGIN:VEVENT
+UID:5dW9v3twj2Q2ZacUw2xlq
+SUMMARY:Germany v Ivory Coast
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T200000Z
+DTEND:20260620T215000Z
+DESCRIPTION:TV Channels: \n\nThe 27th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Germany and Ivory Coast.
+URL:https://footballcal.com/world-cup-2026/germany-ivory-coast/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Ivory Coast,Toronto,Group E,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:gnGkP__ffG0CY6piLcvIk
+SUMMARY:Panama v Croatia
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T230000Z
+DTEND:20260624T005000Z
+DESCRIPTION:TV Channels: \n\nThe 70th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Panama and Croatia.
+URL:https://footballcal.com/world-cup-2026/panama-croatia/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Panama,Croatia,Toronto,Group L,Group stages,World Cu
+	p 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:xXUbDQVcJyf_jQJIL5ZlT
+SUMMARY:Senegal v IC Playoff 2
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T190000Z
+DTEND:20260626T205000Z
+DESCRIPTION:TV Channels: \n\nThe 54th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Senegal and IC Playoff 2.
+URL:https://footballcal.com/world-cup-2026/senegal-ic-playoff-2/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Senegal,IC Playoff 2,Toronto,Group I,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+END:VCALENDAR

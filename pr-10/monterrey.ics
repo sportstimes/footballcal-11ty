@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:z7y9IA_-Mwq82moX1talV
+SUMMARY:UEFA Playoff B v Tunisia
+DTSTAMP:20260409T205942Z
+DTSTART:20260615T030000Z
+DTEND:20260615T045000Z
+DESCRIPTION:TV Channels: \n\nThe 32nd game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, UEFA Playoff B and Tunisia.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-b-tunisia/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff B,Tunisia,Monterrey,Group F,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:s8-MKWvHLEhcfIKCafFTn
+SUMMARY:Tunisia v Japan
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T030000Z
+DTEND:20260621T045000Z
+DESCRIPTION:TV Channels: \n\nThe 34th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Tunisia and Japan.
+URL:https://footballcal.com/world-cup-2026/tunisia-japan/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Tunisia,Japan,Monterrey,Group F,Group stages,World C
+	up 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:xgaZBScIp8D-zwTd7AXJu
+SUMMARY:South Africa v South Korea
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T020000Z
+DTEND:20260625T035000Z
+DESCRIPTION:TV Channels: \n\nThe 6th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, South Africa and South Korea.
+URL:https://footballcal.com/world-cup-2026/south-africa-south-korea/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,South Africa,South Korea,Monterrey,Group A,Group sta
+	ges,World Cup 2026
+END:VEVENT
+END:VCALENDAR

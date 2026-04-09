@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:D-J3zunxWoUawsV6AA2eA
+SUMMARY:Mexico v South Korea
+DTSTAMP:20260409T205941Z
+DTSTART:20260619T020000Z
+DTEND:20260619T035000Z
+DESCRIPTION:TV Channels: \n\nThe 4th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and South Korea.
+URL:https://footballcal.com/world-cup-2026/mexico-south-korea/
+LOCATION:Estadio Akron\, Guadalajara
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,South Korea,Guadalajara,Group A,Group stages,
+	World Cup 2026
+END:VEVENT
+END:VCALENDAR

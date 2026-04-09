@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ycBdtjYR4iqTPg6y02zpZ
+SUMMARY:Tunisia v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20260625T230000Z
+DTEND:20260626T005000Z
+DESCRIPTION:TV Channels: \n\nThe 36th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Tunisia and Netherlands.
+URL:https://footballcal.com/world-cup-2026/tunisia-netherlands/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Tunisia,Netherlands,Kansas City,Group F,Group stages
+	,World Cup 2026
+END:VEVENT
+END:VCALENDAR

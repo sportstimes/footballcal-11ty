@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:hOORc6pAmMblA47DED89h
+SUMMARY:Germany v Poland
+DTSTAMP:20260409T205941Z
+DTSTART:20250704T190000Z
+DTEND:20250704T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n6th game of the Women's Euro 2025 com
+	petition between Germany and Poland.
+URL:https://footballcal.com/euro-2025/germany-poland/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Poland,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:uphzvpMrT4RuFaA-exq0W
+SUMMARY:France v Wales
+DTSTAMP:20260409T205941Z
+DTSTART:20250709T190000Z
+DTEND:20250709T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n16th game 
+	of the Women's Euro 2025 competition between France and Wales.
+URL:https://footballcal.com/euro-2025/france-wales/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Wales,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ZRE1oA1VLuv_6oxznYM
+SUMMARY:England v Wales
+DTSTAMP:20260409T205941Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+DESCRIPTION:TV Channels: ITV\, BBC\n\n24th game of the Women's Euro 2025 co
+	mpetition between England and Wales.
+URL:https://footballcal.com/euro-2025/england-wales/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Wales,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:cNGtH0wsGKKphckNI2--B
+SUMMARY:Austria v Jordan
+DTSTAMP:20260409T205941Z
+DTSTART:20260617T040000Z
+DTEND:20260617T055000Z
+DESCRIPTION:TV Channels: \n\nThe 56th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Austria and Jordan.
+URL:https://footballcal.com/world-cup-2026/austria-jordan/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,Jordan,San Francisco,Group J,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+END:VCALENDAR

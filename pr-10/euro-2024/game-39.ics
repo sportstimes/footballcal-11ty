@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:utyAFXLMMf0dHLR0RBPdV
+SUMMARY:Spain v Georgia
+DTSTAMP:20260409T205941Z
+DTSTART:20240630T190000Z
+DTEND:20240630T205000Z
+DESCRIPTION:TV Channels: \n\nThe 39th game of the EURO 2024 competition bet
+	ween Group B winners\, Spain\, and Group F third place\, Georgia.
+URL:https://footballcal.com/euro-2024/game-39/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Georgia,Cologne,Group B,Group F,Round of 16,EU
+	RO 2024
+END:VEVENT
+END:VCALENDAR

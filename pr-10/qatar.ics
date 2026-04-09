@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:UUr4YFfcAqWtQllDG8Uof
+SUMMARY:Qatar v Switzerland
+DTSTAMP:20260409T205942Z
+DTSTART:20260613T190000Z
+DTEND:20260613T205000Z
+DESCRIPTION:TV Channels: \n\nThe 8th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Qatar and Switzerland.
+URL:https://footballcal.com/world-cup-2026/qatar-switzerland/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Qatar,Switzerland,San Francisco,Group B,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:sErLha9dKdqhkmQRaCD_c
+SUMMARY:Canada v Qatar
+DTSTAMP:20260409T205942Z
+DTSTART:20260618T220000Z
+DTEND:20260618T235000Z
+DESCRIPTION:TV Channels: \n\nThe 10th game of the FIFA World Cup 2026 group
+	 stage between Group B competitors\, Canada and Qatar.
+URL:https://footballcal.com/world-cup-2026/canada-qatar/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Canada,Qatar,Vancouver,Group B,Group stages,World Cu
+	p 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:saMMZ3WW3hRwgWtZYgdJu
+SUMMARY:UEFA Playoff A v Qatar
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T190000Z
+DTEND:20260624T205000Z
+DESCRIPTION:TV Channels: \n\nThe 12th game of the FIFA World Cup 2026 group
+	 stage between Group B competitors\, UEFA Playoff A and Qatar.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-a-qatar/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff A,Qatar,Seattle,Group B,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+END:VCALENDAR

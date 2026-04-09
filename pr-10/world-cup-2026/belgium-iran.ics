@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:98nb7DLvns4af2WtP-tAo
+SUMMARY:Belgium v Iran
+DTSTAMP:20260409T205941Z
+DTSTART:20260621T190000Z
+DTEND:20260621T205000Z
+DESCRIPTION:TV Channels: \n\nThe 39th game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Belgium and Iran.
+URL:https://footballcal.com/world-cup-2026/belgium-iran/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Iran,Los Angeles,Group G,Group stages,World 
+	Cup 2026
+END:VEVENT
+END:VCALENDAR

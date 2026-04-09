@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:O10Zh3WNG42eAzpUoJfvd
+SUMMARY:Ghana v Panama
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T230000Z
+DTEND:20260618T005000Z
+DESCRIPTION:TV Channels: \n\nThe 68th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Ghana and Panama.
+URL:https://footballcal.com/world-cup-2026/ghana-panama/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ghana,Panama,Toronto,Group L,Group stages,World Cup 
+	2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Q4VcORgb2aAzxJagtrBAR
+SUMMARY:England v Ghana
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T200000Z
+DTEND:20260623T215000Z
+DESCRIPTION:TV Channels: \n\nThe 69th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, England and Ghana.
+URL:https://footballcal.com/world-cup-2026/england-ghana/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Ghana,Boston,Group L,Group stages,World Cup 
+	2026
+END:VEVENT
+BEGIN:VEVENT
+UID:sQ5CPLjqOi7R0kJ4AnHZp
+SUMMARY:Croatia v Ghana
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T210000Z
+DTEND:20260627T225000Z
+DESCRIPTION:TV Channels: \n\nThe 72nd game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Croatia and Ghana.
+URL:https://footballcal.com/world-cup-2026/croatia-ghana/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Ghana,Philadelphia,Group L,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+END:VCALENDAR

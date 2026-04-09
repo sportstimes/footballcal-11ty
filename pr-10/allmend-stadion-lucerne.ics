@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:GBJ9fLLY8cvUgyvgNT_lf
+SUMMARY:Wales v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20250705T160000Z
+DTEND:20250705T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n7th game of the Women's Euro 2025 com
+	petition between Wales and Netherlands.
+URL:https://footballcal.com/euro-2025/wales-netherlands/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Netherlands,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:0QTJ3KMfe-o018C_fsNh1
+SUMMARY:Poland v Sweden
+DTSTAMP:20260409T205941Z
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n14th game of the Women's Euro 2025 co
+	mpetition between Poland and Sweden.
+URL:https://footballcal.com/euro-2025/poland-sweden/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Sweden,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:xAxIhAh6ACGp4xRKP0DrJ
+SUMMARY:Poland v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n22nd game of the Women's Euro 2025 co
+	mpetition between Poland and Denmark.
+URL:https://footballcal.com/euro-2025/poland-denmark/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Denmark,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+END:VCALENDAR

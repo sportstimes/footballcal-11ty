@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:P8CEFD2HROK5BEe_hrDYU
+SUMMARY:Norway v Senegal
+DTSTAMP:20260409T205941Z
+DTSTART:20260623T000000Z
+DTEND:20260623T015000Z
+DESCRIPTION:TV Channels: \n\nThe 52nd game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Norway and Senegal.
+URL:https://footballcal.com/world-cup-2026/norway-senegal/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Senegal,New York New Jersey,Group I,Group sta
+	ges,World Cup 2026
+END:VEVENT
+END:VCALENDAR

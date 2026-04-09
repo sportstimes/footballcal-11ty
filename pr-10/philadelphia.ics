@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:BlwF6-qNiwVDzoeTA7hf3
+SUMMARY:Ivory Coast v Ecuador
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T230000Z
+DTEND:20260615T005000Z
+DESCRIPTION:TV Channels: \n\nThe 26th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ivory Coast and Ecuador.
+URL:https://footballcal.com/world-cup-2026/ivory-coast-ecuador/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ivory Coast,Ecuador,Philadelphia,Group E,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:WgL26e_1vHlCn61ZbzqoG
+SUMMARY:Brazil v Haiti
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T010000Z
+DTEND:20260620T025000Z
+DESCRIPTION:TV Channels: \n\nThe 16th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Brazil and Haiti.
+URL:https://footballcal.com/world-cup-2026/brazil-haiti/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Brazil,Haiti,Philadelphia,Group C,Group stages,World
+	 Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:DG_ar8hfn9bZKs7WjfkoG
+SUMMARY:France v IC Playoff 2
+DTSTAMP:20260409T205942Z
+DTSTART:20260622T210000Z
+DTEND:20260622T225000Z
+DESCRIPTION:TV Channels: \n\nThe 51st game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, France and IC Playoff 2.
+URL:https://footballcal.com/world-cup-2026/france-ic-playoff-2/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,IC Playoff 2,Philadelphia,Group I,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:J106EoRDp_j3nQsxzie4X
+SUMMARY:Curaçao v Ivory Coast
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T200000Z
+DTEND:20260625T215000Z
+DESCRIPTION:TV Channels: \n\nThe 30th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Curaçao and Ivory Coast.
+URL:https://footballcal.com/world-cup-2026/curacao-ivory-coast/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Curaçao,Ivory Coast,Philadelphia,Group E,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:C95i13vh9NbIOsTe86aqU
+SUMMARY:Croatia v Ghana
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T210000Z
+DTEND:20260627T225000Z
+DESCRIPTION:TV Channels: \n\nThe 72nd game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Croatia and Ghana.
+URL:https://footballcal.com/world-cup-2026/croatia-ghana/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Ghana,Philadelphia,Group L,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+END:VCALENDAR

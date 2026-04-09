@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:tSv1XVdbIFKHTEKJy72YO
+SUMMARY:Denmark v Sweden
+DTSTAMP:20260409T205941Z
+DTSTART:20250704T160000Z
+DTEND:20250704T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n5th game of the Women's Euro 2025 com
+	petition between Denmark and Sweden.
+URL:https://footballcal.com/euro-2025/denmark-sweden/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Sweden,Stade de Genève, Geneva,EURO 2025
+END:VEVENT
+END:VCALENDAR

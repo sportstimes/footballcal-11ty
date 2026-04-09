@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:f9rEkHlZ4Vhu_v9CmHjYM
+SUMMARY:Germany v Curaçao
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T170000Z
+DTEND:20260614T185000Z
+DESCRIPTION:TV Channels: \n\nThe 25th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Germany and Curaçao.
+URL:https://footballcal.com/world-cup-2026/germany-curacao/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Curaçao,Houston,Group E,Group stages,World C
+	up 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:OvBH2WTxT25rU8VnWCX_O
+SUMMARY:Ecuador v Curaçao
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T000000Z
+DTEND:20260621T015000Z
+DESCRIPTION:TV Channels: \n\nThe 28th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ecuador and Curaçao.
+URL:https://footballcal.com/world-cup-2026/ecuador-curacao/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ecuador,Curaçao,Kansas City,Group E,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:OOgHLKhCWCrt298v1I_LC
+SUMMARY:Curaçao v Ivory Coast
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T200000Z
+DTEND:20260625T215000Z
+DESCRIPTION:TV Channels: \n\nThe 30th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Curaçao and Ivory Coast.
+URL:https://footballcal.com/world-cup-2026/curacao-ivory-coast/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Curaçao,Ivory Coast,Philadelphia,Group E,Group stage
+	s,World Cup 2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:94xUxyd2gU-oJFXFtfF6_
+SUMMARY:Belgium v Slovakia
+DTSTAMP:20260409T205941Z
+DTSTART:20240617T160000Z
+DTEND:20240617T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe ninth game of the EURO 2024 competitio
+	n between Group E competitors\, Belgium and Slovakia.
+URL:https://footballcal.com/euro-2024/belgium-slovakia/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Slovakia,Frankfurt am Main,Group E,Group sta
+	ges,EURO 2024
+END:VEVENT
+END:VCALENDAR

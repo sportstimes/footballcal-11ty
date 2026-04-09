@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:7vneLsO4ymatfUDTBpN8f
+SUMMARY:Haiti v Scotland
+DTSTAMP:20260409T205941Z
+DTSTART:20260614T010000Z
+DTEND:20260614T025000Z
+DESCRIPTION:TV Channels: \n\nThe 14th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Haiti and Scotland.
+URL:https://footballcal.com/world-cup-2026/haiti-scotland/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Haiti,Scotland,Boston,Group C,Group stages,World Cup
+	 2026
+END:VEVENT
+END:VCALENDAR

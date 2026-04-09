@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:rOLQkCNFglAXCMaDuw2q6
+SUMMARY:Portugal v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250707T190000Z
+DTEND:20250707T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n12th game of the Women's Euro 2025 co
+	mpetition between Portugal and Italy.
+URL:https://footballcal.com/euro-2025/portugal-italy/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Italy,Stade de Genève, Geneva,EURO 2025
+END:VEVENT
+END:VCALENDAR

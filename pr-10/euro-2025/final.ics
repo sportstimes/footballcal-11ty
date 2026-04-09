@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:fHU1FVxrROc5t0FdKDD1P
+SUMMARY:England v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20250727T160000Z
+DTEND:20250727T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe final of the Women's Euro 2025 co
+	mpetition will be contested between England and Spain.
+URL:https://footballcal.com/euro-2025/final/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Final,St. Jakob‑Park, Basel,EURO 2025,England,Spain
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:aYN_pe9_ez7nlJN0iTRci
+SUMMARY:Poland v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n22nd game of the Women's Euro 2025 co
+	mpetition between Poland and Denmark.
+URL:https://footballcal.com/euro-2025/poland-denmark/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Denmark,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+END:VCALENDAR

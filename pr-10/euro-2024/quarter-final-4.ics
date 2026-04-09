@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:cIh91EGg0EY9UJenis32M
+SUMMARY:Netherlands v Turkey
+DTSTAMP:20260409T205941Z
+DTSTART:20240706T190000Z
+DTEND:20240706T205000Z
+DESCRIPTION:TV Channels: ITV1\, STV\, ITVX\, STV Player\n\nThe 48th game an
+	d fourth quarter final of the EURO 2024 competition between Netherlands an
+	d Turkey.
+URL:https://footballcal.com/euro-2024/quarter-final-4/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Turkey,Berlin,Quarter Finals,EURO 2024
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:xJknqyBIgVsALrdtrIDkN
+SUMMARY:Spain v Cape Verde
+DTSTAMP:20260409T205942Z
+DTSTART:20260615T160000Z
+DTEND:20260615T175000Z
+DESCRIPTION:TV Channels: \n\nThe 43rd game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Spain and Cape Verde.
+URL:https://footballcal.com/world-cup-2026/spain-cape-verde/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Cape Verde,Atlanta,Group H,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:uCdsHJv1XX4e5bHGqKfYA
+SUMMARY:UEFA Playoff D v South Africa
+DTSTAMP:20260409T205942Z
+DTSTART:20260618T160000Z
+DTEND:20260618T175000Z
+DESCRIPTION:TV Channels: \n\nThe 3rd game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, UEFA Playoff D and South Africa.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-d-south-africa/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff D,South Africa,Atlanta,Group A,Group st
+	ages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:933lyKDSxAAETbKHNonf6
+SUMMARY:Spain v Saudi Arabia
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T160000Z
+DTEND:20260621T175000Z
+DESCRIPTION:TV Channels: \n\nThe 45th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Spain and Saudi Arabia.
+URL:https://footballcal.com/world-cup-2026/spain-saudi-arabia/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Saudi Arabia,Atlanta,Group H,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:1g5ETnoK05q1bTMnnv5Ml
+SUMMARY:Morocco v Haiti
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T220000Z
+DTEND:20260624T235000Z
+DESCRIPTION:TV Channels: \n\nThe 18th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Morocco and Haiti.
+URL:https://footballcal.com/world-cup-2026/morocco-haiti/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Morocco,Haiti,Atlanta,Group C,Group stages,World Cup
+	 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:o5F_b1p7kXQqXjfXpaPVt
+SUMMARY:IC Playoff 1 v Uzbekistan
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T233000Z
+DTEND:20260628T012000Z
+DESCRIPTION:TV Channels: \n\nThe 66th game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, IC Playoff 1 and Uzbekistan.
+URL:https://footballcal.com/world-cup-2026/ic-playoff-1-uzbekistan/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,IC Playoff 1,Uzbekistan,Atlanta,Group K,Group stages
+	,World Cup 2026
+END:VEVENT
+END:VCALENDAR

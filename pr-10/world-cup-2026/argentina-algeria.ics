@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:0kg266BK_LrMnAGbu0CRf
+SUMMARY:Argentina v Algeria
+DTSTAMP:20260409T205941Z
+DTSTART:20260617T010000Z
+DTEND:20260617T025000Z
+DESCRIPTION:TV Channels: \n\nThe 55th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Argentina and Algeria.
+URL:https://footballcal.com/world-cup-2026/argentina-algeria/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Argentina,Algeria,Kansas City,Group J,Group stages,W
+	orld Cup 2026
+END:VEVENT
+END:VCALENDAR

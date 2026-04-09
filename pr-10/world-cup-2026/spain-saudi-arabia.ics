@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:PluQLzBGqwj90Z7IbpMKb
+SUMMARY:Spain v Saudi Arabia
+DTSTAMP:20260409T205941Z
+DTSTART:20260621T160000Z
+DTEND:20260621T175000Z
+DESCRIPTION:TV Channels: \n\nThe 45th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Spain and Saudi Arabia.
+URL:https://footballcal.com/world-cup-2026/spain-saudi-arabia/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Saudi Arabia,Atlanta,Group H,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+END:VCALENDAR

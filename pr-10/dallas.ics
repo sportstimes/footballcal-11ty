@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:r2CC2Z1sYc3VMmMow5ibX
+SUMMARY:Netherlands v Japan
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T200000Z
+DTEND:20260614T215000Z
+DESCRIPTION:TV Channels: \n\nThe 31st game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Netherlands and Japan.
+URL:https://footballcal.com/world-cup-2026/netherlands-japan/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Japan,Dallas,Group F,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:xDHK3GatlAjhR0F9RvVjG
+SUMMARY:England v Croatia
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T200000Z
+DTEND:20260617T215000Z
+DESCRIPTION:TV Channels: \n\nThe 67th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, England and Croatia.
+URL:https://footballcal.com/world-cup-2026/england-croatia/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Croatia,Dallas,Group L,Group stages,World Cu
+	p 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:NpHlOgrv19Pt6Vu2At_-0
+SUMMARY:Argentina v Austria
+DTSTAMP:20260409T205942Z
+DTSTART:20260622T180000Z
+DTEND:20260622T195000Z
+DESCRIPTION:TV Channels: \n\nThe 57th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Argentina and Austria.
+URL:https://footballcal.com/world-cup-2026/argentina-austria/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Argentina,Austria,Dallas,Group J,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Ypym1S3FvND5kjQHmznqq
+SUMMARY:Japan v UEFA Playoff B
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T230000Z
+DTEND:20260626T005000Z
+DESCRIPTION:TV Channels: \n\nThe 35th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Japan and UEFA Playoff B.
+URL:https://footballcal.com/world-cup-2026/japan-uefa-playoff-b/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Japan,UEFA Playoff B,Dallas,Group F,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:AgDhtQ6iJBTKi6fnGWkXu
+SUMMARY:Jordan v Argentina
+DTSTAMP:20260409T205942Z
+DTSTART:20260628T020000Z
+DTEND:20260628T035000Z
+DESCRIPTION:TV Channels: \n\nThe 60th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Jordan and Argentina.
+URL:https://footballcal.com/world-cup-2026/jordan-argentina/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Jordan,Argentina,Dallas,Group J,Group stages,World C
+	up 2026
+END:VEVENT
+END:VCALENDAR

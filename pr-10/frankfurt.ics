@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:pl64ACvu3Avc0HYJlKRE3
+SUMMARY:Portugal v Slovenia
+DTSTAMP:20260409T205942Z
+DTSTART:20240701T190000Z
+DTEND:20240701T205000Z
+DESCRIPTION:TV Channels: \n\nThe 41st game of the EURO 2024 competition bet
+	ween Group F winners\, Portugal\, and Group C 3rd place\, Slovenia.
+URL:https://footballcal.com/euro-2024/game-41/
+LOCATION:Frankfurt
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Slovenia,Frankfurt,Group A,Group C,Round of
+	 16,EURO 2024
+END:VEVENT
+END:VCALENDAR

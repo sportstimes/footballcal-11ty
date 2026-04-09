@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:tMikKYVCKDkYpUMEg3XO_
+SUMMARY:France v Senegal
+DTSTAMP:20260409T205942Z
+DTSTART:20260616T190000Z
+DTEND:20260616T205000Z
+DESCRIPTION:TV Channels: \n\nThe 49th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, France and Senegal.
+URL:https://footballcal.com/world-cup-2026/france-senegal/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Senegal,New York New Jersey,Group I,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:rJugvtdMpC06YijjXoyVJ
+SUMMARY:Norway v Senegal
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T000000Z
+DTEND:20260623T015000Z
+DESCRIPTION:TV Channels: \n\nThe 52nd game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Norway and Senegal.
+URL:https://footballcal.com/world-cup-2026/norway-senegal/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Senegal,New York New Jersey,Group I,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:kh_cHdSo-Y-LcjVZlXmgk
+SUMMARY:Senegal v IC Playoff 2
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T190000Z
+DTEND:20260626T205000Z
+DESCRIPTION:TV Channels: \n\nThe 54th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Senegal and IC Playoff 2.
+URL:https://footballcal.com/world-cup-2026/senegal-ic-playoff-2/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Senegal,IC Playoff 2,Toronto,Group I,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+END:VCALENDAR

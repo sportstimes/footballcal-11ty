@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:sXjRY4_x0OTc2xAuodln_
+SUMMARY:Brazil v Haiti
+DTSTAMP:20260409T205941Z
+DTSTART:20260620T010000Z
+DTEND:20260620T025000Z
+DESCRIPTION:TV Channels: \n\nThe 16th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Brazil and Haiti.
+URL:https://footballcal.com/world-cup-2026/brazil-haiti/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Brazil,Haiti,Philadelphia,Group C,Group stages,World
+	 Cup 2026
+END:VEVENT
+END:VCALENDAR

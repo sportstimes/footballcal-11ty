@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:jYdW6Sz8EQ7QWwtOZV_4C
+SUMMARY:USA v Paraguay
+DTSTAMP:20260409T205942Z
+DTSTART:20260613T010000Z
+DTEND:20260613T025000Z
+DESCRIPTION:TV Channels: \n\nThe 19th game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, USA and Paraguay.
+URL:https://footballcal.com/world-cup-2026/usa-paraguay/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,USA,Paraguay,Los Angeles,Group D,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:JYX0iPjO8_fvnOI9mAiEi
+SUMMARY:Iran v New Zealand
+DTSTAMP:20260409T205942Z
+DTSTART:20260616T010000Z
+DTEND:20260616T025000Z
+DESCRIPTION:TV Channels: \n\nThe 38th game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Iran and New Zealand.
+URL:https://footballcal.com/world-cup-2026/iran-new-zealand/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Iran,New Zealand,Los Angeles,Group G,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:kqs4Tx5uyy8knlbjvLy7K
+SUMMARY:Switzerland v UEFA Playoff A
+DTSTAMP:20260409T205942Z
+DTSTART:20260618T190000Z
+DTEND:20260618T205000Z
+DESCRIPTION:TV Channels: \n\nThe 9th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Switzerland and UEFA Playoff A.
+URL:https://footballcal.com/world-cup-2026/switzerland-uefa-playoff-a/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,UEFA Playoff A,Los Angeles,Group B,Group
+	 stages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:UEakE4YcUPz5kHTPPe9Cv
+SUMMARY:Belgium v Iran
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T190000Z
+DTEND:20260621T205000Z
+DESCRIPTION:TV Channels: \n\nThe 39th game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Belgium and Iran.
+URL:https://footballcal.com/world-cup-2026/belgium-iran/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Iran,Los Angeles,Group G,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:M_9DXOH4HksWNQU7oiVfB
+SUMMARY:UEFA Playoff C v USA
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T020000Z
+DTEND:20260626T035000Z
+DESCRIPTION:TV Channels: \n\nThe 23rd game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, UEFA Playoff C and USA.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-c-usa/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff C,USA,Los Angeles,Group D,Group stages,
+	World Cup 2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:FC4s-u2VUEapPCVxHzn2Q
+SUMMARY:Panama v Croatia
+DTSTAMP:20260409T205941Z
+DTSTART:20260623T230000Z
+DTEND:20260624T005000Z
+DESCRIPTION:TV Channels: \n\nThe 70th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Panama and Croatia.
+URL:https://footballcal.com/world-cup-2026/panama-croatia/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Panama,Croatia,Toronto,Group L,Group stages,World Cu
+	p 2026
+END:VEVENT
+END:VCALENDAR

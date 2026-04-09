@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ztmmbU4IabEQuNfe5wapO
+SUMMARY:Turkey v Georgia
+DTSTAMP:20260409T205942Z
+DTSTART:20240618T160000Z
+DTEND:20240618T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe eleventh game of the EURO 2024 competi
+	tion between Group F competitors\, Turkey and Georgia.
+URL:https://footballcal.com/euro-2024/turkey-georgia/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Georgia,Dortmund,Group F,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:5pBGGs1B9Kgzy6uz9ejEO
+SUMMARY:Georgia v Czechia
+DTSTAMP:20260409T205942Z
+DTSTART:20240622T130000Z
+DTEND:20240622T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-second game of the EURO 2024 co
+	mpetition between Group F competitors\, Georgia and Czechia.
+URL:https://footballcal.com/euro-2024/georgia-czechia/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Georgia,Czechia,Hamburg,Group F,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:G_rE2o3QFXFjE9BcGk5i2
+SUMMARY:Georgia v Portugal
+DTSTAMP:20260409T205942Z
+DTSTART:20240626T190000Z
+DTEND:20240626T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe thirty-fifth game of the EURO 2024 comp
+	etition between Group F competitors\, Georgia and Portugal.
+URL:https://footballcal.com/euro-2024/georgia-portugal/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Georgia,Portugal,Gelsenkirchen,Group F,Group stages,
+	EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:Q-9_Bcg9wlAz2hL4Q09kB
+SUMMARY:Spain v Georgia
+DTSTAMP:20260409T205942Z
+DTSTART:20240630T190000Z
+DTEND:20240630T205000Z
+DESCRIPTION:TV Channels: \n\nThe 39th game of the EURO 2024 competition bet
+	ween Group B winners\, Spain\, and Group F third place\, Georgia.
+URL:https://footballcal.com/euro-2024/game-39/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Georgia,Cologne,Group B,Group F,Round of 16,EU
+	RO 2024
+END:VEVENT
+END:VCALENDAR

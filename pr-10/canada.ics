@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:knMZOZSTCfEMWo4LT1Qqk
+SUMMARY:Canada v UEFA Playoff A
+DTSTAMP:20260409T205942Z
+DTSTART:20260612T190000Z
+DTEND:20260612T205000Z
+DESCRIPTION:TV Channels: \n\nThe 7th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Canada and UEFA Playoff A.
+URL:https://footballcal.com/world-cup-2026/canada-uefa-playoff-a/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Canada,UEFA Playoff A,Toronto,Group B,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ntmnN_aHCIqS4mQAf4YaM
+SUMMARY:Canada v Qatar
+DTSTAMP:20260409T205942Z
+DTSTART:20260618T220000Z
+DTEND:20260618T235000Z
+DESCRIPTION:TV Channels: \n\nThe 10th game of the FIFA World Cup 2026 group
+	 stage between Group B competitors\, Canada and Qatar.
+URL:https://footballcal.com/world-cup-2026/canada-qatar/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Canada,Qatar,Vancouver,Group B,Group stages,World Cu
+	p 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bNoC1Fc8upPc5RYAZPVKP
+SUMMARY:Switzerland v Canada
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T190000Z
+DTEND:20260624T205000Z
+DESCRIPTION:TV Channels: \n\nThe 11th game of the FIFA World Cup 2026 group
+	 stage between Group B competitors\, Switzerland and Canada.
+URL:https://footballcal.com/world-cup-2026/switzerland-canada/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Canada,Vancouver,Group B,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+END:VCALENDAR

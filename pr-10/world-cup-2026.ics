@@ -1,0 +1,1015 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:N5IWjKSFKbM0keEPGqzaY
+SUMMARY:Mexico v South Africa
+DTSTAMP:20260409T205942Z
+DTSTART:20260611T200000Z
+DTEND:20260611T215000Z
+DESCRIPTION:TV Channels: \n\nThe 1st game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and South Africa.
+URL:https://footballcal.com/world-cup-2026/mexico-south-africa/
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,South Africa,Mexico City,Group A,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:1jrCe2gCZt4Z9EC4df6IG
+SUMMARY:South Korea v UEFA Playoff D
+DTSTAMP:20260409T205942Z
+DTSTART:20260612T030000Z
+DTEND:20260612T045000Z
+DESCRIPTION:TV Channels: \n\nThe 2nd game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, South Korea and UEFA Playoff D.
+URL:https://footballcal.com/world-cup-2026/south-korea-uefa-playoff-d/
+LOCATION:Estadio Akron\, Guadalajara
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,South Korea,UEFA Playoff D,Guadalajara,Group A,Group
+	 stages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:LZmg5fe2XdMQuWqVtAgP9
+SUMMARY:Canada v UEFA Playoff A
+DTSTAMP:20260409T205942Z
+DTSTART:20260612T190000Z
+DTEND:20260612T205000Z
+DESCRIPTION:TV Channels: \n\nThe 7th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Canada and UEFA Playoff A.
+URL:https://footballcal.com/world-cup-2026/canada-uefa-playoff-a/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Canada,UEFA Playoff A,Toronto,Group B,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:JrZGl3Hp4rh5Fm1NxnOYh
+SUMMARY:USA v Paraguay
+DTSTAMP:20260409T205942Z
+DTSTART:20260613T010000Z
+DTEND:20260613T025000Z
+DESCRIPTION:TV Channels: \n\nThe 19th game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, USA and Paraguay.
+URL:https://footballcal.com/world-cup-2026/usa-paraguay/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,USA,Paraguay,Los Angeles,Group D,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:aowaEwqhfMl1mIluH9sER
+SUMMARY:Qatar v Switzerland
+DTSTAMP:20260409T205942Z
+DTSTART:20260613T190000Z
+DTEND:20260613T205000Z
+DESCRIPTION:TV Channels: \n\nThe 8th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Qatar and Switzerland.
+URL:https://footballcal.com/world-cup-2026/qatar-switzerland/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Qatar,Switzerland,San Francisco,Group B,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:GpjgwlRHH-qstW634NeYl
+SUMMARY:Brazil v Morocco
+DTSTAMP:20260409T205942Z
+DTSTART:20260613T220000Z
+DTEND:20260613T235000Z
+DESCRIPTION:TV Channels: \n\nThe 13th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Brazil and Morocco.
+URL:https://footballcal.com/world-cup-2026/brazil-morocco/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Brazil,Morocco,New York New Jersey,Group C,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:MuDC9JUviCfdBNJmnD4VH
+SUMMARY:Haiti v Scotland
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T010000Z
+DTEND:20260614T025000Z
+DESCRIPTION:TV Channels: \n\nThe 14th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Haiti and Scotland.
+URL:https://footballcal.com/world-cup-2026/haiti-scotland/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Haiti,Scotland,Boston,Group C,Group stages,World Cup
+	 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:QvfjaLj_GFpz8eNMmdOpz
+SUMMARY:Australia v UEFA Playoff C
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T040000Z
+DTEND:20260614T055000Z
+DESCRIPTION:TV Channels: \n\nThe 20th game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, Australia and UEFA Playoff C.
+URL:https://footballcal.com/world-cup-2026/australia-uefa-playoff-c/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Australia,UEFA Playoff C,Vancouver,Group D,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Wriddw3OpbH3wYRhm8T3N
+SUMMARY:Germany v Curaçao
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T170000Z
+DTEND:20260614T185000Z
+DESCRIPTION:TV Channels: \n\nThe 25th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Germany and Curaçao.
+URL:https://footballcal.com/world-cup-2026/germany-curacao/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Curaçao,Houston,Group E,Group stages,World C
+	up 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:I38qhFiE0bVqru1gdJsxj
+SUMMARY:Netherlands v Japan
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T200000Z
+DTEND:20260614T215000Z
+DESCRIPTION:TV Channels: \n\nThe 31st game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Netherlands and Japan.
+URL:https://footballcal.com/world-cup-2026/netherlands-japan/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Japan,Dallas,Group F,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:NCxBAA-gE13Q9TIZC6EBv
+SUMMARY:Ivory Coast v Ecuador
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T230000Z
+DTEND:20260615T005000Z
+DESCRIPTION:TV Channels: \n\nThe 26th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ivory Coast and Ecuador.
+URL:https://footballcal.com/world-cup-2026/ivory-coast-ecuador/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ivory Coast,Ecuador,Philadelphia,Group E,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:a9TMKet7kr1q3T7biE5V2
+SUMMARY:UEFA Playoff B v Tunisia
+DTSTAMP:20260409T205942Z
+DTSTART:20260615T030000Z
+DTEND:20260615T045000Z
+DESCRIPTION:TV Channels: \n\nThe 32nd game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, UEFA Playoff B and Tunisia.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-b-tunisia/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff B,Tunisia,Monterrey,Group F,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:MJAppYBnq2uCsvV2rIyVd
+SUMMARY:Spain v Cape Verde
+DTSTAMP:20260409T205942Z
+DTSTART:20260615T160000Z
+DTEND:20260615T175000Z
+DESCRIPTION:TV Channels: \n\nThe 43rd game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Spain and Cape Verde.
+URL:https://footballcal.com/world-cup-2026/spain-cape-verde/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Cape Verde,Atlanta,Group H,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ACQe3jz4sxB3orEw4hbui
+SUMMARY:Belgium v Egypt
+DTSTAMP:20260409T205942Z
+DTSTART:20260615T190000Z
+DTEND:20260615T205000Z
+DESCRIPTION:TV Channels: \n\nThe 37th game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Belgium and Egypt.
+URL:https://footballcal.com/world-cup-2026/belgium-egypt/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Egypt,Seattle,Group G,Group stages,World Cup
+	 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:FsDOFb1aDkLi2z7826CIV
+SUMMARY:Saudi Arabia v Uruguay
+DTSTAMP:20260409T205942Z
+DTSTART:20260615T220000Z
+DTEND:20260615T235000Z
+DESCRIPTION:TV Channels: \n\nThe 44th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Saudi Arabia and Uruguay.
+URL:https://footballcal.com/world-cup-2026/saudi-arabia-uruguay/
+LOCATION:Hard Rock Stadium\, Miami
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Saudi Arabia,Uruguay,Miami,Group H,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mTMpfXKl6eGdOkgUO3T6H
+SUMMARY:Iran v New Zealand
+DTSTAMP:20260409T205942Z
+DTSTART:20260616T010000Z
+DTEND:20260616T025000Z
+DESCRIPTION:TV Channels: \n\nThe 38th game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Iran and New Zealand.
+URL:https://footballcal.com/world-cup-2026/iran-new-zealand/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Iran,New Zealand,Los Angeles,Group G,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:BNTPomK_1UKS7esLSzd2H
+SUMMARY:France v Senegal
+DTSTAMP:20260409T205942Z
+DTSTART:20260616T190000Z
+DTEND:20260616T205000Z
+DESCRIPTION:TV Channels: \n\nThe 49th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, France and Senegal.
+URL:https://footballcal.com/world-cup-2026/france-senegal/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Senegal,New York New Jersey,Group I,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:QRQQhk15o_1FpFqbak3ez
+SUMMARY:IC Playoff 2 v Norway
+DTSTAMP:20260409T205942Z
+DTSTART:20260616T220000Z
+DTEND:20260616T235000Z
+DESCRIPTION:TV Channels: \n\nThe 50th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, IC Playoff 2 and Norway.
+URL:https://footballcal.com/world-cup-2026/ic-playoff-2-norway/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,IC Playoff 2,Norway,Boston,Group I,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:DO2f-DEFSkZPWcKe3BfRh
+SUMMARY:Argentina v Algeria
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T010000Z
+DTEND:20260617T025000Z
+DESCRIPTION:TV Channels: \n\nThe 55th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Argentina and Algeria.
+URL:https://footballcal.com/world-cup-2026/argentina-algeria/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Argentina,Algeria,Kansas City,Group J,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:jNY1vviCqNF15TyAnIjXi
+SUMMARY:Austria v Jordan
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T040000Z
+DTEND:20260617T055000Z
+DESCRIPTION:TV Channels: \n\nThe 56th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Austria and Jordan.
+URL:https://footballcal.com/world-cup-2026/austria-jordan/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,Jordan,San Francisco,Group J,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:sQSRkpBKHtj01TTK7R2EZ
+SUMMARY:Portugal v IC Playoff 1
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T170000Z
+DTEND:20260617T185000Z
+DESCRIPTION:TV Channels: \n\nThe 61st game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Portugal and IC Playoff 1.
+URL:https://footballcal.com/world-cup-2026/portugal-ic-playoff-1/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,IC Playoff 1,Houston,Group K,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:FyLJP641v7HukaSFTAUFP
+SUMMARY:England v Croatia
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T200000Z
+DTEND:20260617T215000Z
+DESCRIPTION:TV Channels: \n\nThe 67th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, England and Croatia.
+URL:https://footballcal.com/world-cup-2026/england-croatia/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Croatia,Dallas,Group L,Group stages,World Cu
+	p 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:J-K3SDKLSgpJwTtXsS34v
+SUMMARY:Ghana v Panama
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T230000Z
+DTEND:20260618T005000Z
+DESCRIPTION:TV Channels: \n\nThe 68th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Ghana and Panama.
+URL:https://footballcal.com/world-cup-2026/ghana-panama/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ghana,Panama,Toronto,Group L,Group stages,World Cup 
+	2026
+END:VEVENT
+BEGIN:VEVENT
+UID:WU97QsUTuPyOSg05zFeW_
+SUMMARY:Uzbekistan v Colombia
+DTSTAMP:20260409T205942Z
+DTSTART:20260618T030000Z
+DTEND:20260618T045000Z
+DESCRIPTION:TV Channels: \n\nThe 62nd game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Uzbekistan and Colombia.
+URL:https://footballcal.com/world-cup-2026/uzbekistan-colombia/
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Uzbekistan,Colombia,Mexico City,Group K,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fYb2wOx2elR1CBpteFvA2
+SUMMARY:UEFA Playoff D v South Africa
+DTSTAMP:20260409T205942Z
+DTSTART:20260618T160000Z
+DTEND:20260618T175000Z
+DESCRIPTION:TV Channels: \n\nThe 3rd game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, UEFA Playoff D and South Africa.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-d-south-africa/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff D,South Africa,Atlanta,Group A,Group st
+	ages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:PikBNb0ImSsQLNWVXKf7R
+SUMMARY:Switzerland v UEFA Playoff A
+DTSTAMP:20260409T205942Z
+DTSTART:20260618T190000Z
+DTEND:20260618T205000Z
+DESCRIPTION:TV Channels: \n\nThe 9th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Switzerland and UEFA Playoff A.
+URL:https://footballcal.com/world-cup-2026/switzerland-uefa-playoff-a/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,UEFA Playoff A,Los Angeles,Group B,Group
+	 stages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:RJScwfquKfQuZK6tmwjq9
+SUMMARY:Canada v Qatar
+DTSTAMP:20260409T205942Z
+DTSTART:20260618T220000Z
+DTEND:20260618T235000Z
+DESCRIPTION:TV Channels: \n\nThe 10th game of the FIFA World Cup 2026 group
+	 stage between Group B competitors\, Canada and Qatar.
+URL:https://footballcal.com/world-cup-2026/canada-qatar/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Canada,Qatar,Vancouver,Group B,Group stages,World Cu
+	p 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:K0hmQD-l_lwBj5qZUIUAH
+SUMMARY:Mexico v South Korea
+DTSTAMP:20260409T205942Z
+DTSTART:20260619T020000Z
+DTEND:20260619T035000Z
+DESCRIPTION:TV Channels: \n\nThe 4th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and South Korea.
+URL:https://footballcal.com/world-cup-2026/mexico-south-korea/
+LOCATION:Estadio Akron\, Guadalajara
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,South Korea,Guadalajara,Group A,Group stages,
+	World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:8odlifpy34uxAJ6hYEXoX
+SUMMARY:Scotland v Morocco
+DTSTAMP:20260409T205942Z
+DTSTART:20260619T220000Z
+DTEND:20260619T235000Z
+DESCRIPTION:TV Channels: \n\nThe 15th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Scotland and Morocco.
+URL:https://footballcal.com/world-cup-2026/scotland-morocco/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Morocco,Boston,Group C,Group stages,World C
+	up 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:k6IxsW9BS_JmPZeDOTZqm
+SUMMARY:USA v Australia
+DTSTAMP:20260409T205942Z
+DTSTART:20260619T220000Z
+DTEND:20260619T235000Z
+DESCRIPTION:TV Channels: \n\nThe 22nd game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, USA and Australia.
+URL:https://footballcal.com/world-cup-2026/usa-australia/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,USA,Australia,Seattle,Group D,Group stages,World Cup
+	 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Wp4b9NVbc00RRXW2T-2O6
+SUMMARY:Brazil v Haiti
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T010000Z
+DTEND:20260620T025000Z
+DESCRIPTION:TV Channels: \n\nThe 16th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Brazil and Haiti.
+URL:https://footballcal.com/world-cup-2026/brazil-haiti/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Brazil,Haiti,Philadelphia,Group C,Group stages,World
+	 Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:xZwXZEaWpP9UgLV0DFHBs
+SUMMARY:UEFA Playoff C v Paraguay
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T040000Z
+DTEND:20260620T055000Z
+DESCRIPTION:TV Channels: \n\nThe 21st game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, UEFA Playoff C and Paraguay.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-c-paraguay/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff C,Paraguay,San Francisco,Group D,Group 
+	stages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:8crAFoEMjQn9xnIQp5DZx
+SUMMARY:Netherlands v UEFA Playoff B
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T170000Z
+DTEND:20260620T185000Z
+DESCRIPTION:TV Channels: \n\nThe 33rd game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Netherlands and UEFA Playoff B.
+URL:https://footballcal.com/world-cup-2026/netherlands-uefa-playoff-b/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,UEFA Playoff B,Houston,Group F,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:JkZDRbwMbmOBx-CRZ4Vlt
+SUMMARY:Germany v Ivory Coast
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T200000Z
+DTEND:20260620T215000Z
+DESCRIPTION:TV Channels: \n\nThe 27th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Germany and Ivory Coast.
+URL:https://footballcal.com/world-cup-2026/germany-ivory-coast/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Ivory Coast,Toronto,Group E,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:UV85Ye_8sQPqhNP8K8aRO
+SUMMARY:Ecuador v Curaçao
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T000000Z
+DTEND:20260621T015000Z
+DESCRIPTION:TV Channels: \n\nThe 28th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ecuador and Curaçao.
+URL:https://footballcal.com/world-cup-2026/ecuador-curacao/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ecuador,Curaçao,Kansas City,Group E,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:QcnLpCMo3bH_ecrR7Kqso
+SUMMARY:Tunisia v Japan
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T030000Z
+DTEND:20260621T045000Z
+DESCRIPTION:TV Channels: \n\nThe 34th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Tunisia and Japan.
+URL:https://footballcal.com/world-cup-2026/tunisia-japan/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Tunisia,Japan,Monterrey,Group F,Group stages,World C
+	up 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:YsFEzjFNQlldPcBbMJ8Sb
+SUMMARY:Spain v Saudi Arabia
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T160000Z
+DTEND:20260621T175000Z
+DESCRIPTION:TV Channels: \n\nThe 45th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Spain and Saudi Arabia.
+URL:https://footballcal.com/world-cup-2026/spain-saudi-arabia/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Saudi Arabia,Atlanta,Group H,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:RszJc0G7_ONNAdISy1UVI
+SUMMARY:Belgium v Iran
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T190000Z
+DTEND:20260621T205000Z
+DESCRIPTION:TV Channels: \n\nThe 39th game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Belgium and Iran.
+URL:https://footballcal.com/world-cup-2026/belgium-iran/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Iran,Los Angeles,Group G,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:9F8_OLiWKxDjkr0dhcWSB
+SUMMARY:Uruguay v Cape Verde
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T220000Z
+DTEND:20260621T235000Z
+DESCRIPTION:TV Channels: \n\nThe 46th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Uruguay and Cape Verde.
+URL:https://footballcal.com/world-cup-2026/uruguay-cape-verde/
+LOCATION:Hard Rock Stadium\, Miami
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Uruguay,Cape Verde,Miami,Group H,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:5xfybsWhEOBNsP3hqdPB5
+SUMMARY:New Zealand v Egypt
+DTSTAMP:20260409T205942Z
+DTSTART:20260622T010000Z
+DTEND:20260622T025000Z
+DESCRIPTION:TV Channels: \n\nThe 40th game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, New Zealand and Egypt.
+URL:https://footballcal.com/world-cup-2026/new-zealand-egypt/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,New Zealand,Egypt,Vancouver,Group G,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:dJ1gj4H-q_Zm2NwvJMsFu
+SUMMARY:Argentina v Austria
+DTSTAMP:20260409T205942Z
+DTSTART:20260622T180000Z
+DTEND:20260622T195000Z
+DESCRIPTION:TV Channels: \n\nThe 57th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Argentina and Austria.
+URL:https://footballcal.com/world-cup-2026/argentina-austria/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Argentina,Austria,Dallas,Group J,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:zCCD8a4CWMDeBAcSPtnHz
+SUMMARY:France v IC Playoff 2
+DTSTAMP:20260409T205942Z
+DTSTART:20260622T210000Z
+DTEND:20260622T225000Z
+DESCRIPTION:TV Channels: \n\nThe 51st game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, France and IC Playoff 2.
+URL:https://footballcal.com/world-cup-2026/france-ic-playoff-2/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,IC Playoff 2,Philadelphia,Group I,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Lu6hiWNMvG45EaY6b0VkJ
+SUMMARY:Norway v Senegal
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T000000Z
+DTEND:20260623T015000Z
+DESCRIPTION:TV Channels: \n\nThe 52nd game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Norway and Senegal.
+URL:https://footballcal.com/world-cup-2026/norway-senegal/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Senegal,New York New Jersey,Group I,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:5GpU3x8Xh8rMS2tfaTHo4
+SUMMARY:Jordan v Algeria
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T030000Z
+DTEND:20260623T045000Z
+DESCRIPTION:TV Channels: \n\nThe 58th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Jordan and Algeria.
+URL:https://footballcal.com/world-cup-2026/jordan-algeria/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Jordan,Algeria,San Francisco,Group J,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:0j5Fo6mP1-RL97M3vCT6z
+SUMMARY:Portugal v Uzbekistan
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T170000Z
+DTEND:20260623T185000Z
+DESCRIPTION:TV Channels: \n\nThe 63rd game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Portugal and Uzbekistan.
+URL:https://footballcal.com/world-cup-2026/portugal-uzbekistan/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Uzbekistan,Houston,Group K,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:W3wN53ocPf58LSnpvTXci
+SUMMARY:England v Ghana
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T200000Z
+DTEND:20260623T215000Z
+DESCRIPTION:TV Channels: \n\nThe 69th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, England and Ghana.
+URL:https://footballcal.com/world-cup-2026/england-ghana/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Ghana,Boston,Group L,Group stages,World Cup 
+	2026
+END:VEVENT
+BEGIN:VEVENT
+UID:M4uJnETnt4v7Kpc8OWGCv
+SUMMARY:Panama v Croatia
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T230000Z
+DTEND:20260624T005000Z
+DESCRIPTION:TV Channels: \n\nThe 70th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Panama and Croatia.
+URL:https://footballcal.com/world-cup-2026/panama-croatia/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Panama,Croatia,Toronto,Group L,Group stages,World Cu
+	p 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:CWDZFrWg4sxHP6A2490Qf
+SUMMARY:Colombia v IC Playoff 1
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T030000Z
+DTEND:20260624T045000Z
+DESCRIPTION:TV Channels: \n\nThe 64th game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Colombia and IC Playoff 1.
+URL:https://footballcal.com/world-cup-2026/colombia-ic-playoff-1/
+LOCATION:Estadio Akron\, Guadalajara
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Colombia,IC Playoff 1,Guadalajara,Group K,Group stag
+	es,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:sa0oM3A13Mr1J7BrJq0NL
+SUMMARY:Switzerland v Canada
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T190000Z
+DTEND:20260624T205000Z
+DESCRIPTION:TV Channels: \n\nThe 11th game of the FIFA World Cup 2026 group
+	 stage between Group B competitors\, Switzerland and Canada.
+URL:https://footballcal.com/world-cup-2026/switzerland-canada/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Canada,Vancouver,Group B,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:n4N42pT_CgLQBIDFDKSeh
+SUMMARY:UEFA Playoff A v Qatar
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T190000Z
+DTEND:20260624T205000Z
+DESCRIPTION:TV Channels: \n\nThe 12th game of the FIFA World Cup 2026 group
+	 stage between Group B competitors\, UEFA Playoff A and Qatar.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-a-qatar/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff A,Qatar,Seattle,Group B,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ewxNzBqw26Qg7ts8i5M_F
+SUMMARY:Morocco v Haiti
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T220000Z
+DTEND:20260624T235000Z
+DESCRIPTION:TV Channels: \n\nThe 18th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Morocco and Haiti.
+URL:https://footballcal.com/world-cup-2026/morocco-haiti/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Morocco,Haiti,Atlanta,Group C,Group stages,World Cup
+	 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:15Z3m0eleQPDjO_IH1R-d
+SUMMARY:Scotland v Brazil
+DTSTAMP:20260409T205942Z
+DTSTART:20260624T220000Z
+DTEND:20260624T235000Z
+DESCRIPTION:TV Channels: \n\nThe 17th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Scotland and Brazil.
+URL:https://footballcal.com/world-cup-2026/scotland-brazil/
+LOCATION:Hard Rock Stadium\, Miami
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Brazil,Miami,Group C,Group stages,World Cup
+	 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:eIDydu1M-i_MW8cPHGj_d
+SUMMARY:Mexico v UEFA Playoff D
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T020000Z
+DTEND:20260625T035000Z
+DESCRIPTION:TV Channels: \n\nThe 5th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and UEFA Playoff D.
+URL:https://footballcal.com/world-cup-2026/mexico-uefa-playoff-d/
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,UEFA Playoff D,Mexico City,Group A,Group stag
+	es,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:OjCLmZolpsxI1TxLkSdkR
+SUMMARY:South Africa v South Korea
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T020000Z
+DTEND:20260625T035000Z
+DESCRIPTION:TV Channels: \n\nThe 6th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, South Africa and South Korea.
+URL:https://footballcal.com/world-cup-2026/south-africa-south-korea/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,South Africa,South Korea,Monterrey,Group A,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:RHKMNrkdFBsdLTQbgCQfA
+SUMMARY:Curaçao v Ivory Coast
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T200000Z
+DTEND:20260625T215000Z
+DESCRIPTION:TV Channels: \n\nThe 30th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Curaçao and Ivory Coast.
+URL:https://footballcal.com/world-cup-2026/curacao-ivory-coast/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Curaçao,Ivory Coast,Philadelphia,Group E,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:1yh51f7mmJ94ZSAeUtsUi
+SUMMARY:Ecuador v Germany
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T200000Z
+DTEND:20260625T215000Z
+DESCRIPTION:TV Channels: \n\nThe 29th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ecuador and Germany.
+URL:https://footballcal.com/world-cup-2026/ecuador-germany/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ecuador,Germany,New York New Jersey,Group E,Group st
+	ages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:3F4XB1HXF12TGiJnEhi5S
+SUMMARY:Japan v UEFA Playoff B
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T230000Z
+DTEND:20260626T005000Z
+DESCRIPTION:TV Channels: \n\nThe 35th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Japan and UEFA Playoff B.
+URL:https://footballcal.com/world-cup-2026/japan-uefa-playoff-b/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Japan,UEFA Playoff B,Dallas,Group F,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:LP5CpQTzL2C48yWRw82gu
+SUMMARY:Tunisia v Netherlands
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T230000Z
+DTEND:20260626T005000Z
+DESCRIPTION:TV Channels: \n\nThe 36th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Tunisia and Netherlands.
+URL:https://footballcal.com/world-cup-2026/tunisia-netherlands/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Tunisia,Netherlands,Kansas City,Group F,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:eIHsy56BZCr2xcS270cUm
+SUMMARY:Paraguay v Australia
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T020000Z
+DTEND:20260626T035000Z
+DESCRIPTION:TV Channels: \n\nThe 24th game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, Paraguay and Australia.
+URL:https://footballcal.com/world-cup-2026/paraguay-australia/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Paraguay,Australia,San Francisco,Group D,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:A6S_OeckhSu8TURTFXF1N
+SUMMARY:UEFA Playoff C v USA
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T020000Z
+DTEND:20260626T035000Z
+DESCRIPTION:TV Channels: \n\nThe 23rd game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, UEFA Playoff C and USA.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-c-usa/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff C,USA,Los Angeles,Group D,Group stages,
+	World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:-KsaIhmGOfW2OxpSuyDhX
+SUMMARY:Norway v France
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T190000Z
+DTEND:20260626T205000Z
+DESCRIPTION:TV Channels: \n\nThe 53rd game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Norway and France.
+URL:https://footballcal.com/world-cup-2026/norway-france/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,France,Boston,Group I,Group stages,World Cup 
+	2026
+END:VEVENT
+BEGIN:VEVENT
+UID:-0_Mffrto_qCAtEiObS8H
+SUMMARY:Senegal v IC Playoff 2
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T190000Z
+DTEND:20260626T205000Z
+DESCRIPTION:TV Channels: \n\nThe 54th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Senegal and IC Playoff 2.
+URL:https://footballcal.com/world-cup-2026/senegal-ic-playoff-2/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Senegal,IC Playoff 2,Toronto,Group I,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:lBwo45uxkTMpK6wVL0nTt
+SUMMARY:Cape Verde v Saudi Arabia
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T000000Z
+DTEND:20260627T015000Z
+DESCRIPTION:TV Channels: \n\nThe 47th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Cape Verde and Saudi Arabia.
+URL:https://footballcal.com/world-cup-2026/cape-verde-saudi-arabia/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Cape Verde,Saudi Arabia,Houston,Group H,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:2Rz5c4NGbWxPB3bMedyJD
+SUMMARY:Uruguay v Spain
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T010000Z
+DTEND:20260627T025000Z
+DESCRIPTION:TV Channels: \n\nThe 48th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Uruguay and Spain.
+URL:https://footballcal.com/world-cup-2026/uruguay-spain/
+LOCATION:Estadio Akron\, Guadalajara
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Uruguay,Spain,Guadalajara,Group H,Group stages,World
+	 Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:FVTu99qizVjxBj8YJ6Gt2
+SUMMARY:Egypt v Iran
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T030000Z
+DTEND:20260627T045000Z
+DESCRIPTION:TV Channels: \n\nThe 41st game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Egypt and Iran.
+URL:https://footballcal.com/world-cup-2026/egypt-iran/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Egypt,Iran,Seattle,Group G,Group stages,World Cup 20
+	26
+END:VEVENT
+BEGIN:VEVENT
+UID:gv7ZFtLxGEdnrHTMB9zZv
+SUMMARY:New Zealand v Belgium
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T030000Z
+DTEND:20260627T045000Z
+DESCRIPTION:TV Channels: \n\nThe 42nd game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, New Zealand and Belgium.
+URL:https://footballcal.com/world-cup-2026/new-zealand-belgium/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,New Zealand,Belgium,Vancouver,Group G,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:hoxs5loiNF0nmH1WSgLPV
+SUMMARY:Croatia v Ghana
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T210000Z
+DTEND:20260627T225000Z
+DESCRIPTION:TV Channels: \n\nThe 72nd game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Croatia and Ghana.
+URL:https://footballcal.com/world-cup-2026/croatia-ghana/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Croatia,Ghana,Philadelphia,Group L,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:weQzKZxO0_nslznodfVYG
+SUMMARY:Panama v England
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T210000Z
+DTEND:20260627T225000Z
+DESCRIPTION:TV Channels: \n\nThe 71st game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Panama and England.
+URL:https://footballcal.com/world-cup-2026/panama-england/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Panama,England,New York New Jersey,Group L,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:13z670zYSXOdgKk455zD_
+SUMMARY:Colombia v Portugal
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T233000Z
+DTEND:20260628T012000Z
+DESCRIPTION:TV Channels: \n\nThe 65th game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, Colombia and Portugal.
+URL:https://footballcal.com/world-cup-2026/colombia-portugal/
+LOCATION:Hard Rock Stadium\, Miami
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Colombia,Portugal,Miami,Group K,Group stages,World C
+	up 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:IpDGZaHy-Ryp_D_C17ylf
+SUMMARY:IC Playoff 1 v Uzbekistan
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T233000Z
+DTEND:20260628T012000Z
+DESCRIPTION:TV Channels: \n\nThe 66th game of the FIFA World Cup 2026 group
+	 stage between Group K competitors\, IC Playoff 1 and Uzbekistan.
+URL:https://footballcal.com/world-cup-2026/ic-playoff-1-uzbekistan/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,IC Playoff 1,Uzbekistan,Atlanta,Group K,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:HHXj3CWGdXr-HpgStfwmm
+SUMMARY:Algeria v Austria
+DTSTAMP:20260409T205942Z
+DTSTART:20260628T020000Z
+DTEND:20260628T035000Z
+DESCRIPTION:TV Channels: \n\nThe 59th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Algeria and Austria.
+URL:https://footballcal.com/world-cup-2026/algeria-austria/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Algeria,Austria,Kansas City,Group J,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:RCedIh2LXA1_oD28n3Fei
+SUMMARY:Jordan v Argentina
+DTSTAMP:20260409T205942Z
+DTSTART:20260628T020000Z
+DTEND:20260628T035000Z
+DESCRIPTION:TV Channels: \n\nThe 60th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Jordan and Argentina.
+URL:https://footballcal.com/world-cup-2026/jordan-argentina/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Jordan,Argentina,Dallas,Group J,Group stages,World C
+	up 2026
+END:VEVENT
+END:VCALENDAR

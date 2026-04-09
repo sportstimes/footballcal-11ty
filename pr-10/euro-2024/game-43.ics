@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:YIeFNJAQwiUShFeWO1bRc
+SUMMARY:Romania v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20240702T160000Z
+DTEND:20240702T175000Z
+DESCRIPTION:TV Channels: \n\nThe 43rd game of the EURO 2024 competition bet
+	ween Group E winners\, Romania and Group D third place\, Netherlands.
+URL:https://footballcal.com/euro-2024/game-43/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Romania,Netherlands,Munich,Group D,Group E,Round of 
+	16,EURO 2024
+END:VEVENT
+END:VCALENDAR

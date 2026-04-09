@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:U1JDleXHTBtrY3RqqHfWE
+SUMMARY:France v Senegal
+DTSTAMP:20260409T205941Z
+DTSTART:20260616T190000Z
+DTEND:20260616T205000Z
+DESCRIPTION:TV Channels: \n\nThe 49th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, France and Senegal.
+URL:https://footballcal.com/world-cup-2026/france-senegal/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Senegal,New York New Jersey,Group I,Group sta
+	ges,World Cup 2026
+END:VEVENT
+END:VCALENDAR

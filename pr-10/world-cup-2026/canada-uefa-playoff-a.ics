@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:7f_dQXp0iTtnZk0BQaVpL
+SUMMARY:Canada v UEFA Playoff A
+DTSTAMP:20260409T205941Z
+DTSTART:20260612T190000Z
+DTEND:20260612T205000Z
+DESCRIPTION:TV Channels: \n\nThe 7th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Canada and UEFA Playoff A.
+URL:https://footballcal.com/world-cup-2026/canada-uefa-playoff-a/
+LOCATION:BMO Field\, Toronto
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Canada,UEFA Playoff A,Toronto,Group B,Group stages,W
+	orld Cup 2026
+END:VEVENT
+END:VCALENDAR

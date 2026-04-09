@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:3qI13iJpcHF-oYEZ0hwlU
+SUMMARY:England v Slovakia
+DTSTAMP:20260409T205941Z
+DTSTART:20240630T160000Z
+DTEND:20240630T175000Z
+DESCRIPTION:TV Channels: \n\nThe 40th game of the EURO 2024 competition bet
+	ween Group C winners\, England and Group E 3rd place\, Slovakia.
+URL:https://footballcal.com/euro-2024/game-40/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Slovakia,Gelsenkirchen,Group C,Group E,Round
+	 of 16,EURO 2024
+END:VEVENT
+END:VCALENDAR

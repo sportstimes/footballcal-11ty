@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:6ABG6yr95cd_Yx5zGCrk7
+SUMMARY:France v England
+DTSTAMP:20260409T205941Z
+DTSTART:20250705T190000Z
+DTEND:20250705T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n8th game o
+	f the Women's Euro 2025 competition between France and England.
+URL:https://footballcal.com/euro-2025/france-england/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,England,Stadion Letzigrund, Zurich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Uvg5FQZLOtA4MDwohzWbE
+SUMMARY:England v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n15th game of the Women's Euro 2025 co
+	mpetition between England and Netherlands.
+URL:https://footballcal.com/euro-2025/england-netherlands/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Netherlands,Stadion Letzigrund, Zurich,EURO 
+	2025
+END:VEVENT
+BEGIN:VEVENT
+UID:nf2HWCBZZFc5FzWv6eemX
+SUMMARY:Sweden v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n21st game of the Women's Euro 2025 co
+	mpetition between Sweden and Germany.
+URL:https://footballcal.com/euro-2025/sweden-germany/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Germany,Stadion Letzigrund, Zurich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:5eGPHOvOR9fc7F_Cpjh6L
+SUMMARY:Sweden v England
+DTSTAMP:20260409T205941Z
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n26th game of the Women's Euro 2025 co
+	mpetition between Winner Group C and Runner-up Group D.
+URL:https://footballcal.com/euro-2025/winner-group-c-runner-up-group-d/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,England,Group C,Group D,Stadion Letzigrund, Z
+	urich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:VK8vf2XZjGcM4FmHQ9k_w
+SUMMARY:Germany v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20250723T190000Z
+DTEND:20250723T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe second semi-final of the Women's 
+	Euro 2025 competition between Germany and Spain.
+URL:https://footballcal.com/euro-2025/semi-final-2/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Spain,Semi-final 2,Stadion Letzigrund, Zuric
+	h,EURO 2025
+END:VEVENT
+END:VCALENDAR

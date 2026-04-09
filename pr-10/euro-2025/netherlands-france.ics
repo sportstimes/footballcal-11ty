@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:esnIofQjlbBxuGLb0P9LT
+SUMMARY:Netherlands v France
+DTSTAMP:20260409T205941Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n23rd game 
+	of the Women's Euro 2025 competition between Netherlands and France.
+URL:https://footballcal.com/euro-2025/netherlands-france/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,France,St. Jakob‑Park, Basel,EURO 2025
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:_RKUEES6D34rgo3bxiVTI
+SUMMARY:Argentina v Algeria
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T010000Z
+DTEND:20260617T025000Z
+DESCRIPTION:TV Channels: \n\nThe 55th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Argentina and Algeria.
+URL:https://footballcal.com/world-cup-2026/argentina-algeria/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Argentina,Algeria,Kansas City,Group J,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pVAUgcz_FFzu31GK5Ezfb
+SUMMARY:Austria v Jordan
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T040000Z
+DTEND:20260617T055000Z
+DESCRIPTION:TV Channels: \n\nThe 56th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Austria and Jordan.
+URL:https://footballcal.com/world-cup-2026/austria-jordan/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,Jordan,San Francisco,Group J,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:7PMxlebN0cUhL5I5_D50j
+SUMMARY:Argentina v Austria
+DTSTAMP:20260409T205942Z
+DTSTART:20260622T180000Z
+DTEND:20260622T195000Z
+DESCRIPTION:TV Channels: \n\nThe 57th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Argentina and Austria.
+URL:https://footballcal.com/world-cup-2026/argentina-austria/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Argentina,Austria,Dallas,Group J,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:a_7ndkvjl2exD24R0X5ow
+SUMMARY:Jordan v Algeria
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T030000Z
+DTEND:20260623T045000Z
+DESCRIPTION:TV Channels: \n\nThe 58th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Jordan and Algeria.
+URL:https://footballcal.com/world-cup-2026/jordan-algeria/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Jordan,Algeria,San Francisco,Group J,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:lllg99dFYwYOIWBO9-PJo
+SUMMARY:Algeria v Austria
+DTSTAMP:20260409T205942Z
+DTSTART:20260628T020000Z
+DTEND:20260628T035000Z
+DESCRIPTION:TV Channels: \n\nThe 59th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Algeria and Austria.
+URL:https://footballcal.com/world-cup-2026/algeria-austria/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Algeria,Austria,Kansas City,Group J,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:QR3nO-ewUrAHd9-_E-PN0
+SUMMARY:Jordan v Argentina
+DTSTAMP:20260409T205942Z
+DTSTART:20260628T020000Z
+DTEND:20260628T035000Z
+DESCRIPTION:TV Channels: \n\nThe 60th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Jordan and Argentina.
+URL:https://footballcal.com/world-cup-2026/jordan-argentina/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Jordan,Argentina,Dallas,Group J,Group stages,World C
+	up 2026
+END:VEVENT
+END:VCALENDAR

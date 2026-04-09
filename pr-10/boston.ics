@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:WnAe8k_QznGWakMnNfElq
+SUMMARY:Haiti v Scotland
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T010000Z
+DTEND:20260614T025000Z
+DESCRIPTION:TV Channels: \n\nThe 14th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Haiti and Scotland.
+URL:https://footballcal.com/world-cup-2026/haiti-scotland/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Haiti,Scotland,Boston,Group C,Group stages,World Cup
+	 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:3nRtyXTHlt19Poizx7Cu3
+SUMMARY:IC Playoff 2 v Norway
+DTSTAMP:20260409T205942Z
+DTSTART:20260616T220000Z
+DTEND:20260616T235000Z
+DESCRIPTION:TV Channels: \n\nThe 50th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, IC Playoff 2 and Norway.
+URL:https://footballcal.com/world-cup-2026/ic-playoff-2-norway/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,IC Playoff 2,Norway,Boston,Group I,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:vD9cOcTjoPW3icLB6jexu
+SUMMARY:Scotland v Morocco
+DTSTAMP:20260409T205942Z
+DTSTART:20260619T220000Z
+DTEND:20260619T235000Z
+DESCRIPTION:TV Channels: \n\nThe 15th game of the FIFA World Cup 2026 group
+	 stage between Group C competitors\, Scotland and Morocco.
+URL:https://footballcal.com/world-cup-2026/scotland-morocco/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Morocco,Boston,Group C,Group stages,World C
+	up 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:PHwtq4tmGwWgB9wvPvPpx
+SUMMARY:England v Ghana
+DTSTAMP:20260409T205942Z
+DTSTART:20260623T200000Z
+DTEND:20260623T215000Z
+DESCRIPTION:TV Channels: \n\nThe 69th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, England and Ghana.
+URL:https://footballcal.com/world-cup-2026/england-ghana/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Ghana,Boston,Group L,Group stages,World Cup 
+	2026
+END:VEVENT
+BEGIN:VEVENT
+UID:uCtFSymk8KknP_f6OCgBv
+SUMMARY:Norway v France
+DTSTAMP:20260409T205942Z
+DTSTART:20260626T190000Z
+DTEND:20260626T205000Z
+DESCRIPTION:TV Channels: \n\nThe 53rd game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Norway and France.
+URL:https://footballcal.com/world-cup-2026/norway-france/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,France,Boston,Group I,Group stages,World Cup 
+	2026
+END:VEVENT
+END:VCALENDAR

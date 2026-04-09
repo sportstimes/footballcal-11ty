@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:waBi-4C6OttvW0AdIuHd3
+SUMMARY:USA v Australia
+DTSTAMP:20260409T205941Z
+DTSTART:20260619T220000Z
+DTEND:20260619T235000Z
+DESCRIPTION:TV Channels: \n\nThe 22nd game of the FIFA World Cup 2026 group
+	 stage between Group D competitors\, USA and Australia.
+URL:https://footballcal.com/world-cup-2026/usa-australia/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,USA,Australia,Seattle,Group D,Group stages,World Cup
+	 2026
+END:VEVENT
+END:VCALENDAR

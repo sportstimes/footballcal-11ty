@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:GtzGyW-MIWeZDf7hO42RC
+SUMMARY:Mexico v South Africa
+DTSTAMP:20260409T205942Z
+DTSTART:20260611T200000Z
+DTEND:20260611T215000Z
+DESCRIPTION:TV Channels: \n\nThe 1st game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and South Africa.
+URL:https://footballcal.com/world-cup-2026/mexico-south-africa/
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,South Africa,Mexico City,Group A,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:31_Oi32oQhyu5E4_3Om4_
+SUMMARY:Mexico v South Korea
+DTSTAMP:20260409T205942Z
+DTSTART:20260619T020000Z
+DTEND:20260619T035000Z
+DESCRIPTION:TV Channels: \n\nThe 4th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and South Korea.
+URL:https://footballcal.com/world-cup-2026/mexico-south-korea/
+LOCATION:Estadio Akron\, Guadalajara
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,South Korea,Guadalajara,Group A,Group stages,
+	World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:T_mFSfcDMkEJGcVgJFMRz
+SUMMARY:Mexico v UEFA Playoff D
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T020000Z
+DTEND:20260625T035000Z
+DESCRIPTION:TV Channels: \n\nThe 5th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and UEFA Playoff D.
+URL:https://footballcal.com/world-cup-2026/mexico-uefa-playoff-d/
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,UEFA Playoff D,Mexico City,Group A,Group stag
+	es,World Cup 2026
+END:VEVENT
+END:VCALENDAR

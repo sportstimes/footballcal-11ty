@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:AtTuo8QFLvMk8Pc5gUD2j
+SUMMARY:Iceland v Finland
+DTSTAMP:20260409T205941Z
+DTSTART:20250702T160000Z
+DTEND:20250702T180000Z
+DESCRIPTION:TV Channels: ITV\, RÚV\, YLE\n\n1st game of the Women's Euro 20
+	25 competition between Iceland and Finland.
+URL:https://footballcal.com/euro-2025/iceland-finland/
+LOCATION:Arena Thun\, Thun
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Iceland,Finland,Arena Thun, Thun,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:tgSvIs1kEZ_ogW3zjZWMl
+SUMMARY:Switzerland v Iceland
+DTSTAMP:20260409T205941Z
+DTSTART:20250706T190000Z
+DTEND:20250706T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, RTS\, SRF\, RSI\, RÚV\n\n10th game of 
+	the Women's Euro 2025 competition between Switzerland and Iceland.
+URL:https://footballcal.com/euro-2025/switzerland-iceland/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Iceland,Stadion Wankdorf, Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:J_eYsXdOY5nKrTpFV1vV2
+SUMMARY:Norway v Iceland
+DTSTAMP:20260409T205941Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, RÚV\n\n18th game of the Women's Euro 2
+	025 competition between Norway and Iceland.
+URL:https://footballcal.com/euro-2025/norway-iceland/
+LOCATION:Arena Thun\, Thun
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Iceland,Arena Thun, Thun,EURO 2025
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,345 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:xy8dkQlTeXwaOR7jykp0_
+SUMMARY:Hungary v Portugal
+DTSTAMP:20260409T205942Z
+DTSTART:20210615T160000Z
+DTEND:20210615T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe eleventh game of the (delayed) EURO 202
+	0 competition between Group F rivals\, Hungary and Portugal.
+URL:https://footballcal.com/euro-2020/hungary-portugal/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,Portugal,Budapest,Group F,Group stages,EURO 
+	2020
+END:VEVENT
+BEGIN:VEVENT
+UID:29NCzHkcI_ODVCZJouAXz
+SUMMARY:France v Germany
+DTSTAMP:20260409T205942Z
+DTSTART:20210615T190000Z
+DTEND:20210615T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe twelfth game of the (delayed) EURO 2020
+	 competition between Group F rivals\, France and Germany.
+URL:https://footballcal.com/euro-2020/france-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Munich,Group F,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:g_DoSNtQQ4hda6S2UHLGW
+SUMMARY:Hungary v France
+DTSTAMP:20260409T205942Z
+DTSTART:20210619T130000Z
+DTEND:20210619T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 22nd game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Hungary and France.
+URL:https://footballcal.com/euro-2020/hungary-france/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,France,Budapest,Group F,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:FPzzB3YSnKygrFXxUTo6s
+SUMMARY:Portugal v Germany
+DTSTAMP:20260409T205942Z
+DTSTART:20210619T160000Z
+DTEND:20210619T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 23rd game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Portugal and Germany.
+URL:https://footballcal.com/euro-2020/portugal-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Germany,Munich,Group F,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:pgTHLtO0gRm51QxoCSlBp
+SUMMARY:Germany v Hungary
+DTSTAMP:20260409T205942Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 35th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Germany and Hungary.
+URL:https://footballcal.com/euro-2020/germany-hungary/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Hungary,Munich,Group F,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:-heC4ugg2gKLEm3I9hqe8
+SUMMARY:Portugal v France
+DTSTAMP:20260409T205942Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 36th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Portugal and France.
+URL:https://footballcal.com/euro-2020/portugal-france/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,France,Budapest,Group F,Group stages,EURO 2
+	020
+END:VEVENT
+BEGIN:VEVENT
+UID:kYOCzWPtViyR6uw7ngCyy
+SUMMARY:Netherlands v Czech Republic
+DTSTAMP:20260409T205942Z
+DTSTART:20210627T160000Z
+DTEND:20210627T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 39th game of the (delayed) EURO 2020 co
+	mpetition between Group C winners Netherlands and Group D third place Czec
+	h Republic.
+URL:https://footballcal.com/euro-2020/knockout-3/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Czech Republic,Budapest,Group C,Group D,
+	Group E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:Q37eD0o4tfrq-j2rgiKwT
+SUMMARY:Belgium v Portugal
+DTSTAMP:20260409T205942Z
+DTSTART:20210627T190000Z
+DTEND:20210627T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
+	mpetition between Group B winners Belgium and Group F third place Portugal
+	.
+URL:https://footballcal.com/euro-2020/knockout-4/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
+	up E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:EyLWnGyOktODY19XY_1Bd
+SUMMARY:France v Switzerland
+DTSTAMP:20260409T205942Z
+DTSTART:20210628T190000Z
+DTEND:20210628T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
+	mpetition between Group F winners France and Group A third place Switzerla
+	nd.
+URL:https://footballcal.com/euro-2020/knockout-6/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
+	,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:PrUCbPByN__pSlvCGwSNU
+SUMMARY:England v Germany
+DTSTAMP:20260409T205942Z
+DTSTART:20210629T160000Z
+DTEND:20210629T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
+	mpetition between Group D winners England and Group F runners-up Germany.
+URL:https://footballcal.com/euro-2020/knockout-7/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou
+	p of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:qPTTC55ymkm_PGJKA_OiH
+SUMMARY:Turkey v Georgia
+DTSTAMP:20260409T205942Z
+DTSTART:20240618T160000Z
+DTEND:20240618T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe eleventh game of the EURO 2024 competi
+	tion between Group F competitors\, Turkey and Georgia.
+URL:https://footballcal.com/euro-2024/turkey-georgia/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Georgia,Dortmund,Group F,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:vmeLJ_cv6Hp0RP5vzW_nH
+SUMMARY:Portugal v Czechia
+DTSTAMP:20260409T205942Z
+DTSTART:20240618T190000Z
+DTEND:20240618T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twelfth game of the EURO 2024 competit
+	ion between Group F competitors\, Portugal and Czechia.
+URL:https://footballcal.com/euro-2024/portugal-czechia/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Czechia,Leipzig,Group F,Group stages,EURO 2
+	024
+END:VEVENT
+BEGIN:VEVENT
+UID:SZpUvTvv2RVUqkJewXvEG
+SUMMARY:Georgia v Czechia
+DTSTAMP:20260409T205942Z
+DTSTART:20240622T130000Z
+DTEND:20240622T145000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-second game of the EURO 2024 co
+	mpetition between Group F competitors\, Georgia and Czechia.
+URL:https://footballcal.com/euro-2024/georgia-czechia/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Georgia,Czechia,Hamburg,Group F,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:WYEdwTg8Gm9cZyoL3thkS
+SUMMARY:Turkey v Portugal
+DTSTAMP:20260409T205942Z
+DTSTART:20240622T160000Z
+DTEND:20240622T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twenty-third game of the EURO 2024 com
+	petition between Group F competitors\, Turkey and Portugal.
+URL:https://footballcal.com/euro-2024/turkey-portugal/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Portugal,Dortmund,Group F,Group stages,EURO 2
+	024
+END:VEVENT
+BEGIN:VEVENT
+UID:5a5ALVf9nP4csPtaQLw1a
+SUMMARY:Czechia v Turkey
+DTSTAMP:20260409T205942Z
+DTSTART:20240626T190000Z
+DTEND:20240626T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe thirty-sixth game of the EURO 2024 comp
+	etition between Group F competitors\, Czechia and Turkey.
+URL:https://footballcal.com/euro-2024/czechia-turkey/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Czechia,Turkey,Hamburg,Group F,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:rLQfqFAR6g0mNli1I5SVg
+SUMMARY:Georgia v Portugal
+DTSTAMP:20260409T205942Z
+DTSTART:20240626T190000Z
+DTEND:20240626T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe thirty-fifth game of the EURO 2024 comp
+	etition between Group F competitors\, Georgia and Portugal.
+URL:https://footballcal.com/euro-2024/georgia-portugal/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Georgia,Portugal,Gelsenkirchen,Group F,Group stages,
+	EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:_OSNiI9Kpbm35qlL0eV2o
+SUMMARY:Spain v Georgia
+DTSTAMP:20260409T205942Z
+DTSTART:20240630T190000Z
+DTEND:20240630T205000Z
+DESCRIPTION:TV Channels: \n\nThe 39th game of the EURO 2024 competition bet
+	ween Group B winners\, Spain\, and Group F third place\, Georgia.
+URL:https://footballcal.com/euro-2024/game-39/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Georgia,Cologne,Group B,Group F,Round of 16,EU
+	RO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:V8B_fetV7pVgqXg3zw55b
+SUMMARY:Austria v Turkey
+DTSTAMP:20260409T205942Z
+DTSTART:20240702T190000Z
+DTEND:20240702T205000Z
+DESCRIPTION:TV Channels: \n\nThe 44th game of the EURO 2024 competition bet
+	ween Group D winners\, Austria and Group F runners-up\, Turkey.
+URL:https://footballcal.com/euro-2024/game-44/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,Turkey,Leipzig,Group D,Group F,Round of 16,E
+	URO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:dKpfrhgZCAmlOiXmmSP9d
+SUMMARY:Netherlands v Japan
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T200000Z
+DTEND:20260614T215000Z
+DESCRIPTION:TV Channels: \n\nThe 31st game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Netherlands and Japan.
+URL:https://footballcal.com/world-cup-2026/netherlands-japan/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Japan,Dallas,Group F,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:QAx8YSM1HY_c6VLqqinis
+SUMMARY:UEFA Playoff B v Tunisia
+DTSTAMP:20260409T205942Z
+DTSTART:20260615T030000Z
+DTEND:20260615T045000Z
+DESCRIPTION:TV Channels: \n\nThe 32nd game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, UEFA Playoff B and Tunisia.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-b-tunisia/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff B,Tunisia,Monterrey,Group F,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:VkHSHnrfSVLrOSt-pChSl
+SUMMARY:Netherlands v UEFA Playoff B
+DTSTAMP:20260409T205942Z
+DTSTART:20260620T170000Z
+DTEND:20260620T185000Z
+DESCRIPTION:TV Channels: \n\nThe 33rd game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Netherlands and UEFA Playoff B.
+URL:https://footballcal.com/world-cup-2026/netherlands-uefa-playoff-b/
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,UEFA Playoff B,Houston,Group F,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ElzC4OAQFERYlL-stHhP1
+SUMMARY:Tunisia v Japan
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T030000Z
+DTEND:20260621T045000Z
+DESCRIPTION:TV Channels: \n\nThe 34th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Tunisia and Japan.
+URL:https://footballcal.com/world-cup-2026/tunisia-japan/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Tunisia,Japan,Monterrey,Group F,Group stages,World C
+	up 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:vCmpYetCyHuLpP4ak6E5Q
+SUMMARY:Japan v UEFA Playoff B
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T230000Z
+DTEND:20260626T005000Z
+DESCRIPTION:TV Channels: \n\nThe 35th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Japan and UEFA Playoff B.
+URL:https://footballcal.com/world-cup-2026/japan-uefa-playoff-b/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Japan,UEFA Playoff B,Dallas,Group F,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:06RixRRMVUEtQ4ui0BW46
+SUMMARY:Tunisia v Netherlands
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T230000Z
+DTEND:20260626T005000Z
+DESCRIPTION:TV Channels: \n\nThe 36th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Tunisia and Netherlands.
+URL:https://footballcal.com/world-cup-2026/tunisia-netherlands/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Tunisia,Netherlands,Kansas City,Group F,Group stages
+	,World Cup 2026
+END:VEVENT
+END:VCALENDAR

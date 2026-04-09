@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:RKEgyJu0MfTnrNh0aHrYW
+SUMMARY:France v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20210615T190000Z
+DTEND:20210615T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe twelfth game of the (delayed) EURO 2020
+	 competition between Group F rivals\, France and Germany.
+URL:https://footballcal.com/euro-2020/france-germany/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Munich,Group F,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:nZItXOYEJIkB70Am64Z_I
+SUMMARY:Hungary v France
+DTSTAMP:20260409T205941Z
+DTSTART:20210619T130000Z
+DTEND:20210619T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 22nd game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Hungary and France.
+URL:https://footballcal.com/euro-2020/hungary-france/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,France,Budapest,Group F,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:atjUJsmzuBCgxpuqEwXoE
+SUMMARY:Portugal v France
+DTSTAMP:20260409T205941Z
+DTSTART:20210623T190000Z
+DTEND:20210623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 36th game of the (delayed) EURO 2020 co
+	mpetition between Group F rivals\, Portugal and France.
+URL:https://footballcal.com/euro-2020/portugal-france/
+LOCATION:Budapest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,France,Budapest,Group F,Group stages,EURO 2
+	020
+END:VEVENT
+BEGIN:VEVENT
+UID:bXOtvxQPbVT1fd_YkRi3B
+SUMMARY:France v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20210628T190000Z
+DTEND:20210628T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
+	mpetition between Group F winners France and Group A third place Switzerla
+	nd.
+URL:https://footballcal.com/euro-2020/knockout-6/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
+	,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:LK1kOxRxCUSo54kpSdc6E
+SUMMARY:Austria v France
+DTSTAMP:20260409T205941Z
+DTSTART:20240617T190000Z
+DTEND:20240617T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe tenth game of the EURO 2024 competitio
+	n between Group D competitors\, Austria and France.
+URL:https://footballcal.com/euro-2024/austria-france/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Austria,France,Dusseldorf,Group D,Group stages,EURO 
+	2024
+END:VEVENT
+BEGIN:VEVENT
+UID:J0bxfR2PkWT5-ZIP66A1N
+SUMMARY:Netherlands v France
+DTSTAMP:20260409T205941Z
+DTSTART:20240621T190000Z
+DTEND:20240621T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-first game of the EURO 2024 com
+	petition between Group D competitors\, Netherlands and France.
+URL:https://footballcal.com/euro-2024/netherlands-france/
+LOCATION:Leipzig
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,France,Leipzig,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:4fhw9S_U-J6XVEBFwYzpv
+SUMMARY:France v Poland
+DTSTAMP:20260409T205941Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe thirtieth game of the EURO 2024 competi
+	tion between Group D competitors\, France and Poland.
+URL:https://footballcal.com/euro-2024/france-poland/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Poland,Dortmund,Group D,Group stages,EURO 202
+	4
+END:VEVENT
+BEGIN:VEVENT
+UID:B4y92AWsG4rgKL-Uj77bS
+SUMMARY:France v Belgium
+DTSTAMP:20260409T205941Z
+DTSTART:20240701T160000Z
+DTEND:20240701T175000Z
+DESCRIPTION:TV Channels: \n\nThe 42nd game of the EURO 2024 competition bet
+	ween Group D runners-up\, France and Group E runners-up\, Belgium.
+URL:https://footballcal.com/euro-2024/game-42/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Belgium,Dusseldorf,Group D,Group E,Round of 1
+	6,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:ag_kDOYuVdRegSJXsH5nN
+SUMMARY:Portugal v France
+DTSTAMP:20260409T205941Z
+DTSTART:20240705T190000Z
+DTEND:20240705T205000Z
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 46th game and second qua
+	rter final of the EURO 2024 competition between Portugal and France.
+URL:https://footballcal.com/euro-2024/quarter-final-2/
+LOCATION:Hamburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,France,Hamburg,Quarter Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:4FLMRmg38fqHKeQAJtsoS
+SUMMARY:Spain v France
+DTSTAMP:20260409T205941Z
+DTSTART:20240709T190000Z
+DTEND:20240709T205000Z
+DESCRIPTION:TV Channels: BBC 1\, BBC iPlayer\n\nThe 49th game and first sem
+	i final of the EURO 2024 competition between Spain and France.
+URL:https://footballcal.com/euro-2024/semi-final-1/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,France,Munich,Semi Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:IL-_umSQBwym3AJfRaKaE
+SUMMARY:France v England
+DTSTAMP:20260409T205941Z
+DTSTART:20250705T190000Z
+DTEND:20250705T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n8th game o
+	f the Women's Euro 2025 competition between France and England.
+URL:https://footballcal.com/euro-2025/france-england/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,England,Stadion Letzigrund, Zurich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:uBL9baq2nC9B0RevGnlrR
+SUMMARY:France v Wales
+DTSTAMP:20260409T205941Z
+DTSTART:20250709T190000Z
+DTEND:20250709T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n16th game 
+	of the Women's Euro 2025 competition between France and Wales.
+URL:https://footballcal.com/euro-2025/france-wales/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Wales,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:CFtqnPwFXzi0UnOh9uG45
+SUMMARY:Netherlands v France
+DTSTAMP:20260409T205941Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n23rd game 
+	of the Women's Euro 2025 competition between Netherlands and France.
+URL:https://footballcal.com/euro-2025/netherlands-france/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,France,St. Jakob‑Park, Basel,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:av9-tvrlFpLd_1Gb1TnC0
+SUMMARY:France v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20250719T190000Z
+DTEND:20250719T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n28th game of the Women's Euro 2025 co
+	mpetition between Winner Group D and Runner-up Group C.
+URL:https://footballcal.com/euro-2025/winner-group-d-runner-up-group-c/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Group D,Group C,St. Jakob‑Park, Basel
+	,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Ft02t06jzZpaJR_n53WYi
+SUMMARY:France v Senegal
+DTSTAMP:20260409T205941Z
+DTSTART:20260616T190000Z
+DTEND:20260616T205000Z
+DESCRIPTION:TV Channels: \n\nThe 49th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, France and Senegal.
+URL:https://footballcal.com/world-cup-2026/france-senegal/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Senegal,New York New Jersey,Group I,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:JEaUg3Qx8P6UsC2lYTJl3
+SUMMARY:France v IC Playoff 2
+DTSTAMP:20260409T205941Z
+DTSTART:20260622T210000Z
+DTEND:20260622T225000Z
+DESCRIPTION:TV Channels: \n\nThe 51st game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, France and IC Playoff 2.
+URL:https://footballcal.com/world-cup-2026/france-ic-playoff-2/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,IC Playoff 2,Philadelphia,Group I,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Tmr1IqwomklKhTq54mpjB
+SUMMARY:Norway v France
+DTSTAMP:20260409T205941Z
+DTSTART:20260626T190000Z
+DTEND:20260626T205000Z
+DESCRIPTION:TV Channels: \n\nThe 53rd game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Norway and France.
+URL:https://footballcal.com/world-cup-2026/norway-france/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,France,Boston,Group I,Group stages,World Cup 
+	2026
+END:VEVENT
+END:VCALENDAR

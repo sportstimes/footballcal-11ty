@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:7gech8jb_p7SmhVMqt4qJ
+SUMMARY:France v England
+DTSTAMP:20260409T205941Z
+DTSTART:20250705T190000Z
+DTEND:20250705T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n8th game o
+	f the Women's Euro 2025 competition between France and England.
+URL:https://footballcal.com/euro-2025/france-england/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,England,Stadion Letzigrund, Zurich,EURO 2025
+END:VEVENT
+END:VCALENDAR

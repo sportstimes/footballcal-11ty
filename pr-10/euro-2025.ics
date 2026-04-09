@@ -1,0 +1,418 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:D6xyEsatwnEL_p5ozX9ZY
+SUMMARY:Iceland v Finland
+DTSTAMP:20260409T205941Z
+DTSTART:20250702T160000Z
+DTEND:20250702T180000Z
+DESCRIPTION:TV Channels: ITV\, RÚV\, YLE\n\n1st game of the Women's Euro 20
+	25 competition between Iceland and Finland.
+URL:https://footballcal.com/euro-2025/iceland-finland/
+LOCATION:Arena Thun\, Thun
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Iceland,Finland,Arena Thun, Thun,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:4Ycyb8gHOONeE8-F4FZA8
+SUMMARY:Switzerland v Norway
+DTSTAMP:20260409T205941Z
+DTSTART:20250702T190000Z
+DTEND:20250702T210000Z
+DESCRIPTION:TV Channels: BBC\, RTS\, SRF\, RSI\n\n2nd game of the Women's E
+	uro 2025 competition between Switzerland and Norway.
+URL:https://footballcal.com/euro-2025/switzerland-norway/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Norway,St. Jakob‑Park, Basel,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:4AL0dU4n4EynDT7AbsPjc
+SUMMARY:Belgium v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250703T160000Z
+DTEND:20250703T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n3rd game of the Women's Euro 2025 com
+	petition between Belgium and Italy.
+URL:https://footballcal.com/euro-2025/belgium-italy/
+LOCATION:Stade de Tourbillon\, Sion
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Italy,Stade de Tourbillon, Sion,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:sh7k-19TCgR8OkKiLApsc
+SUMMARY:Spain v Portugal
+DTSTAMP:20260409T205941Z
+DTSTART:20250703T190000Z
+DTEND:20250703T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n4th game of the Women's Euro 2025 com
+	petition between Spain and Portugal.
+URL:https://footballcal.com/euro-2025/spain-portugal/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Portugal,Stadion Wankdorf, Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:WG5_NmLdruG062hV8lg-W
+SUMMARY:Denmark v Sweden
+DTSTAMP:20260409T205941Z
+DTSTART:20250704T160000Z
+DTEND:20250704T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n5th game of the Women's Euro 2025 com
+	petition between Denmark and Sweden.
+URL:https://footballcal.com/euro-2025/denmark-sweden/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,Sweden,Stade de Genève, Geneva,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:83iSkh-f28biPkMqj1K6V
+SUMMARY:Germany v Poland
+DTSTAMP:20260409T205941Z
+DTSTART:20250704T190000Z
+DTEND:20250704T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n6th game of the Women's Euro 2025 com
+	petition between Germany and Poland.
+URL:https://footballcal.com/euro-2025/germany-poland/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Poland,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:9zUZNOHz18RDIgyMvMMV2
+SUMMARY:Wales v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20250705T160000Z
+DTEND:20250705T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n7th game of the Women's Euro 2025 com
+	petition between Wales and Netherlands.
+URL:https://footballcal.com/euro-2025/wales-netherlands/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Netherlands,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:bdOZ7aV9EPYyPUnrATq16
+SUMMARY:France v England
+DTSTAMP:20260409T205941Z
+DTSTART:20250705T190000Z
+DTEND:20250705T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n8th game o
+	f the Women's Euro 2025 competition between France and England.
+URL:https://footballcal.com/euro-2025/france-england/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,England,Stadion Letzigrund, Zurich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:WivArpZNS-eie0JfM3j5L
+SUMMARY:Norway v Finland
+DTSTAMP:20260409T205941Z
+DTSTART:20250706T160000Z
+DTEND:20250706T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, YLE\n\n9th game of the Women's Euro 20
+	25 competition between Norway and Finland.
+URL:https://footballcal.com/euro-2025/norway-finland/
+LOCATION:Stade de Tourbillon\, Sion
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Finland,Stade de Tourbillon, Sion,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:tvBj4gIsz9_K541y_2NeZ
+SUMMARY:Switzerland v Iceland
+DTSTAMP:20260409T205941Z
+DTSTART:20250706T190000Z
+DTEND:20250706T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, RTS\, SRF\, RSI\, RÚV\n\n10th game of 
+	the Women's Euro 2025 competition between Switzerland and Iceland.
+URL:https://footballcal.com/euro-2025/switzerland-iceland/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Iceland,Stadion Wankdorf, Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:EpTzIf1fBq6jbYtnOGRqN
+SUMMARY:Spain v Belgium
+DTSTAMP:20260409T205941Z
+DTSTART:20250707T160000Z
+DTEND:20250707T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n11th game of the Women's Euro 2025 co
+	mpetition between Spain and Belgium.
+URL:https://footballcal.com/euro-2025/spain-belgium/
+LOCATION:Arena Thun\, Thun
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Belgium,Arena Thun, Thun,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:pQC_iYW70HW8Et5-D4P2a
+SUMMARY:Portugal v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250707T190000Z
+DTEND:20250707T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n12th game of the Women's Euro 2025 co
+	mpetition between Portugal and Italy.
+URL:https://footballcal.com/euro-2025/portugal-italy/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Italy,Stade de Genève, Geneva,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:MARXAS66IpnOzXxXxQnXn
+SUMMARY:Germany v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n13th game of the Women's Euro 2025 co
+	mpetition between Germany and Denmark.
+URL:https://footballcal.com/euro-2025/germany-denmark/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Denmark,St. Jakob‑Park, Basel,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:kUSZ-Dl5G_q2-Egh3UVZD
+SUMMARY:Poland v Sweden
+DTSTAMP:20260409T205941Z
+DTSTART:20250708T190000Z
+DTEND:20250708T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n14th game of the Women's Euro 2025 co
+	mpetition between Poland and Sweden.
+URL:https://footballcal.com/euro-2025/poland-sweden/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Sweden,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:57bDD5954H-xyRl2D1IY5
+SUMMARY:England v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n15th game of the Women's Euro 2025 co
+	mpetition between England and Netherlands.
+URL:https://footballcal.com/euro-2025/england-netherlands/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Netherlands,Stadion Letzigrund, Zurich,EURO 
+	2025
+END:VEVENT
+BEGIN:VEVENT
+UID:6PRKokdHt2FAvi16fjFCS
+SUMMARY:France v Wales
+DTSTAMP:20260409T205941Z
+DTSTART:20250709T190000Z
+DTEND:20250709T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n16th game 
+	of the Women's Euro 2025 competition between France and Wales.
+URL:https://footballcal.com/euro-2025/france-wales/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Wales,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:3svRvoZb3AbiUKfy57F-R
+SUMMARY:Finland v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, YLE\, RTS\, SRF\, RSI\n\n17th game of 
+	the Women's Euro 2025 competition between Finland and Switzerland.
+URL:https://footballcal.com/euro-2025/finland-switzerland/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Finland,Switzerland,Stade de Genève, Geneva,EURO 202
+	5
+END:VEVENT
+BEGIN:VEVENT
+UID:BgWfhO9YNo3UfwIjgNtrI
+SUMMARY:Norway v Iceland
+DTSTAMP:20260409T205941Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, RÚV\n\n18th game of the Women's Euro 2
+	025 competition between Norway and Iceland.
+URL:https://footballcal.com/euro-2025/norway-iceland/
+LOCATION:Arena Thun\, Thun
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Iceland,Arena Thun, Thun,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:ZyD_Jd71k8gWw2P_rquNr
+SUMMARY:Italy v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20250711T190000Z
+DTEND:20250711T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n19th game of the Women's Euro 2025 co
+	mpetition between Italy and Spain.
+URL:https://footballcal.com/euro-2025/italy-spain/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Spain,Stadion Wankdorf, Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:pHxyNUFvGHRVcXEZ2NZbS
+SUMMARY:Portugal v Belgium
+DTSTAMP:20260409T205941Z
+DTSTART:20250711T190000Z
+DTEND:20250711T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n20th game of the Women's Euro 2025 co
+	mpetition between Portugal and Belgium.
+URL:https://footballcal.com/euro-2025/portugal-belgium/
+LOCATION:Stade de Tourbillon\, Sion
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Belgium,Stade de Tourbillon, Sion,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:0ko3LzpT7Bs_VbMAz6mej
+SUMMARY:Poland v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n22nd game of the Women's Euro 2025 co
+	mpetition between Poland and Denmark.
+URL:https://footballcal.com/euro-2025/poland-denmark/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Denmark,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:SeVPDQTv9ruYelrwTr_ZI
+SUMMARY:Sweden v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n21st game of the Women's Euro 2025 co
+	mpetition between Sweden and Germany.
+URL:https://footballcal.com/euro-2025/sweden-germany/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Germany,Stadion Letzigrund, Zurich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:fdfB2MKlbW7KuaTMsOpp2
+SUMMARY:England v Wales
+DTSTAMP:20260409T205941Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+DESCRIPTION:TV Channels: ITV\, BBC\n\n24th game of the Women's Euro 2025 co
+	mpetition between England and Wales.
+URL:https://footballcal.com/euro-2025/england-wales/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Wales,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:6Yz_TBnvpkNi9xp19pA6c
+SUMMARY:Netherlands v France
+DTSTAMP:20260409T205941Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n23rd game 
+	of the Women's Euro 2025 competition between Netherlands and France.
+URL:https://footballcal.com/euro-2025/netherlands-france/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,France,St. Jakob‑Park, Basel,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:ZjeohOBqMf3vuscEkmatY
+SUMMARY:Norway v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250716T190000Z
+DTEND:20250716T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n25th game of the Women's Euro 2025 co
+	mpetition between Winner Group A and Runner-up Group B.
+URL:https://footballcal.com/euro-2025/winner-group-a-runner-up-group-b/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Italy,Group A,Group B,Stade de Genève, Geneva
+	,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:OjMEHuKNxSwG61P0etWIB
+SUMMARY:Sweden v England
+DTSTAMP:20260409T205941Z
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n26th game of the Women's Euro 2025 co
+	mpetition between Winner Group C and Runner-up Group D.
+URL:https://footballcal.com/euro-2025/winner-group-c-runner-up-group-d/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,England,Group C,Group D,Stadion Letzigrund, Z
+	urich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:czF294ijquB92uRSMaUaK
+SUMMARY:Spain v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20250718T190000Z
+DTEND:20250718T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n27th game of the Women's Euro 2025 co
+	mpetition between Winner Group B and Runner-up Group A.
+URL:https://footballcal.com/euro-2025/winner-group-b-runner-up-group-a/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Switzerland,Group B,Group A,Stadion Wankdorf, 
+	Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Moz8DKMG6tPhlriwBOciw
+SUMMARY:France v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20250719T190000Z
+DTEND:20250719T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n28th game of the Women's Euro 2025 co
+	mpetition between Winner Group D and Runner-up Group C.
+URL:https://footballcal.com/euro-2025/winner-group-d-runner-up-group-c/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Germany,Group D,Group C,St. Jakob‑Park, Basel
+	,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:8ZTWzf5oAwJH2qoBhL_W7
+SUMMARY:England v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250722T190000Z
+DTEND:20250722T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe first semi-final of the Women's E
+	uro 2025 competition between England and Italy.
+URL:https://footballcal.com/euro-2025/semi-final-1/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Italy,Semi-final 1,Stade de Genève, Geneva,E
+	URO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:52MPVwVuEqtspfpYz0ZoY
+SUMMARY:Germany v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20250723T190000Z
+DTEND:20250723T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe second semi-final of the Women's 
+	Euro 2025 competition between Germany and Spain.
+URL:https://footballcal.com/euro-2025/semi-final-2/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Spain,Semi-final 2,Stadion Letzigrund, Zuric
+	h,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:l25zqY8OsqKqkoQru4ViZ
+SUMMARY:England v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20250727T160000Z
+DTEND:20250727T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe final of the Women's Euro 2025 co
+	mpetition will be contested between England and Spain.
+URL:https://footballcal.com/euro-2025/final/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Final,St. Jakob‑Park, Basel,EURO 2025,England,Spain
+END:VEVENT
+END:VCALENDAR

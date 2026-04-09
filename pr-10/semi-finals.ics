@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:awLsr9fRgVBBayQbxMl3v
+SUMMARY:Spain v France
+DTSTAMP:20260409T205942Z
+DTSTART:20240709T190000Z
+DTEND:20240709T205000Z
+DESCRIPTION:TV Channels: BBC 1\, BBC iPlayer\n\nThe 49th game and first sem
+	i final of the EURO 2024 competition between Spain and France.
+URL:https://footballcal.com/euro-2024/semi-final-1/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,France,Munich,Semi Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:j8Y0xBdtOeekWH8-W6Dvf
+SUMMARY:England v Netherlands
+DTSTAMP:20260409T205942Z
+DTSTART:20240710T190000Z
+DTEND:20240710T205000Z
+DESCRIPTION:TV Channels: ITV1\, ITVX\, STV\n\nThe 50th game and second semi
+	 final of the EURO 2024 competition between England and Netherlands.
+URL:https://footballcal.com/euro-2024/semi-final-2/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Netherlands,Dortmund,Semi Finals,EURO 2024
+END:VEVENT
+END:VCALENDAR

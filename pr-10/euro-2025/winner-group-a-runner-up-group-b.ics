@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:uXKOtuwSXPg-TOa23PhXp
+SUMMARY:Norway v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250716T190000Z
+DTEND:20250716T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n25th game of the Women's Euro 2025 co
+	mpetition between Winner Group A and Runner-up Group B.
+URL:https://footballcal.com/euro-2025/winner-group-a-runner-up-group-b/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Italy,Group A,Group B,Stade de Genève, Geneva
+	,EURO 2025
+END:VEVENT
+END:VCALENDAR

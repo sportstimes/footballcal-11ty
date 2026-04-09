@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:2UYuQ9dnV_qOtOApvRtTj
+SUMMARY:Argentina v Algeria
+DTSTAMP:20260409T205942Z
+DTSTART:20260617T010000Z
+DTEND:20260617T025000Z
+DESCRIPTION:TV Channels: \n\nThe 55th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Argentina and Algeria.
+URL:https://footballcal.com/world-cup-2026/argentina-algeria/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Argentina,Algeria,Kansas City,Group J,Group stages,W
+	orld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:RmCHyere1HZ2mlkiDQakx
+SUMMARY:Ecuador v Curaçao
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T000000Z
+DTEND:20260621T015000Z
+DESCRIPTION:TV Channels: \n\nThe 28th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ecuador and Curaçao.
+URL:https://footballcal.com/world-cup-2026/ecuador-curacao/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ecuador,Curaçao,Kansas City,Group E,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fml75dwTFbVlOGZG55fsZ
+SUMMARY:Tunisia v Netherlands
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T230000Z
+DTEND:20260626T005000Z
+DESCRIPTION:TV Channels: \n\nThe 36th game of the FIFA World Cup 2026 group
+	 stage between Group F competitors\, Tunisia and Netherlands.
+URL:https://footballcal.com/world-cup-2026/tunisia-netherlands/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Tunisia,Netherlands,Kansas City,Group F,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ADvh1iH1Qtlf26mPjVwNS
+SUMMARY:Algeria v Austria
+DTSTAMP:20260409T205942Z
+DTSTART:20260628T020000Z
+DTEND:20260628T035000Z
+DESCRIPTION:TV Channels: \n\nThe 59th game of the FIFA World Cup 2026 group
+	 stage between Group J competitors\, Algeria and Austria.
+URL:https://footballcal.com/world-cup-2026/algeria-austria/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Algeria,Austria,Kansas City,Group J,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+END:VCALENDAR

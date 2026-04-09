@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:5ndWm3LLgNbxr9HwjOynS
+SUMMARY:Switzerland v Norway
+DTSTAMP:20260409T205941Z
+DTSTART:20250702T190000Z
+DTEND:20250702T210000Z
+DESCRIPTION:TV Channels: BBC\, RTS\, SRF\, RSI\n\n2nd game of the Women's E
+	uro 2025 competition between Switzerland and Norway.
+URL:https://footballcal.com/euro-2025/switzerland-norway/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Norway,St. Jakob‑Park, Basel,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:VJ-CNRHW64XNnenmYNmu6
+SUMMARY:Norway v Finland
+DTSTAMP:20260409T205941Z
+DTSTART:20250706T160000Z
+DTEND:20250706T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, YLE\n\n9th game of the Women's Euro 20
+	25 competition between Norway and Finland.
+URL:https://footballcal.com/euro-2025/norway-finland/
+LOCATION:Stade de Tourbillon\, Sion
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Finland,Stade de Tourbillon, Sion,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:QH_j48U5fvhJ-kS5l9lJP
+SUMMARY:Norway v Iceland
+DTSTAMP:20260409T205941Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, RÚV\n\n18th game of the Women's Euro 2
+	025 competition between Norway and Iceland.
+URL:https://footballcal.com/euro-2025/norway-iceland/
+LOCATION:Arena Thun\, Thun
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Iceland,Arena Thun, Thun,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:w3NxfLKmN4yvFuBAbrrZi
+SUMMARY:Norway v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250716T190000Z
+DTEND:20250716T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n25th game of the Women's Euro 2025 co
+	mpetition between Winner Group A and Runner-up Group B.
+URL:https://footballcal.com/euro-2025/winner-group-a-runner-up-group-b/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Italy,Group A,Group B,Stade de Genève, Geneva
+	,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:LuWRk5VhPXWF4RngYxPmh
+SUMMARY:IC Playoff 2 v Norway
+DTSTAMP:20260409T205941Z
+DTSTART:20260616T220000Z
+DTEND:20260616T235000Z
+DESCRIPTION:TV Channels: \n\nThe 50th game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, IC Playoff 2 and Norway.
+URL:https://footballcal.com/world-cup-2026/ic-playoff-2-norway/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,IC Playoff 2,Norway,Boston,Group I,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:qGoqAKecwPykVZRafO9Xw
+SUMMARY:Norway v Senegal
+DTSTAMP:20260409T205941Z
+DTSTART:20260623T000000Z
+DTEND:20260623T015000Z
+DESCRIPTION:TV Channels: \n\nThe 52nd game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Norway and Senegal.
+URL:https://footballcal.com/world-cup-2026/norway-senegal/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Senegal,New York New Jersey,Group I,Group sta
+	ges,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mWZYTvkRlD2qEzZywgZDV
+SUMMARY:Norway v France
+DTSTAMP:20260409T205941Z
+DTSTART:20260626T190000Z
+DTEND:20260626T205000Z
+DESCRIPTION:TV Channels: \n\nThe 53rd game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, Norway and France.
+URL:https://footballcal.com/world-cup-2026/norway-france/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,France,Boston,Group I,Group stages,World Cup 
+	2026
+END:VEVENT
+END:VCALENDAR

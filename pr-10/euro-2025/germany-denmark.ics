@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:_q1yN8NX7p5744ulrscRc
+SUMMARY:Germany v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20250708T160000Z
+DTEND:20250708T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n13th game of the Women's Euro 2025 co
+	mpetition between Germany and Denmark.
+URL:https://footballcal.com/euro-2025/germany-denmark/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Denmark,St. Jakob‑Park, Basel,EURO 2025
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:3oqdnMyYrRklMheiLSlRu
+SUMMARY:Ivory Coast v Ecuador
+DTSTAMP:20260409T205941Z
+DTSTART:20260614T230000Z
+DTEND:20260615T005000Z
+DESCRIPTION:TV Channels: \n\nThe 26th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ivory Coast and Ecuador.
+URL:https://footballcal.com/world-cup-2026/ivory-coast-ecuador/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ivory Coast,Ecuador,Philadelphia,Group E,Group stage
+	s,World Cup 2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:d-jLReymjWhVSaNclzKGG
+SUMMARY:Belgium v Egypt
+DTSTAMP:20260409T205941Z
+DTSTART:20260615T190000Z
+DTEND:20260615T205000Z
+DESCRIPTION:TV Channels: \n\nThe 37th game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Belgium and Egypt.
+URL:https://footballcal.com/world-cup-2026/belgium-egypt/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Egypt,Seattle,Group G,Group stages,World Cup
+	 2026
+END:VEVENT
+END:VCALENDAR

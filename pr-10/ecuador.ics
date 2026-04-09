@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:KVrpNJfkcBk2iCW35BOZA
+SUMMARY:Ivory Coast v Ecuador
+DTSTAMP:20260409T205942Z
+DTSTART:20260614T230000Z
+DTEND:20260615T005000Z
+DESCRIPTION:TV Channels: \n\nThe 26th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ivory Coast and Ecuador.
+URL:https://footballcal.com/world-cup-2026/ivory-coast-ecuador/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ivory Coast,Ecuador,Philadelphia,Group E,Group stage
+	s,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:umusMiYgkVZI-eQqx31zq
+SUMMARY:Ecuador v Curaçao
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T000000Z
+DTEND:20260621T015000Z
+DESCRIPTION:TV Channels: \n\nThe 28th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ecuador and Curaçao.
+URL:https://footballcal.com/world-cup-2026/ecuador-curacao/
+LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ecuador,Curaçao,Kansas City,Group E,Group stages,Wor
+	ld Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:DQdOnGKO8sysifZkxpCHV
+SUMMARY:Ecuador v Germany
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T200000Z
+DTEND:20260625T215000Z
+DESCRIPTION:TV Channels: \n\nThe 29th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Ecuador and Germany.
+URL:https://footballcal.com/world-cup-2026/ecuador-germany/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ecuador,Germany,New York New Jersey,Group E,Group st
+	ages,World Cup 2026
+END:VEVENT
+END:VCALENDAR

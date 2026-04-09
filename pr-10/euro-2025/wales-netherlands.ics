@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:gOrwsIIygjfe9KaSXxsDH
+SUMMARY:Wales v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20250705T160000Z
+DTEND:20250705T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n7th game of the Women's Euro 2025 com
+	petition between Wales and Netherlands.
+URL:https://footballcal.com/euro-2025/wales-netherlands/
+LOCATION:Allmend Stadion\, Lucerne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Netherlands,Allmend Stadion, Lucerne,EURO 2025
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:VJTuavTMJATtSVUDSc8Vv
+SUMMARY:Egypt v Iran
+DTSTAMP:20260409T205941Z
+DTSTART:20260627T030000Z
+DTEND:20260627T045000Z
+DESCRIPTION:TV Channels: \n\nThe 41st game of the FIFA World Cup 2026 group
+	 stage between Group G competitors\, Egypt and Iran.
+URL:https://footballcal.com/world-cup-2026/egypt-iran/
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Egypt,Iran,Seattle,Group G,Group stages,World Cup 20
+	26
+END:VEVENT
+END:VCALENDAR

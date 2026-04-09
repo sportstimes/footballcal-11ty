@@ -1,0 +1,245 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:FwxFyJyQvB3JZDHAnl6Dq
+SUMMARY:Wales v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20210612T130000Z
+DTEND:20210612T145000Z
+DESCRIPTION:TV Channels: BBC\, S4C\n\nThe second game of the (delayed) EURO
+	 2020 competition between Group A rivals\, Wales &amp\; Switzerland.
+URL:https://footballcal.com/euro-2020/wales-switzerland/
+LOCATION:Baku
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Switzerland,Baku,Group A,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:SDsdHjqB09XAgDUctZQcd
+SUMMARY:Italy v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20210616T190000Z
+DTEND:20210616T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe fifteenth game of the (delayed) EURO 20
+	20 competition between Group A rivals\, Italy and Switzerland.
+URL:https://footballcal.com/euro-2020/italy-switzerland/
+LOCATION:Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Switzerland,Rome,Group A,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:UCW4BkUe_JTXdfUp-0J5f
+SUMMARY:Switzerland v Turkey
+DTSTAMP:20260409T205941Z
+DTSTART:20210620T160000Z
+DTEND:20210620T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 26th game of the (delayed) EURO 2020 co
+	mpetition between Group A rivals\, Switzerland and Turkey.
+URL:https://footballcal.com/euro-2020/switzerland-turkey/
+LOCATION:Baku
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Turkey,Baku,Group A,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:alHjdzbVVz8-b2tugNzcJ
+SUMMARY:France v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20210628T190000Z
+DTEND:20210628T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
+	mpetition between Group F winners France and Group A third place Switzerla
+	nd.
+URL:https://footballcal.com/euro-2020/knockout-6/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
+	,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:rOYuuh5KkIjStOBenqK0e
+SUMMARY:Switzerland v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20210702T160000Z
+DTEND:20210702T175000Z
+DESCRIPTION:The 45th game of the (delayed) EURO 2020 competition between Kn
+	ockout 6 winners\, Switzerland and Knockout 5 winners\, Spain.
+URL:https://footballcal.com/euro-2020/quarter-final-1/
+LOCATION:St Petersburg
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Spain,St Petersburg,Knockout,Quarter Fin
+	al,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:3jmiCPd4FASeKFT4u0Wr0
+SUMMARY:Hungary v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20240615T130000Z
+DTEND:20240615T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe second game of the EURO 2024 competiti
+	on between Group A competitors\, Hungary and Switzerland.
+URL:https://footballcal.com/euro-2024/hungary-switzerland/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,Switzerland,Cologne,Group A,Group stages,EUR
+	O 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:RGCuun10qhoLWwNVGcfUH
+SUMMARY:Scotland v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20240619T190000Z
+DTEND:20240619T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe fifteenth game of the EURO 2024 competi
+	tion between Group A competitors\, Scotland and Switerland.
+URL:https://footballcal.com/euro-2024/scotland-switzerland/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Switzerland,Cologne,Group A,Group stages,EU
+	RO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:vjBt3LZa9HsjO_vKV-ZAm
+SUMMARY:Switzerland v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20240623T190000Z
+DTEND:20240623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-fifth game of the EURO 2024 comp
+	etition between Group A competitors\, Switzerland and Germany.
+URL:https://footballcal.com/euro-2024/switzerland-germany/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Germany,Frankfurt am Main,Group A,Group 
+	stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:9KJrEe-dIV76HbIF5DR8q
+SUMMARY:Switzerland v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20240629T160000Z
+DTEND:20240629T175000Z
+DESCRIPTION:TV Channels: \n\nThe thirty-eighth game of the EURO 2024 compet
+	ition between Group A runners-up\, Switzerland\, and Group B runners-up\, 
+	Italy.
+URL:https://footballcal.com/euro-2024/game-38/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Italy,Berlin,Group A,Group B,Round of 16
+	,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:nqJ2_1coDGSEGPFEPipdD
+SUMMARY:England v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20240706T170000Z
+DTEND:20240706T185000Z
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 47th game and third quar
+	ter final of the EURO 2024 competition between England and Switzerland.
+URL:https://footballcal.com/euro-2024/quarter-final-3/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Switzerland,Dusseldorf,Quarter Finals,EURO 2
+	024
+END:VEVENT
+BEGIN:VEVENT
+UID:eXU9EF0eoHHzoixhWQ0ek
+SUMMARY:Switzerland v Norway
+DTSTAMP:20260409T205941Z
+DTSTART:20250702T190000Z
+DTEND:20250702T210000Z
+DESCRIPTION:TV Channels: BBC\, RTS\, SRF\, RSI\n\n2nd game of the Women's E
+	uro 2025 competition between Switzerland and Norway.
+URL:https://footballcal.com/euro-2025/switzerland-norway/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Norway,St. Jakob‑Park, Basel,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:lJQDHq96a3xzj3_FOuryp
+SUMMARY:Switzerland v Iceland
+DTSTAMP:20260409T205941Z
+DTSTART:20250706T190000Z
+DTEND:20250706T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, RTS\, SRF\, RSI\, RÚV\n\n10th game of 
+	the Women's Euro 2025 competition between Switzerland and Iceland.
+URL:https://footballcal.com/euro-2025/switzerland-iceland/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Iceland,Stadion Wankdorf, Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:npyLz9WOChX9hosNOC5Ha
+SUMMARY:Finland v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20250710T190000Z
+DTEND:20250710T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, YLE\, RTS\, SRF\, RSI\n\n17th game of 
+	the Women's Euro 2025 competition between Finland and Switzerland.
+URL:https://footballcal.com/euro-2025/finland-switzerland/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Finland,Switzerland,Stade de Genève, Geneva,EURO 202
+	5
+END:VEVENT
+BEGIN:VEVENT
+UID:LOT2zVrPjdMFKUgsUrcWA
+SUMMARY:Spain v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20250718T190000Z
+DTEND:20250718T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n27th game of the Women's Euro 2025 co
+	mpetition between Winner Group B and Runner-up Group A.
+URL:https://footballcal.com/euro-2025/winner-group-b-runner-up-group-a/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Switzerland,Group B,Group A,Stadion Wankdorf, 
+	Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:0onurb8wrZX4bY2xPyN2f
+SUMMARY:Qatar v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20260613T190000Z
+DTEND:20260613T205000Z
+DESCRIPTION:TV Channels: \n\nThe 8th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Qatar and Switzerland.
+URL:https://footballcal.com/world-cup-2026/qatar-switzerland/
+LOCATION:Levi's Stadium\, San Francisco
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Qatar,Switzerland,San Francisco,Group B,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:_oGfH2bjbbGwIOAB3IhRw
+SUMMARY:Switzerland v UEFA Playoff A
+DTSTAMP:20260409T205941Z
+DTSTART:20260618T190000Z
+DTEND:20260618T205000Z
+DESCRIPTION:TV Channels: \n\nThe 9th game of the FIFA World Cup 2026 group 
+	stage between Group B competitors\, Switzerland and UEFA Playoff A.
+URL:https://footballcal.com/world-cup-2026/switzerland-uefa-playoff-a/
+LOCATION:SoFi Stadium\, Los Angeles
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,UEFA Playoff A,Los Angeles,Group B,Group
+	 stages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:YqetV5gknS01SmIV_ifKD
+SUMMARY:Switzerland v Canada
+DTSTAMP:20260409T205941Z
+DTSTART:20260624T190000Z
+DTEND:20260624T205000Z
+DESCRIPTION:TV Channels: \n\nThe 11th game of the FIFA World Cup 2026 group
+	 stage between Group B competitors\, Switzerland and Canada.
+URL:https://footballcal.com/world-cup-2026/switzerland-canada/
+LOCATION:BC Place\, Vancouver
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Canada,Vancouver,Group B,Group stages,Wo
+	rld Cup 2026
+END:VEVENT
+END:VCALENDAR

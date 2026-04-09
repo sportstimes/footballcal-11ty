@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:GjSKgjySjYDPWY4_f1wML
+SUMMARY:Mexico v South Africa
+DTSTAMP:20260409T205942Z
+DTSTART:20260611T200000Z
+DTEND:20260611T215000Z
+DESCRIPTION:TV Channels: \n\nThe 1st game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and South Africa.
+URL:https://footballcal.com/world-cup-2026/mexico-south-africa/
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,South Africa,Mexico City,Group A,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:fuuLL8ObvVbl-CpQT7Zg0
+SUMMARY:UEFA Playoff D v South Africa
+DTSTAMP:20260409T205942Z
+DTSTART:20260618T160000Z
+DTEND:20260618T175000Z
+DESCRIPTION:TV Channels: \n\nThe 3rd game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, UEFA Playoff D and South Africa.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-d-south-africa/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff D,South Africa,Atlanta,Group A,Group st
+	ages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:7-1khUhJBgJHX5AXDCJOa
+SUMMARY:South Africa v South Korea
+DTSTAMP:20260409T205942Z
+DTSTART:20260625T020000Z
+DTEND:20260625T035000Z
+DESCRIPTION:TV Channels: \n\nThe 6th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, South Africa and South Korea.
+URL:https://footballcal.com/world-cup-2026/south-africa-south-korea/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,South Africa,South Korea,Monterrey,Group A,Group sta
+	ges,World Cup 2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Mfdxh5_tWpwaVYUoLA0rV
+SUMMARY:France v IC Playoff 2
+DTSTAMP:20260409T205941Z
+DTSTART:20260622T210000Z
+DTEND:20260622T225000Z
+DESCRIPTION:TV Channels: \n\nThe 51st game of the FIFA World Cup 2026 group
+	 stage between Group I competitors\, France and IC Playoff 2.
+URL:https://footballcal.com/world-cup-2026/france-ic-playoff-2/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,IC Playoff 2,Philadelphia,Group I,Group stage
+	s,World Cup 2026
+END:VEVENT
+END:VCALENDAR

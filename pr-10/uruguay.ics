@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:C7_iY6V9Yx5deK2VcLM2o
+SUMMARY:Saudi Arabia v Uruguay
+DTSTAMP:20260409T205942Z
+DTSTART:20260615T220000Z
+DTEND:20260615T235000Z
+DESCRIPTION:TV Channels: \n\nThe 44th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Saudi Arabia and Uruguay.
+URL:https://footballcal.com/world-cup-2026/saudi-arabia-uruguay/
+LOCATION:Hard Rock Stadium\, Miami
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Saudi Arabia,Uruguay,Miami,Group H,Group stages,Worl
+	d Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:JAQQOBIc58cwqPDfdCdFl
+SUMMARY:Uruguay v Cape Verde
+DTSTAMP:20260409T205942Z
+DTSTART:20260621T220000Z
+DTEND:20260621T235000Z
+DESCRIPTION:TV Channels: \n\nThe 46th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Uruguay and Cape Verde.
+URL:https://footballcal.com/world-cup-2026/uruguay-cape-verde/
+LOCATION:Hard Rock Stadium\, Miami
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Uruguay,Cape Verde,Miami,Group H,Group stages,World 
+	Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:4bPSAMwpAjWdP-mnise5s
+SUMMARY:Uruguay v Spain
+DTSTAMP:20260409T205942Z
+DTSTART:20260627T010000Z
+DTEND:20260627T025000Z
+DESCRIPTION:TV Channels: \n\nThe 48th game of the FIFA World Cup 2026 group
+	 stage between Group H competitors\, Uruguay and Spain.
+URL:https://footballcal.com/world-cup-2026/uruguay-spain/
+LOCATION:Estadio Akron\, Guadalajara
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Uruguay,Spain,Guadalajara,Group H,Group stages,World
+	 Cup 2026
+END:VEVENT
+END:VCALENDAR

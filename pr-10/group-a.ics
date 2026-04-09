@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Odqf14PVE5_YJIHxhw00c
+SUMMARY:Turkey v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20210611T190000Z
+DTEND:20210611T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe first game of the (delayed) EURO 2020 c
+	ompetition.
+URL:https://footballcal.com/euro-2020/turkey-italy/
+LOCATION:Olimpico in Rome\, Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Italy,Rome,Group A,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:KBGPt7MeFHiGwSftcD5D9
+SUMMARY:Wales v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20210612T130000Z
+DTEND:20210612T145000Z
+DESCRIPTION:TV Channels: BBC\, S4C\n\nThe second game of the (delayed) EURO
+	 2020 competition between Group A rivals\, Wales &amp\; Switzerland.
+URL:https://footballcal.com/euro-2020/wales-switzerland/
+LOCATION:Baku
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Switzerland,Baku,Group A,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:NzZNl1dYkoiNs-0ld_uvR
+SUMMARY:Turkey v Wales
+DTSTAMP:20260409T205941Z
+DTSTART:20210616T160000Z
+DTEND:20210616T175000Z
+DESCRIPTION:TV Channels: BBC\, S4C\n\nThe fourteenth game of the (delayed) 
+	EURO 2020 competition between Group A rivals\, Turkey and Wales.
+URL:https://footballcal.com/euro-2020/turkey-wales/
+LOCATION:Baku
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Turkey,Wales,Baku,Group A,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:GCQ0mRPlHM7GEBVBwcAUs
+SUMMARY:Italy v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20210616T190000Z
+DTEND:20210616T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe fifteenth game of the (delayed) EURO 20
+	20 competition between Group A rivals\, Italy and Switzerland.
+URL:https://footballcal.com/euro-2020/italy-switzerland/
+LOCATION:Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Switzerland,Rome,Group A,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:v8gLQmJIVEeZCp1xNEAy6
+SUMMARY:Italy v Wales
+DTSTAMP:20260409T205941Z
+DTSTART:20210620T160000Z
+DTEND:20210620T175000Z
+DESCRIPTION:TV Channels: ITV\, S4C\n\nThe 25th game of the (delayed) EURO 2
+	020 competition between Group A rivals\, Italy and Wales.
+URL:https://footballcal.com/euro-2020/italy-wales/
+LOCATION:Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Wales,Rome,Group A,Group stages,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:8L52wxxDVpkg1ul2wzRij
+SUMMARY:Switzerland v Turkey
+DTSTAMP:20260409T205941Z
+DTSTART:20210620T160000Z
+DTEND:20210620T175000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 26th game of the (delayed) EURO 2020 co
+	mpetition between Group A rivals\, Switzerland and Turkey.
+URL:https://footballcal.com/euro-2020/switzerland-turkey/
+LOCATION:Baku
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Turkey,Baku,Group A,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:ihsw4onBMWyShT4M9-Ms-
+SUMMARY:Wales v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20210626T160000Z
+DTEND:20210626T175000Z
+DESCRIPTION:The 37th game of the (delayed) EURO 2020 competition between Gr
+	oup A runners-up Wales and Group B runners-up Denmark.
+URL:https://footballcal.com/euro-2020/knockout-1/
+LOCATION:Amsterdam
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Wales,Denmark,Amsterdam,Group A,Group B,Knockout,Gro
+	up of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:Vho3fNn0zlicRsYi3pcz7
+SUMMARY:Italy v Austria
+DTSTAMP:20260409T205941Z
+DTSTART:20210626T190000Z
+DTEND:20210626T205000Z
+DESCRIPTION:The 38th game of the (delayed) EURO 2020 competition between Gr
+	oup A winners Italy and Group C runners-up Austria.
+URL:https://footballcal.com/euro-2020/knockout-2/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,Austria,London,Group A,Group C,Knockout,Group 
+	of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:kpHXEeBwGqO_sZU8FyUYS
+SUMMARY:Belgium v Portugal
+DTSTAMP:20260409T205941Z
+DTSTART:20210627T190000Z
+DTEND:20210627T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 40th game of the (delayed) EURO 2020 co
+	mpetition between Group B winners Belgium and Group F third place Portugal
+	.
+URL:https://footballcal.com/euro-2020/knockout-4/
+LOCATION:Seville
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Portugal,Seville,Group A,Group B,Group D,Gro
+	up E,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:aqMSzEX8_GK59U9-lGXZU
+SUMMARY:France v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20210628T190000Z
+DTEND:20210628T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 42nd game of the (delayed) EURO 2020 co
+	mpetition between Group F winners France and Group A third place Switzerla
+	nd.
+URL:https://footballcal.com/euro-2020/knockout-6/
+LOCATION:Bucharest
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,Switzerland,Bucharest,Group A,Group B,Group C
+	,Group F,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:WAM_KtjGMJ9AKAhCEuOtm
+SUMMARY:Sweden v Ukraine
+DTSTAMP:20260409T205941Z
+DTSTART:20210629T190000Z
+DTEND:20210629T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 44th game of the (delayed) EURO 2020 co
+	mpetition between Group E winners Sweden and Group C third place Ukraine.
+URL:https://footballcal.com/euro-2020/knockout-8/
+LOCATION:Glasgow
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,Ukraine,London,Group A,Group B,Group C,Group 
+	D,Group E,Knockout,Group of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:SqXP4Qx5eEy2IRhcLRaY6
+SUMMARY:Germany v Scotland
+DTSTAMP:20260409T205941Z
+DTSTART:20240614T190000Z
+DTEND:20240614T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe first game of the EURO 2024 competitio
+	n between Group A competitors\, Germany and Scotland.
+URL:https://footballcal.com/euro-2024/germany-scotland/
+LOCATION:Munich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Scotland,Munich,Group A,Group stages,EURO 20
+	24
+END:VEVENT
+BEGIN:VEVENT
+UID:6GFMeB-x3HTJe18R7wTXT
+SUMMARY:Hungary v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20240615T130000Z
+DTEND:20240615T145000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe second game of the EURO 2024 competiti
+	on between Group A competitors\, Hungary and Switzerland.
+URL:https://footballcal.com/euro-2024/hungary-switzerland/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Hungary,Switzerland,Cologne,Group A,Group stages,EUR
+	O 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:6qL_d0Wk-u-5JZU-9QH3-
+SUMMARY:Germany v Hungary
+DTSTAMP:20260409T205941Z
+DTSTART:20240619T160000Z
+DTEND:20240619T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe fourteenth game of the EURO 2024 compe
+	tition between Group A competitors\, Germany and Hungary.
+URL:https://footballcal.com/euro-2024/germany-hungary/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Hungary,Stuttgart,Group A,Group stages,EURO 
+	2024
+END:VEVENT
+BEGIN:VEVENT
+UID:QBd6lvYuc9qu5_IpKBont
+SUMMARY:Scotland v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20240619T190000Z
+DTEND:20240619T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe fifteenth game of the EURO 2024 competi
+	tion between Group A competitors\, Scotland and Switerland.
+URL:https://footballcal.com/euro-2024/scotland-switzerland/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Switzerland,Cologne,Group A,Group stages,EU
+	RO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:GCky3hUMjrOyyho5YXzSe
+SUMMARY:Scotland v Hungary
+DTSTAMP:20260409T205941Z
+DTSTART:20240623T190000Z
+DTEND:20240623T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe twenty-sixth game of the EURO 2024 com
+	petition between Group A competitors\, Scotland and Hungary.
+URL:https://footballcal.com/euro-2024/scotland-hungary/
+LOCATION:Stuttgart
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Scotland,Hungary,Stuttgart,Group A,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:58Njns7M3KBY2_RjYbWai
+SUMMARY:Switzerland v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20240623T190000Z
+DTEND:20240623T205000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-fifth game of the EURO 2024 comp
+	etition between Group A competitors\, Switzerland and Germany.
+URL:https://footballcal.com/euro-2024/switzerland-germany/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Germany,Frankfurt am Main,Group A,Group 
+	stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:G5eCBGnCHR9OFtb1Pg0aQ
+SUMMARY:Switzerland v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20240629T160000Z
+DTEND:20240629T175000Z
+DESCRIPTION:TV Channels: \n\nThe thirty-eighth game of the EURO 2024 compet
+	ition between Group A runners-up\, Switzerland\, and Group B runners-up\, 
+	Italy.
+URL:https://footballcal.com/euro-2024/game-38/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Italy,Berlin,Group A,Group B,Round of 16
+	,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:7ppDkthTdNROgInprQvsN
+SUMMARY:Germany v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20240629T190000Z
+DTEND:20240629T205000Z
+DESCRIPTION:TV Channels: \n\nThe thirty-seventh game of the EURO 2024 compe
+	tition between Group A winners\, Germany\, and Group C runners-up\, Denmar
+	k.
+URL:https://footballcal.com/euro-2024/game-37/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Denmark,Dortmund,Group C,Group A,Round of 16
+	,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:ns2WJ14Tx4OZRqnhKzfwG
+SUMMARY:Portugal v Slovenia
+DTSTAMP:20260409T205941Z
+DTSTART:20240701T190000Z
+DTEND:20240701T205000Z
+DESCRIPTION:TV Channels: \n\nThe 41st game of the EURO 2024 competition bet
+	ween Group F winners\, Portugal\, and Group C 3rd place\, Slovenia.
+URL:https://footballcal.com/euro-2024/game-41/
+LOCATION:Frankfurt
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Slovenia,Frankfurt,Group A,Group C,Round of
+	 16,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:8nnIY9U07TgXejwaWKKSs
+SUMMARY:Norway v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250716T190000Z
+DTEND:20250716T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n25th game of the Women's Euro 2025 co
+	mpetition between Winner Group A and Runner-up Group B.
+URL:https://footballcal.com/euro-2025/winner-group-a-runner-up-group-b/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Italy,Group A,Group B,Stade de Genève, Geneva
+	,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:zAkCkQ4W5fIWo7JK_v5bO
+SUMMARY:Spain v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20250718T190000Z
+DTEND:20250718T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n27th game of the Women's Euro 2025 co
+	mpetition between Winner Group B and Runner-up Group A.
+URL:https://footballcal.com/euro-2025/winner-group-b-runner-up-group-a/
+LOCATION:Stadion Wankdorf\, Bern
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Switzerland,Group B,Group A,Stadion Wankdorf, 
+	Bern,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:JyE3LtNjWv83LsLj9vcog
+SUMMARY:Mexico v South Africa
+DTSTAMP:20260409T205941Z
+DTSTART:20260611T200000Z
+DTEND:20260611T215000Z
+DESCRIPTION:TV Channels: \n\nThe 1st game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and South Africa.
+URL:https://footballcal.com/world-cup-2026/mexico-south-africa/
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,South Africa,Mexico City,Group A,Group stages
+	,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mZ9W-tpqjnbOCY706KYIz
+SUMMARY:South Korea v UEFA Playoff D
+DTSTAMP:20260409T205941Z
+DTSTART:20260612T030000Z
+DTEND:20260612T045000Z
+DESCRIPTION:TV Channels: \n\nThe 2nd game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, South Korea and UEFA Playoff D.
+URL:https://footballcal.com/world-cup-2026/south-korea-uefa-playoff-d/
+LOCATION:Estadio Akron\, Guadalajara
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,South Korea,UEFA Playoff D,Guadalajara,Group A,Group
+	 stages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:IxTIk7KfpXtSGG8CUR68G
+SUMMARY:UEFA Playoff D v South Africa
+DTSTAMP:20260409T205941Z
+DTSTART:20260618T160000Z
+DTEND:20260618T175000Z
+DESCRIPTION:TV Channels: \n\nThe 3rd game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, UEFA Playoff D and South Africa.
+URL:https://footballcal.com/world-cup-2026/uefa-playoff-d-south-africa/
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,UEFA Playoff D,South Africa,Atlanta,Group A,Group st
+	ages,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:KLD1Qx40MTypn3jo7lCdB
+SUMMARY:Mexico v South Korea
+DTSTAMP:20260409T205941Z
+DTSTART:20260619T020000Z
+DTEND:20260619T035000Z
+DESCRIPTION:TV Channels: \n\nThe 4th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and South Korea.
+URL:https://footballcal.com/world-cup-2026/mexico-south-korea/
+LOCATION:Estadio Akron\, Guadalajara
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,South Korea,Guadalajara,Group A,Group stages,
+	World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:MgAM7RJGBtuVGD2S5BJNi
+SUMMARY:Mexico v UEFA Playoff D
+DTSTAMP:20260409T205941Z
+DTSTART:20260625T020000Z
+DTEND:20260625T035000Z
+DESCRIPTION:TV Channels: \n\nThe 5th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, Mexico and UEFA Playoff D.
+URL:https://footballcal.com/world-cup-2026/mexico-uefa-playoff-d/
+LOCATION:Estadio Azteca\, Mexico City
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Mexico,UEFA Playoff D,Mexico City,Group A,Group stag
+	es,World Cup 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:MyLCzogyZE51ej7Bd0fLT
+SUMMARY:South Africa v South Korea
+DTSTAMP:20260409T205941Z
+DTSTART:20260625T020000Z
+DTEND:20260625T035000Z
+DESCRIPTION:TV Channels: \n\nThe 6th game of the FIFA World Cup 2026 group 
+	stage between Group A competitors\, South Africa and South Korea.
+URL:https://footballcal.com/world-cup-2026/south-africa-south-korea/
+LOCATION:Estadio BBVA\, Monterrey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,South Africa,South Korea,Monterrey,Group A,Group sta
+	ges,World Cup 2026
+END:VEVENT
+END:VCALENDAR

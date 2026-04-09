@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:3K7C8_lrnm_akrUSOd96i
+SUMMARY:Germany v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20250723T190000Z
+DTEND:20250723T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe second semi-final of the Women's 
+	Euro 2025 competition between Germany and Spain.
+URL:https://footballcal.com/euro-2025/semi-final-2/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Germany,Spain,Semi-final 2,Stadion Letzigrund, Zuric
+	h,EURO 2025
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:iSkohhjA2TYtNX-PTv3wX
+SUMMARY:Belgium v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250703T160000Z
+DTEND:20250703T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n3rd game of the Women's Euro 2025 com
+	petition between Belgium and Italy.
+URL:https://footballcal.com/euro-2025/belgium-italy/
+LOCATION:Stade de Tourbillon\, Sion
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Belgium,Italy,Stade de Tourbillon, Sion,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Qku6QsL69Pg31FlLg-HIp
+SUMMARY:Norway v Finland
+DTSTAMP:20260409T205941Z
+DTSTART:20250706T160000Z
+DTEND:20250706T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, YLE\n\n9th game of the Women's Euro 20
+	25 competition between Norway and Finland.
+URL:https://footballcal.com/euro-2025/norway-finland/
+LOCATION:Stade de Tourbillon\, Sion
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Norway,Finland,Stade de Tourbillon, Sion,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Jr1qlf2te-FrTGBAjPB1r
+SUMMARY:Portugal v Belgium
+DTSTAMP:20260409T205941Z
+DTSTART:20250711T190000Z
+DTEND:20250711T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n20th game of the Women's Euro 2025 co
+	mpetition between Portugal and Belgium.
+URL:https://footballcal.com/euro-2025/portugal-belgium/
+LOCATION:Stade de Tourbillon\, Sion
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Portugal,Belgium,Stade de Tourbillon, Sion,EURO 2025
+END:VEVENT
+END:VCALENDAR

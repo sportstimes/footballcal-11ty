@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ba_BesFb7oG8bhbXdERer
+SUMMARY:Spain v Croatia
+DTSTAMP:20260409T205942Z
+DTSTART:20240615T160000Z
+DTEND:20240615T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe third game of the EURO 2024 competitio
+	n between Group A competitors\, Spain and Croatia.
+URL:https://footballcal.com/euro-2024/spain-croatia/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,Croatia,Berlin,Group B,Group stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:Ob9f_e7mBBdWMu6ZVNyk7
+SUMMARY:Poland v Austria
+DTSTAMP:20260409T205942Z
+DTSTART:20240621T160000Z
+DTEND:20240621T175000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe twentieth game of the EURO 2024 compet
+	ition between Group D competitors\, Poland and Austria.
+URL:https://footballcal.com/euro-2024/poland-austria/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Poland,Austria,Berlin,Group D,Group stages,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:HSAe41iOOFi6Po0pgEOB_
+SUMMARY:Netherlands v Austria
+DTSTAMP:20260409T205942Z
+DTSTART:20240625T160000Z
+DTEND:20240625T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe twenty-ninth game of the EURO 2024 comp
+	etition between Group D competitors\, Netherlands and Austria.
+URL:https://footballcal.com/euro-2024/netherlands-austria/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Austria,Berlin,Group D,Group stages,EURO
+	 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:SuZg686TPLzuPBAlAYXHb
+SUMMARY:Switzerland v Italy
+DTSTAMP:20260409T205942Z
+DTSTART:20240629T160000Z
+DTEND:20240629T175000Z
+DESCRIPTION:TV Channels: \n\nThe thirty-eighth game of the EURO 2024 compet
+	ition between Group A runners-up\, Switzerland\, and Group B runners-up\, 
+	Italy.
+URL:https://footballcal.com/euro-2024/game-38/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Switzerland,Italy,Berlin,Group A,Group B,Round of 16
+	,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:rXXAKXSrsPqlM3Vx-Htva
+SUMMARY:Netherlands v Turkey
+DTSTAMP:20260409T205942Z
+DTSTART:20240706T190000Z
+DTEND:20240706T205000Z
+DESCRIPTION:TV Channels: ITV1\, STV\, ITVX\, STV Player\n\nThe 48th game an
+	d fourth quarter final of the EURO 2024 competition between Netherlands an
+	d Turkey.
+URL:https://footballcal.com/euro-2024/quarter-final-4/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Netherlands,Turkey,Berlin,Quarter Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:DOQteWdEUfSBNnbarbhqk
+SUMMARY:Spain v England
+DTSTAMP:20260409T205942Z
+DTSTART:20240714T190000Z
+DTEND:20240714T205000Z
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\, ITV1\, STV\, ITVX\, STV Playe
+	r\n\nThe 51st and final game of the EURO 2024 competition between Spain an
+	d England.
+URL:https://footballcal.com/euro-2024/final/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,England,Berlin,Finals,EURO 2024
+END:VEVENT
+END:VCALENDAR

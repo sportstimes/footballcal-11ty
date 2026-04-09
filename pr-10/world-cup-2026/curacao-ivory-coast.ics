@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:xybIEx5cHH8eSJ_PGCNsg
+SUMMARY:Curaçao v Ivory Coast
+DTSTAMP:20260409T205941Z
+DTSTART:20260625T200000Z
+DTEND:20260625T215000Z
+DESCRIPTION:TV Channels: \n\nThe 30th game of the FIFA World Cup 2026 group
+	 stage between Group E competitors\, Curaçao and Ivory Coast.
+URL:https://footballcal.com/world-cup-2026/curacao-ivory-coast/
+LOCATION:Lincoln Financial Field\, Philadelphia
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Curaçao,Ivory Coast,Philadelphia,Group E,Group stage
+	s,World Cup 2026
+END:VEVENT
+END:VCALENDAR

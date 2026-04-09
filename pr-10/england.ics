@@ -1,0 +1,324 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:l4iGl8gJ-xu8XKU_K3Qzm
+SUMMARY:England v Croatia
+DTSTAMP:20260409T205941Z
+DTSTART:20210613T130000Z
+DTEND:20210613T145000Z
+DESCRIPTION:TV Channels: BBC\n\nThe fifth game of the (delayed) EURO 2020 c
+	ompetition between Group D rivals\, England and Croatia.
+URL:https://footballcal.com/euro-2020/england-croatia/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Croatia,London,Group D,Group stages,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:d6RmQouoLQoNVAOA3yLEQ
+SUMMARY:England v Scotland
+DTSTAMP:20260409T205941Z
+DTSTART:20210618T190000Z
+DTEND:20210618T205000Z
+DESCRIPTION:TV Channels: ITV\, STV\n\nThe 21st game of the (delayed) EURO 2
+	020 competition between Group D rivals\, England and Scotland.
+URL:https://footballcal.com/euro-2020/england-scotland/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Scotland,London,Group D,Group stages,EURO 20
+	20
+END:VEVENT
+BEGIN:VEVENT
+UID:SNv_0DSrquYh2FuOsNPef
+SUMMARY:Czech Republic v England
+DTSTAMP:20260409T205941Z
+DTSTART:20210622T190000Z
+DTEND:20210622T205000Z
+DESCRIPTION:TV Channels: ITV\n\nThe 31st game of the (delayed) EURO 2020 co
+	mpetition between Group D rivals\, Czech Republic and England.
+URL:https://footballcal.com/euro-2020/czech-republic-england/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Czech Republic,England,London,Group D,Group stages,E
+	URO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:Ti4fZ374FHK8ZawMAwDvY
+SUMMARY:England v Germany
+DTSTAMP:20260409T205941Z
+DTSTART:20210629T160000Z
+DTEND:20210629T175000Z
+DESCRIPTION:TV Channels: BBC\n\nThe 43rd game of the (delayed) EURO 2020 co
+	mpetition between Group D winners England and Group F runners-up Germany.
+URL:https://footballcal.com/euro-2020/knockout-7/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Germany,London,Group D,Group F,Knockout,Grou
+	p of 16,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:au3koNocgqM7_FFCmY1hX
+SUMMARY:Ukraine v England
+DTSTAMP:20260409T205941Z
+DTSTART:20210703T190000Z
+DTEND:20210703T205000Z
+DESCRIPTION:The 48th game of the (delayed) EURO 2020 competition between Kn
+	ockout 8 winners\, Ukraine and Knockout 7 winners\, England.
+URL:https://footballcal.com/euro-2020/quarter-final-4/
+LOCATION:Rome
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Ukraine,England,Rome,Knockout,Quarter Final,EURO 202
+	0
+END:VEVENT
+BEGIN:VEVENT
+UID:0pUXFT8gT0IorlA-IsTrW
+SUMMARY:England v Denmark
+DTSTAMP:20260409T205941Z
+DTSTART:20210707T190000Z
+DTEND:20210707T205000Z
+DESCRIPTION:The 50th game of the (delayed) EURO 2020 competition between Qu
+	arter Final 4 winners\, England and Quarter Final 3 winners\, Denmark.
+URL:https://footballcal.com/euro-2020/semi-final-2/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Denmark,London,Knockout,Semi Final,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:YG4A3x_olLOE_aIpyOxDI
+SUMMARY:Italy v England
+DTSTAMP:20260409T205941Z
+DTSTART:20210711T190000Z
+DTEND:20210711T205000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe 51st game of the (delayed) EURO 2
+	020 competition between Semi Final 1 winners\, Italy and Semi Final 2 winn
+	ers\, England.
+URL:https://footballcal.com/euro-2020/final/
+LOCATION:London
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Italy,England,London,Knockout,Final,EURO 2020
+END:VEVENT
+BEGIN:VEVENT
+UID:QWNG6Ohxbr9PqWppC6B4t
+SUMMARY:Serbia v England
+DTSTAMP:20260409T205941Z
+DTSTART:20240616T190000Z
+DTEND:20240616T205000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe seventh game of the EURO 2024 competit
+	ion between Group C competitors\, Serbia and England.
+URL:https://footballcal.com/euro-2024/serbia-england/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Serbia,England,Gelsenkirchen,Group C,Group stages,EU
+	RO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:weFxAiIkyaotHiNaYTRvj
+SUMMARY:Denmark v England
+DTSTAMP:20260409T205941Z
+DTSTART:20240620T160000Z
+DTEND:20240620T175000Z
+DESCRIPTION:TV Channels: BBC1\n\nThe seventeenth game of the EURO 2024 comp
+	etition between Group C competitors\, Denmark and England.
+URL:https://footballcal.com/euro-2024/denmark-england/
+LOCATION:Frankfurt am Main
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Denmark,England,Frankfurt am Main,Group C,Group stag
+	es,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:x4vpzJhWEFFB11OZt8JZQ
+SUMMARY:England v Slovenia
+DTSTAMP:20260409T205941Z
+DTSTART:20240625T190000Z
+DTEND:20240625T205000Z
+DESCRIPTION:TV Channels: ITV1\n\nThe thirty-first game of the EURO 2024 com
+	petition between Group C competitors\, England and Slovenia.
+URL:https://footballcal.com/euro-2024/england-slovenia/
+LOCATION:Cologne
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Slovenia,Cologne,Group C,Group stages,EURO 2
+	024
+END:VEVENT
+BEGIN:VEVENT
+UID:rrx5x-9ZJe_u9XapZbyxh
+SUMMARY:England v Slovakia
+DTSTAMP:20260409T205941Z
+DTSTART:20240630T160000Z
+DTEND:20240630T175000Z
+DESCRIPTION:TV Channels: \n\nThe 40th game of the EURO 2024 competition bet
+	ween Group C winners\, England and Group E 3rd place\, Slovakia.
+URL:https://footballcal.com/euro-2024/game-40/
+LOCATION:Gelsenkirchen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Slovakia,Gelsenkirchen,Group C,Group E,Round
+	 of 16,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:bJ7W8klJrFnthw8hpxkpE
+SUMMARY:England v Switzerland
+DTSTAMP:20260409T205941Z
+DTSTART:20240706T170000Z
+DTEND:20240706T185000Z
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\n\nThe 47th game and third quar
+	ter final of the EURO 2024 competition between England and Switzerland.
+URL:https://footballcal.com/euro-2024/quarter-final-3/
+LOCATION:Dusseldorf
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Switzerland,Dusseldorf,Quarter Finals,EURO 2
+	024
+END:VEVENT
+BEGIN:VEVENT
+UID:kvnYub7nulV400SDGGNlw
+SUMMARY:England v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20240710T190000Z
+DTEND:20240710T205000Z
+DESCRIPTION:TV Channels: ITV1\, ITVX\, STV\n\nThe 50th game and second semi
+	 final of the EURO 2024 competition between England and Netherlands.
+URL:https://footballcal.com/euro-2024/semi-final-2/
+LOCATION:Dortmund
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Netherlands,Dortmund,Semi Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:AMtgFvTT7oHjCpys5J9UQ
+SUMMARY:Spain v England
+DTSTAMP:20260409T205941Z
+DTSTART:20240714T190000Z
+DTEND:20240714T205000Z
+DESCRIPTION:TV Channels: BBC1\, BBC iPlayer\, ITV1\, STV\, ITVX\, STV Playe
+	r\n\nThe 51st and final game of the EURO 2024 competition between Spain an
+	d England.
+URL:https://footballcal.com/euro-2024/final/
+LOCATION:Berlin
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Spain,England,Berlin,Finals,EURO 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:kNu_1w25AbKld-IZrKsxT
+SUMMARY:France v England
+DTSTAMP:20260409T205941Z
+DTSTART:20250705T190000Z
+DTEND:20250705T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\, TF1\, France Télévisions\n\n8th game o
+	f the Women's Euro 2025 competition between France and England.
+URL:https://footballcal.com/euro-2025/france-england/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,France,England,Stadion Letzigrund, Zurich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:mgUPBxKGsUMrnT_bQgjjB
+SUMMARY:England v Netherlands
+DTSTAMP:20260409T205941Z
+DTSTART:20250709T160000Z
+DTEND:20250709T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n15th game of the Women's Euro 2025 co
+	mpetition between England and Netherlands.
+URL:https://footballcal.com/euro-2025/england-netherlands/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Netherlands,Stadion Letzigrund, Zurich,EURO 
+	2025
+END:VEVENT
+BEGIN:VEVENT
+UID:6p6ru3WCRPRT8H-jqUw0i
+SUMMARY:England v Wales
+DTSTAMP:20260409T205941Z
+DTSTART:20250713T190000Z
+DTEND:20250713T210000Z
+DESCRIPTION:TV Channels: ITV\, BBC\n\n24th game of the Women's Euro 2025 co
+	mpetition between England and Wales.
+URL:https://footballcal.com/euro-2025/england-wales/
+LOCATION:Arena St. Gallen\, St Gallen
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Wales,Arena St. Gallen, St Gallen,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:KEGG5YZWy_bfLFtUbHzuz
+SUMMARY:Sweden v England
+DTSTAMP:20260409T205941Z
+DTSTART:20250717T190000Z
+DTEND:20250717T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\n26th game of the Women's Euro 2025 co
+	mpetition between Winner Group C and Runner-up Group D.
+URL:https://footballcal.com/euro-2025/winner-group-c-runner-up-group-d/
+LOCATION:Stadion Letzigrund\, Zurich
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Sweden,England,Group C,Group D,Stadion Letzigrund, Z
+	urich,EURO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:yF3WbAfrs2p1urwhtE_eh
+SUMMARY:England v Italy
+DTSTAMP:20260409T205941Z
+DTSTART:20250722T190000Z
+DTEND:20250722T210000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe first semi-final of the Women's E
+	uro 2025 competition between England and Italy.
+URL:https://footballcal.com/euro-2025/semi-final-1/
+LOCATION:Stade de Genève\, Geneva
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Italy,Semi-final 1,Stade de Genève, Geneva,E
+	URO 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:0hC3bUyXGTJEjz9cVhTRb
+SUMMARY:England v Spain
+DTSTAMP:20260409T205941Z
+DTSTART:20250727T160000Z
+DTEND:20250727T180000Z
+DESCRIPTION:TV Channels: BBC\, ITV\n\nThe final of the Women's Euro 2025 co
+	mpetition will be contested between England and Spain.
+URL:https://footballcal.com/euro-2025/final/
+LOCATION:St. Jakob‑Park\, Basel
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Final,St. Jakob‑Park, Basel,EURO 2025,England,Spain
+END:VEVENT
+BEGIN:VEVENT
+UID:YwJL5JBTEGyP7vT7DStLK
+SUMMARY:England v Croatia
+DTSTAMP:20260409T205941Z
+DTSTART:20260617T200000Z
+DTEND:20260617T215000Z
+DESCRIPTION:TV Channels: \n\nThe 67th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, England and Croatia.
+URL:https://footballcal.com/world-cup-2026/england-croatia/
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Croatia,Dallas,Group L,Group stages,World Cu
+	p 2026
+END:VEVENT
+BEGIN:VEVENT
+UID:TWN0h9eeqqTIGJBDF2xPP
+SUMMARY:England v Ghana
+DTSTAMP:20260409T205941Z
+DTSTART:20260623T200000Z
+DTEND:20260623T215000Z
+DESCRIPTION:TV Channels: \n\nThe 69th game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, England and Ghana.
+URL:https://footballcal.com/world-cup-2026/england-ghana/
+LOCATION:Gillette Stadium\, Boston
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,England,Ghana,Boston,Group L,Group stages,World Cup 
+	2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Qaakfqq2zptKvJmEuQ3rL
+SUMMARY:Panama v England
+DTSTAMP:20260409T205941Z
+DTSTART:20260627T210000Z
+DTEND:20260627T225000Z
+DESCRIPTION:TV Channels: \n\nThe 71st game of the FIFA World Cup 2026 group
+	 stage between Group L competitors\, Panama and England.
+URL:https://footballcal.com/world-cup-2026/panama-england/
+LOCATION:MetLife Stadium\, New York New Jersey
+STATUS:CONFIRMED
+CATEGORIES:webcal-game,Panama,England,New York New Jersey,Group L,Group sta
+	ges,World Cup 2026
+END:VEVENT
+END:VCALENDAR
