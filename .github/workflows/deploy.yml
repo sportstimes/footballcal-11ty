@@ -36,6 +36,10 @@ jobs:
           node-version-file: '.nvmrc'
 
       - name: Install and Build 🔧
+        env:
+          GOOGLE_ADSENSE_PUBLISHER_ID: ${{ secrets.GOOGLE_ADSENSE_PUBLISHER_ID }}
+          GOOGLE_ADSENSE_SLOT_GAME: ${{ secrets.GOOGLE_ADSENSE_SLOT_GAME }}
+          GOOGLE_ADSENSE_SLOT_COMPETITION: ${{ secrets.GOOGLE_ADSENSE_SLOT_COMPETITION }}
         run: |
           npm install
           npm test
