@@ -665,6 +665,10 @@ ul.competitions li {
   text-align: center;
 }
 
+#content .event-post > h1 {
+  font-size: clamp(2rem, 11vw, 60px);
+}
+
 .lede {
   margin-bottom: 5rem;
   text-align: center;
