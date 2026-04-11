@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 ---
-
+{% for comp in competitions %}{% if comp.title == tag %}{% set competitionTheme = comp.theme %}{% endif %}{% endfor %}
 <h1>{{ tag }} Games</h1>
 <p class="subscribe">
     <a href="{{ ('/' + (tag | slugify) + '/') | url | absoluteUrl(config.baseUrl) | webcal }}">
