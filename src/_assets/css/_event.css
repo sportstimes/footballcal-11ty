@@ -38,7 +38,190 @@ tr:last-child td {
 }
 
 tr.past {
-    opacity: 0.4;
+    opacity: 0.35;
+}
+
+/* ── Tabs ──────────────────────────────────────────────── */
+.tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin: 1.5rem 0;
+}
+
+.tab {
+    flex: 1;
+    display: block;
+    text-align: center;
+    padding: 0.65rem 1rem;
+    border-radius: 0.5rem;
+    font-family: Impact, 'Arial Narrow Bold', Haettenschweiler, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 1rem;
+    border: 2px solid transparent;
+    border-bottom: 2px solid transparent; /* override _layout.css link style */
+    transition: background 0.2s, color 0.2s;
+}
+
+.tab:hover {
+    border-bottom: 2px solid transparent;
+}
+
+.tab-active {
+    background: rgb(255 255 255 / 95%);
+    color: #000;
+    border-color: transparent;
+}
+
+.tab-active:hover {
+    background: #fff;
+    border-bottom: 2px solid transparent;
+}
+
+.tab-inactive {
+    background: transparent;
+    color: rgb(255 255 255 / 75%);
+    border-color: rgb(255 255 255 / 40%);
+}
+
+.tab-inactive:hover {
+    background: rgb(255 255 255 / 10%);
+    color: #fff;
+    border-bottom: 2px solid transparent;
+}
+
+.tab-disabled {
+    background: transparent;
+    color: rgb(255 255 255 / 25%);
+    border-color: rgb(255 255 255 / 15%);
+    cursor: not-allowed;
+    text-decoration: line-through;
+}
+
+/* ── NOW divider row ────────────────────────────────────── */
+tr.now-row td {
+    padding: 0.35rem 0;
+    width: 100%;
+}
+
+.now-divider {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.now-divider::before,
+.now-divider::after {
+    content: '';
+    flex: 1;
+    height: 2px;
+    background: rgb(255 255 255 / 40%);
+}
+
+.now-badge {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: rgb(255 255 255 / 12%);
+    border: 2px solid rgb(255 255 255 / 50%);
+    border-radius: 2rem;
+    padding: 0.2rem 0.9rem 0.2rem 0.6rem;
+    font-family: Impact, 'Arial Narrow Bold', Haettenschweiler, sans-serif;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    color: #fff;
+    white-space: nowrap;
+}
+
+.pulse-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #fff;
+    flex-shrink: 0;
+    animation: pulse 1.8s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 0.3;
+        transform: scale(0.65);
+    }
+}
+
+/* ── Next game hero card ────────────────────────────────── */
+tr.hero-row td {
+    padding: 0.5rem 0;
+    width: 100%;
+}
+
+.next-card {
+    display: block;
+    background: #fff;
+    border-radius: 1rem;
+    padding: 1.4rem 3.5rem 1.4rem 1.75rem;
+    color: #000;
+    position: relative;
+    box-shadow: 0 8px 32px rgb(0 0 0 / 25%);
+    border-bottom: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.next-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 40px rgb(0 0 0 / 30%);
+    border-bottom: none;
+}
+
+.card-eyebrow {
+    font-family: Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    letter-spacing: 0.12em;
+    color: rgb(0 0 0 / 40%);
+    margin-bottom: 0.4rem;
+}
+
+.card-teams {
+    font-family: Impact, 'Arial Narrow Bold', Haettenschweiler, sans-serif;
+    text-transform: uppercase;
+    font-size: clamp(1.4rem, 5vw, 2.25rem);
+    line-height: 1;
+    margin-bottom: 0.6rem;
+}
+
+.card-home { color: #C04040; }
+.card-sep  { color: rgb(0 0 0 / 20%); }
+.card-away { color: #135A94; }
+
+.card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.25rem;
+    font-size: 0.875rem;
+    color: rgb(0 0 0 / 50%);
+}
+
+.card-cta {
+    position: absolute;
+    right: 1.25rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2rem;
+    line-height: 1;
+    color: rgb(0 0 0 / 20%);
+    transition: color 0.2s, transform 0.2s;
+}
+
+.next-card:hover .card-cta {
+    color: rgb(0 0 0 / 50%);
+    transform: translateY(-50%) translateX(4px);
 }
 
 td.summary {

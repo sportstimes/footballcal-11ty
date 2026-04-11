@@ -10,8 +10,11 @@ layout: base.njk
         <small>in iOS, MacOS and Office</small>
     </a>
 </p>
-{% set upcomingGames = collections[tag] | upcoming %}
-<table>
+<nav class="tabs" aria-label="Timeline view">
+    <a class="tab" id="tab-upcoming" href="#">Upcoming</a>
+    <a class="tab" id="tab-previous" href="#">Previous</a>
+</nav>
+<table id="game-list">
     <thead>
         <tr>
             <th>Day</th>
@@ -20,17 +23,19 @@ layout: base.njk
         </tr>
     </thead>
     <tbody>
-        {% for game in upcomingGames %}
-            <tr class="vevent h-event">
+        {% for game in collections[tag] %}
+            <tr class="vevent h-event"
+                data-location="{{ game.data.locationName }}"
+                data-tags="{{ game.data.tags | join(',') }}">
                 <td class="datetime">
-                    {% if showDate(game.data.date, loop.index0, upcomingGames) %}
+                    {% if showDate(game.data.date, loop.index0, collections[tag]) %}
                         <span class="day">{{ game.data.date | date('ccc dS LLLL') }}</span>
                     {% endif %}
                 </td>
                 <td class="time">
                     <span>{{ game.data.date | date('H:mm') }}</span>
-                    <time class="dt-start">{{ game.data.date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}</time>
-                    <time class="dt-end">{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
+                    <time class="dt-start" datetime="{{ game.data.date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}"></time>
+                    <time class="dt-end" datetime="{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}"></time>
                 </td>
                 <td class="summary">
                     <a class="p-name u-url" href="{{ game.page.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
@@ -39,10 +44,146 @@ layout: base.njk
         {% endfor %}
     </tbody>
 </table>
-<h2>Want more?</h2>
 <p>
     <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}">All games</a>
 </p>
-<p>
-    <a href="{{ ('/' + (tag | slugify) + '/history/') | url | absoluteUrl(config.baseUrl) }}">Previous {{ tag }} games</a>
-</p>
+<script>
+(function () {
+  'use strict';
+
+  var now        = new Date();
+  var tbody      = document.querySelector('#game-list tbody');
+  var tabUp      = document.getElementById('tab-upcoming');
+  var tabPrev    = document.getElementById('tab-previous');
+  if (!tbody || !tabUp || !tabPrev) return;
+
+  var rows          = Array.prototype.slice.call(tbody.querySelectorAll('tr.vevent'));
+  var firstUpcoming = null;
+  var nowRow        = null;
+  var heroRow       = null;
+
+  // ── 1. Classify rows as past/upcoming ──────────────────────────────────────
+  rows.forEach(function (row) {
+    var dtEl = row.querySelector('.dt-start');
+    if (!dtEl) return;
+    var d = new Date(dtEl.getAttribute('datetime'));
+    if (isNaN(d.getTime())) return;
+    if (d < now) {
+      row.classList.add('past');
+    } else if (!firstUpcoming) {
+      firstUpcoming = row;
+    }
+  });
+
+  // ── 2. Build NOW divider row ───────────────────────────────────────────────
+  nowRow = document.createElement('tr');
+  nowRow.className = 'now-row';
+  nowRow.id        = 'now';
+  nowRow.innerHTML =
+    '<td colspan="3"><div class="now-divider">' +
+    '<span class="now-badge"><span class="pulse-dot"></span>Now</span>' +
+    '</div></td>';
+
+  // ── 3a. Upcoming games exist ───────────────────────────────────────────────
+  if (firstUpcoming) {
+    var link     = firstUpcoming.querySelector('.summary a');
+    var dtEl     = firstUpcoming.querySelector('.dt-start');
+    var gameDate = new Date(dtEl.getAttribute('datetime'));
+    var location = firstUpcoming.dataset.location || '';
+    var title    = link ? link.textContent.trim() : '';
+    var href     = link ? link.getAttribute('href') : '#';
+
+    // Split "Home v Away" into parts
+    var vIdx = title.indexOf(' v ');
+    var home = vIdx > -1 ? title.slice(0, vIdx).trim()      : title;
+    var away = vIdx > -1 ? title.slice(vIdx + 3).trim()     : '';
+
+    // Format date/time in the visitor's local timezone
+    var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var dateStr = gameDate.toLocaleDateString('en-GB', {
+      weekday: 'short', day: 'numeric', month: 'long', year: 'numeric'
+    });
+    var timeStr = gameDate.toLocaleTimeString('en-GB', {
+      hour: '2-digit', minute: '2-digit'
+    });
+
+    // Find the competition tag (one containing a 4-digit year, e.g. "World Cup 2026")
+    var tags = (firstUpcoming.dataset.tags || '').split(',').map(function (t) {
+      return t.trim();
+    });
+    var competition = '';
+    for (var i = 0; i < tags.length; i++) {
+      if (tags[i] && tags[i] !== home && tags[i] !== away && /\d{4}/.test(tags[i])) {
+        competition = tags[i];
+        break;
+      }
+    }
+
+    // Build hero card row
+    heroRow = document.createElement('tr');
+    heroRow.className = 'hero-row';
+    heroRow.id        = 'upcoming';
+    heroRow.innerHTML =
+      '<td colspan="3">' +
+        '<a class="next-card" href="' + href + '">' +
+          '<div class="card-eyebrow">Next match' + (competition ? ' \u00B7 ' + competition : '') + '</div>' +
+          '<div class="card-teams">' +
+            '<span class="card-home">' + home + '</span>' +
+            (away ? '<span class="card-sep"> v </span><span class="card-away">' + away + '</span>' : '') +
+          '</div>' +
+          '<div class="card-meta">' +
+            '<span>\uD83D\uDCC5\u00A0' + dateStr + '</span>' +
+            '<span>\uD83D\uDD53\u00A0' + timeStr + ' local</span>' +
+            (location ? '<span>\uD83D\uDCCD\u00A0' + location + '</span>' : '') +
+          '</div>' +
+          '<span class="card-cta" aria-hidden="true">\u203A</span>' +
+        '</a>' +
+      '</td>';
+
+    // Insert divider → hero → hide original row
+    tbody.insertBefore(nowRow, firstUpcoming);
+    tbody.insertBefore(heroRow, firstUpcoming);
+    firstUpcoming.setAttribute('hidden', '');
+
+    // Set active tab
+    tabUp.classList.add('tab-active');
+    tabPrev.classList.add('tab-inactive');
+
+    // Tab: Upcoming → scroll to hero card
+    tabUp.addEventListener('click', function (e) {
+      e.preventDefault();
+      var top = heroRow.getBoundingClientRect().top + window.scrollY - 100;
+      window.scrollTo({ top: Math.max(0, top), behavior: reduced ? 'auto' : 'smooth' });
+    });
+
+    // Tab: Previous → scroll to first past row
+    tabPrev.addEventListener('click', function (e) {
+      e.preventDefault();
+      var firstPast = tbody.querySelector('tr.past');
+      var top = firstPast
+        ? firstPast.getBoundingClientRect().top + window.scrollY - 100
+        : 0;
+      window.scrollTo({ top: Math.max(0, top), behavior: reduced ? 'auto' : 'smooth' });
+    });
+
+    // Auto-scroll to NOW after fonts/layout settle
+    function scrollToNow() {
+      var top = nowRow.getBoundingClientRect().top + window.scrollY - 120;
+      window.scrollTo({ top: Math.max(0, top), behavior: reduced ? 'auto' : 'smooth' });
+    }
+    if (document.readyState === 'complete') {
+      scrollToNow();
+    } else {
+      window.addEventListener('load', scrollToNow);
+    }
+
+  // ── 3b. All games in the past ──────────────────────────────────────────────
+  } else {
+    tbody.appendChild(nowRow);
+    tabUp.classList.add('tab-disabled');
+    tabUp.setAttribute('aria-disabled', 'true');
+    tabUp.addEventListener('click', function (e) { e.preventDefault(); });
+    tabPrev.classList.add('tab-active');
+  }
+}());
+</script>
