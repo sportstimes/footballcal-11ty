@@ -52,3 +52,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
   font-weight: 900;
 }
+
+.ad-container {
+  margin: 1.5em 0;
+  text-align: center;
+}

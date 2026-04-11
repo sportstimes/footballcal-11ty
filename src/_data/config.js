@@ -1,6 +1,9 @@
 const config = {
   POSTHOG_KEY: 'phc_JdP4Pzr615wYq8B0fT0wCK3dPL8yszZIOWOsSAM2Fad',
-  POSTHOG_HOST: 'https://eu.i.posthog.com'
+  POSTHOG_HOST: 'https://eu.i.posthog.com',
+  GOOGLE_ADSENSE_PUBLISHER_ID: process.env.GOOGLE_ADSENSE_PUBLISHER_ID || '',
+  GOOGLE_ADSENSE_SLOT_GAME: process.env.GOOGLE_ADSENSE_SLOT_GAME || '',
+  GOOGLE_ADSENSE_SLOT_COMPETITION: process.env.GOOGLE_ADSENSE_SLOT_COMPETITION || ''
 }
 
 module.exports = () => {

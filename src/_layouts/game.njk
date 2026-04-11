@@ -42,6 +42,18 @@ layout: base.njk
     </div>
 </div>
 
+{% if config.GOOGLE_ADSENSE_PUBLISHER_ID and config.GOOGLE_ADSENSE_SLOT_GAME %}
+<div class="ad-container">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ config.GOOGLE_ADSENSE_PUBLISHER_ID }}"
+         data-ad-slot="{{ config.GOOGLE_ADSENSE_SLOT_GAME }}"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% endif %}
+
 <h2>Want more?</h2>
 <ul class="inline">
     {% for tag in tags | validTags %}

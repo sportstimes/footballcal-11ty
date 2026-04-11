@@ -10,6 +10,17 @@ layout: base.njk
         <small>in iOS, MacOS and Office</small>
     </a>
 </p>
+{% if config.GOOGLE_ADSENSE_PUBLISHER_ID and config.GOOGLE_ADSENSE_SLOT_COMPETITION %}
+<div class="ad-container">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ config.GOOGLE_ADSENSE_PUBLISHER_ID }}"
+         data-ad-slot="{{ config.GOOGLE_ADSENSE_SLOT_COMPETITION }}"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% endif %}
 <table>
     <thead>
         <tr>
