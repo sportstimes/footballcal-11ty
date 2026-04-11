@@ -6,7 +6,7 @@ const date = require('./src/_filters/date')
 const absoluteUrl = require('./src/_filters/absoluteUrl')
 const validTags = require('./src/_filters/validTags')
 const webcal = require('./src/_filters/webcal')
-const { upcoming, limit, next } = require('./src/_filters/collections')
+const { upcoming, past, limit, next } = require('./src/_filters/collections')
 
 const showDate = require('./src/_methods/showDate')
 const isPast = require('./src/_methods/isPast')
@@ -25,6 +25,7 @@ module.exports = config => {
   // collections…
   config.addFilter('limit', limit)
   config.addFilter('upcoming', upcoming)
+  config.addFilter('past', past)
   config.addFilter('next', next)
 
   // methods…
