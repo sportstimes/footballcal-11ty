@@ -659,7 +659,7 @@ ul.competitions li {
 }
 
 #content h1 {
-  font-size: 60px;
+  font-size: clamp(2rem, 13vw, 60px);
   border-top: 8px solid #FFF;
   padding-top: 20px;
   text-align: center;
