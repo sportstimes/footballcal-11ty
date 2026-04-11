@@ -1,24 +1,28 @@
 [
   {
     "title": "FIFA World Cup 2026",
+    "theme": "world-cup-2026",
     "path": "/world-cup-2026/",
     "start": "2026-06-11",
     "end": "2026-07-19"
   },
   {
     "title": "EURO 2025",
+    "theme": "euro-2025",
     "path": "/euro-2025/",
     "start": "2025-07-02",
     "end": "2025-07-27"
   },
   {
     "title": "EURO 2024",
+    "theme": "euro-2024",
     "path": "/euro-2024/",
     "start": "2024-06-14",
     "end": "2024-07-14"
   },
   {
     "title": "EURO 2020",
+    "theme": "euro-2020",
     "path": "/euro-2020/",
     "start": "2021-06-11",
     "end": "2021-07-11"

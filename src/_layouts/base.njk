@@ -20,7 +20,7 @@
             posthog.init('{{ config.POSTHOG_KEY }}', {api_host: '{{ config.POSTHOG_HOST }}'})
         </script>
     </head>
-    <body class="{{ bodyClass }}">
+    <body class="{{ bodyClass }}"{% if competitionTheme %} data-theme="{{ competitionTheme }}"{% endif %}>
         <header>
             <div>
                 <h1>

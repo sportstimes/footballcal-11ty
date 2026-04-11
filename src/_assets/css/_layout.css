@@ -240,9 +240,11 @@ html {
 }
 
 body {
+  --color-a: #D55A5A;
+  --color-b: #135A94;
   text-align: left;
-  background-color: #D55A5A;
-  background-image: linear-gradient(120deg, #D55A5A 50%, #135A94 50%);
+  background-color: var(--color-a);
+  background-image: linear-gradient(120deg, var(--color-a) 50%, var(--color-b) 50%);
   color: rgb(30 30 30 / 80%);
   font-family: Helvetica, sans-serif;
   font-weight: normal;
@@ -250,6 +252,11 @@ body {
   font-kerning: normal;
   font-feature-settings: "kern", "liga", "clig", "calt";
 }
+
+body[data-theme="world-cup-2026"] { --color-a: #BF0A30; --color-b: #006847; }
+body[data-theme="euro-2025"]      { --color-a: #DA291C; --color-b: #1565C0; }
+body[data-theme="euro-2024"]      { --color-a: #1C1C1C; --color-b: #FFCC00; }
+body[data-theme="euro-2020"]      { --color-a: #003FA0; --color-b: #E87722; }
 
 img {
   max-width: 100%;
