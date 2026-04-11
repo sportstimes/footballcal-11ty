@@ -1,0 +1,420 @@
+<!doctype html>
+<html dir="ltr" lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Spain Games | Football Cal [MOCKUP]</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Helvetica, Arial, sans-serif;
+      background-color: #D55A5A;
+      background-image: linear-gradient(120deg, #D55A5A 50%, #135A94 50%);
+      background-attachment: fixed;
+      color: #fff;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: #fff; text-decoration: none; }
+
+    /* ── Mockup banner ── */
+    .mockup-banner {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      background: #e07b00;
+      color: #fff;
+      text-align: center;
+      padding: 0.4rem 1rem;
+      font-size: 0.8rem;
+      font-family: monospace;
+      letter-spacing: 0.05em;
+      z-index: 9999;
+    }
+
+    /* ── Header ── */
+    header {
+      max-width: 960px;
+      padding: 0 1rem;
+      margin: 2.5rem auto 0;
+      text-align: center;
+    }
+    header h1 {
+      font-family: Impact, 'Arial Narrow Bold', sans-serif;
+      text-transform: uppercase;
+      font-size: 1rem;
+      padding: 1.5rem 0 0;
+      margin: 0;
+      color: #fff;
+    }
+
+    /* ── Content shell ── */
+    #content {
+      margin: 0 auto;
+      max-width: 960px;
+      padding: 0 1rem 4rem;
+    }
+    main {
+      margin: 0 auto;
+      max-width: 50rem;
+      padding: 1.5rem;
+    }
+
+    h1, h2 {
+      font-family: Impact, 'Arial Narrow Bold', Haettenschweiler, sans-serif;
+      text-transform: uppercase;
+      font-weight: bold;
+      line-height: 1.1;
+      margin: 0 0 1.45rem;
+    }
+    #content h1 {
+      font-size: clamp(2.5rem, 8vw, 60px);
+      border-top: 8px solid #fff;
+      padding-top: 20px;
+      text-align: center;
+    }
+
+    /* ── Subscribe ── */
+    .subscribe { text-align: center; margin: 2rem 0; }
+    .subscribe a {
+      display: block; padding: 1rem;
+      background: rgba(255,255,255,0.9);
+      border-radius: 1rem; font-weight: bold;
+      color: #000; transition: background 0.3s;
+    }
+    .subscribe a:hover { background: #fff; }
+    .subscribe span, .subscribe small { display: block; }
+    .subscribe small { font-weight: normal; font-style: italic; }
+
+    /* ── Tabs ── */
+    .tabs { display: flex; gap: 0.5rem; margin: 1.5rem 0 0; }
+    .tab {
+      flex: 1; display: block; text-align: center;
+      padding: 0.65rem 1rem; border-radius: 0.5rem;
+      font-family: Impact, 'Arial Narrow Bold', sans-serif;
+      text-transform: uppercase; letter-spacing: 0.08em;
+      font-size: 1rem; border: 2px solid transparent;
+      transition: all 0.2s;
+    }
+    .tab.active  { background: rgba(255,255,255,0.95); color: #000; }
+    .tab.inactive {
+      background: transparent;
+      color: rgba(255,255,255,0.75);
+      border-color: rgba(255,255,255,0.4);
+    }
+    .tab.inactive:hover { background: rgba(255,255,255,0.1); color: #fff; }
+    .tab.disabled {
+      background: transparent;
+      color: rgba(255,255,255,0.25);
+      border-color: rgba(255,255,255,0.15);
+      cursor: not-allowed;
+      text-decoration: line-through;
+    }
+
+    /* ── Shared table styles ── */
+    table {
+      border-collapse: collapse;
+      width: 100%; font-size: 1rem;
+      line-height: 1.45; margin: 0;
+    }
+    thead { display: none; }
+    td {
+      position: relative; width: 33%;
+      padding: 0.725rem 0.9667rem calc(0.725rem - 1px);
+      text-align: center;
+    }
+    td:first-child { padding-left: 0; }
+    td:last-child  { padding-right: 0; }
+
+    td.datetime {
+      text-align: right;
+      font-family: Impact, 'Arial Narrow Bold', sans-serif;
+      text-transform: uppercase;
+    }
+    .day { display: block; font-size: 0.85rem; }
+
+    td.time {
+      background-image: linear-gradient(
+        90deg,
+        transparent 0, transparent 49%,
+        #fff 49%, #fff 51%,
+        transparent 51%
+      );
+    }
+    td.time span {
+      background: #fff; color: #000;
+      display: inline-block;
+      width: 4rem; height: 4rem; line-height: 4rem;
+      border-radius: 50%; font-size: 0.95rem;
+    }
+    td.summary { text-align: left; }
+    td.summary a { border-bottom: 3px solid rgba(255,255,255,0.4); }
+    td.summary a:hover { border-bottom-width: 1px; }
+
+    /* ── Past rows ── */
+    tr.past { opacity: 0.35; }
+
+    /* ── NOW badge ── */
+    .now-divider {
+      display: flex; align-items: center; gap: 0.75rem;
+      padding: 0.5rem 0;
+    }
+    .now-divider::before, .now-divider::after {
+      content: ''; flex: 1;
+      height: 2px; background: rgba(255,255,255,0.4);
+    }
+    .now-badge {
+      display: flex; align-items: center; gap: 0.4rem;
+      background: rgba(255,255,255,0.12);
+      border: 2px solid rgba(255,255,255,0.5);
+      border-radius: 2rem;
+      padding: 0.2rem 0.9rem 0.2rem 0.6rem;
+      font-family: Impact, 'Arial Narrow Bold', sans-serif;
+      text-transform: uppercase; font-size: 0.75rem;
+      letter-spacing: 0.12em; color: #fff;
+    }
+    .pulse-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%; background: #fff; flex-shrink: 0;
+      animation: pulse 1.8s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50%       { opacity: 0.35; transform: scale(0.65); }
+    }
+
+    /* ── NEXT GAME HERO CARD ── */
+    /*
+      Sits between the past-games table and the upcoming-games table.
+      White card that "pops" forward — breaks slightly outside the column width.
+      Only shows enough to draw the user in; detail is on the game page.
+    */
+    .next-card {
+      display: block;
+      background: #fff;
+      border-radius: 1rem;
+      padding: 1.5rem 1.75rem;
+      margin: 0.25rem -0.5rem 0.5rem;  /* slight bleed beyond column edge */
+      color: #000;
+      position: relative;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+      transition: transform 0.2s, box-shadow 0.2s;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .next-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 12px 40px rgba(0,0,0,0.3);
+    }
+
+    .next-card .card-eyebrow {
+      font-family: Impact, 'Arial Narrow Bold', sans-serif;
+      text-transform: uppercase;
+      font-size: 0.7rem;
+      letter-spacing: 0.15em;
+      color: rgba(0,0,0,0.4);
+      margin-bottom: 0.6rem;
+    }
+
+    .next-card .card-teams {
+      font-family: Impact, 'Arial Narrow Bold', sans-serif;
+      text-transform: uppercase;
+      font-size: clamp(1.6rem, 5vw, 2.25rem);
+      line-height: 1;
+      margin-bottom: 0.5rem;
+      /* Split team colours to echo the site gradient */
+    }
+    .next-card .card-teams .home { color: #C04040; }
+    .next-card .card-teams .sep  { color: rgba(0,0,0,0.2); margin: 0 0.3rem; }
+    .next-card .card-teams .away { color: #135A94; }
+
+    .next-card .card-meta {
+      font-size: 0.9rem;
+      color: rgba(0,0,0,0.5);
+      display: flex; gap: 1.25rem; flex-wrap: wrap;
+      align-items: center;
+      margin-top: 0.75rem;
+    }
+    .next-card .card-meta span { display: flex; align-items: center; gap: 0.3rem; }
+
+    .next-card .card-cta {
+      position: absolute;
+      right: 1.5rem; top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.5rem;
+      color: rgba(0,0,0,0.2);
+      transition: color 0.2s, transform 0.2s;
+    }
+    .next-card:hover .card-cta {
+      color: rgba(0,0,0,0.5);
+      transform: translateY(-50%) translateX(3px);
+    }
+
+    /* ── Upcoming tail rows ── */
+    .upcoming-tail td { opacity: 0.85; }
+    .upcoming-tail tr:first-child td { padding-top: 1.25rem; }
+    .upcoming-tail tr:last-child td  { padding-bottom: 2rem; }
+
+    /* ── State B panel (disabled tabs demo) ── */
+    .state-b {
+      max-width: 50rem;
+      margin: 4rem auto 0;
+      padding: 0 1.5rem;
+    }
+    .state-b-label {
+      font-family: monospace; font-size: 0.75rem;
+      background: rgba(0,0,0,0.25);
+      padding: 0.3rem 0.7rem; border-radius: 0.25rem;
+      margin-bottom: 1rem; display: inline-block;
+    }
+    .state-b p {
+      font-size: 0.85rem; opacity: 0.7; margin: 0.5rem 0 0;
+    }
+
+    footer {
+      text-align: center; font-size: 0.75rem;
+      opacity: 0.5; margin: 4rem 0 2rem;
+    }
+  </style>
+</head>
+<body>
+
+<div class="mockup-banner">⚡ MOCKUP — visual prototype, not built yet</div>
+
+<header>
+  <h1><a href="#">Football Cal</a></h1>
+</header>
+
+<div id="content">
+  <main>
+    <h1>Spain Games</h1>
+
+    <div class="subscribe">
+      <a href="#">
+        <span>🗓 Add Spain games to your calendar</span>
+        <small>in iOS, MacOS and Office</small>
+      </a>
+    </div>
+
+    <!-- Tabs -->
+    <div class="tabs">
+      <a class="tab active" href="#">Upcoming</a>
+      <a class="tab inactive" href="#">Previous</a>
+    </div>
+
+    <!-- ╔══════════════════════════════════╗
+         ║  PAST GAMES — scroll up to see  ║
+         ╚══════════════════════════════════╝ -->
+    <table>
+      <thead><tr><th>Day</th><th>Time</th><th>Summary</th></tr></thead>
+      <tbody>
+        <tr class="past">
+          <td class="datetime"><span class="day">Mon 2nd Jun</span></td>
+          <td class="time"><span>20:00</span></td>
+          <td class="summary"><a href="#">Spain v Albania</a></td>
+        </tr>
+        <tr class="past">
+          <td class="datetime"><span class="day">Fri 6th Jun</span></td>
+          <td class="time"><span>17:00</span></td>
+          <td class="summary"><a href="#">Croatia v Spain</a></td>
+        </tr>
+        <tr class="past">
+          <td class="datetime"></td>
+          <td class="time"><span>20:00</span></td>
+          <td class="summary"><a href="#">Spain v Italy</a></td>
+        </tr>
+        <tr class="past">
+          <td class="datetime"><span class="day">Wed 11th Jun</span></td>
+          <td class="time"><span>20:00</span></td>
+          <td class="summary"><a href="#">Spain v Morocco</a></td>
+        </tr>
+        <tr class="past">
+          <td class="datetime"><span class="day">Sat 14th Jun</span></td>
+          <td class="time"><span>19:00</span></td>
+          <td class="summary"><a href="#">Spain v Cape Verde</a></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- ╔══════════════════╗
+         ║   NOW divider    ║
+         ╚══════════════════╝ -->
+    <div id="now">
+      <div class="now-divider">
+        <span class="now-badge">
+          <span class="pulse-dot"></span>
+          Now
+        </span>
+      </div>
+    </div>
+
+    <!-- ╔══════════════════════════════════════════════════════╗
+         ║  NEXT GAME HERO CARD                               ║
+         ║  White card, teams in brand colours, teaser only   ║
+         ║  Clicking goes to the game detail page             ║
+         ╚══════════════════════════════════════════════════════╝ -->
+    <a class="next-card" href="#">
+      <div class="card-eyebrow">Next match · World Cup 2026 · Group E</div>
+      <div class="card-teams">
+        <span class="home">Spain</span>
+        <span class="sep">v</span>
+        <span class="away">Saudi Arabia</span>
+      </div>
+      <div class="card-meta">
+        <span>📅 Sat 21st June 2026</span>
+        <span>🕓 16:00 UTC</span>
+        <span>📍 Dallas</span>
+      </div>
+      <span class="card-cta">›</span>
+    </a>
+
+    <!-- ╔══════════════════════════════════════╗
+         ║  REMAINING UPCOMING GAMES            ║
+         ╚══════════════════════════════════════╝ -->
+    <table class="upcoming-tail">
+      <thead><tr><th>Day</th><th>Time</th><th>Summary</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="datetime"><span class="day">Fri 27th Jun</span></td>
+          <td class="time"><span>01:00</span></td>
+          <td class="summary"><a href="#">Uruguay v Spain</a></td>
+        </tr>
+      </tbody>
+    </table>
+
+  </main>
+
+  <!-- ═══════════════════════════════════════════════════════
+       STATE B: All games in the past — tabs state comparison
+       ═══════════════════════════════════════════════════════ -->
+  <div class="state-b">
+    <div class="state-b-label">State B — all fixtures in the past</div>
+    <div class="tabs">
+      <a class="tab disabled" href="#" onclick="return false" aria-disabled="true">Upcoming</a>
+      <a class="tab active" href="#">Previous</a>
+    </div>
+    <p>Upcoming tab is struck-through and unclickable. Previous is active by default.
+       NOW divider appears at the bottom of the list. No hero card shown.</p>
+  </div>
+
+</div>
+
+<footer>Football Cal — mockup only, not built</footer>
+
+<script>
+  // On load: smooth-scroll so the NOW divider sits ~130px from the top of the viewport.
+  // In the real build this will also be the client-side logic that determines
+  // past vs upcoming based on the visitor's local time — no server rebuild needed.
+  window.addEventListener('load', () => {
+    const now = document.getElementById('now');
+    if (!now) return;
+    const offset = 130; // px from top
+    const y = now.getBoundingClientRect().top + window.scrollY - offset;
+    window.scrollTo({ top: Math.max(0, y), behavior: 'smooth' });
+  });
+</script>
+
+</body>
+</html>
