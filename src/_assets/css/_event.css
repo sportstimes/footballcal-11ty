@@ -38,7 +38,12 @@ tr:last-child td {
 }
 
 tr.past {
-    opacity: 0.4;
+    opacity: 0.5;
+}
+
+tr.next {
+    transform: scale(1.05);
+    transform-origin: center center;
 }
 
 td.summary {
