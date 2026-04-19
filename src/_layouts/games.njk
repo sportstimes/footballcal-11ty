@@ -49,6 +49,34 @@ layout: base.njk
         {% endfor %}
     </tbody>
 </table>
+<script>
+(function () {
+  var now = new Date()
+  var rows = document.querySelectorAll('tr.vevent')
+  var nextFound = false
+
+  rows.forEach(function (row) {
+    var dtEnd = row.querySelector('time.dt-end')
+    var dtStart = row.querySelector('time.dt-start')
+    var endText = dtEnd && dtEnd.textContent.trim()
+    var endTime = endText ? new Date(endText) : null
+
+    if (!endTime || isNaN(endTime.getTime())) {
+      var startText = dtStart && dtStart.textContent.trim()
+      endTime = startText ? new Date(startText) : null
+    }
+
+    if (!endTime || isNaN(endTime.getTime())) return
+
+    if (endTime < now) {
+      row.classList.add('past')
+    } else if (!nextFound) {
+      row.classList.add('next')
+      nextFound = true
+    }
+  })
+})()
+</script>
 <h2>Want more?</h2>
 <p>
     <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}">All games</a>
