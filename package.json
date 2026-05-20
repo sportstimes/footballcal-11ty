@@ -40,6 +40,9 @@
     "lint:css:fix": "npm run lint:css -- --fix",
     "test": "echo \"Warning: No tests\" && exit 0"
   },
+  "overrides": {
+    "opmlparser": "0.8.0"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "autoprefixer": "^10.4.19",
