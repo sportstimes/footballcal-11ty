@@ -4,6 +4,7 @@ date: 2026-06-25T23:00Z
 endDate: 2026-06-26T00:50Z
 locationName: "AT&T Stadium, Dallas"
 path: /world-cup-2026/japan-sweden/
+redirectFrom: /world-cup-2026/japan-uefa-playoff-b/
 tags: ["Japan","Sweden","Dallas","Group F","Group stages","World Cup 2026"]
 tv: []
 ---

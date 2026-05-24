@@ -4,6 +4,7 @@ date: 2026-06-18T19:00Z
 endDate: 2026-06-18T20:50Z
 locationName: "SoFi Stadium, Los Angeles"
 path: /world-cup-2026/switzerland-bosnia-and-herzegovina/
+redirectFrom: /world-cup-2026/switzerland-uefa-playoff-a/
 tags: ["Switzerland","Bosnia and Herzegovina","Los Angeles","Group B","Group stages","World Cup 2026"]
 tv: []
 ---

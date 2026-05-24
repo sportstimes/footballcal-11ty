@@ -4,6 +4,7 @@ date: 2026-06-26T02:00Z
 endDate: 2026-06-26T03:50Z
 locationName: "SoFi Stadium, Los Angeles"
 path: /world-cup-2026/turkiye-usa/
+redirectFrom: /world-cup-2026/uefa-playoff-c-usa/
 tags: ["Türkiye","USA","Los Angeles","Group D","Group stages","World Cup 2026"]
 tv: []
 ---

@@ -26,6 +26,9 @@ module.exports = config => {
   config.addFilter('limit', limit)
   config.addFilter('upcoming', upcoming)
   config.addFilter('next', next)
+  config.addCollection('redirects', (collectionApi) => {
+    return collectionApi.getAll().filter(item => item.data.redirectFrom)
+  })
 
   // methods…
   config.addNunjucksGlobal('showDate', showDate)

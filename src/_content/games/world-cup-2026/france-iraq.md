@@ -4,6 +4,7 @@ date: 2026-06-22T21:00Z
 endDate: 2026-06-22T22:50Z
 locationName: "Lincoln Financial Field, Philadelphia"
 path: /world-cup-2026/france-iraq/
+redirectFrom: /world-cup-2026/france-ic-playoff-2/
 tags: ["France","Iraq","Philadelphia","Group I","Group stages","World Cup 2026"]
 tv: []
 ---

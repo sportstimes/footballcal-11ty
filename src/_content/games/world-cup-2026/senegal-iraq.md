@@ -4,6 +4,7 @@ date: 2026-06-26T19:00Z
 endDate: 2026-06-26T20:50Z
 locationName: "BMO Field, Toronto"
 path: /world-cup-2026/senegal-iraq/
+redirectFrom: /world-cup-2026/senegal-ic-playoff-2/
 tags: ["Senegal","Iraq","Toronto","Group I","Group stages","World Cup 2026"]
 tv: []
 ---

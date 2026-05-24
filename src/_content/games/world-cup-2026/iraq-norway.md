@@ -4,6 +4,7 @@ date: 2026-06-16T22:00Z
 endDate: 2026-06-16T23:50Z
 locationName: "Gillette Stadium, Boston"
 path: /world-cup-2026/iraq-norway/
+redirectFrom: /world-cup-2026/ic-playoff-2-norway/
 tags: ["Iraq","Norway","Boston","Group I","Group stages","World Cup 2026"]
 tv: []
 ---

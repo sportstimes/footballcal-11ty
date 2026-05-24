@@ -4,6 +4,7 @@ date: 2026-06-18T16:00Z
 endDate: 2026-06-18T17:50Z
 locationName: "Mercedes-Benz Stadium, Atlanta"
 path: /world-cup-2026/czechia-south-africa/
+redirectFrom: /world-cup-2026/uefa-playoff-d-south-africa/
 tags: ["Czechia","South Africa","Atlanta","Group A","Group stages","World Cup 2026"]
 tv: []
 ---

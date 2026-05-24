@@ -1,0 +1,11 @@
+---
+pagination:
+  data: collections.redirects
+  size: 1
+  alias: redirect
+permalink: "{{ redirect.data.redirectFrom }}"
+layout: redirect.njk
+eleventyExcludeFromCollections: true
+eleventyComputed:
+  redirectTo: "{{ redirect.url }}"
+---

@@ -4,6 +4,7 @@ date: 2026-06-25T02:00Z
 endDate: 2026-06-25T03:50Z
 locationName: "Estadio Azteca, Mexico City"
 path: /world-cup-2026/mexico-czechia/
+redirectFrom: /world-cup-2026/mexico-uefa-playoff-d/
 tags: ["Mexico","Czechia","Mexico City","Group A","Group stages","World Cup 2026"]
 tv: []
 ---
