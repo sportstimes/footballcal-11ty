@@ -1,7 +1,7 @@
 ---
 title: "USA v Australia"
-date: 2026-06-19T22:00Z
-endDate: 2026-06-19T23:50Z
+date: 2026-06-19T19:00Z
+endDate: 2026-06-19T20:50Z
 locationName: "Lumen Field, Seattle"
 path: /world-cup-2026/usa-australia/
 tags: ["USA","Australia","Seattle","Group D","Group stages","World Cup 2026"]

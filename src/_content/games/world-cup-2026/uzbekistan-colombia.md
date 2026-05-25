@@ -1,7 +1,7 @@
 ---
 title: "Uzbekistan v Colombia"
-date: 2026-06-18T03:00Z
-endDate: 2026-06-18T04:50Z
+date: 2026-06-18T02:00Z
+endDate: 2026-06-18T03:50Z
 locationName: "Estadio Azteca, Mexico City"
 path: /world-cup-2026/uzbekistan-colombia/
 tags: ["Uzbekistan","Colombia","Mexico City","Group K","Group stages","World Cup 2026"]

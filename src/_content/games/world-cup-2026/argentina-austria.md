@@ -1,7 +1,7 @@
 ---
 title: "Argentina v Austria"
-date: 2026-06-22T18:00Z
-endDate: 2026-06-22T19:50Z
+date: 2026-06-22T17:00Z
+endDate: 2026-06-22T18:50Z
 locationName: "AT&T Stadium, Dallas"
 path: /world-cup-2026/argentina-austria/
 tags: ["Argentina","Austria","Dallas","Group J","Group stages","World Cup 2026"]
