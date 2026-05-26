@@ -1,7 +1,7 @@
 ---
 title: "Sweden v Tunisia"
-date: 2026-06-15T03:00Z
-endDate: 2026-06-15T04:50Z
+date: 2026-06-15T02:00Z
+endDate: 2026-06-15T03:50Z
 locationName: "Estadio BBVA, Monterrey"
 path: /world-cup-2026/sweden-tunisia/
 redirectFrom: /world-cup-2026/uefa-playoff-b-tunisia/

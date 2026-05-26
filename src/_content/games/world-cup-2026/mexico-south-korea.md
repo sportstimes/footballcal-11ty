@@ -1,7 +1,7 @@
 ---
 title: "Mexico v South Korea"
-date: 2026-06-19T02:00Z
-endDate: 2026-06-19T03:50Z
+date: 2026-06-19T01:00Z
+endDate: 2026-06-19T02:50Z
 locationName: "Estadio Akron, Guadalajara"
 path: /world-cup-2026/mexico-south-korea/
 tags: ["Mexico","South Korea","Guadalajara","Group A","Group stages","World Cup 2026"]

@@ -1,7 +1,7 @@
 ---
 title: "South Africa v South Korea"
-date: 2026-06-25T02:00Z
-endDate: 2026-06-25T03:50Z
+date: 2026-06-25T01:00Z
+endDate: 2026-06-25T02:50Z
 locationName: "Estadio BBVA, Monterrey"
 path: /world-cup-2026/south-africa-south-korea/
 tags: ["South Africa","South Korea","Monterrey","Group A","Group stages","World Cup 2026"]

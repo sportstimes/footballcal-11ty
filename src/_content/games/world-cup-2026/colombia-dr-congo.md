@@ -1,7 +1,7 @@
 ---
 title: "Colombia v DR Congo"
-date: 2026-06-24T03:00Z
-endDate: 2026-06-24T04:50Z
+date: 2026-06-24T02:00Z
+endDate: 2026-06-24T03:50Z
 locationName: "Estadio Akron, Guadalajara"
 path: /world-cup-2026/colombia-dr-congo/
 redirectFrom: /world-cup-2026/colombia-ic-playoff-1/

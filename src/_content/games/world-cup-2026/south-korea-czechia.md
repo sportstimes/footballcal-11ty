@@ -1,7 +1,7 @@
 ---
 title: "South Korea v Czechia"
-date: 2026-06-12T03:00Z
-endDate: 2026-06-12T04:50Z
+date: 2026-06-12T02:00Z
+endDate: 2026-06-12T03:50Z
 locationName: "Estadio Akron, Guadalajara"
 path: /world-cup-2026/south-korea-czechia/
 redirectFrom: /world-cup-2026/south-korea-uefa-playoff-d/

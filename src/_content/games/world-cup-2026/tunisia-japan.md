@@ -1,7 +1,7 @@
 ---
 title: "Tunisia v Japan"
-date: 2026-06-21T03:00Z
-endDate: 2026-06-21T04:50Z
+date: 2026-06-21T04:00Z
+endDate: 2026-06-21T05:50Z
 locationName: "Estadio BBVA, Monterrey"
 path: /world-cup-2026/tunisia-japan/
 tags: ["Tunisia","Japan","Monterrey","Group F","Group stages","World Cup 2026"]

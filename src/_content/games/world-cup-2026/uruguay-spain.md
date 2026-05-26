@@ -1,7 +1,7 @@
 ---
 title: "Uruguay v Spain"
-date: 2026-06-27T01:00Z
-endDate: 2026-06-27T02:50Z
+date: 2026-06-27T00:00Z
+endDate: 2026-06-27T01:50Z
 locationName: "Estadio Akron, Guadalajara"
 path: /world-cup-2026/uruguay-spain/
 tags: ["Uruguay","Spain","Guadalajara","Group H","Group stages","World Cup 2026"]
