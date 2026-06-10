@@ -7,11 +7,11 @@ module.exports = {
   eleventyComputed: {
     pageDescription: (data) => {
       if (!data.title || !data.date) return null
-      const dt = DateTime.fromISO(data.date).setLocale('en')
-      const dateStr = dt.toFormat('cccc, MMMM d yyyy')
-      const timeStr = dt.toFormat('h:mma')
+      const dt = DateTime.fromISO(data.date).toUTC().setLocale('en')
+      const dateStr = dt.toFormat('cccc d MMMM yyyy')
+      const timeStr = dt.toFormat('HH:mm') + ' UTC'
       const venue = data.locationName || 'TBC'
-      return `Watch ${data.title} at ${venue} on ${dateStr}. Kick-off at ${timeStr}. Add the fixture to your calendar with one click.`
+      return `Add ${data.title} on ${dateStr} at ${timeStr} in ${venue} to your calendar.`
     },
     competitors: (data) => {
       if (!data.title) return []
