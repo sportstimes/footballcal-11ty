@@ -54,6 +54,38 @@ layout: base.njk
     </li>
 </ul>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SportsEvent",
+  "name": {{ title | dump | safe }},
+  "description": {{ pageDescription | dump | safe }},
+  "url": {{ (path | absoluteUrl(config.baseUrl)) | dump | safe }},
+  "startDate": "{{ date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}",
+  "endDate": "{{ endDate | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "sport": "Football",
+  "location": {
+    "@type": "Place",
+    "name": {{ locationName | dump | safe }}
+  }{% if competitors and competitors.length == 2 %},
+  "competitor": [
+    { "@type": "SportsTeam", "name": {{ competitors[0] | dump | safe }} },
+    { "@type": "SportsTeam", "name": {{ competitors[1] | dump | safe }} }
+  ]{% endif %}{% if tv and tv.length > 0 %},
+  "potentialAction": {
+    "@type": "WatchAction",
+    "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "availableChannel": [
+        {% for channel in tv %}{ "@type": "BroadcastChannel", "broadcastChannelId": {{ channel | dump | safe }} }{% if not loop.last %},{% endif %}{% endfor %}
+      ]
+    }
+  }{% endif %}
+}
+</script>
+
 {% if config.GOOGLE_ADSENSE_PUBLISHER_ID and config.GOOGLE_ADSENSE_SLOT_GAME %}
 <div class="ad-container">
     <ins class="adsbygoogle"

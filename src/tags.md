@@ -10,5 +10,6 @@ pagination:
 permalink: /{{ tag | slugify }}/
 eleventyComputed:
   title: "{{ tag }} Games"
-  noindex: "{% if (collections[tag] | length) < 8 %}true{% endif %}"
+  noindex: "{% if collections[tag].size < 8 %}true{% endif %}"
+  pageDescription: "All {{ tag }} football fixtures — upcoming match dates, kick-off times, TV channels and one-click calendar subscriptions."
 ---

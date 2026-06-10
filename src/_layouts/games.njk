@@ -77,6 +77,33 @@ layout: base.njk
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 {% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ (tag + " Games") | dump | safe }},
+  "description": {{ pageDescription | dump | safe }},
+  "url": {{ (('/' + (tag | slugify) + '/') | absoluteUrl(config.baseUrl)) | dump | safe }},
+  "itemListElement": [
+    {% for game in collections[tag] %}
+    {
+      "@type": "ListItem",
+      "position": {{ loop.index }},
+      "item": {
+        "@type": "SportsEvent",
+        "name": {{ game.data.title | dump | safe }},
+        "startDate": "{{ game.data.date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}",
+        "endDate": "{{ game.data.endDate | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}",
+        "sport": "Football",
+        "location": { "@type": "Place", "name": {{ game.data.locationName | dump | safe }} },
+        "url": {{ (game.page.url | absoluteUrl(config.baseUrl)) | dump | safe }}
+      }
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
+
 <h2>Want more?</h2>
 <p>
     <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}">All games</a>
