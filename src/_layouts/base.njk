@@ -7,6 +7,7 @@
         <meta property="og:description" name="description" content="{{ meta.description }}"/>
         <meta property="og:image" content="{{ "/img/footballcal-opengraph.png" | url | absoluteUrl(config.baseUrl) }}"/>
         <meta name="keywords" content="{{ meta.keywords }}"/>
+        {% if noindex %}<meta name="robots" content="noindex,follow"/>{% endif %}
         <meta name="apple-mobile-web-app-title" content="{{ site.title }}"/>
         <meta name="application-name" content="{{ site.title }}"/>
         <link rel="icon" href="{{ "/img/footballcal-32.png" | url | absoluteUrl(config.baseUrl) }}"/>

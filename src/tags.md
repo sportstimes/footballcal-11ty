@@ -10,4 +10,5 @@ pagination:
 permalink: /{{ tag | slugify }}/
 eleventyComputed:
   title: "{{ tag }} Games"
+  noindex: "{% if (collections[tag] | length) < 8 %}true{% endif %}"
 ---
