@@ -2,7 +2,25 @@
 layout: base.njk
 ---
 {% for comp in competitions %}{% if comp.title == tag %}{% set competitionTheme = comp.theme %}{% endif %}{% endfor %}
+{% set team = teams[tag] %}
 <h1>{{ tag }} Games</h1>
+
+{% if team %}
+<section class="team-info" {% if team.colours %}style="--team-primary:{{ team.colours.primary }};--team-secondary:{{ team.colours.secondary }}"{% endif %}>
+    <div class="team-colours" aria-hidden="true">
+        {% if team.colours %}
+        <span class="colour-swatch" style="background:{{ team.colours.primary }}"></span>
+        <span class="colour-swatch" style="background:{{ team.colours.secondary }}"></span>
+        {% endif %}
+    </div>
+    <p class="team-description">{{ team.description }}</p>
+    <p class="team-meta">
+        <span>Federation: <strong>{{ team.federation }}</strong></span>
+        {% if team.fifaCode %}<span>FIFA code: <strong>{{ team.fifaCode }}</strong></span>{% endif %}
+    </p>
+</section>
+{% endif %}
+
 <p class="subscribe">
     <a href="{{ ('/' + (tag | slugify) + '/') | url | absoluteUrl(config.baseUrl) | webcal }}">
         <span role="img">🗓</span>

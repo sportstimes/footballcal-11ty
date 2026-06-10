@@ -42,6 +42,40 @@ layout: base.njk
     </div>
 </div>
 
+{% set venue = venues[locationName] %}
+{% if venue %}
+<section class="venue-info">
+    <h2>Venue: {{ venue.stadiumName }}</h2>
+    <dl class="venue-details">
+        <div>
+            <dt>Stadium</dt>
+            <dd>{{ venue.stadiumName }}</dd>
+        </div>
+        <div>
+            <dt>City</dt>
+            <dd>{{ venue.city }}, {{ venue.country }}</dd>
+        </div>
+        <div>
+            <dt>Capacity</dt>
+            <dd>{{ venue.capacity | commaNumber }}</dd>
+        </div>
+    </dl>
+    <p class="venue-description">{{ venue.description }}</p>
+    <div class="venue-map">
+        <iframe
+            title="Map of {{ venue.stadiumName }}"
+            loading="lazy"
+            src="https://www.openstreetmap.org/export/embed.html?bbox={{ venue.lng - 0.015 }}%2C{{ venue.lat - 0.009 }}%2C{{ venue.lng + 0.015 }}%2C{{ venue.lat + 0.009 }}&amp;layer=mapnik&amp;marker={{ venue.lat }}%2C{{ venue.lng }}"
+            width="100%"
+            height="300"
+            style="border:1px solid #ccc; border-radius: 4px;"
+            referrerpolicy="no-referrer">
+        </iframe>
+        <p class="map-link"><a href="https://www.openstreetmap.org/?mlat={{ venue.lat }}&amp;mlon={{ venue.lng }}#map=15/{{ venue.lat }}/{{ venue.lng }}" target="_blank" rel="noopener">View larger map</a></p>
+    </div>
+</section>
+{% endif %}
+
 <h2>Want more?</h2>
 <ul class="inline">
     {% for tag in tags | validTags %}
@@ -68,7 +102,9 @@ layout: base.njk
   "sport": "Football",
   "location": {
     "@type": "Place",
-    "name": {{ locationName | dump | safe }}
+    "name": {% if venue %}{{ venue.stadiumName | dump | safe }}{% else %}{{ locationName | dump | safe }}{% endif %}{% if venue %},
+    "address": { "@type": "PostalAddress", "addressLocality": {{ venue.city | dump | safe }}, "addressCountry": {{ venue.country | dump | safe }} },
+    "geo": { "@type": "GeoCoordinates", "latitude": {{ venue.lat }}, "longitude": {{ venue.lng }} }{% endif %}
   }{% if competitors and competitors.length == 2 %},
   "competitor": [
     { "@type": "SportsTeam", "name": {{ competitors[0] | dump | safe }} },

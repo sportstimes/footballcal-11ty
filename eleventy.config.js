@@ -37,6 +37,8 @@ module.exports = config => {
   // shortcodes…
   config.addShortcode('year', () => new Date().getFullYear())
 
+  config.addFilter('commaNumber', n => Number(n).toLocaleString('en-GB'))
+
   config.addPassthroughCopy({
     'src/_assets/img': 'img'
   })
