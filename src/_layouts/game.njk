@@ -4,6 +4,10 @@ layout: base.njk
 <div class="event-post h-event">
     <h1 class="p-name">{{ title }}</h1>
 
+    {% set competitionName = null %}
+    {% for comp in competitions %}{% if comp.title in tags %}{% set competitionName = comp.title %}{% endif %}{% endfor %}
+    {% if competitionName %}<div class="competition">{{ competitionName }}</div>{% endif %}
+
     <div class="datetime">
         <p class="date">{{ date | date('ccc dS LLLL') }}</p>
         <p class="time">

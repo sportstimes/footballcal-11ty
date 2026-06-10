@@ -626,7 +626,8 @@ ul.competitions li {
 }
 
 .event-post .competition {
-  letter-spacing: 1rem;
+  font-size: 1.1rem;
+  letter-spacing: 0.4em;
 }
 
 .event-post .datetime {
