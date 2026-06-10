@@ -5,6 +5,6 @@ endDate: 2026-06-15T17:50Z
 locationName: "Mercedes-Benz Stadium, Atlanta"
 path: /world-cup-2026/spain-cape-verde/
 tags: ["Spain","Cape Verde","Atlanta","Group H","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 43rd game of the FIFA World Cup 2026 group stage between Group H competitors, Spain and Cape Verde.

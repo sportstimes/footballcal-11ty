@@ -6,6 +6,6 @@ locationName: "AT&T Stadium, Dallas"
 path: /world-cup-2026/japan-sweden/
 redirectFrom: /world-cup-2026/japan-uefa-playoff-b/
 tags: ["Japan","Sweden","Dallas","Group F","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 35th game of the FIFA World Cup 2026 group stage between Group F competitors, Japan and Sweden.

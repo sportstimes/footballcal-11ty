@@ -5,6 +5,6 @@ endDate: 2026-06-13T23:50Z
 locationName: "MetLife Stadium, New York New Jersey"
 path: /world-cup-2026/brazil-morocco/
 tags: ["Brazil","Morocco","New York New Jersey","Group C","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports", "TV Globo", "CazéTV", "SporTV"]
 ---
 The 13th game of the FIFA World Cup 2026 group stage between Group C competitors, Brazil and Morocco.

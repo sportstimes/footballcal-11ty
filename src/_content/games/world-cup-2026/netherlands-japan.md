@@ -5,6 +5,6 @@ endDate: 2026-06-14T21:50Z
 locationName: "AT&T Stadium, Dallas"
 path: /world-cup-2026/netherlands-japan/
 tags: ["Netherlands","Japan","Dallas","Group F","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 31st game of the FIFA World Cup 2026 group stage between Group F competitors, Netherlands and Japan.

@@ -5,6 +5,6 @@ endDate: 2026-06-24T23:50Z
 locationName: "Hard Rock Stadium, Miami"
 path: /world-cup-2026/scotland-brazil/
 tags: ["Scotland","Brazil","Miami","Group C","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports", "TV Globo", "CazéTV", "SporTV"]
 ---
 The 17th game of the FIFA World Cup 2026 group stage between Group C competitors, Scotland and Brazil.

@@ -5,6 +5,6 @@ endDate: 2026-06-11T20:50Z
 locationName: "Estadio Azteca, Mexico City"
 path: /world-cup-2026/mexico-south-africa/
 tags: ["Mexico","South Africa","Mexico City","Group A","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 1st game of the FIFA World Cup 2026 group stage between Group A competitors, Mexico and South Africa.

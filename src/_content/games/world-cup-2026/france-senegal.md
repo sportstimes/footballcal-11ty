@@ -5,6 +5,6 @@ endDate: 2026-06-16T20:50Z
 locationName: "MetLife Stadium, New York New Jersey"
 path: /world-cup-2026/france-senegal/
 tags: ["France","Senegal","New York New Jersey","Group I","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 49th game of the FIFA World Cup 2026 group stage between Group I competitors, France and Senegal.

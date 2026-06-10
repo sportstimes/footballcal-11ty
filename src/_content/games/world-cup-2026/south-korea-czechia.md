@@ -6,6 +6,6 @@ locationName: "Estadio Akron, Guadalajara"
 path: /world-cup-2026/south-korea-czechia/
 redirectFrom: /world-cup-2026/south-korea-uefa-playoff-d/
 tags: ["South Korea","Czechia","Guadalajara","Group A","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 2nd game of the FIFA World Cup 2026 group stage between Group A competitors, South Korea and Czechia.

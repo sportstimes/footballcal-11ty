@@ -5,6 +5,6 @@ endDate: 2026-06-26T03:50Z
 locationName: "Levi's Stadium, San Francisco"
 path: /world-cup-2026/paraguay-australia/
 tags: ["Paraguay","Australia","San Francisco","Group D","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 24th game of the FIFA World Cup 2026 group stage between Group D competitors, Paraguay and Australia.

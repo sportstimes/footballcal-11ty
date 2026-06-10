@@ -6,6 +6,6 @@ locationName: "Mercedes-Benz Stadium, Atlanta"
 path: /world-cup-2026/dr-congo-uzbekistan/
 redirectFrom: /world-cup-2026/ic-playoff-1-uzbekistan/
 tags: ["DR Congo","Uzbekistan","Atlanta","Group K","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 66th game of the FIFA World Cup 2026 group stage between Group K competitors, DR Congo and Uzbekistan.
