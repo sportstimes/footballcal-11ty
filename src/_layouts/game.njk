@@ -5,7 +5,7 @@ layout: base.njk
     <h1 class="p-name">{{ title }}</h1>
 
     {% set competitionName = null %}
-    {% for comp in competitions %}{% if comp.title in tags %}{% set competitionName = comp.title %}{% endif %}{% endfor %}
+    {% for comp in competitions %}{% if comp.title in tags or (comp.shortTitle and comp.shortTitle in tags) %}{% set competitionName = comp.title %}{% endif %}{% endfor %}
     {% if competitionName %}<div class="competition">{{ competitionName }}</div>{% endif %}
 
     <div class="datetime">
