@@ -65,6 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 1.5em;
   background: #f8f8f8;
   border-radius: 6px;
+  color: #1a1a1a;
 }
 
 .venue-info h2 {
@@ -128,6 +129,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #f8f8f8;
   border-left: 4px solid var(--team-primary, #ccc);
   border-radius: 0 6px 6px 0;
+  color: #1a1a1a;
 }
 
 .team-colours {
