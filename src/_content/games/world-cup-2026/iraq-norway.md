@@ -6,6 +6,6 @@ locationName: "Gillette Stadium, Boston"
 path: /world-cup-2026/iraq-norway/
 redirectFrom: /world-cup-2026/ic-playoff-2-norway/
 tags: ["Iraq","Norway","Boston","Group I","Group stages","World Cup 2026"]
-tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 50th game of the FIFA World Cup 2026 group stage between Group I competitors, Iraq and Norway.

@@ -5,6 +5,6 @@ endDate: 2026-06-20T21:50Z
 locationName: "BMO Field, Toronto"
 path: /world-cup-2026/germany-ivory-coast/
 tags: ["Germany","Ivory Coast","Toronto","Group E","Group stages","World Cup 2026"]
-tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 27th game of the FIFA World Cup 2026 group stage between Group E competitors, Germany and Ivory Coast.

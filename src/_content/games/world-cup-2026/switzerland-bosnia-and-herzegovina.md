@@ -6,6 +6,6 @@ locationName: "SoFi Stadium, Los Angeles"
 path: /world-cup-2026/switzerland-bosnia-and-herzegovina/
 redirectFrom: /world-cup-2026/switzerland-uefa-playoff-a/
 tags: ["Switzerland","Bosnia and Herzegovina","Los Angeles","Group B","Group stages","World Cup 2026"]
-tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 9th game of the FIFA World Cup 2026 group stage between Group B competitors, Switzerland and Bosnia and Herzegovina.
