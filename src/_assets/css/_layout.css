@@ -631,10 +631,10 @@ ul.competitions li {
 }
 
 .event-post .competition {
-  font-family: 'DIN Condensed Bold', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
   font-size: 1.1rem;
   letter-spacing: 0.4em;
-  margin-bottom: 28px;
+  margin-bottom: 20px;
 }
 
 .event-post .datetime p {
