@@ -618,20 +618,23 @@ ul.competitions li {
 
 .event-post .competition,
 .event-post .datetime {
-  border-top: 8px solid #FFF;
-  padding-top: 20px;
   text-align: center;
   text-transform: uppercase;
   font-size: 2rem;
 }
 
-.event-post .competition {
-  letter-spacing: 1rem;
-}
-
 .event-post .datetime {
+  border-top: 8px solid #FFF;
+  padding-top: 20px;
   display: flex;
   flex-wrap: nowrap;
+}
+
+.event-post .competition {
+  font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
+  font-size: 1.1rem;
+  letter-spacing: 0.4em;
+  margin-bottom: 20px;
 }
 
 .event-post .datetime p {

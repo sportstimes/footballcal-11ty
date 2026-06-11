@@ -57,3 +57,103 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1.5em 0;
   text-align: center;
 }
+
+/* ── Venue section ───────────────────────────────────────────────────────── */
+
+.venue-info {
+  margin: 2em 0;
+  padding: 1.5em;
+  background: rgb(255 255 255 / 0.2);
+  border-radius: 6px;
+}
+
+.venue-info h2 {
+  margin-top: 0;
+  font-size: 1.25em;
+}
+
+.venue-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em 2em;
+  margin: 0.75em 0 1em;
+  padding: 0;
+}
+
+.venue-details div {
+  display: flex;
+  flex-direction: column;
+}
+
+.venue-details dt {
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  opacity: 0.7;
+  margin-bottom: 0.2em;
+}
+
+.venue-details dd {
+  margin: 0;
+  font-weight: bold;
+}
+
+.venue-description {
+  margin: 0 0 1em;
+  line-height: 1.6;
+}
+
+.venue-map {
+  margin-top: 1em;
+}
+
+.venue-map iframe {
+  display: block;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.map-link {
+  margin: 0.4em 0 0;
+  font-size: 0.85em;
+  text-align: right;
+}
+
+/* ── Team section ────────────────────────────────────────────────────────── */
+
+.team-info {
+  margin: 1em 0 2em;
+  padding: 1.25em 1.5em;
+  background: rgb(255 255 255 / 0.2);
+  border-left: 4px solid var(--team-primary, rgb(255 255 255 / 0.5));
+  border-radius: 0 6px 6px 0;
+}
+
+.team-colours {
+  display: flex;
+  gap: 0.4em;
+  margin-bottom: 0.75em;
+}
+
+.colour-swatch {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 50%;
+  border: 1px solid rgba(0,0,0,0.15);
+}
+
+.team-description {
+  margin: 0 0 0.75em;
+  line-height: 1.6;
+}
+
+.team-meta {
+  margin: 0;
+  font-size: 0.85em;
+  opacity: 0.8;
+  display: flex;
+  gap: 1.5em;
+  flex-wrap: wrap;
+}

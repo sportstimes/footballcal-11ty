@@ -5,6 +5,6 @@ endDate: 2026-06-19T23:50Z
 locationName: "Gillette Stadium, Boston"
 path: /world-cup-2026/scotland-morocco/
 tags: ["Scotland","Morocco","Boston","Group C","Group stages","World Cup 2026"]
-tv: []
+tv: ["ITV1", "ITVX", "STV", "STV Player", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 15th game of the FIFA World Cup 2026 group stage between Group C competitors, Scotland and Morocco.

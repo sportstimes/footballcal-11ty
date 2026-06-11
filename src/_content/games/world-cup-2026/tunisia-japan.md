@@ -5,6 +5,6 @@ endDate: 2026-06-21T05:50Z
 locationName: "Estadio BBVA, Monterrey"
 path: /world-cup-2026/tunisia-japan/
 tags: ["Tunisia","Japan","Monterrey","Group F","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 34th game of the FIFA World Cup 2026 group stage between Group F competitors, Tunisia and Japan.

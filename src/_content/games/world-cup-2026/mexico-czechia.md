@@ -6,6 +6,6 @@ locationName: "Estadio Azteca, Mexico City"
 path: /world-cup-2026/mexico-czechia/
 redirectFrom: /world-cup-2026/mexico-uefa-playoff-d/
 tags: ["Mexico","Czechia","Mexico City","Group A","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 5th game of the FIFA World Cup 2026 group stage between Group A competitors, Mexico and Czechia.

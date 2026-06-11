@@ -6,6 +6,6 @@ locationName: "BMO Field, Toronto"
 path: /world-cup-2026/canada-bosnia-and-herzegovina/
 redirectFrom: /world-cup-2026/canada-uefa-playoff-a/
 tags: ["Canada","Bosnia and Herzegovina","Toronto","Group B","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 7th game of the FIFA World Cup 2026 group stage between Group B competitors, Canada and Bosnia and Herzegovina.

@@ -5,6 +5,6 @@ endDate: 2026-06-21T23:50Z
 locationName: "Hard Rock Stadium, Miami"
 path: /world-cup-2026/uruguay-cape-verde/
 tags: ["Uruguay","Cape Verde","Miami","Group H","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports", "Canal 5"]
 ---
 The 46th game of the FIFA World Cup 2026 group stage between Group H competitors, Uruguay and Cape Verde.

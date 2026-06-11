@@ -2,6 +2,10 @@
 layout: base.njk
 ---
 <div class="event-post h-event">
+    {% set competitionName = null %}
+    {% for comp in competitions %}{% if comp.title in tags or (comp.shortTitle and comp.shortTitle in tags) %}{% set competitionName = comp.title %}{% endif %}{% endfor %}
+    {% if competitionName %}<div class="competition">{{ competitionName }}</div>{% endif %}
+
     <h1 class="p-name">{{ title }}</h1>
 
     <div class="datetime">
@@ -42,16 +46,38 @@ layout: base.njk
     </div>
 </div>
 
-{% if config.GOOGLE_ADSENSE_PUBLISHER_ID and config.GOOGLE_ADSENSE_SLOT_GAME %}
-<div class="ad-container">
-    <ins class="adsbygoogle"
-         style="display:block"
-         data-ad-client="{{ config.GOOGLE_ADSENSE_PUBLISHER_ID }}"
-         data-ad-slot="{{ config.GOOGLE_ADSENSE_SLOT_GAME }}"
-         data-ad-format="auto"
-         data-full-width-responsive="true"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</div>
+{% set venue = venues[locationName] %}
+{% if venue %}
+<section class="venue-info">
+    <h2>Venue: {{ venue.stadiumName }}</h2>
+    <dl class="venue-details">
+        <div>
+            <dt>Stadium</dt>
+            <dd>{{ venue.stadiumName }}</dd>
+        </div>
+        <div>
+            <dt>City</dt>
+            <dd>{{ venue.city }}, {{ venue.country }}</dd>
+        </div>
+        <div>
+            <dt>Capacity</dt>
+            <dd>{{ venue.capacity | commaNumber }}</dd>
+        </div>
+    </dl>
+    <p class="venue-description">{{ venue.description }}</p>
+    <div class="venue-map">
+        <iframe
+            title="Map of {{ venue.stadiumName }}"
+            loading="lazy"
+            src="https://www.openstreetmap.org/export/embed.html?bbox={{ venue.lng - 0.015 }}%2C{{ venue.lat - 0.009 }}%2C{{ venue.lng + 0.015 }}%2C{{ venue.lat + 0.009 }}&amp;layer=mapnik&amp;marker={{ venue.lat }}%2C{{ venue.lng }}"
+            width="100%"
+            height="300"
+            style="border:1px solid #ccc; border-radius: 4px;"
+            referrerpolicy="no-referrer">
+        </iframe>
+        <p class="map-link"><a href="https://www.openstreetmap.org/?mlat={{ venue.lat }}&amp;mlon={{ venue.lng }}#map=15/{{ venue.lat }}/{{ venue.lng }}" target="_blank" rel="noopener">View larger map</a></p>
+    </div>
+</section>
 {% endif %}
 
 <h2>Want more?</h2>
@@ -65,3 +91,49 @@ layout: base.njk
         <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}" class="all">All games</a>
     </li>
 </ul>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SportsEvent",
+  "name": {{ title | dump | safe }},
+  "description": {{ pageDescription | dump | safe }},
+  "url": {{ (path | absoluteUrl(config.baseUrl)) | dump | safe }},
+  "startDate": "{{ date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}",
+  "endDate": "{{ endDate | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "sport": "Football",
+  "location": {
+    "@type": "Place",
+    "name": {% if venue %}{{ venue.stadiumName | dump | safe }}{% else %}{{ locationName | dump | safe }}{% endif %}{% if venue %},
+    "address": { "@type": "PostalAddress", "addressLocality": {{ venue.city | dump | safe }}, "addressCountry": {{ venue.country | dump | safe }} },
+    "geo": { "@type": "GeoCoordinates", "latitude": {{ venue.lat }}, "longitude": {{ venue.lng }} }{% endif %}
+  }{% if competitors and competitors.length == 2 %},
+  "competitor": [
+    { "@type": "SportsTeam", "name": {{ competitors[0] | dump | safe }} },
+    { "@type": "SportsTeam", "name": {{ competitors[1] | dump | safe }} }
+  ]{% endif %}{% if tv and tv.length > 0 %},
+  "potentialAction": {
+    "@type": "WatchAction",
+    "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "availableChannel": [
+        {% for channel in tv %}{ "@type": "BroadcastChannel", "broadcastChannelId": {{ channel | dump | safe }} }{% if not loop.last %},{% endif %}{% endfor %}
+      ]
+    }
+  }{% endif %}
+}
+</script>
+
+{% if config.GOOGLE_ADSENSE_PUBLISHER_ID and config.GOOGLE_ADSENSE_SLOT_GAME %}
+<div class="ad-container">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ config.GOOGLE_ADSENSE_PUBLISHER_ID }}"
+         data-ad-slot="{{ config.GOOGLE_ADSENSE_SLOT_GAME }}"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% endif %}

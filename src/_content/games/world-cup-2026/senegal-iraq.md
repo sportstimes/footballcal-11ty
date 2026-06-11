@@ -6,6 +6,6 @@ locationName: "BMO Field, Toronto"
 path: /world-cup-2026/senegal-iraq/
 redirectFrom: /world-cup-2026/senegal-ic-playoff-2/
 tags: ["Senegal","Iraq","Toronto","Group I","Group stages","World Cup 2026"]
-tv: []
+tv: ["ITV4", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 54th game of the FIFA World Cup 2026 group stage between Group I competitors, Senegal and Iraq.

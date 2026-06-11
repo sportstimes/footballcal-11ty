@@ -5,6 +5,6 @@ endDate: 2026-06-25T21:50Z
 locationName: "MetLife Stadium, New York New Jersey"
 path: /world-cup-2026/ecuador-germany/
 tags: ["Ecuador","Germany","New York New Jersey","Group E","Group stages","World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 29th game of the FIFA World Cup 2026 group stage between Group E competitors, Ecuador and Germany.
