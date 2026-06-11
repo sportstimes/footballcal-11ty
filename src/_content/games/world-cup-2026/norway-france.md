@@ -6,5 +6,11 @@ locationName: "Gillette Stadium, Boston"
 path: /world-cup-2026/norway-france/
 tags: ["Norway","France","Boston","Group I","Group stages","World Cup 2026"]
 tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+lastMeeting:
+  date: "2014-05-27"
+  competition: "International Friendly"
+  venue: "Stade de France, Saint-Denis, France"
+  score: "0–4"
+  winner: "France"
 ---
 The 61st game of the FIFA World Cup 2026 group stage between Group I competitors, Norway and France.

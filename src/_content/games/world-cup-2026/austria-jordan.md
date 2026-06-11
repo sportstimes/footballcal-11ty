@@ -6,5 +6,6 @@ locationName: "Levi's Stadium, San Francisco"
 path: /world-cup-2026/austria-jordan/
 tags: ["Austria","Jordan","San Francisco","Group J","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+firstMeeting: true
 ---
 The 20th game of the FIFA World Cup 2026 group stage between Group J competitors, Austria and Jordan.
