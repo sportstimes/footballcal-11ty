@@ -48,10 +48,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 900;
 }
 
+.event-post .datetime {
+  flex-wrap: wrap;
+}
+
 .datetime {
   font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
   font-weight: 900;
-  flex-wrap: wrap;
 }
 
 .ad-container {
@@ -161,9 +164,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .timezone-info {
   flex-basis: 100%;
+  width: 100%;
   text-align: center;
+  font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
+  font-size: 1.1rem;
+  letter-spacing: 0.4em;
   font-variant: all-small-caps;
-  font-size: 0.9em;
   margin-top: 1rem;
   opacity: 0.7;
 }
