@@ -40,7 +40,8 @@ module.exports = config => {
   config.addFilter('commaNumber', n => Number(n).toLocaleString('en-GB'))
 
   config.addPassthroughCopy({
-    'src/_assets/img': 'img'
+    'src/_assets/img': 'img',
+    'src/_assets/js': 'js'
   })
 
   return {
