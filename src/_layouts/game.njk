@@ -8,6 +8,31 @@ layout: base.njk
 
     <h1 class="p-name">{{ title }}</h1>
 
+    {%- set t1Name = title.split(' v ')[0] %}
+    {%- set t2Name = title.split(' v ')[1] %}
+    {%- set t1 = teams[t1Name] %}
+    {%- set t2 = teams[t2Name] %}
+    {%- if t1 or t2 %}
+    <div class="fixture-shirt">
+      <svg class="team-shirt" viewBox="-10 -2 140 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs>
+          <clipPath id="shirt-clip">
+            <path d="M40,4 Q60,17 80,4 L118,4 L128,35 L100,41 L100,92 L20,92 L20,41 L-8,35 L2,4 Z"/>
+          </clipPath>
+        </defs>
+        <polygon points="-10,-2 75,-2 35,98 -10,98" clip-path="url(#shirt-clip)" fill="{{ t1.colours.primary if t1 else '#aaa' }}"/>
+        <polygon points="75,-2 130,-2 130,98 35,98" clip-path="url(#shirt-clip)" fill="{{ t2.colours.primary if t2 else '#888' }}"/>
+        <line x1="75" y1="-2" x2="35" y2="98" stroke="rgba(255,255,255,0.55)" stroke-width="2" clip-path="url(#shirt-clip)"/>
+        <path d="M40,4 Q60,17 80,4 L118,4 L128,35 L100,41 L100,92 L20,92 L20,41 L-8,35 L2,4 Z" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+      </svg>
+      <div class="fixture-codes">
+        <span class="fifa-code">{{ t1.fifaCode if t1 else t1Name }}</span>
+        <span class="code-sep">×</span>
+        <span class="fifa-code">{{ t2.fifaCode if t2 else t2Name }}</span>
+      </div>
+    </div>
+    {%- endif %}
+
     <div class="datetime">
         <p class="date">{{ date | date('ccc dS LLLL') }}</p>
         <p class="time">
@@ -45,6 +70,39 @@ layout: base.njk
         {{ content | safe }}
     </div>
 </div>
+
+{%- if lastMeeting %}
+<section class="last-meeting">
+  <h2>Last time these sides met</h2>
+  <p class="last-meeting-result">
+    <strong>{{ lastMeeting.score }}</strong>
+    {%- if lastMeeting.winner == 'Draw' %} — a draw{% else %} — {{ lastMeeting.winner }} won{% endif %}
+  </p>
+  <dl class="last-meeting-meta">
+    <div>
+      <dt>Date</dt>
+      <dd>{{ lastMeeting.date | date('d LLLL yyyy') }}</dd>
+    </div>
+    <div>
+      <dt>Days ago</dt>
+      <dd>{{ lastMeeting.date | daysAgo | commaNumber }}</dd>
+    </div>
+    <div>
+      <dt>Competition</dt>
+      <dd>{{ lastMeeting.competition }}</dd>
+    </div>
+    <div>
+      <dt>Venue</dt>
+      <dd>{{ lastMeeting.venue }}</dd>
+    </div>
+  </dl>
+</section>
+{%- elif firstMeeting %}
+<section class="last-meeting first-meeting">
+  <h2>First ever meeting</h2>
+  <p>This is the first time these two nations have met in international football.</p>
+</section>
+{%- endif %}
 
 {% set venue = venues[locationName] %}
 {% if venue %}

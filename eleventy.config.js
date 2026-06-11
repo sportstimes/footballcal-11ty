@@ -39,6 +39,13 @@ module.exports = config => {
 
   config.addFilter('commaNumber', n => Number(n).toLocaleString('en-GB'))
 
+  config.addFilter('daysAgo', (dateStr) => {
+    const { DateTime } = require('luxon')
+    const past = DateTime.fromISO(dateStr)
+    const now = DateTime.now()
+    return Math.floor(now.diff(past, 'days').days)
+  })
+
   config.addPassthroughCopy({
     'src/_assets/img': 'img'
   })
