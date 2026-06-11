@@ -7,4 +7,4 @@ path: /world-cup-2026/norway-senegal/
 tags: ["Norway","Senegal","New York New Jersey","Group I","Group stages","World Cup 2026"]
 tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 52nd game of the FIFA World Cup 2026 group stage between Group I competitors, Norway and Senegal.
+The 43rd game of the FIFA World Cup 2026 group stage between Group I competitors, Norway and Senegal.

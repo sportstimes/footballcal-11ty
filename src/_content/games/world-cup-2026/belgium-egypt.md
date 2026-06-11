@@ -7,4 +7,4 @@ path: /world-cup-2026/belgium-egypt/
 tags: ["Belgium","Egypt","Seattle","Group G","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 37th game of the FIFA World Cup 2026 group stage between Group G competitors, Belgium and Egypt.
+The 14th game of the FIFA World Cup 2026 group stage between Group G competitors, Belgium and Egypt.

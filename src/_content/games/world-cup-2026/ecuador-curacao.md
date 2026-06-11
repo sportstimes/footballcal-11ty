@@ -7,4 +7,4 @@ path: /world-cup-2026/ecuador-curacao/
 tags: ["Ecuador","Curaçao","Kansas City","Group E","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 28th game of the FIFA World Cup 2026 group stage between Group E competitors, Ecuador and Curaçao.
+The 35th game of the FIFA World Cup 2026 group stage between Group E competitors, Ecuador and Curaçao.

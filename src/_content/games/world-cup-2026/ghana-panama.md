@@ -7,4 +7,4 @@ path: /world-cup-2026/ghana-panama/
 tags: ["Ghana","Panama","Toronto","Group L","Group stages","World Cup 2026"]
 tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 68th game of the FIFA World Cup 2026 group stage between Group L competitors, Ghana and Panama.
+The 23rd game of the FIFA World Cup 2026 group stage between Group L competitors, Ghana and Panama.

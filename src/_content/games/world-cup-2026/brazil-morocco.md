@@ -7,4 +7,4 @@ path: /world-cup-2026/brazil-morocco/
 tags: ["Brazil","Morocco","New York New Jersey","Group C","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports", "TV Globo", "CazéTV", "SporTV"]
 ---
-The 13th game of the FIFA World Cup 2026 group stage between Group C competitors, Brazil and Morocco.
+The 6th game of the FIFA World Cup 2026 group stage between Group C competitors, Brazil and Morocco.

@@ -7,4 +7,4 @@ path: /world-cup-2026/jordan-algeria/
 tags: ["Jordan","Algeria","San Francisco","Group J","Group stages","World Cup 2026"]
 tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 58th game of the FIFA World Cup 2026 group stage between Group J competitors, Jordan and Algeria.
+The 44th game of the FIFA World Cup 2026 group stage between Group J competitors, Jordan and Algeria.

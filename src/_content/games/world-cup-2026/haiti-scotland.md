@@ -7,4 +7,4 @@ path: /world-cup-2026/haiti-scotland/
 tags: ["Haiti","Scotland","Boston","Group C","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 14th game of the FIFA World Cup 2026 group stage between Group C competitors, Haiti and Scotland.
+The 7th game of the FIFA World Cup 2026 group stage between Group C competitors, Haiti and Scotland.

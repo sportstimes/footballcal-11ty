@@ -7,4 +7,4 @@ path: /world-cup-2026/canada-qatar/
 tags: ["Canada","Qatar","Vancouver","Group B","Group stages","World Cup 2026"]
 tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 10th game of the FIFA World Cup 2026 group stage between Group B competitors, Canada and Qatar.
+The 27th game of the FIFA World Cup 2026 group stage between Group B competitors, Canada and Qatar.

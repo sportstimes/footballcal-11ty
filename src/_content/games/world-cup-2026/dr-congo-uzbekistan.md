@@ -8,4 +8,4 @@ redirectFrom: /world-cup-2026/ic-playoff-1-uzbekistan/
 tags: ["DR Congo","Uzbekistan","Atlanta","Group K","Group stages","World Cup 2026"]
 tv: ["BBC Two", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 66th game of the FIFA World Cup 2026 group stage between Group K competitors, DR Congo and Uzbekistan.
+The 70th game of the FIFA World Cup 2026 group stage between Group K competitors, DR Congo and Uzbekistan.

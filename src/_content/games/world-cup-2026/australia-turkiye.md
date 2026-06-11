@@ -8,4 +8,4 @@ redirectFrom: /world-cup-2026/australia-uefa-playoff-c/
 tags: ["Australia","Türkiye","Vancouver","Group D","Group stages","World Cup 2026"]
 tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 20th game of the FIFA World Cup 2026 group stage between Group D competitors, Australia and Türkiye.
+The 8th game of the FIFA World Cup 2026 group stage between Group D competitors, Australia and Türkiye.

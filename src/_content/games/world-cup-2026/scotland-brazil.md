@@ -7,4 +7,4 @@ path: /world-cup-2026/scotland-brazil/
 tags: ["Scotland","Brazil","Miami","Group C","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports", "TV Globo", "CazéTV", "SporTV"]
 ---
-The 17th game of the FIFA World Cup 2026 group stage between Group C competitors, Scotland and Brazil.
+The 52nd game of the FIFA World Cup 2026 group stage between Group C competitors, Scotland and Brazil.
