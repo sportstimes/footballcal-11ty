@@ -6,5 +6,11 @@ locationName: "MetLife Stadium, New York New Jersey"
 path: /world-cup-2026/ecuador-germany/
 tags: ["Ecuador","Germany","New York New Jersey","Group E","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+lastMeeting:
+  date: "2013-05-29"
+  competition: "International Friendly"
+  venue: "Boca Raton, USA"
+  score: "2–4"
+  winner: "Germany"
 ---
 The 56th game of the FIFA World Cup 2026 group stage between Group E competitors, Ecuador and Germany.

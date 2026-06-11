@@ -6,5 +6,11 @@ locationName: "BMO Field, Toronto"
 path: /world-cup-2026/germany-ivory-coast/
 tags: ["Germany","Ivory Coast","Toronto","Group E","Group stages","World Cup 2026"]
 tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+lastMeeting:
+  date: "2009-11-18"
+  competition: "International Friendly"
+  venue: "Veltins-Arena, Gelsenkirchen, Germany"
+  score: "2–2"
+  winner: "Draw"
 ---
 The 34th game of the FIFA World Cup 2026 group stage between Group E competitors, Germany and Ivory Coast.

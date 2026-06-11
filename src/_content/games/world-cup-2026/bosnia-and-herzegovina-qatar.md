@@ -7,5 +7,11 @@ path: /world-cup-2026/bosnia-and-herzegovina-qatar/
 redirectFrom: /world-cup-2026/uefa-playoff-a-qatar/
 tags: ["Bosnia and Herzegovina","Qatar","Seattle","Group B","Group stages","World Cup 2026"]
 tv: ["ITV4", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+lastMeeting:
+  date: "2010-08-10"
+  competition: "International Friendly"
+  venue: "Sarajevo, Bosnia and Herzegovina"
+  score: "1–1"
+  winner: "Draw"
 ---
 The 49th game of the FIFA World Cup 2026 group stage between Group B competitors, Bosnia and Herzegovina and Qatar.
