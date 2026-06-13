@@ -6,5 +6,11 @@ locationName: "AT&T Stadium, Dallas"
 path: /world-cup-2026/netherlands-japan/
 tags: ["Netherlands","Japan","Dallas","Group F","Group stages","World Cup 2026"]
 tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+lastMeeting:
+  date: "2013-11-16"
+  competition: "International Friendly"
+  venue: "Cegeka Arena, Genk, Belgium"
+  score: "2–2"
+  winner: "Draw"
 ---
-The 31st game of the FIFA World Cup 2026 group stage between Group F competitors, Netherlands and Japan.
+The 10th game of the FIFA World Cup 2026 group stage between Group F competitors, Netherlands and Japan.

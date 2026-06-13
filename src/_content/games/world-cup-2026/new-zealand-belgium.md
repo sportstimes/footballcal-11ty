@@ -6,5 +6,6 @@ locationName: "BC Place, Vancouver"
 path: /world-cup-2026/new-zealand-belgium/
 tags: ["New Zealand","Belgium","Vancouver","Group G","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+firstMeeting: true
 ---
-The 42nd game of the FIFA World Cup 2026 group stage between Group G competitors, New Zealand and Belgium.
+The 66th game of the FIFA World Cup 2026 group stage between Group G competitors, New Zealand and Belgium.
