@@ -39,17 +39,21 @@ layout: base.njk
         </tr>
     </thead>
     <tbody>
+        {% set lastDate = '' %}
         {% for game in collections[tag] %}
+            {% set showDate = false %}
+            {% if game.data.date | date('ccc dS LLLL') != lastDate %}
+                {% set lastDate = game.data.date | date('ccc dS LLLL') %}
+                {% set showDate = true %}
+            {% endif %}
             <tr class="vevent h-event">
                 <td class="datetime">
-                    {% if showDate(game.data.date, loop.index0, collections[tag]) %}
-                        <span class="day">{{ game.data.date | date('ccc dS LLLL') }}</span>
-                    {% endif %}
+                    <span class="day">{% if showDate %}{{ game.data.date | date('ccc dS LLLL') }}{% endif %}</span>
                 </td>
                 <td class="time">
-                    <span>{{ game.data.date | date('H:mm') }}</span>
-                    <time class="dt-start">{{ game.data.date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}</time>
-                    <time class="dt-end">{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
+                    <span class="starttime">{{ game.data.date | date('H:mm') }}</span>
+                    <time class="dt-start" datetime="{{ game.data.date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}">{{ game.data.date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}</time>
+                    <time class="dt-end" datetime="{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}">{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
                 </td>
                 <td class="summary">
                     <a class="p-name u-url" href="{{ game.page.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
@@ -58,6 +62,7 @@ layout: base.njk
         {% endfor %}
     </tbody>
 </table>
+<p class="timezone-info" style="display:none;"></p>
 <script>
 (function () {
   var now = new Date()

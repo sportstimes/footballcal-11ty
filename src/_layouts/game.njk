@@ -39,8 +39,9 @@ layout: base.njk
             <span class="starttime">{{ date | date('h:mma') }}</span>
             <span class="endtime">–{{ endDate | date('h:mma') }}</span>
         </p>
-        <time class="dt-start">{{ date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}</time>
-        <time class="dt-end">{{ endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
+        <time class="dt-start" datetime="{{ date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}">{{ date | date("yyyy-LL-dd'T'HH:mm:ssZZZ") }}</time>
+        <time class="dt-end" datetime="{{ endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}">{{ endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
+        <p class="timezone-info" style="display:none;"></p>
     </div>
 
     <p class="subscribe">

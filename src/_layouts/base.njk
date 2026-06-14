@@ -18,6 +18,7 @@
             document.getElementsByTagName('html')[0].className += ' js';
         </script>
         <link rel="stylesheet" href="{{ "/css/site.css" | url | absoluteUrl(config.baseUrl) }}"/>
+        <script src="{{ "/js/timezone-localizer.js" | url | absoluteUrl(config.baseUrl) }}" defer></script>
         {% if config.GOOGLE_ADSENSE_PUBLISHER_ID %}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ config.GOOGLE_ADSENSE_PUBLISHER_ID }}" crossorigin="anonymous"></script>
         {% endif %}
