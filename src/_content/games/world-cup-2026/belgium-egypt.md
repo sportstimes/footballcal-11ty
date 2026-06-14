@@ -6,5 +6,11 @@ locationName: "Lumen Field, Seattle"
 path: /world-cup-2026/belgium-egypt/
 tags: ["Belgium","Egypt","Seattle","Group G","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+lastMeeting:
+  date: "2022-11-18"
+  competition: "International Friendly"
+  venue: "Kuwait City, Kuwait"
+  score: "1–2"
+  winner: "Egypt"
 ---
-The 37th game of the FIFA World Cup 2026 group stage between Group G competitors, Belgium and Egypt.
+The 14th game of the FIFA World Cup 2026 group stage between Group G competitors, Belgium and Egypt.

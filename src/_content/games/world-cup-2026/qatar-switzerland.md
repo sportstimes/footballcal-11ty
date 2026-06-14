@@ -6,5 +6,11 @@ locationName: "Levi's Stadium, San Francisco"
 path: /world-cup-2026/qatar-switzerland/
 tags: ["Qatar","Switzerland","San Francisco","Group B","Group stages","World Cup 2026"]
 tv: ["ITV1", "ITVX", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+lastMeeting:
+  date: "2018-11-14"
+  competition: "International Friendly"
+  venue: "Stadio di Cornaredo, Lugano, Switzerland"
+  score: "1–0"
+  winner: "Qatar"
 ---
-The 8th game of the FIFA World Cup 2026 group stage between Group B competitors, Qatar and Switzerland.
+The 5th game of the FIFA World Cup 2026 group stage between Group B competitors, Qatar and Switzerland.

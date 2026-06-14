@@ -6,5 +6,11 @@ locationName: "Gillette Stadium, Boston"
 path: /world-cup-2026/england-ghana/
 tags: ["England","Ghana","Boston","Group L","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+lastMeeting:
+  date: "2011-03-29"
+  competition: "International Friendly"
+  venue: "Wembley Stadium, London, England"
+  score: "1–1"
+  winner: "Draw"
 ---
-The 69th game of the FIFA World Cup 2026 group stage between Group L competitors, England and Ghana.
+The 46th game of the FIFA World Cup 2026 group stage between Group L competitors, England and Ghana.

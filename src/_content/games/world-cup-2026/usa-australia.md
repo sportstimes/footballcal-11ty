@@ -6,5 +6,11 @@ locationName: "Lumen Field, Seattle"
 path: /world-cup-2026/usa-australia/
 tags: ["USA","Australia","Seattle","Group D","Group stages","World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "FS1", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
+lastMeeting:
+  date: "2025-10-14"
+  competition: "International Friendly"
+  venue: "Dick's Sporting Goods Park, Commerce City, USA"
+  score: "2–1"
+  winner: "USA"
 ---
-The 22nd game of the FIFA World Cup 2026 group stage between Group D competitors, USA and Australia.
+The 29th game of the FIFA World Cup 2026 group stage between Group D competitors, USA and Australia.
