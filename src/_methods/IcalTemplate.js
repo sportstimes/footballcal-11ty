@@ -34,6 +34,15 @@ module.exports = class {
       description = `TV Channels: ${game.data.tv.join(', ')}\r\n\r\n${description}`
     }
 
+    if (game.data.lastMeeting) {
+      const m = game.data.lastMeeting
+      const meetingDate = DateTime.fromISO(m.date).toFormat('d LLLL yyyy')
+      const result = m.winner === 'Draw' ? 'a draw' : `${m.winner} won`
+      description += `\r\n\r\nℹ️ Did you know? The last time these sides met was on ${meetingDate} in the ${m.competition}. The score was ${m.score} — ${result}. Venue: ${m.venue}.`
+    } else if (game.data.firstMeeting) {
+      description += `\r\n\r\nℹ️ Did you know? This is the first time these two nations have met in international football.`
+    }
+
     return description
   }
 }
