@@ -7,4 +7,4 @@ path: /world-cup-2026/round-of-32-4/
 tags: ["Group C", "Group F", "Houston", "Round of 32", "World Cup 2026"]
 tv: []
 ---
-Round of 32 match in the FIFA World Cup 2026 between Group C winner and Group F runner-up.
+The 76th game of the FIFA World Cup 2026 – a Round of 32 match between Group C winner and Group F runner-up.

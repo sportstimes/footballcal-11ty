@@ -7,4 +7,4 @@ path: /world-cup-2026/round-of-16-6/
 tags: ["Round of 16", "Seattle", "World Cup 2026"]
 tv: []
 ---
-Round of 16 match in the FIFA World Cup 2026 at Seattle. Features the winners of Round of 32 matches 9 (Group D winner vs best third-placed team) and 10 (Group G winner vs best third-placed team).
+The 94th game of the FIFA World Cup 2026 – a Round of 16 match at Lumen Field, Seattle. Features the winners of Round of 32 matches 9 (Group D winner vs third-placed team) and 10 (Group G winner vs third-placed team).

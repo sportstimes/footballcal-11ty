@@ -7,4 +7,4 @@ path: /world-cup-2026/round-of-16-7/
 tags: ["Round of 16", "Atlanta", "World Cup 2026"]
 tv: []
 ---
-Round of 16 match in the FIFA World Cup 2026 at Atlanta. Features the winners of Round of 32 matches 14 (Group J winner vs Group H runner-up) and 16 (Group D runner-up vs Group G runner-up).
+The 95th game of the FIFA World Cup 2026 – a Round of 16 match at Mercedes-Benz Stadium, Atlanta. Features the winners of Round of 32 matches 14 (Group J winner vs Group H runner-up) and 16 (Group D runner-up vs Group G runner-up).

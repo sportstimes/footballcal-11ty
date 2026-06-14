@@ -7,4 +7,4 @@ path: /world-cup-2026/quarter-final-2/
 tags: ["Quarter-final", "Los Angeles", "World Cup 2026"]
 tv: []
 ---
-Quarter-final in the FIFA World Cup 2026 at Los Angeles. Features the winners of Round of 16 matches 5 (Dallas) and 6 (Seattle).
+The 98th game of the FIFA World Cup 2026 – a quarter-final at SoFi Stadium, Los Angeles. Features the winners of Round of 16 matches 5 (Dallas) and 6 (Seattle).

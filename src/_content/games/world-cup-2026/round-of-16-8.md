@@ -7,4 +7,4 @@ path: /world-cup-2026/round-of-16-8/
 tags: ["Round of 16", "Vancouver", "World Cup 2026"]
 tv: []
 ---
-Round of 16 match in the FIFA World Cup 2026 at Vancouver. Features the winners of Round of 32 matches 13 (Group B winner vs best third-placed team) and 15 (Group K winner vs best third-placed team).
+The 96th game of the FIFA World Cup 2026 – a Round of 16 match at BC Place, Vancouver. Features the winners of Round of 32 matches 13 (Group B winner vs third-placed team) and 15 (Group K winner vs third-placed team).

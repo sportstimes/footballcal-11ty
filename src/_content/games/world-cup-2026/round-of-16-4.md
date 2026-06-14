@@ -7,4 +7,4 @@ path: /world-cup-2026/round-of-16-4/
 tags: ["Round of 16", "Mexico City", "World Cup 2026"]
 tv: []
 ---
-Round of 16 match in the FIFA World Cup 2026 at Mexico City. Features the winners of Round of 32 matches 7 (Group A winner vs best third-placed team) and 8 (Group L winner vs best third-placed team).
+The 92nd game of the FIFA World Cup 2026 – a Round of 16 match at Estadio Azteca, Mexico City. Features the winners of Round of 32 matches 7 (Group A winner vs third-placed team) and 8 (Group L winner vs third-placed team).

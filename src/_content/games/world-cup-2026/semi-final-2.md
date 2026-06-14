@@ -7,4 +7,4 @@ path: /world-cup-2026/semi-final-2/
 tags: ["Semi-final", "Atlanta", "World Cup 2026"]
 tv: []
 ---
-Semi-final in the FIFA World Cup 2026 at Atlanta. Features the winners of quarter-finals 3 (Miami) and 4 (Kansas City).
+The 102nd game of the FIFA World Cup 2026 – a semi-final at Mercedes-Benz Stadium, Atlanta. Features the winners of quarter-finals 3 (Miami) and 4 (Kansas City).

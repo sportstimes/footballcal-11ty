@@ -7,4 +7,4 @@ path: /world-cup-2026/round-of-32-5/
 tags: ["Group I", "New York New Jersey", "Round of 32", "World Cup 2026"]
 tv: []
 ---
-Round of 32 match in the FIFA World Cup 2026 between Group I winner and the best third-placed team (from Groups C, D, F, G or H).
+The 77th game of the FIFA World Cup 2026 – a Round of 32 match between Group I winner and the best third-placed team (from Groups C, D, F, G or H).

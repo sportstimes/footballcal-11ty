@@ -7,4 +7,4 @@ path: /world-cup-2026/round-of-32-12/
 tags: ["Group H", "Group J", "Los Angeles", "Round of 32", "World Cup 2026"]
 tv: []
 ---
-Round of 32 match in the FIFA World Cup 2026 between Group H winner and Group J runner-up.
+The 84th game of the FIFA World Cup 2026 – a Round of 32 match between Group H winner and Group J runner-up.

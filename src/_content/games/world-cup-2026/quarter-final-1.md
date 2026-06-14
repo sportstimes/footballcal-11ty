@@ -7,4 +7,4 @@ path: /world-cup-2026/quarter-final-1/
 tags: ["Quarter-final", "Boston", "World Cup 2026"]
 tv: []
 ---
-Quarter-final in the FIFA World Cup 2026 at Boston. Features the winners of Round of 16 matches 1 (Philadelphia) and 2 (Houston).
+The 97th game of the FIFA World Cup 2026 – a quarter-final at Gillette Stadium, Boston. Features the winners of Round of 16 matches 1 (Philadelphia) and 2 (Houston).

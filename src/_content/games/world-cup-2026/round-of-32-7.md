@@ -7,4 +7,4 @@ path: /world-cup-2026/round-of-32-7/
 tags: ["Group A", "Mexico City", "Round of 32", "World Cup 2026"]
 tv: []
 ---
-Round of 32 match in the FIFA World Cup 2026 between Group A winner and the best third-placed team (from Groups C, E, F, H or I).
+The 79th game of the FIFA World Cup 2026 – a Round of 32 match between Group A winner and the best third-placed team (from Groups C, E, F, H or I).
