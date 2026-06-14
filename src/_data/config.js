@@ -30,5 +30,9 @@ module.exports = () => {
     config.baseUrl = process.env.GITHUB_URL
   }
 
+  if (!config.baseUrl) {
+    config.baseUrl = 'https://footballcal.com'
+  }
+
   return config
 }
