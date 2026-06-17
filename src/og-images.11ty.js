@@ -45,7 +45,7 @@ function buildCard (game, teams, competitions) {
   let timeStr = ''
   if (data.date) {
     const dt = DateTime.fromISO(data.date).toUTC()
-    dateStr = dt.toFormat('cccc d MMMM yyyy')
+    dateStr = dt.toFormat('ccc d MMM yyyy')
     timeStr = dt.toFormat('HH:mm') + ' UTC'
   }
 
@@ -97,7 +97,7 @@ function buildCard (game, teams, competitions) {
               position: 'absolute',
               left: '0px',
               top: '0px',
-              width: '480px',
+              width: '400px',
               height: '630px',
               display: 'flex',
               flexDirection: 'column',
@@ -144,7 +144,7 @@ function buildCard (game, teams, competitions) {
               position: 'absolute',
               right: '0px',
               top: '0px',
-              width: '480px',
+              width: '400px',
               height: '630px',
               display: 'flex',
               flexDirection: 'column',
@@ -189,9 +189,9 @@ function buildCard (game, teams, competitions) {
           props: {
             style: {
               position: 'absolute',
-              left: '360px',
+              left: '400px',
               top: '0px',
-              width: '480px',
+              width: '400px',
               height: '630px',
               display: 'flex',
               flexDirection: 'column',
@@ -200,71 +200,59 @@ function buildCard (game, teams, competitions) {
               backgroundColor: 'rgba(13,13,26,0.72)'
             },
             children: [
+              // Row 1 — competition
               {
                 type: 'div',
                 props: {
                   style: {
-                    position: 'absolute',
-                    top: '32px',
-                    fontSize: '20px',
-                    fontWeight: 900,
-                    color: '#ffffff',
-                    letterSpacing: '5px',
-                    opacity: WATERMARK_OPACITY,
-                    textAlign: 'center',
-                    width: '420px'
-                  },
-                  children: competitionLabel
-                }
-              },
-              {
-                type: 'div',
-                props: {
-                  style: {
-                    fontSize: '22px',
-                    fontWeight: 900,
-                    color: '#aaaacc',
-                    textAlign: 'center',
-                    marginBottom: '12px',
-                    lineHeight: 1
-                  },
-                  children: dateStr
-                }
-              },
-              {
-                type: 'div',
-                props: {
-                  style: {
-                    fontSize: '80px',
-                    fontWeight: 900,
-                    color: '#ffffff',
-                    textAlign: 'center',
-                    letterSpacing: '4px',
-                    lineHeight: 1
-                  },
-                  children: timeStr
-                }
-              },
-              {
-                type: 'div',
-                props: {
-                  style: {
-                    position: 'absolute',
-                    bottom: '28px',
+                    width: '400px',
+                    height: '210px',
                     display: 'flex',
-                    flexDirection: 'row',
                     alignItems: 'center',
-                    gap: '10px',
-                    opacity: WATERMARK_OPACITY
+                    justifyContent: 'center'
+                  },
+                  children: {
+                    type: 'div',
+                    props: {
+                      style: {
+                        fontSize: '20px',
+                        fontWeight: 900,
+                        color: '#ffffff',
+                        letterSpacing: '5px',
+                        opacity: WATERMARK_OPACITY,
+                        textAlign: 'center',
+                        width: '360px'
+                      },
+                      children: competitionLabel
+                    }
+                  }
+                }
+              },
+              // Row 2 — date + time
+              {
+                type: 'div',
+                props: {
+                  style: {
+                    width: '400px',
+                    height: '210px',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    justifyContent: 'center'
                   },
                   children: [
                     {
-                      type: 'img',
+                      type: 'div',
                       props: {
-                        src: logoSrc,
-                        width: '28',
-                        height: '28',
-                        style: { filter: 'invert(1)' }
+                        style: {
+                          fontSize: '56px',
+                          fontWeight: 900,
+                          color: '#aaaacc',
+                          textAlign: 'center',
+                          letterSpacing: '2px',
+                          lineHeight: 1
+                        },
+                        children: dateStr
                       }
                     },
                     {
@@ -274,12 +262,63 @@ function buildCard (game, teams, competitions) {
                           fontSize: '22px',
                           fontWeight: 900,
                           color: '#ffffff',
-                          letterSpacing: '2px'
+                          textAlign: 'center',
+                          letterSpacing: '3px',
+                          lineHeight: 1,
+                          marginTop: '14px'
                         },
-                        children: 'footballcal.com'
+                        children: timeStr
                       }
                     }
                   ]
+                }
+              },
+              // Row 3 — watermark
+              {
+                type: 'div',
+                props: {
+                  style: {
+                    width: '400px',
+                    height: '210px',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center'
+                  },
+                  children: {
+                    type: 'div',
+                    props: {
+                      style: {
+                        display: 'flex',
+                        flexDirection: 'row',
+                        alignItems: 'center',
+                        gap: '10px',
+                        opacity: WATERMARK_OPACITY
+                      },
+                      children: [
+                        {
+                          type: 'img',
+                          props: {
+                            src: logoSrc,
+                            width: '28',
+                            height: '28',
+                            style: { filter: 'invert(1)' }
+                          }
+                        },
+                        {
+                          type: 'div',
+                          props: {
+                            style: {
+                              fontSize: '22px',
+                              fontWeight: 900,
+                              color: '#ffffff',
+                              letterSpacing: '2px'
+                            },
+                            children: 'footballcal.com'
+                          }
+                        }
+                      ]
+                    }
+                  }
                 }
               }
             ]
