@@ -258,7 +258,7 @@ function buildCard (game, teams, competitions) {
                       type: 'div',
                       props: {
                         style: {
-                          fontSize: '22px',
+                          fontSize: '42px',
                           fontWeight: 900,
                           color: '#ffffff',
                           textAlign: 'center',
