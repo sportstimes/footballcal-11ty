@@ -4,11 +4,18 @@ const satori = require('satori').default
 const { Resvg } = require('@resvg/resvg-js')
 const { DateTime } = require('luxon')
 
-const fontRobotoSlab = fs.readFileSync(path.join(__dirname, '_assets/fonts/RobotoSlab-Bold.woff'))
-const fontInterRegular = fs.readFileSync(path.join(__dirname, '_assets/fonts/Inter-Regular.woff'))
+const fontBlack = fs.readFileSync(path.join(__dirname, '_assets/fonts/RobotoSlab-Black.woff'))
 
-const logoData = fs.readFileSync(path.join(__dirname, '_assets/img/footballcal-128.png'))
-const logoDataUri = 'data:image/png;base64,' + logoData.toString('base64')
+const logoBase64 = fs.readFileSync(
+  path.join(__dirname, '_assets/img/footballcal-128.png')
+).toString('base64')
+const logoSrc = `data:image/png;base64,${logoBase64}`
+
+// Diagonal split coordinates from linear-gradient(120deg, A 50%, B 50%) on 1200x630
+// Perpendicular to 120deg gradient line through centre (600,315):
+//   top edge at x~782, bottom edge at x~418
+const DIAG_TOP_X = 782
+const DIAG_BOT_X = 418
 
 function hex (colour, fallback = '#888888') {
   return colour || fallback
@@ -32,7 +39,7 @@ function buildCard (game, teams, competitions) {
   const awayFifa = awayTeam.fifaCode || away.slice(0, 3).toUpperCase()
 
   const competition = (competitions || []).find(c => data.path && data.path.startsWith(c.path))
-  const competitionName = competition ? competition.title.toUpperCase() : ''
+  const competitionLabel = competition ? competition.title.toUpperCase() : ''
 
   let dateStr = ''
   let timeStr = ''
@@ -42,217 +49,237 @@ function buildCard (game, teams, competitions) {
     timeStr = dt.toFormat('HH:mm') + ' UTC'
   }
 
-  const teamPanelStyle = {
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-    justifyContent: 'center',
-    width: '420px',
-    height: '630px',
-    padding: '40px'
-  }
+  const WATERMARK_OPACITY = 0.45
 
-  const fifaCodeStyle = {
-    fontSize: '84px',
-    fontWeight: 700,
-    fontFamily: '"Roboto Slab"',
-    letterSpacing: '4px',
-    lineHeight: 1
-  }
-
-  const teamNameStyle = {
-    fontSize: '22px',
-    fontWeight: 700,
-    fontFamily: '"Roboto Slab"',
-    textAlign: 'center',
-    marginTop: '16px',
-    lineHeight: 1.3,
-    opacity: 0.85
-  }
-
-  // 1200×630 card
   return {
     type: 'div',
     props: {
       style: {
         display: 'flex',
+        position: 'relative',
         width: '1200px',
         height: '630px',
         fontFamily: '"Roboto Slab"',
-        backgroundColor: '#0d0d1a'
+        backgroundColor: '#0d0d1a',
+        overflow: 'hidden'
       },
       children: [
-        // Home team panel
+        {
+          type: 'svg',
+          props: {
+            xmlns: 'http://www.w3.org/2000/svg',
+            viewBox: '0 0 1200 630',
+            width: '1200',
+            height: '630',
+            style: { position: 'absolute', top: '0px', left: '0px' },
+            children: [
+              {
+                type: 'polygon',
+                props: {
+                  points: `0,0 ${DIAG_TOP_X},0 ${DIAG_BOT_X},630 0,630`,
+                  fill: homePrimary
+                }
+              },
+              {
+                type: 'polygon',
+                props: {
+                  points: `${DIAG_TOP_X},0 1200,0 1200,630 ${DIAG_BOT_X},630`,
+                  fill: awayPrimary
+                }
+              }
+            ]
+          }
+        },
         {
           type: 'div',
           props: {
-            style: { ...teamPanelStyle, backgroundColor: homePrimary },
+            style: {
+              position: 'absolute',
+              left: '0px',
+              top: '0px',
+              width: '480px',
+              height: '630px',
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              padding: '40px'
+            },
             children: [
               {
                 type: 'div',
                 props: {
-                  style: { ...fifaCodeStyle, color: homeSecondary },
+                  style: {
+                    fontSize: '84px',
+                    fontWeight: 900,
+                    color: homeSecondary,
+                    letterSpacing: '4px',
+                    lineHeight: 1
+                  },
                   children: homeFifa
                 }
               },
               {
                 type: 'div',
                 props: {
-                  style: { ...teamNameStyle, color: homeSecondary },
+                  style: {
+                    fontSize: '22px',
+                    fontWeight: 900,
+                    color: homeSecondary,
+                    textAlign: 'center',
+                    marginTop: '16px',
+                    lineHeight: 1.3,
+                    opacity: 0.85
+                  },
                   children: home
                 }
               }
             ]
           }
         },
-        // Centre panel — relative so competition + watermark can be absolute
         {
           type: 'div',
           props: {
             style: {
+              position: 'absolute',
+              right: '0px',
+              top: '0px',
+              width: '480px',
+              height: '630px',
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              position: 'relative',
-              flex: 1,
-              height: '630px',
-              backgroundColor: '#0d0d1a'
+              padding: '40px'
             },
             children: [
-              // Competition name — anchored to top
               {
                 type: 'div',
                 props: {
                   style: {
-                    position: 'absolute',
-                    top: '32px',
-                    fontSize: '14px',
-                    fontWeight: 700,
-                    fontFamily: '"Roboto Slab"',
-                    color: '#666688',
-                    letterSpacing: '3px'
-                  },
-                  children: competitionName
-                }
-              },
-              // "v" — flex-centred, aligns with FIFA codes
-              {
-                type: 'div',
-                props: {
-                  style: {
-                    fontSize: '56px',
-                    fontWeight: 700,
-                    fontFamily: '"Roboto Slab"',
-                    color: '#ffffff',
-                    letterSpacing: '2px',
+                    fontSize: '84px',
+                    fontWeight: 900,
+                    color: awaySecondary,
+                    letterSpacing: '4px',
                     lineHeight: 1
                   },
-                  children: 'v'
-                }
-              },
-              // Date + time — pushed down from "v"
-              {
-                type: 'div',
-                props: {
-                  style: {
-                    display: 'flex',
-                    flexDirection: 'column',
-                    alignItems: 'center',
-                    marginTop: '40px'
-                  },
-                  children: [
-                    {
-                      type: 'div',
-                      props: {
-                        style: {
-                          fontSize: '19px',
-                          fontWeight: 400,
-                          fontFamily: '"Inter"',
-                          color: '#9999bb',
-                          textAlign: 'center',
-                          lineHeight: 1.4
-                        },
-                        children: dateStr
-                      }
-                    },
-                    {
-                      type: 'div',
-                      props: {
-                        style: {
-                          fontSize: '28px',
-                          fontWeight: 700,
-                          fontFamily: '"Roboto Slab"',
-                          color: '#ffffff',
-                          textAlign: 'center',
-                          marginTop: '8px',
-                          lineHeight: 1
-                        },
-                        children: timeStr
-                      }
-                    }
-                  ]
-                }
-              },
-              // Watermark — anchored to bottom, logo + URL
-              {
-                type: 'div',
-                props: {
-                  style: {
-                    position: 'absolute',
-                    bottom: '26px',
-                    display: 'flex',
-                    flexDirection: 'row',
-                    alignItems: 'center',
-                    gap: '8px'
-                  },
-                  children: [
-                    {
-                      type: 'img',
-                      props: {
-                        src: logoDataUri,
-                        width: 24,
-                        height: 24,
-                        style: { opacity: 0.5 }
-                      }
-                    },
-                    {
-                      type: 'div',
-                      props: {
-                        style: {
-                          fontSize: '17px',
-                          fontWeight: 700,
-                          fontFamily: '"Roboto Slab"',
-                          color: '#666688',
-                          letterSpacing: '0.5px'
-                        },
-                        children: 'footballcal.com'
-                      }
-                    }
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        // Away team panel
-        {
-          type: 'div',
-          props: {
-            style: { ...teamPanelStyle, backgroundColor: awayPrimary },
-            children: [
-              {
-                type: 'div',
-                props: {
-                  style: { ...fifaCodeStyle, color: awaySecondary },
                   children: awayFifa
                 }
               },
               {
                 type: 'div',
                 props: {
-                  style: { ...teamNameStyle, color: awaySecondary },
+                  style: {
+                    fontSize: '22px',
+                    fontWeight: 900,
+                    color: awaySecondary,
+                    textAlign: 'center',
+                    marginTop: '16px',
+                    lineHeight: 1.3,
+                    opacity: 0.85
+                  },
                   children: away
+                }
+              }
+            ]
+          }
+        },
+        {
+          type: 'div',
+          props: {
+            style: {
+              position: 'absolute',
+              left: '360px',
+              top: '0px',
+              width: '480px',
+              height: '630px',
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              backgroundColor: 'rgba(13,13,26,0.72)'
+            },
+            children: [
+              {
+                type: 'div',
+                props: {
+                  style: {
+                    position: 'absolute',
+                    top: '32px',
+                    fontSize: '20px',
+                    fontWeight: 900,
+                    color: '#ffffff',
+                    letterSpacing: '5px',
+                    opacity: WATERMARK_OPACITY,
+                    textAlign: 'center',
+                    width: '420px'
+                  },
+                  children: competitionLabel
+                }
+              },
+              {
+                type: 'div',
+                props: {
+                  style: {
+                    fontSize: '22px',
+                    fontWeight: 900,
+                    color: '#aaaacc',
+                    textAlign: 'center',
+                    marginBottom: '12px',
+                    lineHeight: 1
+                  },
+                  children: dateStr
+                }
+              },
+              {
+                type: 'div',
+                props: {
+                  style: {
+                    fontSize: '80px',
+                    fontWeight: 900,
+                    color: '#ffffff',
+                    textAlign: 'center',
+                    letterSpacing: '4px',
+                    lineHeight: 1
+                  },
+                  children: timeStr
+                }
+              },
+              {
+                type: 'div',
+                props: {
+                  style: {
+                    position: 'absolute',
+                    bottom: '28px',
+                    display: 'flex',
+                    flexDirection: 'row',
+                    alignItems: 'center',
+                    gap: '10px',
+                    opacity: WATERMARK_OPACITY
+                  },
+                  children: [
+                    {
+                      type: 'img',
+                      props: {
+                        src: logoSrc,
+                        width: '28',
+                        height: '28',
+                        style: { filter: 'invert(1)' }
+                      }
+                    },
+                    {
+                      type: 'div',
+                      props: {
+                        style: {
+                          fontSize: '22px',
+                          fontWeight: 900,
+                          color: '#ffffff',
+                          letterSpacing: '2px'
+                        },
+                        children: 'footballcal.com'
+                      }
+                    }
+                  ]
                 }
               }
             ]
@@ -283,8 +310,7 @@ module.exports = class OgImages {
   async render ({ game, teams, competitions }) {
     const card = buildCard(game, teams, competitions)
     const fonts = [
-      { name: 'Roboto Slab', data: fontRobotoSlab, weight: 700, style: 'normal' },
-      { name: 'Inter', data: fontInterRegular, weight: 400, style: 'normal' }
+      { name: 'Roboto Slab', data: fontBlack, weight: 900, style: 'normal' }
     ]
 
     const svg = await satori(card, { width: 1200, height: 630, fonts })
