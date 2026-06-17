@@ -220,8 +220,7 @@ function buildCard (game, teams, competitions) {
                         color: '#ffffff',
                         letterSpacing: '5px',
                         opacity: WATERMARK_OPACITY,
-                        textAlign: 'center',
-                        width: '360px'
+                        textAlign: 'center'
                       },
                       children: competitionLabel
                     }
@@ -245,7 +244,7 @@ function buildCard (game, teams, competitions) {
                       type: 'div',
                       props: {
                         style: {
-                          fontSize: '56px',
+                          fontSize: '44px',
                           fontWeight: 900,
                           color: '#aaaacc',
                           textAlign: 'center',
