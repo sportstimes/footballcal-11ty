@@ -53,5 +53,9 @@
     "standard": "^17.1.0",
     "stylelint": "^16.6.1",
     "stylelint-config-standard": "^36.0.0"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "satori": "^0.26.0"
   }
 }

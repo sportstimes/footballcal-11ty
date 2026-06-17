@@ -7,7 +7,11 @@
         <meta name="description" content="{{ pageDescription or meta.description }}"/>
         <meta property="og:description" content="{{ pageDescription or meta.description }}"/>
         <meta property="og:url" content="{{ page.url | absoluteUrl(config.baseUrl) }}"/>
+        {% if competitors and competitors.length == 2 %}
+        <meta property="og:image" content="{{ ("/img/og/" + (page.url | ogImageSlug) + ".png") | absoluteUrl(config.baseUrl) }}"/>
+        {% else %}
         <meta property="og:image" content="{{ "/img/footballcal-opengraph.png" | url | absoluteUrl(config.baseUrl) }}"/>
+        {% endif %}
         <meta name="keywords" content="{{ meta.keywords }}"/>
         {% if noindex %}<meta name="robots" content="noindex,follow"/>{% endif %}
         <meta name="apple-mobile-web-app-title" content="{{ site.title }}"/>

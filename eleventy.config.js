@@ -39,6 +39,9 @@ module.exports = config => {
 
   config.addFilter('commaNumber', n => Number(n).toLocaleString('en-GB'))
 
+  // converts a page URL like /euro-2024/spain-italy/ to euro-2024-spain-italy
+  config.addFilter('ogImageSlug', (url) => url.replace(/^\/|\/$/g, '').replace(/\//g, '-'))
+
   config.addFilter('daysAgo', (dateStr) => {
     const { DateTime } = require('luxon')
     const past = DateTime.fromISO(dateStr)
