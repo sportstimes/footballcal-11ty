@@ -608,7 +608,7 @@ ul.competitions li {
 .event-post > h1,
 .event-post > h2 {
   border-top: 8px solid #FFF;
-  padding-top: 20px;
+  padding-top: 1.5rem;
   text-align: center;
 }
 
@@ -625,21 +625,40 @@ ul.competitions li {
 
 .event-post .datetime {
   border-top: 8px solid #FFF;
-  padding-top: 20px;
+  padding-top: 1.5rem;
   display: flex;
-  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  margin-bottom: 1.5rem;
 }
 
 .event-post .competition {
   font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
   font-size: 1.1rem;
   letter-spacing: 0.4em;
-  margin-bottom: 20px;
+  padding-right: 0.4em;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
 }
 
 .event-post .datetime p {
-  width: 50%;
+  width: auto;
   text-align: center;
+  margin: 0;
+}
+
+.event-post .datetime p.date {
+  font-size: 1rem;
+  letter-spacing: 0.18em;
+  padding-right: 0.18em;
+  opacity: 0.8;
+}
+
+.event-post .datetime p.time {
+  font-size: clamp(3rem, 18vw, 80px);
+  line-height: 1;
+  letter-spacing: 0.04em;
 }
 
 .event-post .datetime p .endtime {
@@ -664,12 +683,14 @@ ul.competitions li {
 #content h1 {
   font-size: clamp(2rem, 13vw, 60px);
   border-top: 8px solid #FFF;
-  padding-top: 20px;
+  padding-top: 1.5rem;
   text-align: center;
 }
 
 #content .event-post > h1 {
   font-size: clamp(2rem, 11vw, 60px);
+  overflow-wrap: normal;
+  word-break: keep-all;
 }
 
 
