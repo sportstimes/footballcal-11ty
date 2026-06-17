@@ -4,14 +4,17 @@ const satori = require('satori').default
 const { Resvg } = require('@resvg/resvg-js')
 const { DateTime } = require('luxon')
 
-const fontBold = fs.readFileSync(path.join(__dirname, '_assets/fonts/Inter-Bold.woff'))
-const fontRegular = fs.readFileSync(path.join(__dirname, '_assets/fonts/Inter-Regular.woff'))
+const fontRobotoSlab = fs.readFileSync(path.join(__dirname, '_assets/fonts/RobotoSlab-Bold.woff'))
+const fontInterRegular = fs.readFileSync(path.join(__dirname, '_assets/fonts/Inter-Regular.woff'))
+
+const logoData = fs.readFileSync(path.join(__dirname, '_assets/img/footballcal-128.png'))
+const logoDataUri = 'data:image/png;base64,' + logoData.toString('base64')
 
 function hex (colour, fallback = '#888888') {
   return colour || fallback
 }
 
-function buildCard (game, teams) {
+function buildCard (game, teams, competitions) {
   const data = game.data
   const competitors = data.competitors || []
   const home = competitors[0] || ''
@@ -25,8 +28,11 @@ function buildCard (game, teams) {
   const awayPrimary = hex(awayTeam.colours && awayTeam.colours.primary, '#554444')
   const awaySecondary = hex(awayTeam.colours && awayTeam.colours.secondary, '#ffffff')
 
-  const homeFifa = (homeTeam.fifaCode || home.slice(0, 3).toUpperCase())
-  const awayFifa = (awayTeam.fifaCode || away.slice(0, 3).toUpperCase())
+  const homeFifa = homeTeam.fifaCode || home.slice(0, 3).toUpperCase()
+  const awayFifa = awayTeam.fifaCode || away.slice(0, 3).toUpperCase()
+
+  const competition = (competitions || []).find(c => data.path && data.path.startsWith(c.path))
+  const competitionName = competition ? competition.title.toUpperCase() : ''
 
   let dateStr = ''
   let timeStr = ''
@@ -34,6 +40,34 @@ function buildCard (game, teams) {
     const dt = DateTime.fromISO(data.date).toUTC()
     dateStr = dt.toFormat('cccc d MMMM yyyy')
     timeStr = dt.toFormat('HH:mm') + ' UTC'
+  }
+
+  const teamPanelStyle = {
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent: 'center',
+    width: '420px',
+    height: '630px',
+    padding: '40px'
+  }
+
+  const fifaCodeStyle = {
+    fontSize: '84px',
+    fontWeight: 700,
+    fontFamily: '"Roboto Slab"',
+    letterSpacing: '4px',
+    lineHeight: 1
+  }
+
+  const teamNameStyle = {
+    fontSize: '22px',
+    fontWeight: 700,
+    fontFamily: '"Roboto Slab"',
+    textAlign: 'center',
+    marginTop: '16px',
+    lineHeight: 1.3,
+    opacity: 0.85
   }
 
   // 1200×630 card
@@ -44,7 +78,7 @@ function buildCard (game, teams) {
         display: 'flex',
         width: '1200px',
         height: '630px',
-        fontFamily: '"Inter"',
+        fontFamily: '"Roboto Slab"',
         backgroundColor: '#0d0d1a'
       },
       children: [
@@ -52,49 +86,26 @@ function buildCard (game, teams) {
         {
           type: 'div',
           props: {
-            style: {
-              display: 'flex',
-              flexDirection: 'column',
-              alignItems: 'center',
-              justifyContent: 'center',
-              width: '420px',
-              height: '630px',
-              backgroundColor: homePrimary,
-              padding: '40px'
-            },
+            style: { ...teamPanelStyle, backgroundColor: homePrimary },
             children: [
               {
                 type: 'div',
                 props: {
-                  style: {
-                    fontSize: '80px',
-                    fontWeight: 700,
-                    color: homeSecondary,
-                    letterSpacing: '4px',
-                    lineHeight: 1
-                  },
+                  style: { ...fifaCodeStyle, color: homeSecondary },
                   children: homeFifa
                 }
               },
               {
                 type: 'div',
                 props: {
-                  style: {
-                    fontSize: '24px',
-                    fontWeight: 700,
-                    color: homeSecondary,
-                    textAlign: 'center',
-                    marginTop: '16px',
-                    lineHeight: 1.3,
-                    opacity: 0.9
-                  },
+                  style: { ...teamNameStyle, color: homeSecondary },
                   children: home
                 }
               }
             ]
           }
         },
-        // Centre panel
+        // Centre panel — relative so competition + watermark can be absolute
         {
           type: 'div',
           props: {
@@ -103,18 +114,36 @@ function buildCard (game, teams) {
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
+              position: 'relative',
               flex: 1,
               height: '630px',
-              padding: '32px 24px',
               backgroundColor: '#0d0d1a'
             },
             children: [
+              // Competition name — anchored to top
               {
                 type: 'div',
                 props: {
                   style: {
-                    fontSize: '52px',
+                    position: 'absolute',
+                    top: '32px',
+                    fontSize: '14px',
                     fontWeight: 700,
+                    fontFamily: '"Roboto Slab"',
+                    color: '#666688',
+                    letterSpacing: '3px'
+                  },
+                  children: competitionName
+                }
+              },
+              // "v" — flex-centred, aligns with FIFA codes
+              {
+                type: 'div',
+                props: {
+                  style: {
+                    fontSize: '56px',
+                    fontWeight: 700,
+                    fontFamily: '"Roboto Slab"',
                     color: '#ffffff',
                     letterSpacing: '2px',
                     lineHeight: 1
@@ -122,46 +151,85 @@ function buildCard (game, teams) {
                   children: 'v'
                 }
               },
+              // Date + time — pushed down from "v"
               {
                 type: 'div',
                 props: {
                   style: {
-                    fontSize: '22px',
-                    fontWeight: 400,
-                    color: '#aaaacc',
-                    textAlign: 'center',
-                    marginTop: '32px',
-                    lineHeight: 1.5
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    marginTop: '40px'
                   },
-                  children: dateStr
+                  children: [
+                    {
+                      type: 'div',
+                      props: {
+                        style: {
+                          fontSize: '19px',
+                          fontWeight: 400,
+                          fontFamily: '"Inter"',
+                          color: '#9999bb',
+                          textAlign: 'center',
+                          lineHeight: 1.4
+                        },
+                        children: dateStr
+                      }
+                    },
+                    {
+                      type: 'div',
+                      props: {
+                        style: {
+                          fontSize: '28px',
+                          fontWeight: 700,
+                          fontFamily: '"Roboto Slab"',
+                          color: '#ffffff',
+                          textAlign: 'center',
+                          marginTop: '8px',
+                          lineHeight: 1
+                        },
+                        children: timeStr
+                      }
+                    }
+                  ]
                 }
               },
-              {
-                type: 'div',
-                props: {
-                  style: {
-                    fontSize: '30px',
-                    fontWeight: 700,
-                    color: '#ffffff',
-                    textAlign: 'center',
-                    marginTop: '8px',
-                    lineHeight: 1
-                  },
-                  children: timeStr
-                }
-              },
+              // Watermark — anchored to bottom, logo + URL
               {
                 type: 'div',
                 props: {
                   style: {
                     position: 'absolute',
-                    bottom: '28px',
-                    fontSize: '18px',
-                    fontWeight: 400,
-                    color: '#666688',
-                    letterSpacing: '1px'
+                    bottom: '26px',
+                    display: 'flex',
+                    flexDirection: 'row',
+                    alignItems: 'center',
+                    gap: '8px'
                   },
-                  children: 'footballcal.com'
+                  children: [
+                    {
+                      type: 'img',
+                      props: {
+                        src: logoDataUri,
+                        width: 24,
+                        height: 24,
+                        style: { opacity: 0.5 }
+                      }
+                    },
+                    {
+                      type: 'div',
+                      props: {
+                        style: {
+                          fontSize: '17px',
+                          fontWeight: 700,
+                          fontFamily: '"Roboto Slab"',
+                          color: '#666688',
+                          letterSpacing: '0.5px'
+                        },
+                        children: 'footballcal.com'
+                      }
+                    }
+                  ]
                 }
               }
             ]
@@ -171,42 +239,19 @@ function buildCard (game, teams) {
         {
           type: 'div',
           props: {
-            style: {
-              display: 'flex',
-              flexDirection: 'column',
-              alignItems: 'center',
-              justifyContent: 'center',
-              width: '420px',
-              height: '630px',
-              backgroundColor: awayPrimary,
-              padding: '40px'
-            },
+            style: { ...teamPanelStyle, backgroundColor: awayPrimary },
             children: [
               {
                 type: 'div',
                 props: {
-                  style: {
-                    fontSize: '80px',
-                    fontWeight: 700,
-                    color: awaySecondary,
-                    letterSpacing: '4px',
-                    lineHeight: 1
-                  },
+                  style: { ...fifaCodeStyle, color: awaySecondary },
                   children: awayFifa
                 }
               },
               {
                 type: 'div',
                 props: {
-                  style: {
-                    fontSize: '24px',
-                    fontWeight: 700,
-                    color: awaySecondary,
-                    textAlign: 'center',
-                    marginTop: '16px',
-                    lineHeight: 1.3,
-                    opacity: 0.9
-                  },
+                  style: { ...teamNameStyle, color: awaySecondary },
                   children: away
                 }
               }
@@ -235,11 +280,11 @@ module.exports = class OgImages {
     }
   }
 
-  async render ({ game, teams }) {
-    const card = buildCard(game, teams)
+  async render ({ game, teams, competitions }) {
+    const card = buildCard(game, teams, competitions)
     const fonts = [
-      { name: 'Inter', data: fontBold, weight: 700, style: 'normal' },
-      { name: 'Inter', data: fontRegular, weight: 400, style: 'normal' }
+      { name: 'Roboto Slab', data: fontRobotoSlab, weight: 700, style: 'normal' },
+      { name: 'Inter', data: fontInterRegular, weight: 400, style: 'normal' }
     ]
 
     const svg = await satori(card, { width: 1200, height: 630, fonts })
