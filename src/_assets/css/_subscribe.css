@@ -1,6 +1,12 @@
 .subscribe {
     text-align: center;
-    margin: 3rem 0;
+    margin: 0;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: linear-gradient(120deg, color-mix(in srgb, var(--color-a, #D55A5A) 85%, transparent) 50%, color-mix(in srgb, var(--color-b, #D55A5A) 85%, transparent) 50%);
+    backdrop-filter: blur(6px);
 }
 
 .subscribe a {
