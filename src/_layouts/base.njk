@@ -23,6 +23,12 @@
         </script>
         <link rel="stylesheet" href="{{ "/css/site.css" | url }}"/>
         <script src="{{ "/js/timezone-localizer.js" | url }}" defer></script>
+        {% set feedComp = null %}
+        {% for comp in competitions %}{% if tag and (comp.title == tag or comp.shortTitle == tag) %}{% set feedComp = comp %}{% endif %}{% endfor %}
+        {% if feedComp %}
+        <link rel="alternate" type="application/rss+xml" title="{{ feedComp.title }} — {{ site.title }}" href="{{ ('/' + feedComp.theme + '.rss') | url | absoluteUrl(config.baseUrl) }}">
+        <link rel="alternate" type="application/feed+json" title="{{ feedComp.title }} — {{ site.title }}" href="{{ ('/' + feedComp.theme + '.json') | url | absoluteUrl(config.baseUrl) }}">
+        {% endif %}
         {% if config.GOOGLE_ADSENSE_PUBLISHER_ID %}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ config.GOOGLE_ADSENSE_PUBLISHER_ID }}" crossorigin="anonymous"></script>
         {% endif %}
