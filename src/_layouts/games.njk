@@ -129,6 +129,11 @@ layout: base.njk
 }
 </script>
 
+{% set feedComp = null %}
+{% for comp in competitions %}{% if comp.title == tag or comp.shortTitle == tag %}{% set feedComp = comp %}{% endif %}{% endfor %}
+{% if feedComp %}
+<p class="feed-links">Also available as <a href="{{ ('/' + feedComp.theme + '.json') | url }}">JSON</a> and <a href="{{ ('/' + feedComp.theme + '.rss') | url }}">RSS</a> feeds.</p>
+{% endif %}
 <h2>Want more?</h2>
 <p>
     <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}">All games</a>
