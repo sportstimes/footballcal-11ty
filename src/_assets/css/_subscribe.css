@@ -5,7 +5,11 @@
     position: sticky;
     top: 0;
     z-index: 10;
-    background: linear-gradient(120deg, color-mix(in srgb, var(--color-a, #D55A5A) 85%, transparent) 50%, color-mix(in srgb, var(--color-b, #D55A5A) 85%, transparent) 50%);
+    background: linear-gradient(
+        120deg,
+        color-mix(in srgb, var(--color-a, #D55A5A) 85%, transparent) 50%,
+        color-mix(in srgb, var(--color-b, #D55A5A) 85%, transparent) 50%
+    );
     backdrop-filter: blur(6px);
 }
 
