@@ -63,7 +63,7 @@ layout: base.njk
     </tbody>
 </table>
 <p class="timezone-info" style="display:none;"></p>
-<script src="{{ "/js/games.js" | url | absoluteUrl(config.baseUrl) }}" defer></script>
+<script src="{{ "/js/games.js" | url }}" defer></script>
 {% if config.GOOGLE_ADSENSE_PUBLISHER_ID and config.GOOGLE_ADSENSE_SLOT_COMPETITION and collections[tag].length >= 8 %}
 <div class="ad-container">
     <ins class="adsbygoogle"

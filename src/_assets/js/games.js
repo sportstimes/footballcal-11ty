@@ -52,10 +52,7 @@
     requestAnimationFrame(step)
   }
 
-  // Wait for the timezone localizer (loaded with defer) to rewrite times before measuring
-  if (document.readyState === 'complete') {
-    setTimeout(scrollToNext, 50)
-  } else {
-    window.addEventListener('load', function () { setTimeout(scrollToNext, 50) })
-  }
+  // Both this script and timezone-localizer are defer, so localizer has already run.
+  // rAF ensures one paint frame passes so layout is settled before measuring.
+  requestAnimationFrame(scrollToNext)
 })()
