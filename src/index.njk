@@ -5,7 +5,7 @@ title: Football times in your calendar
 
 <p class="hero">
     Never miss another football game by subscribing to our
-    calendars in your favourite app. <a href="{{ '/about/' | url | absoluteUrl(config.baseUrl) }}">Find out more</a>
+    calendars in your favourite app. <a href="{{ '/about/' | url }}">Find out more</a>
 </p>
 
 <p class="subscribe">
@@ -21,7 +21,7 @@ title: Football times in your calendar
 <ul class="inline competitions">
   {% for competition in competitions %}
   <li>
-      <a href="{{ competition.path | url | absoluteUrl(config.baseUrl) }}">
+      <a href="{{ competition.path | url }}">
           <h2>{{ competition.title }}</h2>
           <p>{{ competition.start | date('dS LLLL') }}–{{ competition.end | date('dS LLLL yyyy') }}</p>
       </a>

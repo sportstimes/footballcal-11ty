@@ -56,7 +56,7 @@ layout: base.njk
                     <time class="dt-end" datetime="{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}">{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
                 </td>
                 <td class="summary">
-                    <a class="p-name u-url" href="{{ game.page.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
+                    <a class="p-name u-url" href="{{ game.page.url | url }}">{{ game.data.title }}</a>
                 </td>
             </tr>
         {% endfor %}
@@ -136,5 +136,5 @@ layout: base.njk
 {% endif %}
 <h2>Want more?</h2>
 <p>
-    <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}">All games</a>
+    <a href="{{ '/' | url }}">All games</a>
 </p>
