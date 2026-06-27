@@ -143,11 +143,11 @@ layout: base.njk
 <ul class="inline">
     {% for tag in tags | validTags %}
         <li>
-            <a href="{{ ('/' + (tag | slugify) + '/') | url | absoluteUrl(config.baseUrl) }}" rel="tag">{{ tag }} games</a>
+            <a href="{{ ('/' + (tag | slugify) + '/') | url }}" rel="tag">{{ tag }} games</a>
         </li>
     {% endfor %}
     <li>
-        <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}" class="all">All games</a>
+        <a href="{{ '/' | url }}" class="all">All games</a>
     </li>
 </ul>
 
