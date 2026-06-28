@@ -1,10 +1,10 @@
 ---
-title: "Colombia v Ghana"
+title: "Group K winner v best third-placed team"
 date: 2026-07-04T01:30Z
 endDate: 2026-07-04T03:30Z
 locationName: "Arrowhead Stadium, Kansas City"
 path: /world-cup-2026/round-of-32-15/
-tags: ["Colombia", "Ghana", "Group K", "Group L", "Kansas City", "Round of 32", "World Cup 2026"]
+tags: ["Group K", "Kansas City", "Round of 32", "World Cup 2026"]
 tv: []
 ---
-The 87th game of the FIFA World Cup 2026 – a Round of 32 match between Colombia (Group K winner) and Ghana (best third-placed team, from Group L).
+The 87th game of the FIFA World Cup 2026 – a Round of 32 match between Group K winner and the best third-placed team (from Groups D, E, I, J or L).
