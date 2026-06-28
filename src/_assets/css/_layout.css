@@ -693,6 +693,52 @@ ul.competitions li {
   word-break: keep-all;
 }
 
+/* ── Game title: team names split by "v" ──────────────────────────────── */
+
+#content .event-post .p-name {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.05em;
+}
+
+.match-vs {
+  font-size: 0.45em;
+  letter-spacing: 0.15em;
+  opacity: 0.65;
+  line-height: 1.5;
+}
+
+.match-vs::before {
+  content: "\2014\00A0\00A0";
+}
+
+.match-vs::after {
+  content: "\00A0\00A0\2014";
+}
+
+@media only screen and (width >= 540px) {
+  #content .event-post .p-name {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 0 0.4em;
+  }
+
+  .event-post .p-name .team-home {
+    text-align: right;
+  }
+
+  .event-post .p-name .team-away {
+    text-align: left;
+  }
+
+  .match-vs::before,
+  .match-vs::after {
+    content: "";
+  }
+}
+
 
 .lede {
   margin-bottom: 5rem;
