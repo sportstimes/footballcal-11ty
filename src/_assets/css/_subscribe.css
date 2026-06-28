@@ -5,11 +5,15 @@
     position: sticky;
     top: 0;
     z-index: 10;
+    /* Solid fallback for browsers without color-mix() support */
+    background: var(--color-a, #D55A5A);
+    /* Theme-matched translucent gradient for modern browsers */
     background: linear-gradient(
         120deg,
         color-mix(in srgb, var(--color-a, #D55A5A) 85%, transparent) 50%,
         color-mix(in srgb, var(--color-b, #D55A5A) 85%, transparent) 50%
     );
+    -webkit-backdrop-filter: blur(6px);
     backdrop-filter: blur(6px);
 }
 

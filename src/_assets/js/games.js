@@ -52,7 +52,13 @@
     requestAnimationFrame(step)
   }
 
-  // Both this script and timezone-localizer are defer, so localizer has already run.
-  // rAF ensures one paint frame passes so layout is settled before measuring.
-  requestAnimationFrame(scrollToNext)
+  // Fonts use font-display:swap and can shift layout after window.load.
+  // document.fonts.ready resolves only after all fonts are applied,
+  // then one rAF ensures the browser has committed the final layout.
+  window.addEventListener('load', function () {
+    var fontsReady = document.fonts ? document.fonts.ready : Promise.resolve()
+    fontsReady.then(function () {
+      requestAnimationFrame(scrollToNext)
+    })
+  })
 })()
