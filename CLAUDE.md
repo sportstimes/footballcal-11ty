@@ -123,6 +123,42 @@ For TV listings specifically:
 
 All kick-off times in frontmatter must be in **UTC** (`Z` suffix). Match duration defaults to 1h45m if `endDate` is omitted; set `endDate` explicitly to the expected full-time (plus stoppage time buffer, typically `+1h50m`).
 
+## Changelog
+
+**Every time you make changes and commit/push, you must create a changelog entry.** This is mandatory, not optional.
+
+### How to create an entry
+
+1. Create a file at `src/_content/changelog/YYYY-MM-DD-short-slug.md` using today's date and a brief slug describing the change.
+2. Use this frontmatter — all fields are required except `pr`:
+
+```yaml
+---
+date: 2026-06-28T10:30:00Z
+summary: "One sentence describing what changed and why."
+commit: "https://github.com/sportstimes/footballcal-11ty/commit/<full-hash>"
+pr: "https://github.com/sportstimes/footballcal-11ty/pull/<number>"
+---
+```
+
+- `date`: ISO 8601 UTC timestamp of when the change was made.
+- `summary`: A single clear sentence — what changed and the reason/benefit.
+- `commit`: Full GitHub URL to the commit. Get the hash with `git rev-parse HEAD` after committing.
+- `pr`: GitHub PR URL if one was created; omit the line entirely if not.
+
+3. **Include the changelog file in the same commit as the changes**, or as an immediately following commit if the changes were already pushed.
+4. Run `git rev-parse HEAD` after committing to get the hash, then update `commit:` in the entry before or alongside pushing.
+
+### Naming convention
+
+| Change type | Example filename |
+|---|---|
+| New competition data | `2026-06-28-add-world-cup-2026-group-stage.md` |
+| Bug fix | `2026-06-28-fix-ics-timezone-offset.md` |
+| Feature / page | `2026-06-28-add-changelog-page.md` |
+| Content update | `2026-06-28-update-world-cup-tv-listings.md` |
+| Config / tooling | `2026-06-28-add-claude-stop-hook.md` |
+
 ## JavaScript Style
 
 Uses [StandardJS](https://standardjs.com/) — no semicolons, 2-space indent. Run `npm run lint:js:fix` to auto-fix. CSS uses Stylelint with `stylelint-config-standard`.
