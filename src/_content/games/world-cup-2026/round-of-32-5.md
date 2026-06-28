@@ -1,7 +1,7 @@
 ---
 title: "France v Sweden"
-date: 2026-06-29T21:00Z
-endDate: 2026-06-29T23:00Z
+date: 2026-06-30T21:00Z
+endDate: 2026-06-30T23:00Z
 locationName: "MetLife Stadium, New York New Jersey"
 path: /world-cup-2026/france-sweden/
 redirectFrom: /world-cup-2026/round-of-32-5/
