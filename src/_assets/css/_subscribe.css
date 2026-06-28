@@ -1,30 +1,31 @@
+.games-hero {
+    position: sticky;
+    top: var(--header-height, 0px);
+    z-index: 15;
+    padding-bottom: 1rem;
+    background: rgb(255 255 255 / 8%);
+    -webkit-backdrop-filter: blur(12px) saturate(160%);
+    backdrop-filter: blur(12px) saturate(160%);
+    border-bottom: 1px solid rgb(255 255 255 / 15%);
+}
+
 .subscribe {
     text-align: center;
     margin: 0;
-    padding: 1rem 0;
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    /* Solid fallback for browsers without color-mix() support */
-    background: var(--color-a, #D55A5A);
-    /* Theme-matched translucent gradient for modern browsers */
-    background: linear-gradient(
-        120deg,
-        color-mix(in srgb, var(--color-a, #D55A5A) 85%, transparent) 50%,
-        color-mix(in srgb, var(--color-b, #D55A5A) 85%, transparent) 50%
-    );
-    -webkit-backdrop-filter: blur(6px);
-    backdrop-filter: blur(6px);
+    padding: 0.75rem 0 0;
 }
 
 .subscribe a {
     display: block;
     padding: 1rem;
-    background-color: rgb(255 255 255 / 90%);
-    border-bottom: none;
+    background: rgb(255 255 255 / 18%);
+    border: 1px solid rgb(255 255 255 / 35%);
     border-radius: 1rem;
     font-weight: bold;
-    transition: all ease 0.5s;
+    color: inherit;
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    transition: background ease 0.3s, border-color ease 0.3s;
 }
 
 .subscribe span,
@@ -39,5 +40,6 @@
 
 .subscribe a:focus,
 .subscribe a:hover {
-    background-color: rgb(255 255 255 / 100%);
+    background: rgb(255 255 255 / 32%);
+    border-color: rgb(255 255 255 / 55%);
 }

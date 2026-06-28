@@ -1,4 +1,10 @@
 (function () {
+  // Set CSS var immediately so .games-hero sticky top is correct from first paint
+  var headerEl = document.querySelector('header')
+  if (headerEl) {
+    document.documentElement.style.setProperty('--header-height', headerEl.offsetHeight + 'px')
+  }
+
   var now = new Date()
   var rows = document.querySelectorAll('tr.vevent')
   var nextRow = null
@@ -31,9 +37,30 @@
   }
 
   function scrollToNext() {
-    var subscribe = document.querySelector('.subscribe')
-    var stickyHeight = subscribe ? subscribe.offsetHeight : 0
-    var targetY = nextRow.getBoundingClientRect().top + window.pageYOffset - stickyHeight
+    // Recalculate header height after fonts have loaded and may have reflowed
+    var headerEl = document.querySelector('header')
+    var gamesHeroEl = document.querySelector('.games-hero')
+    if (headerEl) {
+      document.documentElement.style.setProperty('--header-height', headerEl.offsetHeight + 'px')
+    }
+    var totalOffset = (headerEl ? headerEl.offsetHeight : 0) + (gamesHeroEl ? gamesHeroEl.offsetHeight : 0)
+
+    // Scroll to the first row of nextRow's day so the date heading is visible
+    var scrollTarget = nextRow
+    var nextStartEl = nextRow.querySelector('time.dt-start')
+    if (nextStartEl) {
+      var nextDay = new Date(nextStartEl.getAttribute('datetime')).toDateString()
+      var allRows = document.querySelectorAll('tr.vevent')
+      for (var i = 0; i < allRows.length; i++) {
+        var startEl = allRows[i].querySelector('time.dt-start')
+        if (startEl && new Date(startEl.getAttribute('datetime')).toDateString() === nextDay) {
+          scrollTarget = allRows[i]
+          break
+        }
+      }
+    }
+
+    var targetY = scrollTarget.getBoundingClientRect().top + window.pageYOffset - totalOffset
     var startY = window.pageYOffset
     var distance = targetY - startY
 
