@@ -30,6 +30,11 @@ module.exports = () => {
     config.baseUrl = process.env.GITHUB_URL
   }
 
+  // https://developers.cloudflare.com/pages/configuration/build-configuration/#environment-variables
+  if (process.env.CF_PAGES_URL) {
+    config.baseUrl = process.env.CF_PAGES_URL
+  }
+
   if (!config.baseUrl) {
     config.baseUrl = 'https://footballcal.com'
   }

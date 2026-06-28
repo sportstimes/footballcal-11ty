@@ -56,7 +56,7 @@ layout: base.njk
                     <time class="dt-end" datetime="{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}">{{ game.data.endDate | date("yyyy-LL-dd'T'H:mm:ssZZZ") }}</time>
                 </td>
                 <td class="summary">
-                    <a class="p-name u-url" href="{{ game.page.url | url | absoluteUrl(config.baseUrl) }}">{{ game.data.title }}</a>
+                    <a class="p-name u-url" href="{{ game.page.url | url }}">{{ game.data.title }}</a>
                 </td>
             </tr>
         {% endfor %}
@@ -102,7 +102,12 @@ layout: base.njk
 }
 </script>
 
+{% set feedComp = null %}
+{% for comp in competitions %}{% if tag and (comp.title == tag or comp.shortTitle == tag) %}{% set feedComp = comp %}{% endif %}{% endfor %}
+{% if feedComp %}
+<p class="feed-links">Also available as <a href="{{ ('/' + feedComp.theme + '.json') | url }}" type="application/feed+json" title="{{ feedComp.title }} JSON feed">JSON</a> and <a href="{{ ('/' + feedComp.theme + '.rss') | url }}" type="application/rss+xml" title="{{ feedComp.title }} RSS feed">RSS</a> feeds.</p>
+{% endif %}
 <h2>Want more?</h2>
 <p>
-    <a href="{{ '/' | url | absoluteUrl(config.baseUrl) }}">All games</a>
+    <a href="{{ '/' | url }}">All games</a>
 </p>
