@@ -29,6 +29,10 @@ module.exports = config => {
   config.addCollection('redirects', (collectionApi) => {
     return collectionApi.getAll().filter(item => item.data.redirectFrom)
   })
+  config.addCollection('changelogEntries', (collectionApi) => {
+    return collectionApi.getFilteredByTag('changelog')
+      .sort((a, b) => b.date - a.date)
+  })
 
   // methods…
   config.addNunjucksGlobal('showDate', showDate)

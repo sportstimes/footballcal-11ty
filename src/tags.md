@@ -7,6 +7,9 @@ pagination:
   filter:
     - all
     - webcal-game
+    - changelog
+    - changelogEntries
+    - redirects
 permalink: /{{ tag | slugify }}/
 eleventyComputed:
   title: "{{ tag }} Games"

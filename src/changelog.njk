@@ -1,0 +1,21 @@
+---
+title: Changelog
+layout: base.njk
+pageDescription: "A record of all updates and changes made to Football Cal."
+---
+<h1>Changelog</h1>
+<p>A log of updates to Football Cal, in reverse chronological order.</p>
+
+<ul class="changelog">
+  {% for entry in collections.changelogEntries %}
+  <li>
+    <time datetime="{{ entry.date | date('yyyy-LL-dd') }}">{{ entry.date | date("dS LLLL yyyy") }}</time>
+    — {{ entry.data.summary }}
+    {% if entry.data.pr %}
+      <a href="{{ entry.data.pr }}">view PR</a>
+    {% elif entry.data.commit %}
+      <a href="{{ entry.data.commit }}">view commit</a>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
