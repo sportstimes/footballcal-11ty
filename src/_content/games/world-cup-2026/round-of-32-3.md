@@ -6,6 +6,6 @@ locationName: "Estadio BBVA, Monterrey"
 path: /world-cup-2026/netherlands-morocco/
 redirectFrom: /world-cup-2026/round-of-32-3/
 tags: ["Netherlands", "Morocco", "Group F", "Group C", "Monterrey", "Knockout", "Round of 32", "World Cup 2026"]
-tv: []
+tv: ["ITV1", "ITVX", "FOX", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 75th game of the FIFA World Cup 2026 – a Round of 32 match between Netherlands (Group F winner) and Morocco (Group C runner-up).

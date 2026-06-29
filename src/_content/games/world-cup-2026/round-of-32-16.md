@@ -6,6 +6,6 @@ locationName: "AT&T Stadium, Dallas"
 path: /world-cup-2026/australia-egypt/
 redirectFrom: /world-cup-2026/round-of-32-16/
 tags: ["Australia", "Egypt", "Group D", "Group G", "Dallas", "Knockout", "Round of 32", "World Cup 2026"]
-tv: []
+tv: ["BBC One", "BBC iPlayer", "FOX", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
 The 88th game of the FIFA World Cup 2026 – a Round of 32 match between Australia (Group D runner-up) and Egypt (Group G runner-up).
