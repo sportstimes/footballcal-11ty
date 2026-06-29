@@ -9,7 +9,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgb(0 0 0 / 80%);
   color: #fff;
   padding: 0.75em 1.5em;
   font-size: 1em;
@@ -19,10 +19,11 @@
   align-items: center;
   text-align: center;
 }
+
 #cookie-banner button {
   margin-left: 1em;
-  background: rgba(255,255,255,0.8);
-  color: #000000;
+  background: rgb(255 255 255 / 80%);
+  color: #000;
   border: none;
   border-radius: 8px;
   padding: 0.4em 1em;
@@ -30,8 +31,9 @@
   font-size: 1em;
   transition: background 0.2s;
 }
+
 #cookie-banner button:hover {
-  background: rgba(255,255,255,1)
+  background: rgb(255 255 255 / 100%)
 }
 
 .buy-me {
@@ -67,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 .venue-info {
   margin: 2em 0;
   padding: 1.5em;
-  background: rgb(255 255 255 / 0.2);
+  background: rgb(255 255 255 / 20%);
   border-radius: 6px;
 }
 
@@ -129,8 +131,8 @@ h1, h2, h3, h4, h5, h6 {
 .team-info {
   margin: 1em 0 2em;
   padding: 1.25em 1.5em;
-  background: rgb(255 255 255 / 0.2);
-  border-left: 4px solid var(--team-primary, rgb(255 255 255 / 0.5));
+  background: rgb(255 255 255 / 20%);
+  border-left: 4px solid var(--team-primary, rgb(255 255 255 / 50%));
   border-radius: 0 6px 6px 0;
 }
 
@@ -145,7 +147,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 1.5em;
   height: 1.5em;
   border-radius: 50%;
-  border: 1px solid rgba(0,0,0,0.15);
+  border: 1px solid rgb(0 0 0 / 15%);
 }
 
 .team-description {
@@ -173,6 +175,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 1rem;
   opacity: 0.7;
 }
+
 /* ── Fixture shirt ───────────────────────────────────────────────────────── */
 
 .fixture-shirt {
@@ -183,7 +186,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   width: 160px;
   height: auto;
-  filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.35));
+  filter: drop-shadow(0 6px 12px rgb(0 0 0 / 35%));
 }
 
 .fixture-codes {
@@ -208,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 .last-meeting {
   margin: 0 0 2em;
   padding: 1.25em 1.5em;
-  background: rgb(0 0 0 / 0.15);
+  background: rgb(0 0 0 / 15%);
   border-radius: 6px;
 }
 
