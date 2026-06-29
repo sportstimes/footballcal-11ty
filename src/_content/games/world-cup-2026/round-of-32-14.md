@@ -6,6 +6,6 @@ locationName: "Hard Rock Stadium, Miami"
 path: /world-cup-2026/argentina-cape-verde/
 redirectFrom: /world-cup-2026/round-of-32-14/
 tags: ["Argentina", "Cape Verde", "Group J", "Group H", "Miami", "Knockout", "Round of 32", "World Cup 2026"]
-tv: []
+tv: ["ITV1", "ITVX", "FOX", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports", "TyC Sports", "Telefe", "TV Pública"]
 ---
 The 86th game of the FIFA World Cup 2026 – a Round of 32 match between Argentina (Group J winner) and Cape Verde (Group H runner-up).
