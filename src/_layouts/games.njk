@@ -30,7 +30,12 @@ layout: base.njk
 </section>
 {% endif %}
 
-<table>
+<nav class="tabs" aria-label="Timeline view">
+    <a class="tab" id="tab-upcoming" href="#">Upcoming</a>
+    <a class="tab" id="tab-previous" href="#">Previous</a>
+</nav>
+
+<table id="game-list">
     <thead>
         <tr>
             <th>Day</th>
@@ -46,7 +51,7 @@ layout: base.njk
                 {% set lastDate = game.data.date | date('ccc dS LLLL') %}
                 {% set showDate = true %}
             {% endif %}
-            <tr class="vevent h-event">
+            <tr class="vevent h-event" data-location="{{ game.data.locationName }}" data-tags="{{ game.data.tags | join(',') }}">
                 <td class="datetime">
                     <span class="day">{% if showDate %}{{ game.data.date | date('ccc dS LLLL') }}{% endif %}</span>
                 </td>
@@ -65,12 +70,17 @@ layout: base.njk
 <p class="timezone-info" style="display:none;"></p>
 <script>
 (function () {
-  var now = new Date()
-  var rows = document.querySelectorAll('tr.vevent')
-  var nextFound = false
+  var now      = new Date()
+  var tbody    = document.querySelector('#game-list tbody')
+  var tabUp    = document.getElementById('tab-upcoming')
+  var tabPrev  = document.getElementById('tab-previous')
+  var rows     = document.querySelectorAll('tr.vevent')
+  var nextRow  = null
+  var reduced  = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches
 
+  // ── 1. Classify rows (preserve existing past/next logic) ─────────────────
   rows.forEach(function (row) {
-    var dtEnd = row.querySelector('time.dt-end')
+    var dtEnd   = row.querySelector('time.dt-end')
     var dtStart = row.querySelector('time.dt-start')
     var endText = dtEnd && dtEnd.textContent.trim()
     var endTime = endText ? new Date(endText) : null
@@ -84,12 +94,107 @@ layout: base.njk
 
     if (endTime < now) {
       row.classList.add('past')
-    } else if (!nextFound) {
+    } else if (!nextRow) {
       row.classList.add('next')
-      nextFound = true
+      nextRow = row
     }
   })
-})()
+
+  if (!tbody || !tabUp || !tabPrev) return
+
+  // ── 2. NOW divider ────────────────────────────────────────────────────────
+  var nowRow = document.createElement('tr')
+  nowRow.className = 'now-row'
+  nowRow.id        = 'now'
+  nowRow.innerHTML =
+    '<td colspan="3"><div class="now-divider">' +
+    '<span class="now-badge"><span class="pulse-dot"></span>Now</span>' +
+    '</div></td>'
+
+  // ── 3a. Upcoming games exist ──────────────────────────────────────────────
+  if (nextRow) {
+    var link     = nextRow.querySelector('.summary a')
+    var dtStart  = nextRow.querySelector('time.dt-start')
+    var gameDate = new Date(dtStart ? dtStart.textContent.trim() : '')
+    var location = nextRow.dataset.location || ''
+    var title    = link ? link.textContent.trim() : ''
+    var href     = link ? link.getAttribute('href') : '#'
+
+    var vIdx = title.indexOf(' v ')
+    var home = vIdx > -1 ? title.slice(0, vIdx).trim() : title
+    var away = vIdx > -1 ? title.slice(vIdx + 3).trim() : ''
+
+    var dateStr = isNaN(gameDate.getTime()) ? '' : gameDate.toLocaleDateString('en-GB', {
+      weekday: 'short', day: 'numeric', month: 'long', year: 'numeric'
+    })
+    var timeStr = isNaN(gameDate.getTime()) ? '' : gameDate.toLocaleTimeString('en-GB', {
+      hour: '2-digit', minute: '2-digit'
+    })
+
+    var tags = (nextRow.dataset.tags || '').split(',').map(function (t) { return t.trim() })
+    var competition = ''
+    for (var i = 0; i < tags.length; i++) {
+      if (tags[i] && tags[i] !== home && tags[i] !== away && /\d{4}/.test(tags[i])) {
+        competition = tags[i]; break
+      }
+    }
+
+    var heroRow = document.createElement('tr')
+    heroRow.className = 'hero-row'
+    heroRow.id        = 'upcoming'
+    heroRow.innerHTML =
+      '<td colspan="3">' +
+        '<a class="next-card" href="' + href + '">' +
+          '<div class="card-eyebrow">Next match' + (competition ? ' · ' + competition : '') + '</div>' +
+          '<div class="card-teams">' +
+            '<span class="card-home">' + home + '</span>' +
+            (away ? '<span class="card-sep"> v </span><span class="card-away">' + away + '</span>' : '') +
+          '</div>' +
+          '<div class="card-meta">' +
+            (dateStr ? '<span>📅 ' + dateStr + '</span>' : '') +
+            (timeStr ? '<span>🕓 ' + timeStr + ' local</span>' : '') +
+            (location ? '<span>📍 ' + location + '</span>' : '') +
+          '</div>' +
+          '<span class="card-cta" aria-hidden="true">›</span>' +
+        '</a>' +
+      '</td>'
+
+    tbody.insertBefore(nowRow, nextRow)
+    tbody.insertBefore(heroRow, nextRow)
+    nextRow.setAttribute('hidden', '')
+
+    tabUp.classList.add('tab-active')
+    tabPrev.classList.add('tab-inactive')
+
+    tabUp.addEventListener('click', function (e) {
+      e.preventDefault()
+      var top = heroRow.getBoundingClientRect().top + window.scrollY - 100
+      window.scrollTo({ top: Math.max(0, top), behavior: reduced ? 'auto' : 'smooth' })
+    })
+
+    tabPrev.addEventListener('click', function (e) {
+      e.preventDefault()
+      var firstPast = tbody.querySelector('tr.past')
+      var top = firstPast ? firstPast.getBoundingClientRect().top + window.scrollY - 100 : 0
+      window.scrollTo({ top: Math.max(0, top), behavior: reduced ? 'auto' : 'smooth' })
+    })
+
+    function scrollToNow() {
+      var top = nowRow.getBoundingClientRect().top + window.scrollY - 120
+      window.scrollTo({ top: Math.max(0, top), behavior: reduced ? 'auto' : 'smooth' })
+    }
+    if (document.readyState === 'complete') { scrollToNow() }
+    else { window.addEventListener('load', scrollToNow) }
+
+  // ── 3b. All games in the past ─────────────────────────────────────────────
+  } else {
+    tbody.appendChild(nowRow)
+    tabUp.classList.add('tab-disabled')
+    tabUp.setAttribute('aria-disabled', 'true')
+    tabUp.addEventListener('click', function (e) { e.preventDefault() })
+    tabPrev.classList.add('tab-active')
+  }
+}())
 </script>
 {% if config.GOOGLE_ADSENSE_PUBLISHER_ID and config.GOOGLE_ADSENSE_SLOT_COMPETITION and collections[tag].length >= 8 %}
 <div class="ad-container">
