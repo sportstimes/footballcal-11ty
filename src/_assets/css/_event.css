@@ -165,9 +165,9 @@ tr.hero-row td {
 
 .next-card {
     display: block;
-    background: rgb(255 255 255 / 80%);
+    background: #fff;
     border-radius: 1rem;
-    padding: 1.4rem 3.5rem 1.4rem 1.75rem;
+    padding: 1.4rem 1.75rem;
     color: #000;
     position: relative;
     box-shadow: 0 8px 32px rgb(0 0 0 / 25%);
@@ -210,21 +210,6 @@ tr.hero-row td {
     text-align: center;
 }
 
-.card-cta {
-    position: absolute;
-    right: 1.25rem;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 2rem;
-    line-height: 1;
-    color: rgb(0 0 0 / 20%);
-    transition: color 0.2s, transform 0.2s;
-}
-
-.next-card:hover .card-cta {
-    color: rgb(0 0 0 / 50%);
-    transform: translateY(-50%) translateX(4px);
-}
 
 td.summary {
     text-align: left;
