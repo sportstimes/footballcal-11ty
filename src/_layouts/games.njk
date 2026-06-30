@@ -116,7 +116,6 @@ layout: base.njk
     var link     = nextRow.querySelector('.summary a')
     var dtStart  = nextRow.querySelector('time.dt-start')
     var gameDate = new Date(dtStart ? dtStart.textContent.trim() : '')
-    var location = nextRow.dataset.location || ''
     var title    = link ? link.textContent.trim() : ''
     var href     = link ? link.getAttribute('href') : '#'
 
@@ -125,19 +124,11 @@ layout: base.njk
     var away = vIdx > -1 ? title.slice(vIdx + 3).trim() : ''
 
     var dateStr = isNaN(gameDate.getTime()) ? '' : gameDate.toLocaleDateString('en-GB', {
-      weekday: 'short', day: 'numeric', month: 'long', year: 'numeric'
+      weekday: 'short', day: 'numeric', month: 'long'
     })
     var timeStr = isNaN(gameDate.getTime()) ? '' : gameDate.toLocaleTimeString('en-GB', {
       hour: '2-digit', minute: '2-digit'
     })
-
-    var tags = (nextRow.dataset.tags || '').split(',').map(function (t) { return t.trim() })
-    var competition = ''
-    for (var i = 0; i < tags.length; i++) {
-      if (tags[i] && tags[i] !== home && tags[i] !== away && /\d{4}/.test(tags[i])) {
-        competition = tags[i]; break
-      }
-    }
 
     var heroRow = document.createElement('tr')
     heroRow.className = 'hero-row'
@@ -145,15 +136,13 @@ layout: base.njk
     heroRow.innerHTML =
       '<td colspan="3">' +
         '<a class="next-card" href="' + href + '">' +
-          '<div class="card-eyebrow">Next match' + (competition ? ' · ' + competition : '') + '</div>' +
           '<div class="card-teams">' +
             '<span class="card-home">' + home + '</span>' +
             (away ? '<span class="card-sep"> v </span><span class="card-away">' + away + '</span>' : '') +
           '</div>' +
           '<div class="card-meta">' +
-            (dateStr ? '<span>📅 ' + dateStr + '</span>' : '') +
-            (timeStr ? '<span>🕓 ' + timeStr + ' local</span>' : '') +
-            (location ? '<span>📍 ' + location + '</span>' : '') +
+            (dateStr ? '<span>' + dateStr + '</span>' : '') +
+            (timeStr ? '<span>' + timeStr + '</span>' : '') +
           '</div>' +
           '<span class="card-cta" aria-hidden="true">›</span>' +
         '</a>' +
