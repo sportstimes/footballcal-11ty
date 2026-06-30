@@ -165,7 +165,7 @@ tr.hero-row td {
 
 .next-card {
     display: block;
-    background: #fff;
+    background: rgb(255 255 255 / 80%);
     border-radius: 1rem;
     padding: 1.4rem 3.5rem 1.4rem 1.75rem;
     color: #000;
@@ -182,24 +182,32 @@ tr.hero-row td {
 }
 
 .card-teams {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
     font-weight: 900;
     text-transform: uppercase;
     font-size: clamp(1.4rem, 5vw, 2.25rem);
-    line-height: 1;
+    line-height: 1.2;
     margin-bottom: 0.6rem;
 }
 
 .card-home { color: #c04040; }
-.card-sep  { color: rgb(0 0 0 / 20%); }
 .card-away { color: #135a94; }
 
+.card-sep {
+    font-size: 0.5em;
+    color: rgb(0 0 0 / 20%);
+}
+
 .card-meta {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 0.5rem 1.25rem;
     font-size: 0.875rem;
     color: rgb(0 0 0 / 50%);
+    text-align: center;
 }
 
 .card-cta {

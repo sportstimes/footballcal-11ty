@@ -108,7 +108,7 @@ layout: base.njk
   nowRow.id        = 'now'
   nowRow.innerHTML =
     '<td colspan="3"><div class="now-divider">' +
-    '<span class="now-badge"><span class="pulse-dot"></span>Now</span>' +
+    '<span class="now-badge"><span class="pulse-dot"></span>Next</span>' +
     '</div></td>'
 
   // ── 3a. Upcoming games exist ──────────────────────────────────────────────
@@ -123,9 +123,18 @@ layout: base.njk
     var home = vIdx > -1 ? title.slice(0, vIdx).trim() : title
     var away = vIdx > -1 ? title.slice(vIdx + 3).trim() : ''
 
-    var dateStr = isNaN(gameDate.getTime()) ? '' : gameDate.toLocaleDateString('en-GB', {
-      weekday: 'short', day: 'numeric', month: 'long'
-    })
+    function ordinal (n) {
+      var s = ['th', 'st', 'nd', 'rd']
+      var v = n % 100
+      return n + (s[(v - 20) % 10] || s[v] || s[0])
+    }
+
+    var dateStr = ''
+    if (!isNaN(gameDate.getTime())) {
+      var weekdayStr = gameDate.toLocaleDateString('en-GB', { weekday: 'short' })
+      var monthStr = gameDate.toLocaleDateString('en-GB', { month: 'long' })
+      dateStr = weekdayStr + ' ' + ordinal(gameDate.getDate()) + ' ' + monthStr
+    }
     var timeStr = isNaN(gameDate.getTime()) ? '' : gameDate.toLocaleTimeString('en-GB', {
       hour: '2-digit', minute: '2-digit'
     })
@@ -138,7 +147,7 @@ layout: base.njk
         '<a class="next-card" href="' + href + '">' +
           '<div class="card-teams">' +
             '<span class="card-home">' + home + '</span>' +
-            (away ? '<span class="card-sep"> v </span><span class="card-away">' + away + '</span>' : '') +
+            (away ? '<span class="card-sep">— v —</span><span class="card-away">' + away + '</span>' : '') +
           '</div>' +
           '<div class="card-meta">' +
             (dateStr ? '<span>' + dateStr + '</span>' : '') +
