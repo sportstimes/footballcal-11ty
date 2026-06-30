@@ -46,6 +46,171 @@ tr.next {
     transform-origin: center center;
 }
 
+/* ── Tabs ────────────────────────────────────────────────── */
+.tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin: 1.5rem 0;
+}
+
+.tab {
+    flex: 1;
+    display: block;
+    text-align: center;
+    padding: 0.65rem 1rem;
+    border-radius: 0.5rem;
+    font-family: Impact, 'Arial Narrow Bold', Haettenschweiler, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 1rem;
+    border: 2px solid transparent;
+    border-bottom: 2px solid transparent;
+    transition: background 0.2s, color 0.2s;
+}
+
+.tab:hover {
+    border-bottom: 2px solid transparent;
+}
+
+.tab-active {
+    background: rgb(255 255 255 / 95%);
+    color: #000;
+}
+
+.tab-active:hover {
+    background: #fff;
+    border-bottom: 2px solid transparent;
+}
+
+.tab-inactive {
+    color: rgb(255 255 255 / 75%);
+    border-color: rgb(255 255 255 / 40%);
+}
+
+.tab-inactive:hover {
+    background: rgb(255 255 255 / 10%);
+    color: #fff;
+    border-bottom: 2px solid transparent;
+}
+
+.tab-disabled {
+    color: rgb(255 255 255 / 25%);
+    border-color: rgb(255 255 255 / 15%);
+    cursor: not-allowed;
+    text-decoration: line-through;
+}
+
+/* ── NOW divider ─────────────────────────────────────────── */
+tr.now-row td {
+    padding: 0.35rem 0;
+    width: 100%;
+}
+
+.now-divider {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.now-divider::before,
+.now-divider::after {
+    content: '';
+    flex: 1;
+    height: 2px;
+    background: rgb(255 255 255 / 40%);
+}
+
+.now-badge {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: rgb(255 255 255 / 12%);
+    border: 2px solid rgb(255 255 255 / 50%);
+    border-radius: 2rem;
+    padding: 0.2rem 0.9rem 0.2rem 0.6rem;
+    font-family: Impact, 'Arial Narrow Bold', Haettenschweiler, sans-serif;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    color: #fff;
+    white-space: nowrap;
+}
+
+.pulse-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #fff;
+    flex-shrink: 0;
+    animation: pulse 1.8s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 0.3;
+        transform: scale(0.65);
+    }
+}
+
+/* ── Next game hero card ─────────────────────────────────── */
+tr.hero-row td {
+    padding: 0.5rem 0;
+    width: 100%;
+}
+
+.next-card {
+    display: block;
+    background: #fff;
+    border-radius: 1rem;
+    padding: 1.4rem 1.75rem;
+    color: #000;
+    position: relative;
+    box-shadow: 0 8px 32px rgb(0 0 0 / 25%);
+    border-bottom: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.next-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 40px rgb(0 0 0 / 30%);
+    border-bottom: none;
+}
+
+.card-teams {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: clamp(1.4rem, 5vw, 2.25rem);
+    line-height: 1.2;
+    margin-bottom: 0.6rem;
+}
+
+.card-home { color: #c04040; }
+.card-away { color: #135a94; }
+
+.card-sep {
+    font-size: 0.5em;
+    color: rgb(0 0 0 / 20%);
+}
+
+.card-meta {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem 1.25rem;
+    font-size: 0.875rem;
+    color: rgb(0 0 0 / 50%);
+    text-align: center;
+}
+
+
 td.summary {
     text-align: left;
 }
