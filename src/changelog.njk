@@ -3,19 +3,29 @@ title: Changelog
 layout: base.njk
 pageDescription: "A record of all updates and changes made to Football Cal."
 ---
-<h1>Changelog</h1>
+<h1 class="changelog-title">Changelog</h1>
 <p>A log of updates to Football Cal, in reverse chronological order.</p>
 
-<ul class="changelog">
+<ol class="changelog-timeline">
   {% for entry in collections.changelogEntries %}
-  <li>
-    <time datetime="{{ entry.date | date('yyyy-LL-dd') }}">{{ entry.date | date("dS LLLL yyyy") }}</time>
-    — {{ entry.data.summary }}
-    {% if entry.data.pr %}
-      <a href="{{ entry.data.pr }}">view PR</a>
-    {% elif entry.data.commit %}
-      <a href="{{ entry.data.commit }}">view commit</a>
-    {% endif %}
+  {% set commitLink = entry.data.commit or entry.data.pr %}
+  <li class="changelog-entry">
+    <div class="changelog-row">
+      {% if commitLink %}
+      <a class="changelog-date" href="{{ commitLink }}">{{ entry.data.date | date("d LLL yyyy") }}</a>
+      {% else %}
+      <span class="changelog-date">{{ entry.data.date | date("d LLL yyyy") }}</span>
+      {% endif %}
+      <div class="changelog-node" aria-hidden="true">
+        <span class="changelog-dot"></span>
+      </div>
+      {% if commitLink %}
+      <a class="changelog-time" href="{{ commitLink }}">{{ entry.data.date | date("HH:mm") }}</a>
+      {% else %}
+      <span class="changelog-time">{{ entry.data.date | date("HH:mm") }}</span>
+      {% endif %}
+    </div>
+    <p class="changelog-desc">{{ entry.data.summary }}</p>
   </li>
   {% endfor %}
-</ul>
+</ol>

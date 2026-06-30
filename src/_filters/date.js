@@ -6,7 +6,10 @@ function ordinal (n) {
   return "'" + n + (s[(v - 20) % 10] || s[v] || s[0]) + "' "
 }
 
-module.exports = (date, format, locale = 'en') => {
-  date = DateTime.fromISO(date).setLocale(locale)
-  return date.toFormat(format.replace('dS ', ordinal(date.day)))
+module.exports = (dateVal, format, locale = 'en') => {
+  const dt = (dateVal instanceof Date
+    ? DateTime.fromJSDate(dateVal, { zone: 'utc' })
+    : DateTime.fromISO(dateVal)
+  ).setLocale(locale)
+  return dt.toFormat(format.replace('dS ', ordinal(dt.day)))
 }
