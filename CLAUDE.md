@@ -123,6 +123,25 @@ For TV listings specifically:
 
 All kick-off times in frontmatter must be in **UTC** (`Z` suffix). Match duration defaults to 1h45m if `endDate` is omitted; set `endDate` explicitly to the expected full-time (plus stoppage time buffer, typically `+1h50m`).
 
+## World Cup 2026 Knockout Fixture Tracking (live, remove once R16 is fully played)
+
+The Round of 16 (and later QF/SF/Final) files are pre-created as placeholders (`round-of-16-1.md` … `round-of-16-8.md` in `src/_content/games/world-cup-2026/`) with placeholder titles like `"Round of 32 match 2 winner v Round of 32 match 5 winner"`. As each pair of feeder matches finishes, update the corresponding file. This happens most mornings for the next few days as more Round of 32/16 games complete — follow this process every time so the files stay consistent:
+
+1. **Check which feeder matches have finished.** Each `round-of-16-N.md` file's description names its two feeder Round of 32 match numbers (e.g. "matches 2 and 5"). Cross-reference `round-of-32-2.md`/`round-of-32-5.md` etc. — a feeder match is "finished" once its own file already has real team names (not a "Group X winner" placeholder) **and** its kickoff time has passed.
+2. **Look up the actual result** for each finished feeder match from reliable sources (FIFA.com match centre, ESPN, BBC/ITV Sport, CBS Sports, Yahoo Sports) and **cross-check across at least two independent sources** before writing it down — scorelines and penalty-shootout results are easy to get wrong from a single source.
+3. **Update the file in place** (keep the same filename, e.g. `round-of-16-1.md` — don't rename it):
+   - `title`: `"Team A v Team B"` in the order used by FIFA's official match centre / broadcaster listings (not necessarily winner-first or alphabetical).
+   - `path`: `/world-cup-2026/team-a-team-b/` (lowercase, hyphenated team slugs).
+   - Add `redirectFrom: /world-cup-2026/round-of-16-N/` (the old placeholder URL) so old links/subscriptions still resolve — this matches how the Round of 32 files were migrated (see commit `ebb1e07`).
+   - `tags`: prepend the two team names to the existing tag list (leave city/"Knockout"/"Round of 16"/"World Cup 2026" tags as they were).
+   - Leave `date`, `endDate`, `locationName` untouched — the bracket is fixed, so venue/kick-off time were already correct.
+   - Body text: replace the "Features the winners of Round of 32 matches X (...) and Y (...)" placeholder sentence with a short factual line naming how each team qualified, e.g. `Paraguay (beat Germany 4-3 on penalties after a 1-1 draw) face France (beat Sweden 3-0) in the Round of 32.` Keep the leading "The Nth game of the FIFA World Cup 2026 – a Round of 16 match at VENUE." sentence as-is.
+   - Leave `tv: []` empty for now — BBC/ITV only confirm the per-game UK channel split closer to kick-off (per the CBS/BBC/ITV reporting as of early July 2026). Fill it in via a follow-up edit (mirroring `1eade23`, the R32 TV-listings commit) once BBC Sport/ITV Sport publish the Round of 16 schedule. The US/Canada/Latin America channels (`FOX` or `FS1`, `Telemundo`, `Peacock`, `TSN`, `CTV`, `RDS`, `DSports`) and any country-specific broadcaster (e.g. Brazil's `TV Globo`/`CazéTV`/`SporTV`) can be added at the same time by following the pattern already used in the confirmed `round-of-32-*.md` files.
+4. **Build (`npm run build`) and spot-check** the generated page/`.ics`/`_redirects` entry for each updated match before committing.
+5. **Add a changelog entry** per the Changelog section below, summarising which match numbers were confirmed and what's still pending TV info.
+
+Status as of 2026-07-01: R16 matches 1–3 confirmed (Paraguay v France, Canada v Morocco, Brazil v Norway — all Round of 32 feeders 1–6 finished). Matches 4–8 depend on Round of 32 matches 7–16, which are still being played July 1–4; revisit each morning as more of those conclude.
+
 ## Changelog
 
 **Every time you make changes and commit/push, you must create a changelog entry.** This is mandatory, not optional.
