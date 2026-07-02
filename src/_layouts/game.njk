@@ -6,10 +6,14 @@ layout: base.njk
     {% for comp in competitions %}{% if comp.title in tags or (comp.shortTitle and comp.shortTitle in tags) %}{% set competitionName = comp.title %}{% endif %}{% endfor %}
     {% if competitionName %}<div class="competition">{{ competitionName }}</div>{% endif %}
 
-    <h1 class="p-name">{{ title }}</h1>
-
     {%- set t1Name = title.split(' v ')[0] %}
     {%- set t2Name = title.split(' v ')[1] %}
+
+    <h1 class="p-name">
+        <span class="team-name team-home">{{ t1Name }}</span>
+        <span class="match-vs">v</span>
+        <span class="team-name team-away">{{ t2Name }}</span>
+    </h1>
     {%- set t1 = teams[t1Name] %}
     {%- set t2 = teams[t2Name] %}
     {%- if t1 or t2 %}
