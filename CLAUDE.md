@@ -140,7 +140,7 @@ The Round of 16 (and later QF/SF/Final) files are pre-created as placeholders (`
 4. **Build (`npm run build`) and spot-check** the generated page/`.ics`/`_redirects` entry for each updated match before committing.
 5. **Add a changelog entry** per the Changelog section below, summarising which match numbers were confirmed and what's still pending TV info.
 
-Status as of 2026-07-03: R16 matches 1–6 confirmed. Matches 1–3 (Paraguay v France, Canada v Morocco, Brazil v Norway) confirmed 2026-07-01 from Round of 32 feeders 1–6. Matches 4 and 6 (Mexico v England, USA v Belgium) confirmed 2026-07-02 from Round of 32 feeders 7–10. Match 5 (Portugal v Spain) confirmed 2026-07-03 from Round of 32 feeders 11–12. Matches 7 and 8 depend on Round of 32 matches 14–16 (13 is done — Switzerland through), which are being played July 3–4; revisit each morning as more of those conclude.
+Status as of 2026-07-05: **All 8 R16 matches now confirmed.** Matches 1–3 (Paraguay v France, Canada v Morocco, Brazil v Norway) confirmed 2026-07-01. Matches 4 and 6 (Mexico v England, USA v Belgium) confirmed 2026-07-02. Match 5 (Portugal v Spain) confirmed 2026-07-03. Matches 7 and 8 (Argentina v Egypt, Switzerland v Colombia) confirmed 2026-07-05 once Round of 32 matches 14–16 finished. Round of 16 itself is played July 4–7 — once those results are in, this section should be repurposed (or a new one added) to track the Quarter-Final placeholders (`quarter-final-1.md` … `quarter-final-4.md`) the same way.
 
 ## Changelog
 
