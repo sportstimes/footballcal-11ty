@@ -142,6 +142,8 @@ The Round of 16 (and later QF/SF/Final) files are pre-created as placeholders (`
 
 Status as of 2026-07-05: **All 8 R16 matches now confirmed.** Matches 1–3 (Paraguay v France, Canada v Morocco, Brazil v Norway) confirmed 2026-07-01. Matches 4 and 6 (Mexico v England, USA v Belgium) confirmed 2026-07-02. Match 5 (Portugal v Spain) confirmed 2026-07-03. Matches 7 and 8 (Argentina v Egypt, Switzerland v Colombia) confirmed 2026-07-05 once Round of 32 matches 14–16 finished. Round of 16 itself is played July 4–7 — once those results are in, this section should be repurposed (or a new one added) to track the Quarter-Final placeholders (`quarter-final-1.md` … `quarter-final-4.md`) the same way.
 
+**Quarter-Final tracking (live, remove once QFs are fully played):** Follow the same process as above but for `quarter-final-1.md` … `quarter-final-4.md`, each fed by a pair of R16 matches (QF1 ← R16 1&2, QF2 ← R16 5&6, QF3 ← R16 3&4, QF4 ← R16 7&8). Status as of 2026-07-07: QF1 (France v Morocco) and QF3 (Norway v England) confirmed 2026-07-06. QF2 (Spain v Belgium) confirmed 2026-07-07 once R16 matches 5–6 finished. QF4 still pending — R16 matches 7 (Argentina v Egypt) and 8 (Switzerland v Colombia) kick off 2026-07-07 at 16:00Z and 20:00Z respectively; confirm QF4 the next time this runs once both have finished.
+
 ## Changelog
 
 **Every time you make changes and commit/push, you must create a changelog entry.** This is mandatory, not optional.
