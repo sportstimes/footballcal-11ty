@@ -1,10 +1,11 @@
 ---
-title: "Quarter-final 1 winner v Quarter-final 2 winner"
+title: "France v Spain"
 date: 2026-07-14T18:00Z
 endDate: 2026-07-14T20:00Z
 locationName: "AT&T Stadium, Dallas"
-path: /world-cup-2026/semi-final-1/
-tags: ["Semi Final", "Dallas", "Knockout", "World Cup 2026"]
+path: /world-cup-2026/france-spain/
+redirectFrom: /world-cup-2026/semi-final-1/
+tags: ["France", "Spain", "Semi Final", "Dallas", "Knockout", "World Cup 2026"]
 tv: []
 ---
-The 101st game of the FIFA World Cup 2026 – a semi-final at AT&T Stadium, Dallas. Features the winners of quarter-finals 1 (Boston) and 2 (Los Angeles).
+The 101st game of the FIFA World Cup 2026 – a semi-final at AT&T Stadium, Dallas. France (beat Morocco 2-0, with second-half goals from Kylian Mbappé and Ousmane Dembélé) face Spain (beat Belgium 2-1, substitute Mikel Merino scoring a late winner) in the quarter-finals.
