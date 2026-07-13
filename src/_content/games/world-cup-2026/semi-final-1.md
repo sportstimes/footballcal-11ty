@@ -1,7 +1,7 @@
 ---
 title: "France v Spain"
-date: 2026-07-14T18:00Z
-endDate: 2026-07-14T20:00Z
+date: 2026-07-14T19:00Z
+endDate: 2026-07-14T21:00Z
 locationName: "AT&T Stadium, Dallas"
 path: /world-cup-2026/france-spain/
 redirectFrom: /world-cup-2026/semi-final-1/
