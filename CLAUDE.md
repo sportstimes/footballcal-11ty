@@ -148,6 +148,8 @@ Status as of 2026-07-05: **All 8 R16 matches now confirmed.** Matches 1–3 (Par
 
 **Final tracking (live, remove once the Final is played):** `final.md` updated 2026-07-16 to Spain v Argentina (MetLife Stadium, New York/New Jersey, 2026-07-19) once both semi-final results were confirmed. TV listings already set (see above). Once the Final is played, update the changelog and remove this and the Semi-Final tracking section from CLAUDE.md.
 
+**Third-place play-off tracking (live, remove once the match is played):** `third-place-play-off.md` updated 2026-07-16 to France v England (Hard Rock Stadium, Miami, 2026-07-18) — the two semi-final losers. `path` renamed to `/world-cup-2026/france-england/` with `redirectFrom: /world-cup-2026/third-place-play-off/`, following the same team-slug migration pattern as R16/QF/SF/Final. TV listings confirmed and added 2026-07-16 (BBC One/BBC iPlayer for UK — not simulcast with ITV like the final; FOX/Telemundo/Peacock/TSN/CTV/RDS/DSports for US/Canada/Latin America). Once the match is played, update the changelog and remove this section from CLAUDE.md.
+
 ## Changelog
 
 **Every time you make changes and commit/push, you must create a changelog entry.** This is mandatory, not optional.
