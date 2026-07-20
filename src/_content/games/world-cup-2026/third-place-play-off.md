@@ -8,4 +8,4 @@ redirectFrom: /world-cup-2026/third-place-play-off/
 tags: ["France", "England", "Third-place play-off", "Miami", "Knockout", "World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "FOX", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 103rd game of the FIFA World Cup 2026 – the third-place play-off at Hard Rock Stadium, Miami. France (lost 2-0 to Spain in the semi-final) face England (lost 2-1 to Argentina in the semi-final) after both were eliminated at the last-four stage.
+The 103rd game of the FIFA World Cup 2026 – the third-place play-off at Hard Rock Stadium, Miami. France (lost 2-0 to Spain in the semi-final) faced England (lost 2-1 to Argentina in the semi-final) after both were eliminated at the last-four stage. England won a 10-goal thriller 6-4, with Bukayo Saka scoring a hat-trick and Kylian Mbappé netting twice for France.
