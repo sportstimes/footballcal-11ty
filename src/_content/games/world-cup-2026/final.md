@@ -8,4 +8,4 @@ redirectFrom: /world-cup-2026/final/
 tags: ["Spain", "Argentina", "Final", "New York New Jersey", "Knockout", "World Cup 2026"]
 tv: ["BBC One", "BBC iPlayer", "ITV1", "ITVX", "FOX", "Telemundo", "Peacock", "TSN", "CTV", "RDS", "DSports"]
 ---
-The 104th and final game of the FIFA World Cup 2026 – the Final at MetLife Stadium, New York/New Jersey. Spain (beat France 2-0, with goals from Mikel Oyarzabal and Pedro Porro) face Argentina (came from behind to beat England 2-1, Lautaro Martínez heading in a stoppage-time winner) in the semi-finals.
+The 104th and final game of the FIFA World Cup 2026 – the Final at MetLife Stadium, New York/New Jersey. Spain (beat France 2-0, with goals from Mikel Oyarzabal and Pedro Porro) faced Argentina (came from behind to beat England 2-1, Lautaro Martínez heading in a stoppage-time winner) in the semi-finals. Spain won 1-0 after extra time, with substitute Ferran Torres scoring the only goal in the 105th minute, to claim their second World Cup title.
