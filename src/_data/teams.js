@@ -470,6 +470,36 @@ module.exports = {
     colours: { primary: '#FFFFFF', secondary: '#000000' },
     federation: 'OFC',
     fifaCode: 'NZL'
+  },
+
+  // ── EFL Championship (Derby County 2026/27) ─────────────────────────────────
+
+  'Derby County': {
+    description: 'Derby County, one of the founder members of the Football League in 1888, are back for a third consecutive season in the Championship. The Rams play in white and black from their Pride Park home and are chasing a return to the Premier League after relegation in 2021-22.',
+    colours: { primary: '#FFFFFF', secondary: '#000000' },
+    federation: 'EFL',
+    fifaCode: 'DER'
+  },
+
+  'Charlton Athletic': {
+    description: 'Charlton Athletic, the 1947 FA Cup winners, play in red and white from The Valley in south-east London. The Addicks host the opening game of Derby County\'s 2026-27 Championship campaign.',
+    colours: { primary: '#D2122E', secondary: '#FFFFFF' },
+    federation: 'EFL',
+    fifaCode: 'CHA'
+  },
+
+  'Cardiff City': {
+    description: 'Cardiff City, the only club outside England to win the FA Cup (1927), are known as the Bluebirds and play in blue from Cardiff City Stadium. The Welsh club return to the Championship for 2026-27 after finishing as League One runners-up.',
+    colours: { primary: '#0070B5', secondary: '#FFFFFF' },
+    federation: 'EFL',
+    fifaCode: 'CAR'
+  },
+
+  'Lincoln City': {
+    description: 'Lincoln City, nicknamed the Imps, play in red and white stripes from Sincil Bank. The club met Derby County in the first round of the 2026-27 Carabao Cup.',
+    colours: { primary: '#C8102E', secondary: '#FFFFFF' },
+    federation: 'EFL',
+    fifaCode: 'LIN'
   }
 
 }

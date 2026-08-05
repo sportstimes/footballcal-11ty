@@ -466,5 +466,47 @@ module.exports = {
     description: 'SoFi Stadium in Inglewood, California, is the home of the NFL\'s Los Angeles Rams and Los Angeles Chargers. Opened in 2020, it is the most expensive stadium ever built and one of the most technologically sophisticated. The partially open-air arena features a transparent roof and will host the 2028 Olympic Games alongside World Cup 2026 matches in the world\'s entertainment capital.',
     lat: 33.9535,
     lng: -118.3392
+  },
+
+  // ── EFL Championship (Derby County 2026/27) ───────────────────────────────
+
+  'Pride Park Stadium, Derby': {
+    stadiumName: 'Pride Park Stadium',
+    city: 'Derby',
+    country: 'England',
+    capacity: 33597,
+    description: 'Pride Park Stadium has been the home of Derby County since 1997, replacing the club\'s historic Baseball Ground. The all-seater stadium sits on the eastern edge of Derby city centre alongside the River Derwent.',
+    lat: 52.9148,
+    lng: -1.4474
+  },
+
+  'The Valley, London': {
+    stadiumName: 'The Valley',
+    city: 'London',
+    country: 'England',
+    capacity: 27111,
+    description: 'The Valley in Charlton, south-east London, has been home to Charlton Athletic since 1919 (with a period away during redevelopment in the 1980s and 90s). Its steep stands close to the pitch create one of the more atmospheric grounds in the Championship.',
+    lat: 51.4864,
+    lng: 0.0370
+  },
+
+  'Cardiff City Stadium, Cardiff': {
+    stadiumName: 'Cardiff City Stadium',
+    city: 'Cardiff',
+    country: 'Wales',
+    capacity: 33280,
+    description: 'Cardiff City Stadium, home of the Bluebirds since 2009, replaced the club\'s former Ninian Park ground. It also regularly hosts Wales national team fixtures and sits in the Leckwith area of the city.',
+    lat: 51.4727,
+    lng: -3.2033
+  },
+
+  'Sincil Bank, Lincoln': {
+    stadiumName: 'Sincil Bank',
+    city: 'Lincoln',
+    country: 'England',
+    capacity: 10669,
+    description: 'Sincil Bank has been home to Lincoln City since 1895, making it one of the longest-serving grounds in English football. It sits just south of Lincoln city centre.',
+    lat: 53.2166,
+    lng: -0.5442
   }
 }
