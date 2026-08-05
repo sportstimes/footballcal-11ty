@@ -2,8 +2,9 @@
   {
     "title": "Derby County 2026/27",
     "shortTitle": "Derby County",
+    "section": "English Football League",
     "theme": "derby-county",
-    "path": "/derby-county/",
+    "path": "/efl/derby-county/",
     "start": "2026-08-08",
     "end": "2027-05-01"
   },

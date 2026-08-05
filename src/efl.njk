@@ -1,0 +1,31 @@
+---
+title: English Football League
+layout: base.njk
+permalink: /efl/
+pageDescription: "Season-long fixture calendars for English Football League clubs — every home and away game, TV listings and one-click calendar subscriptions."
+---
+<h1>English Football League</h1>
+
+<p class="hero">
+    Subscribe to full-season fixture calendars for EFL clubs — home and away games,
+    league and cup fixtures, all in one calendar feed.
+</p>
+
+<h2>Clubs</h2>
+<ul class="inline competitions">
+  {% for competition in competitions %}
+  {% if competition.section == "English Football League" %}
+  <li>
+      <a href="{{ competition.path | url }}">
+          <h2>{{ competition.title }}</h2>
+          <p>{{ competition.start | date('dS LLLL') }}–{{ competition.end | date('dS LLLL yyyy') }}</p>
+      </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Want more?</h2>
+<p>
+    <a href="{{ '/' | url }}">All games</a>
+</p>

@@ -3,7 +3,7 @@ title: "Charlton Athletic v Derby County"
 date: 2026-08-15T14:00Z
 endDate: 2026-08-15T15:50Z
 locationName: "The Valley, London"
-path: /derby-county/2026-08-15-charlton-athletic/
+path: /efl/derby-county/charlton-athletic-15-08-2026/
 homeAway: "Away"
 competition: "Championship"
 tags: ["Derby County", "Charlton Athletic", "Championship"]

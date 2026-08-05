@@ -10,7 +10,7 @@ pagination:
     - changelog
     - changelogEntries
     - redirects
-permalink: /{{ tag | slugify }}/
+permalink: "{%- assign target = '' -%}{%- for c in competitions -%}{%- if c.title == tag or c.shortTitle == tag -%}{%- assign target = c.path -%}{%- endif -%}{%- endfor -%}{%- if target != '' -%}{{ target }}{%- else -%}/{{ tag | slugify }}/{%- endif -%}"
 eleventyComputed:
   title: "{{ tag }} Games"
   noindex: "{% if collections[tag].size < 8 %}true{% endif %}"
