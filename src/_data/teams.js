@@ -500,6 +500,34 @@ module.exports = {
     colours: { primary: '#C8102E', secondary: '#FFFFFF' },
     federation: 'EFL',
     fifaCode: 'LIN'
+  },
+
+  Portsmouth: {
+    description: 'Portsmouth, the 2008 FA Cup winners, play in navy blue from Fratton Park on the south coast and are known to their supporters as Pompey. Derby County travel there for a Tuesday night fixture early in the 2026-27 Championship season.',
+    colours: { primary: '#001489', secondary: '#FFFFFF' },
+    federation: 'EFL',
+    fifaCode: 'POR'
+  },
+
+  'West Bromwich Albion': {
+    description: 'West Bromwich Albion, one of the founder members of the Football League in 1888 alongside Derby County, play in navy and white stripes and are known as the Baggies. The Midlands club host and visit Pride Park as part of the 2026-27 Championship campaign.',
+    colours: { primary: '#122F67', secondary: '#FFFFFF' },
+    federation: 'EFL',
+    fifaCode: 'WBA'
+  },
+
+  'Birmingham City': {
+    description: 'Birmingham City, twice League Cup winners (1963, 2011), play in blue and are known as the Blues. The Midlands club visit Pride Park in a fixture selected for live broadcast on Sky Sports.',
+    colours: { primary: '#0000A0', secondary: '#FFFFFF' },
+    federation: 'EFL',
+    fifaCode: 'BIR'
+  },
+
+  Burnley: {
+    description: 'Burnley, twice FA Cup winners and 1960 Football League champions, play in claret and blue from Turf Moor — one of the oldest continuously used grounds in English football. Known as the Clarets, they host Derby County in the Championship.',
+    colours: { primary: '#6C1D45', secondary: '#99D6EA' },
+    federation: 'EFL',
+    fifaCode: 'BUR'
   }
 
 }
