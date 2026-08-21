@@ -508,5 +508,25 @@ module.exports = {
     description: 'Sincil Bank has been home to Lincoln City since 1895, making it one of the longest-serving grounds in English football. It sits just south of Lincoln city centre.',
     lat: 53.2166,
     lng: -0.5442
+  },
+
+  'Fratton Park, Portsmouth': {
+    stadiumName: 'Fratton Park',
+    city: 'Portsmouth',
+    country: 'England',
+    capacity: 20688,
+    description: 'Fratton Park has been the home of Portsmouth since 1899, making it one of the longest continuously used grounds in English football. Tucked into a residential area of the city, its old-fashioned, tightly packed stands create a famously intimidating atmosphere.',
+    lat: 50.7961,
+    lng: -1.0640
+  },
+
+  'Turf Moor, Burnley': {
+    stadiumName: 'Turf Moor',
+    city: 'Burnley',
+    country: 'England',
+    capacity: 21944,
+    description: 'Turf Moor has been home to Burnley since the club\'s formation in 1882, making it one of the oldest football grounds in continuous use anywhere in the world. It sits close to Burnley town centre beneath the Pennine hills.',
+    lat: 53.7889,
+    lng: -2.2306
   }
 }
