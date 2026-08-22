@@ -31,7 +31,10 @@ module.exports = () => {
   }
 
   // https://developers.cloudflare.com/pages/configuration/build-configuration/#environment-variables
-  if (process.env.CF_PAGES_URL) {
+  // CF_PAGES_URL is always the deployment's unique *.pages.dev subdomain, even for
+  // production builds on the custom domain — so only use it for preview/branch builds.
+  // Production (the main branch) must always use footballcal.com.
+  if (process.env.CF_PAGES_URL && process.env.CF_PAGES_BRANCH !== 'main') {
     config.baseUrl = process.env.CF_PAGES_URL
   }
 
