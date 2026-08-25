@@ -44,7 +44,6 @@ a {
   color: rgb(0 0 0);
   text-decoration: none;
   border-bottom: 4px solid #000;
-  text-decoration-skip: objects;
 }
 
 a:active,
@@ -152,7 +151,7 @@ select {
 [type="submit"],
 button,
 html [type="button"] {
-  appearance: button;
+  appearance: auto;
 }
 
 [type="button"]::-moz-focus-inner,
@@ -216,7 +215,7 @@ textarea {
 }
 
 ::-webkit-file-upload-button {
-  appearance: button;
+  appearance: auto;
   font: inherit;
 }
 
@@ -249,7 +248,7 @@ body {
   color: rgb(30 30 30 / 80%);
   font-family: Helvetica, sans-serif;
   font-weight: normal;
-  word-wrap: break-word;
+  overflow-wrap: break-word;
   font-kerning: normal;
   font-feature-settings: "kern", "liga", "clig", "calt";
 }
@@ -392,7 +391,7 @@ pre {
   background: hsl(0deg 0% 0% / 4%);
   border-radius: 3px;
   overflow: auto;
-  word-wrap: normal;
+  overflow-wrap: normal;
   padding: 1.45rem;
 }
 
@@ -606,7 +605,7 @@ ul.inline li {
 
 ul.inline [rel="tag"],
 ul.inline .all {
-  white-space: no-wrap;
+  white-space: nowrap;
 }
 
 ul.competitions li {
@@ -690,7 +689,6 @@ ul.competitions li {
 
 #content {
   color: #FFF;
-  background-origin: fixed;
   margin: 0 auto;
   max-width: 960px;
   padding: 0 1rem 1.45rem;
